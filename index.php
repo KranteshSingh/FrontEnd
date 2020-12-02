@@ -49,31 +49,33 @@
     </div>
     <!-- End Hero Section -->
 
-    <!-- Video Section -->
-    <div class="container-fluid px-lg-5">
-        <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-h-300rem min-h-lg-600rem"
-            data-options='{direction: "normal"}'>
-            <div class="dzsparallaxer--target" style="height: 120%;">
-                <div class="js-video-bg position-absolute top-0 right-0 bottom-0 left-0 w-100 h-100"
-                    data-hs-video-bg-options='{
-               "videoId": "/assets/video/working-in-office"
-             }'></div>
-            </div>
-        </div>
-    </div>
-    <!-- End Video Section -->
-
-    <!-- Hero Section
+    <!-- Hero Section 
 
     <div class="container-fluid heroimage">
         <div class="row">
             <div class="col-md-12 justify-content-md-center">
-                <h1 class="display-1 herotext">Agriculture Intelligence for "Crops"</h1>
+                <h1 class="display-1 herotext"></h1>
             </div>
         </div>
     </div>
 
-    End Hero Section -->
+     End Hero Section -->
+
+     <!-- Hero Section -->
+<div class="clearfix mx-4">
+  <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-vh-md-100" data-options='{direction: "normal"}'>
+    <!-- Apply your Parallax background image here -->
+    <div class="divimage dzsparallaxer--target" style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg);"></div>
+
+    <div class="d-md-flex space-3 space-md-0">
+      <div class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
+        <h1 class="display-1 text-white">YUKTIX</h1>
+        <p class="lead text-white">An exploration of creativity, Growth, and faith.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Hero Section -->
 
     <!-- About YukTix-->
     <div class="container-fluid">

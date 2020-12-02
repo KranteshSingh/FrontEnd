@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Yuktix | Sensing Solutions</title>
+    <title>Agriculture | Sensing Solutions</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -20,10 +20,12 @@
 </head>
 
 <body>
+
 <?php
         include 'includes/header.php';
         ?>
         <!--Header end-->
+
     <div class=""></div>
 
     <!-- Hero Section-->

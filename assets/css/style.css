@@ -5,7 +5,7 @@
 /* Home Page CSS */
 
 .heroimage {
-  background-image: url(/assets/media/images/1.png);
+  background-image: url(assets/media/images/YuktixImage.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: cover;
@@ -172,7 +172,7 @@ section {
 /* Automatic Weather Station Page CSS*/
 
 .productimage {
-  background-image: url(assets/media/images/YuktixImage.jpg);
+  background-image: url(assets/media/images/yuktixherobanner.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -181,9 +181,10 @@ section {
 
 .producttext {
   text-align: center;
-  color: white;
+  color: black;
   height: auto;
-  margin-top: 25%;
+  padding-right: 50px;
+  font-size: 18px;
   font-style: Poppins;
   font-weight: normal;
   padding: 20px;

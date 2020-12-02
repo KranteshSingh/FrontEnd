@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Yuktix | Sensing Solutions</title>
+    <title>About Yuktix | Sensing Solutions</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -459,6 +459,7 @@
 
     </div>
     <!-- End Team Section -->
+    <br><br><br>
 
     </main>
     <!-- ========== END MAIN ========== -->

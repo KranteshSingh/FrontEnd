@@ -21,10 +21,9 @@
 
 <body>
 
-<?php
-        include 'includes/header.php';
-        ?>
-        <!--Header end-->
+<!-- Header Start -->
+<?php include 'includes/header.php'; ?>
+<!--Header end-->
 
     <div class=""></div>
 
@@ -43,8 +42,6 @@
         </div>
     </div>
     <!-- End Hero Section -->
-
-
 
     <section id="details" class="details">
         <div class="container">

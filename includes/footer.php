@@ -45,7 +45,7 @@
 
                     <!-- Nav Link -->
                     <ul class="nav nav-sm nav-x-0 flex-column">
-                        <li class="nav-item"><a class="nav-link" href="/about">About Us </a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.php">About Us </a></li>
                         <li class="nav-item"><a class="nav-link" href="http://blog.yuktix.com/">Our Blog</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Case Study</a></li>
                     </ul>
@@ -57,14 +57,14 @@
 
                     <!-- Nav Link -->
                     <ul class="nav nav-sm nav-x-0 flex-column">
-                        <li class="nav-item"><a class="nav-link" href="/automatic-weather-station">Weather
+                        <li class="nav-item"><a class="nav-link" href="/automatic-weather-station.php">Weather
                                 Station</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/digital-rain-gauge">Digital Rain Gauge</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/smart-irrigation">Smart
+                        <li class="nav-item"><a class="nav-link" href="/digital-rain-gauge.php">Digital Rain Gauge</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/smart-irrigation.php">Smart
                                 Irrigation</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/greenhouse-logger">Greenhouse Logger</a>
+                        <li class="nav-item"><a class="nav-link" href="/greenhouse-logger.php">Greenhouse Logger</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="/greensense">Greensense</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/greensense.php">Greensense</a></li>
                     </ul>
                     <!-- End Nav Link -->
                 </div>
@@ -79,8 +79,8 @@
 
                         <li class="nav-item"><a class="nav-link" href="#">Docs</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Status</a></li>
-                        <li class="nav-item"><a class="nav-link" href="">API Reference</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/terms-conditions">Technology</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">API Reference</a></li>
+                        <li class="nav-item"><a class="nav-link" href="terms-conditions">Technology</a></li>
                     </ul>
                     <!-- End Nav Link -->
                 </div>
@@ -91,7 +91,7 @@
                     <!-- Nav Link -->
                     <ul class="nav nav-sm nav-x-0 flex-column">
                         <li class="nav-item">
-                            <a class="nav-link" href="/contact">
+                            <a class="nav-link" href="contact.php">
                                 <span class="media align-items-center">
                                     <i class="fa fa-location-arrow mr-2"></i>
                                     <span class="media-body">Contact Us</span>
@@ -120,11 +120,11 @@
                     <!-- Nav Link -->
                     <ul class="nav nav-sm nav-x-0 align-items-center">
                         <li class="nav-item">
-                            <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
+                            <a class="nav-link" href="privacy.php">Privacy Policy</a>
                         </li>
                         <li class="nav-item opacity mx-3">/</li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/terms-conditions">Terms & Conditions</a>
+                            <a class="nav-link" href="terms-conditions.php">Terms & Conditions</a>
                         </li>
                     </ul>
                     <!-- End Nav Link -->

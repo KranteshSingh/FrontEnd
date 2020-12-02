@@ -19,4 +19,3 @@
     mail($mailTo, $email_subject, $email_body, $headers);
 
     header("Location: contact.php?sendsuccessfullly");
-?>

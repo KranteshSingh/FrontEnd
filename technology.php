@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sensor Catalog | Yuktix</title>
+    <title>Technology | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -17,40 +18,43 @@
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
-    
-<?php
-        include 'includes/header.php';
-        ?>
+
+    <?php
+  include 'includes/header.php';
+  ?>
 
 
-<!-- Hero Section -->
-<div class="container space-3">
-  <div class="row justify-content-lg-between align-items-lg-center">
-    <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
-      <img class="img-fluid" src="assets/svg/illustrations/reading.svg" alt="Image Description">
-    </div>
+    <!-- Hero Section -->
+    <div class="container space-3">
+        <div class="row justify-content-lg-between align-items-lg-center">
+            <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
+                <img class="img-fluid" src="assets/svg/illustrations/reading.svg" alt="Image Description">
+            </div>
 
-    <div class="col-md-6">
-      <div class="mb-5">
-        <h1 class="display-4 mb-3">
-          Our Technology
-          <br>
-          <span class="text-primary font-weight-bold">
-            <span class="js-text-animation"></span>
-          </span>
-        </h1>
-        <p class="lead">Turn your physical assets into digital data sources with the help of Yuktix ankiDB™ cloud. We provide a low code solution to bring data out of silos and on the network for everyone to share and analyze</p>
-      </div>
+            <div class="col-md-6">
+                <div class="mb-5">
+                    <h1 class="display-4 mb-3">
+                        Our Technology
+                        <br>
+                        <span class="text-primary font-weight-bold">
+                            <span class="js-text-animation"></span>
+                        </span>
+                    </h1>
+                    <p class="lead">Turn your physical assets into digital data sources with the help of Yuktix ankiDB™
+                        cloud. We provide a low code solution to bring data out of silos and on the network for everyone
+                        to share and analyze</p>
+                </div>
 
-      <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
-        <a class="btn btn-primary transition-3d-hover mb-2" href="#">Know More</a>
+                <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
+                    <a class="btn btn-primary transition-3d-hover mb-2" href="#">Know More</a>
 
-        <div class="mx-2"></div>
+                    <div class="mx-2"></div>
 
-        <!-- Fancybox -->
-        <a class="js-fancybox video-player video-player-btn media align-items-center text-dark mb-2" href="javascript:;"
-           data-hs-fancybox-options='{
+                    <!-- Fancybox -->
+                    <a class="js-fancybox video-player video-player-btn media align-items-center text-dark mb-2"
+                        href="javascript:;" data-hs-fancybox-options='{
              "src": "//youtube.com/0qisGSwZym4",
              "caption": "Front - Responsive Website Template",
              "speed": 700,
@@ -59,27 +63,51 @@
                "autoplay": 1
              }
            }'>
-          <span class="video-player-icon shadow-soft mr-3">
-            <i class="fa fa-play"></i>
-          </span>
-          <span class="media-body">
-            How it works
-          </span>
-        </a>
-        <!-- End Fancybox -->
-      </div>
+                        <span class="video-player-icon shadow-soft mr-3">
+                            <i class="fa fa-play"></i>
+                        </span>
+                        <span class="media-body">
+                            How it works
+                        </span>
+                    </a>
+                    <!-- End Fancybox -->
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-<!-- End Hero Section -->
+    <!-- End Hero Section -->
+
+    <div class="container-fluid">
+        <div class="row justify-content-lg-center">
+            <div class="col-md-12"><img src="assets/media/images/yuktixcloud.png" class="img-fluid"
+                    alt="Responsive image"></div>
+        </div>
+        <div class="row justify-content-lg-center">
+            <div class="col-md-7">
+                <p class="lead" style="text-align:center">The ankiDB™ solution comprises of ankiDB™ micro and ankiDB™
+                    cloud.
+                    <br><br>
+                    The ankiDB™ micro is our hardware and firmware for gathering data from sensors, machines and
+                    processes. The ankiDB™ micro solution is optimized for low power and provides next generation
+                    technology to create ad hoc wireless sensor networks from fields to factory floors.
+                    <br><br>
+                    Together with ankiDB™ cloud solution it provides a low code cost effective solution to bring data
+                    out of silos and on the network for everyone to share and analyze. The ankiDB™ cloud solution
+                    provides facilities for device management, data storage, alarms for anomalies and analysis. The
+                    ankiDB™ stack allows for rapid deployment of data gathering and analysis solutions in multiple
+                    situations.
+                </p>
+            </div>
+        </div>
+    </div>
 
 
 
-<?php
-        include 'includes/footer.php';
-        ?>
-     <!-- Global Scripts-->
-     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <?php
+  include 'includes/footer.php';
+  ?>
+    <!-- Global Scripts-->
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <!-- JS Front-->
@@ -99,25 +127,26 @@
 
     <!-- JS Plugins Init. -->
     <script>
-        $(document).on('ready', function () {
-            // initialization of header
-            var header = new HSHeader($('#header')).init();
-            // initialization of scroll nav
-            $('.js-scroll-nav').each(function () {
-                var scrollNav = new HSScrollNav($(this)).init();
-            });
-            // initialization of HSMegaMenu component
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
-
-            
+    $(document).on('ready', function() {
+        // initialization of header
+        var header = new HSHeader($('#header')).init();
+        // initialization of scroll nav
+        $('.js-scroll-nav').each(function() {
+            var scrollNav = new HSScrollNav($(this)).init();
         });
+        // initialization of HSMegaMenu component
+        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
 
-        $(document).on('ready', function () {
-    // initialization of fancybox
-    $('.js-fancybox').each(function () {
-      var fancybox = $.HSCore.components.HSFancyBox.init($(this));
+
     });
-  });
+
+    $(document).on('ready', function() {
+        // initialization of fancybox
+        $('.js-fancybox').each(function() {
+            var fancybox = $.HSCore.components.HSFancyBox.init($(this));
+        });
+    });
     </script>
 </body>
+
 </html>

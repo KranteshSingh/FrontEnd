@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>About Yuktix | Sensing Solutions</title>
+    <title>About | Yuktix</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -20,10 +20,10 @@
 </head>
 
 <body>
-<?php
-        include 'includes/header.php';
-        ?>
-        <!--Header end-->
+    <?php
+    include 'includes/header.php';
+    ?>
+    <!--Header end-->
     <!-- Hero Section -->
     <div class="container space-top-3 space-top-lg-4 space-bottom-2 space-bottom-lg-3">
         <div class="row justify-content-lg-between mb-7">
@@ -464,9 +464,9 @@
     </main>
     <!-- ========== END MAIN ========== -->
     <?php
-        include 'includes/footer.php';
-        ?>
-        <!--Header end-->
+    include 'includes/footer.php';
+    ?>
+    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -487,16 +487,16 @@
 
     <!-- JS Plugins Init. -->
     <script>
-        $(document).on('ready', function () {
-            // initialization of header
-            var header = new HSHeader($('#header')).init();
-            // initialization of scroll nav
-            $('.js-scroll-nav').each(function () {
-                var scrollNav = new HSScrollNav($(this)).init();
-            });
-            // initialization of HSMegaMenu component
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    $(document).on('ready', function() {
+        // initialization of header
+        var header = new HSHeader($('#header')).init();
+        // initialization of scroll nav
+        $('.js-scroll-nav').each(function() {
+            var scrollNav = new HSScrollNav($(this)).init();
         });
+        // initialization of HSMegaMenu component
+        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    });
     </script>
 </body>
 

@@ -9,8 +9,7 @@
                 <nav class="js-mega-menu navbar navbar-expand-lg">
                     <!-- Logo -->
                     <a class="navbar-brand" href="/FRONTEND" aria-label="YukTix">
-                        <img width="32px" height="32px" src="assets/svg/logos/yuktix-square-logo.svg"
-                            alt="Yuktix Logo">
+                        <img width="32px" height="32px" src="assets/svg/logos/yuktix-square-logo.svg" alt="Yuktix Logo">
                     </a>
                     <!-- End Logo -->
 

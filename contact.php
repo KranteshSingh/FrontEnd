@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Contact Us | Sensing Solutions</title>
+    <title>Contact Us | Yuktix</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -23,9 +23,9 @@
 <body>
     <!-- Header -->
     <?php
-        include 'includes/header.php';
-        ?>
-        <!--Header end-->
+    include 'includes/header.php';
+    ?>
+    <!--Header end-->
     <br><br><br>
     <!-- Contact Form Section -->
     <div class="container">
@@ -175,9 +175,9 @@
     <!-- End Contact Form Section -->
     <br><br><br>
     <?php
-        include 'includes/footer.php';
-        ?>
-        <!--Header end-->
+    include 'includes/footer.php';
+    ?>
+    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -205,31 +205,32 @@
 
     <!-- JS Plugins Init. -->
     <script>
-        $(document).on('ready', function () {
-            // initialization of header
-            var header = new HSHeader($('#header')).init();
-            // initialization of scroll nav
-            $('.js-scroll-nav').each(function () {
-                var scrollNav = new HSScrollNav($(this)).init();
-            });
-            // initialization of HSMegaMenu component
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    $(document).on('ready', function() {
+        // initialization of header
+        var header = new HSHeader($('#header')).init();
+        // initialization of scroll nav
+        $('.js-scroll-nav').each(function() {
+            var scrollNav = new HSScrollNav($(this)).init();
         });
-        $(document).on('ready', function () {
-            // initialization of leaflet
-            $('#mapExample2').each(function () {
-                var leaflet = $.HSCore.components.HSLeaflet.init($(this)[0]);
+        // initialization of HSMegaMenu component
+        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    });
+    $(document).on('ready', function() {
+        // initialization of leaflet
+        $('#mapExample2').each(function() {
+            var leaflet = $.HSCore.components.HSLeaflet.init($(this)[0]);
 
-                L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+            L.tileLayer(
+                'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
                     id: 'mapbox/light-v9'
                 }).addTo(leaflet);
-            });
-
-            // initialization of form validation
-            $('.js-validate').each(function () {
-                var validation = $.HSCore.components.HSValidation.init($(this));
-            });
         });
+
+        // initialization of form validation
+        $('.js-validate').each(function() {
+            var validation = $.HSCore.components.HSValidation.init($(this));
+        });
+    });
     </script>
 </body>
 

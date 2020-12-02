@@ -26,11 +26,11 @@
 
 <body>
 
-<!-- Header -->
-<?php
-        include 'includes/header.php';
-        ?>
-        <!--Header end-->
+    <!-- Header -->
+    <?php
+    include 'includes/header.php';
+    ?>
+    <!--Header end-->
 
     <!-- Hero Section -->
     <div class="container space-top-3 space-bottom-1 space-bottom-sm-2">
@@ -61,21 +61,24 @@
 
      End Hero Section -->
 
-     <!-- Hero Section -->
-<div class="clearfix mx-4">
-  <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-vh-md-100" data-options='{direction: "normal"}'>
-    <!-- Apply your Parallax background image here -->
-    <div class="divimage dzsparallaxer--target" style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg);"></div>
+    <!-- Hero Section -->
+    <div class="clearfix mx-4">
+        <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-vh-md-100"
+            data-options='{direction: "normal"}'>
+            <!-- Apply your Parallax background image here -->
+            <div class="divimage dzsparallaxer--target"
+                style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg);"></div>
 
-    <div class="d-md-flex space-3 space-md-0">
-      <div class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
-        <h1 class="display-1 text-white">YUKTIX</h1>
-        <p class="lead text-white">An exploration of creativity, Growth, and faith.</p>
-      </div>
+            <div class="d-md-flex space-3 space-md-0">
+                <div
+                    class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
+                    <h1 class="display-1 text-white">YUKTIX</h1>
+                    <p class="lead text-white">An exploration of creativity, Growth, and faith.</p>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-<!-- End Hero Section -->
+    <!-- End Hero Section -->
 
     <!-- About YukTix-->
     <div class="container-fluid">
@@ -389,9 +392,9 @@
 
     <!-- Header -->
     <?php
-        include 'includes/footer.php';
-        ?>
-        <!--Header end-->
+    include 'includes/footer.php';
+    ?>
+    <!--Header end-->
 
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
@@ -413,37 +416,37 @@
 
     <!-- JS Plugins Init. -->
     <script>
-        $(document).on('ready', function () {
-            // initialization of header
-            var header = new HSHeader($('#header')).init();
-            // initialization of scroll nav
-            $('.js-scroll-nav').each(function () {
-                var scrollNav = new HSScrollNav($(this)).init();
-            });
-            // initialization of HSMegaMenu component
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    $(document).on('ready', function() {
+        // initialization of header
+        var header = new HSHeader($('#header')).init();
+        // initialization of scroll nav
+        $('.js-scroll-nav').each(function() {
+            var scrollNav = new HSScrollNav($(this)).init();
         });
+        // initialization of HSMegaMenu component
+        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    });
 
-        // For Hero Section
-        $(document).on('ready', function () {
-            // initialization of video on background
-            $('.js-video-bg').each(function () {
-                var videoBg = new HSVideoBg($(this)).init();
-            });
-            // initialization of text animation (typing)
-            var typed = new Typed(".js-text-animation", {
-                strings: ["modern", "new-age", "professional"],
-                typeSpeed: 70,
-                loop: true,
-                backSpeed: 40,
-                backDelay: 2000
-            });
-            // initialization of aos
-            AOS.init({
-                duration: 650,
-                once: true
-            });
+    // For Hero Section
+    $(document).on('ready', function() {
+        // initialization of video on background
+        $('.js-video-bg').each(function() {
+            var videoBg = new HSVideoBg($(this)).init();
         });
+        // initialization of text animation (typing)
+        var typed = new Typed(".js-text-animation", {
+            strings: ["modern", "new-age", "professional"],
+            typeSpeed: 70,
+            loop: true,
+            backSpeed: 40,
+            backDelay: 2000
+        });
+        // initialization of aos
+        AOS.init({
+            duration: 650,
+            once: true
+        });
+    });
     </script>
 
 

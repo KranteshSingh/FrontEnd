@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Automatic Weather Station | Sensing Solutions</title>
+    <title>Automatic Weather Station | Yuktix</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -18,24 +18,24 @@
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
 </head>
 
 <body>
-<!--Header Start-->
-<?php
-        include 'includes/header.php';
-        ?>
-        <!--Header end-->
+    <!--Header Start-->
+    <?php
+    include 'includes/header.php';
+    ?>
+    <!--Header end-->
 
-<!-- Gallery Section -->
-<div class="d-md-flex min-vh-md-100 bg-img-hero mx-4" style="background-image: url(assets/media/images/yuktixherobanner.jpg)">
-  <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
-    <div class="w-sm-75 w-lg-50">
-      <div class="mb-3">
-        <!-- Fancybox -->
-        <a class="js-fancybox video-player video-player-btn" href="javascript:;"
-           data-hs-fancybox-options='{
+    <!-- Gallery Section -->
+    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-4"
+        style="background-image: url(assets/media/images/yuktixherobanner.jpg)">
+        <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
+            <div class="w-sm-75 w-lg-50">
+                <div class="mb-3">
+                    <!-- Fancybox -->
+                    <a class="js-fancybox video-player video-player-btn" href="javascript:;" data-hs-fancybox-options='{
              "src": "//youtube.com/LVimD0iVZ7w",
              "caption": "Front - Responsive Website Template",
              "speed": 700,
@@ -44,23 +44,23 @@
                "autoplay": 1
              }
            }'>
-          <span class="video-player-icon">
-            <i class="fas fa-play"></i>
-          </span>
-        </a>
-        <!-- End Fancybox -->
-      </div>
-<br>
-<br>
-<br>
-      <h2 class="h1 text-white">Next Generation Solar<br> Powered Automatic Weather Station</h2>
+                        <span class="video-player-icon">
+                            <i class="fas fa-play"></i>
+                        </span>
+                    </a>
+                    <!-- End Fancybox -->
+                </div>
+                <br>
+                <br>
+                <br>
+                <h2 class="h1 text-white">Next Generation Solar<br> Powered Automatic Weather Station</h2>
+            </div>
+            <div class="w-sm-65 w-lg-40">
+                <p class="text-white">We use this space as a place of reflection on the creative and faith journey.</p>
+            </div>
+        </div>
     </div>
-    <div class="w-sm-65 w-lg-40">
-      <p class="text-white">We use this space as a place of reflection on the creative and faith journey.</p>
-    </div>
-  </div>
-</div>
-<!-- End Gallery Section -->
+    <!-- End Gallery Section -->
 
 
     <div class="container-fluid prod">
@@ -68,12 +68,17 @@
 
             <div class="col-md-7"><img src="assets/media/images/weatherstation.png" class="img-fluid"
                     alt="Responsive image"></div>
-                    
+
         </div>
         <div class="row justify-content-lg-center">
-        <div class="col-md-8 producttext align-self-center"><p>Yuktix Solar powered weather stations provide real time weather conditions anytime from anywhere. Watch AgriMet, disease advisories, daily reports and custom reports on the go. Subscribe for alerts and weather forecasts for effective monitoring of your farm. Deploy Yuktix weather station networks for climate studies, urban resilience and sustainable agriculture practices.</p></div>
-    </div>
+            <div class="col-md-8 producttext align-self-center">
+                <p>Yuktix Solar powered weather stations provide real time weather conditions anytime from anywhere.
+                    Watch AgriMet, disease advisories, daily reports and custom reports on the go. Subscribe for alerts
+                    and weather forecasts for effective monitoring of your farm. Deploy Yuktix weather station networks
+                    for climate studies, urban resilience and sustainable agriculture practices.</p>
+            </div>
         </div>
+    </div>
 
     <!-- Step Section -->
     <div class="container space-2">
@@ -120,27 +125,28 @@
     </div>
     <!-- End Step Section -->
     <!-- CTA Section -->
-<div class="container">
-  <div class="w-lg-85 mx-lg-auto">
-    <div class="card overflow-hidden p-4">
-      <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
-        <div class="col-md-5 offset-md-3 mb-3 mb-md-0">
-          <h3 class="h4 mb-0">Revolutionizing the way to Grow Crops</h3>
-        </div>
-        <div class="col-md-4 text-md-right">
-          <a class="btn btn-primary transition-3d-hover" href="https://www.yuktix.com/m/aws/">Watch It in Action</a>
-        </div>
-      </div>
+    <div class="container">
+        <div class="w-lg-85 mx-lg-auto">
+            <div class="card overflow-hidden p-4">
+                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                    <div class="col-md-5 offset-md-3 mb-3 mb-md-0">
+                        <h3 class="h4 mb-0">Revolutionizing the way to Grow Crops</h3>
+                    </div>
+                    <div class="col-md-4 text-md-right">
+                        <a class="btn btn-primary transition-3d-hover" href="https://www.yuktix.com/m/aws/">Watch It in
+                            Action</a>
+                    </div>
+                </div>
 
-      <!-- SVG Component -->
-      <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
-        <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
-      </figure>
-      <!-- End SVG Component -->
+                <!-- SVG Component -->
+                <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
+                    <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
+                </figure>
+                <!-- End SVG Component -->
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-<!-- End CTA Section -->
+    <!-- End CTA Section -->
 
     <!-- Services Section -->
     <div class="container space-2">
@@ -283,202 +289,207 @@
     <!-- End Services Section -->
     <br>
     <!-- Icon Blocks Section -->
-<div class="container space-2">
-  <!-- Title -->
-  <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-    <span class="d-block small font-weight-bold text-cap mb-2">Benefits</span>
-    <h2 class="h1">What people are saying</h2>
-  </div>
-  <!-- End Title -->
+    <div class="container space-2">
+        <!-- Title -->
+        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <span class="d-block small font-weight-bold text-cap mb-2">Benefits</span>
+            <h2 class="h1">What people are saying</h2>
+        </div>
+        <!-- End Title -->
 
-  <div class="row">
-    <div class="col-md-4 mb-5 mb-md-0">
-      <!-- Icon Blocks -->
-      <div class="text-center px-lg-3">
-        <figure class="max-w-10rem mx-auto mb-4">
-          <img class="img-fluid" src="assets/media/images/ecom.png" alt="SVG">
-        </figure>
-        <h3>The Economic Times</h3>
-        <p>Groups, Individuals work on smart moves to make smart cities</p>
-      </div>
-      <!-- End Icon Blocks -->
-    </div>
+        <div class="row">
+            <div class="col-md-4 mb-5 mb-md-0">
+                <!-- Icon Blocks -->
+                <div class="text-center px-lg-3">
+                    <figure class="max-w-10rem mx-auto mb-4">
+                        <img class="img-fluid" src="assets/media/images/ecom.png" alt="SVG">
+                    </figure>
+                    <h3>The Economic Times</h3>
+                    <p>Groups, Individuals work on smart moves to make smart cities</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
 
-    <div class="col-md-4 mb-5 mb-md-0">
-      <!-- Icon Blocks -->
-      <div class="text-center px-lg-3">
-        <figure class="max-w-10rem mx-auto mb-4">
-          <img class="img-fluid" src="assets/media/images/thehindu.jpg" alt="SVG">
-        </figure>
-        <h3>The Hindu</h3>
-        <p>Understanding the weather</p>
-      </div>
-      <!-- End Icon Blocks -->
-    </div>
+            <div class="col-md-4 mb-5 mb-md-0">
+                <!-- Icon Blocks -->
+                <div class="text-center px-lg-3">
+                    <figure class="max-w-10rem mx-auto mb-4">
+                        <img class="img-fluid" src="assets/media/images/thehindu.jpg" alt="SVG">
+                    </figure>
+                    <h3>The Hindu</h3>
+                    <p>Understanding the weather</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
 
-    <div class="col-md-4">
-      <!-- Icon Blocks -->
-      <div class="text-center px-lg-3">
-        <figure class="max-w-10rem mx-auto mb-4">
-          <img class="img-fluid" src="assets/media/images/indianexp.png" alt="SVG">
-        </figure>
-        <h3>The Indian Express</h3>
-        <p>Stop inefficient budget spend or pour more into a winning ad when needed.</p>
-      </div>
-      <!-- End Icon Blocks -->
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-4 mb-5 mb-md-0">
-      <!-- Icon Blocks -->
-      <div class="text-center px-lg-3">
-        <figure class="max-w-10rem mx-auto mb-4">
-          <img class="img-fluid" src="assets/media/images/citizem.png" alt="SVG">
-        </figure>
-        <h3>Citizen Matters</h3>
-        <p>Weather Web proves that Jayanagar is hotter than Hebbal</p>
-      </div>
-      <!-- End Icon Blocks -->
-    </div>
+            <div class="col-md-4">
+                <!-- Icon Blocks -->
+                <div class="text-center px-lg-3">
+                    <figure class="max-w-10rem mx-auto mb-4">
+                        <img class="img-fluid" src="assets/media/images/indianexp.png" alt="SVG">
+                    </figure>
+                    <h3>The Indian Express</h3>
+                    <p>Stop inefficient budget spend or pour more into a winning ad when needed.</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-5 mb-md-0">
+                <!-- Icon Blocks -->
+                <div class="text-center px-lg-3">
+                    <figure class="max-w-10rem mx-auto mb-4">
+                        <img class="img-fluid" src="assets/media/images/citizem.png" alt="SVG">
+                    </figure>
+                    <h3>Citizen Matters</h3>
+                    <p>Weather Web proves that Jayanagar is hotter than Hebbal</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
 
-    <div class="col-md-4 mb-5 mb-md-0">
-      <!-- Icon Blocks -->
-      <div class="text-center px-lg-3">
-        <figure class="max-w-10rem mx-auto mb-4">
-          <img class="img-fluid" src="assets/media/images/telit.png" alt="SVG">
-        </figure>
-        <h3>Telit</h3>
-        <p>Banglore open weather network</p>
-      </div>
-      <!-- End Icon Blocks -->
-    </div>
+            <div class="col-md-4 mb-5 mb-md-0">
+                <!-- Icon Blocks -->
+                <div class="text-center px-lg-3">
+                    <figure class="max-w-10rem mx-auto mb-4">
+                        <img class="img-fluid" src="assets/media/images/telit.png" alt="SVG">
+                    </figure>
+                    <h3>Telit</h3>
+                    <p>Banglore open weather network</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
 
-    <div class="col-md-4">
-      <!-- Icon Blocks -->
-      <div class="text-center px-lg-3">
-        <figure class="max-w-10rem mx-auto mb-4">
-          <img class="img-fluid" src="assets/media/images/bmirror.png" alt="SVG">
-        </figure>
-        <h3>Banglore Mirror</h3>
-        <p>The Weather Trackers</p>
-      </div>
-      <!-- End Icon Blocks -->
+            <div class="col-md-4">
+                <!-- Icon Blocks -->
+                <div class="text-center px-lg-3">
+                    <figure class="max-w-10rem mx-auto mb-4">
+                        <img class="img-fluid" src="assets/media/images/bmirror.png" alt="SVG">
+                    </figure>
+                    <h3>Banglore Mirror</h3>
+                    <p>The Weather Trackers</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-<!-- End Icon Blocks Section -->
+    <!-- End Icon Blocks Section -->
     <br>
     <br>
     <!-- Gallery Section -->
-<div class="container">
-  <div class="row mx-n2">
-    <div class="col-6 col-md px-2 mb-3">
-      <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);"></div>
-    </div>
-    <div class="col-md-3 d-none d-md-block px-2 mb-3">
-      <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);"></div>
-    </div>
-    <div class="col-6 col-md px-2 mb-3">
-      <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);"></div>
-    </div>
+    <div class="container">
+        <div class="row mx-n2">
+            <div class="col-6 col-md px-2 mb-3">
+                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);"></div>
+            </div>
+            <div class="col-md-3 d-none d-md-block px-2 mb-3">
+                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);"></div>
+            </div>
+            <div class="col-6 col-md px-2 mb-3">
+                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);"></div>
+            </div>
 
-    <div class="w-100"></div>
+            <div class="w-100"></div>
 
-    <div class="col-6 col-md px-2 mb-3 mb-md-0">
-      <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);"></div>
+            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);"></div>
+            </div>
+            <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);"></div>
+            </div>
+            <div class="col-6 col-md px-2">
+                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);"></div>
+            </div>
+        </div>
     </div>
-    <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-      <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);"></div>
-    </div>
-    <div class="col-6 col-md px-2">
-      <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);"></div>
-    </div>
-  </div>
-</div>
-<!-- End Gallery Section -->
+    <!-- End Gallery Section -->
     <br>
     <!-- Features Section -->
-<div class="border-bottom">
-  <div class="container space-2">
-    <div class="row">
-      <div class="col-md-4 mb-7 mb-md-0">
-        <!-- Contacts -->
-        <div class="media">
-          <figure class="w-100 max-w-8rem mr-4">
-            <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
-          </figure>
-          <div class="media-body">
-            <h4 class="mb-1">Real time graphs</h4>
-            <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time sensitive data like Rain intensity and tiniest variations with ease. No more waiting for tomorrow.</p>
-          </div>
-        </div>
-        <!-- End Contacts -->
-      </div>
+    <div class="border-bottom">
+        <div class="container space-2">
+            <div class="row">
+                <div class="col-md-4 mb-7 mb-md-0">
+                    <!-- Contacts -->
+                    <div class="media">
+                        <figure class="w-100 max-w-8rem mr-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
+                        </figure>
+                        <div class="media-body">
+                            <h4 class="mb-1">Real time graphs</h4>
+                            <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time sensitive
+                                data like Rain intensity and tiniest variations with ease. No more waiting for tomorrow.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- End Contacts -->
+                </div>
 
-      <div class="col-md-4 mb-7 mb-md-0">
-        <!-- Contacts -->
-        <div class="media">
-          <figure class="w-100 max-w-8rem mr-4">
-            <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
-          </figure>
-          <div class="media-body">
-            <h4 class="mb-1">Analyze Report</h4>
-            <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to sms alerts. Set your own condition for alerts. We provide reports in IMD compliant format. Ask for custom reports.</p>
-          </div>
-        </div>
-        <!-- End Contacts -->
-      </div>
+                <div class="col-md-4 mb-7 mb-md-0">
+                    <!-- Contacts -->
+                    <div class="media">
+                        <figure class="w-100 max-w-8rem mr-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
+                        </figure>
+                        <div class="media-body">
+                            <h4 class="mb-1">Analyze Report</h4>
+                            <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to sms alerts.
+                                Set your own condition for alerts. We provide reports in IMD compliant format. Ask for
+                                custom reports.</p>
+                        </div>
+                    </div>
+                    <!-- End Contacts -->
+                </div>
 
-      <div class="col-md-4">
-        <!-- Contacts -->
-        <div class="media">
-          <figure class="w-100 max-w-8rem mr-4">
-            <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
-          </figure>
-          <div class="media-body">
-            <h4 class="mb-1">Personalized Monitoring</h4>
-            <p class="font-size-1 mb-0">Download your data as excel files. Do your own analysis. Use Yuktix python SDK and REST API to write custom clients.</p>
-          </div>
+                <div class="col-md-4">
+                    <!-- Contacts -->
+                    <div class="media">
+                        <figure class="w-100 max-w-8rem mr-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
+                        </figure>
+                        <div class="media-body">
+                            <h4 class="mb-1">Personalized Monitoring</h4>
+                            <p class="font-size-1 mb-0">Download your data as excel files. Do your own analysis. Use
+                                Yuktix python SDK and REST API to write custom clients.</p>
+                        </div>
+                    </div>
+                    <!-- End Contacts -->
+                </div>
+            </div>
         </div>
-        <!-- End Contacts -->
-      </div>
     </div>
-  </div>
-</div>
-<!-- End Features Section -->
+    <!-- End Features Section -->
     <br>
     <br>
     <!-- CTA Section -->
-<div class="container">
-  <div class="w-lg-85 mx-lg-auto">
-    <div class="card bg-primary text-white overflow-hidden p-4">
-      <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
-        <div class="col-md-6 offset-md-3 mb-3 mb-md-0">
-          <h3 class="text-white mb-1">Sensor Catalogue</h3>
-          <p class="text-white-70 mb-0"></p>
-        </div>
-        <div class="col-md-3 text-md-right">
-          <a class="btn btn-light transition-3d-hover" href="#">Explore Sensor Catalogue</a>
-        </div>
-      </div>
+    <div class="container">
+        <div class="w-lg-85 mx-lg-auto">
+            <div class="card bg-primary text-white overflow-hidden p-4">
+                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                    <div class="col-md-6 offset-md-3 mb-3 mb-md-0">
+                        <h3 class="text-white mb-1">Sensor Catalogue</h3>
+                        <p class="text-white-70 mb-0"></p>
+                    </div>
+                    <div class="col-md-3 text-md-right">
+                        <a class="btn btn-light transition-3d-hover" href="#">Explore Sensor Catalogue</a>
+                    </div>
+                </div>
 
-      <!-- SVG Component -->
-      <figure class="w-25 d-none d-md-block content-centered-y ml-n4">
-        <img class="img-fluid" src="assets/svg/illustrations/communication.svg" alt="Image Description">
-      </figure>
-      <!-- End SVG Component -->
+                <!-- SVG Component -->
+                <figure class="w-25 d-none d-md-block content-centered-y ml-n4">
+                    <img class="img-fluid" src="assets/svg/illustrations/communication.svg" alt="Image Description">
+                </figure>
+                <!-- End SVG Component -->
+            </div>
+        </div>
     </div>
-  </div>
-</div>
-<!-- End CTA Section -->
+    <!-- End CTA Section -->
     <br>
     <br><br>
 
     <?php
-        include 'includes/footer.php';
-        ?>
-        <!--Header end-->
-       <!-- Global Scripts-->
+    include 'includes/footer.php';
+    ?>
+    <!--Header end-->
+    <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
@@ -495,30 +506,30 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-<!-- JS Implementing Plugins -->
-<script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <!-- JS Implementing Plugins -->
+    <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
 
-<!-- JS Front -->
-<script src="assets/js/hs.fancybox.js"></script>
+    <!-- JS Front -->
+    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Plugins Init. -->
     <script>
-        $(document).on('ready', function () {
-            // initialization of header
-            var header = new HSHeader($('#header')).init();
-            // initialization of scroll nav
-            $('.js-scroll-nav').each(function () {
-                var scrollNav = new HSScrollNav($(this)).init();
-            });
-            // initialization of HSMegaMenu component
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+    $(document).on('ready', function() {
+        // initialization of header
+        var header = new HSHeader($('#header')).init();
+        // initialization of scroll nav
+        $('.js-scroll-nav').each(function() {
+            var scrollNav = new HSScrollNav($(this)).init();
         });
-
-        $(document).on('ready', function () {
-    // initialization of fancybox
-    $('.js-fancybox').each(function () {
-      var fancybox = $.HSCore.components.HSFancyBox.init($(this));
+        // initialization of HSMegaMenu component
+        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
-  });
+
+    $(document).on('ready', function() {
+        // initialization of fancybox
+        $('.js-fancybox').each(function() {
+            var fancybox = $.HSCore.components.HSFancyBox.init($(this));
+        });
+    });
     </script>
 </body>
 

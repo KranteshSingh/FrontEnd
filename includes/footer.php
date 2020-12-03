@@ -1,16 +1,16 @@
 <!-- ========== FOOTER ========== -->
-<footer class="container">
+<footer class="container footer">
     <div class="space-top-1 space-bottom-1 space-bottom-lg-1">
         <div class="row justify-content-lg-between">
             <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
+                <h5>Yuktix Technologies PVT. LTD.</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item">
-                        <a class="nav-link media" href="#">
+                        <a class="nav-link media" href="">
                             <span class="media">
                                 <span class="fas fa-location-arrow mt-1 mr-2"></span>
                                 <span class="media-body">
-                                    <b>Yuktix Technologies</b><BR>
                                     No. 1713, Floor-2, 19 Main
                                     Sector-2, HSR Layout
                                     Bangalore, Karnataka, 560102
@@ -69,13 +69,11 @@
 
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
-                    <li class="nav-item"><a class="nav-link" href="mailto:support@yuktix.com">Support</a>
-                    </li>
-
-                    <li class="nav-item"><a class="nav-link" href="#">Docs</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Status</a></li>
+                    <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">ankiDB™ Cloud</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">ankiDB™ Micro</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">API Reference</a></li>
-                    <li class="nav-item"><a class="nav-link" href="terms-conditions">Technology</a></li>
+
                 </ul>
                 <!-- End Nav Link -->
             </div>

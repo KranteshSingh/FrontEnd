@@ -36,30 +36,16 @@
     <div class="container space-top-3 space-bottom-1 space-bottom-sm-2">
         <div class="w-lg-75">
             <h1 class="display-4 mb-5">
-                Solutions to
+                Agriculture Intelligence for<br>
                 <span class="text-warning">
                     <span class="js-text-animation"></span>
                 </span>
-                <br>
-                Agriculture Intelligence for Crops
             </h1>
             <p class="lead">Creating sensors based Agri-Intelligence Systems to assist growers in increasing
                 productivity</p>
         </div>
     </div>
     <!-- End Hero Section -->
-
-    <!-- Hero Section 
-
-    <div class="container-fluid heroimage">
-        <div class="row">
-            <div class="col-md-12 justify-content-md-center">
-                <h1 class="display-1 herotext"></h1>
-            </div>
-        </div>
-    </div>
-
-     End Hero Section -->
 
     <!-- Hero Section -->
     <div class="clearfix mx-4">
@@ -79,29 +65,29 @@
         </div>
     </div>
     <!-- End Hero Section -->
-
-    <!-- About YukTix-->
-    <div class="container-fluid">
-        <div class="row about-yuktix">
-            <div class="col-md justify-content-md-center">
-                <div id="about_content">
-                    <p>Yuktix is creating sensors based agri intelligence systems to assist growers in increasing
-                        productivity and reducing resources to create a sustainable and food secure world.</p>
-                    <span class="d-block mt-5">
-                        <a class="btn btn-primary transition-3d-hover" href="/about">About Us</a>
-                    </span>
-                </div>
-            </div>
+    <br><br>
+    <!-- CTA Section -->
+    <div class="container space-2">
+        <div class="text-center py-6">
+            <h2>What We Do</h2>
+            <p class="lead">Yuktix is creating sensors based agri intelligence systems to assist
+                growers in
+                increasing
+                productivity and reducing resources to create a sustainable and food secure world.</p>
+            <span class="d-block mt-5">
+                <a class="btn btn-primary transition-3d-hover" href="about.php">About Yuktix</a>
+            </span>
         </div>
     </div>
-    <!-- End About YukTix-->
+    <!-- End CTA Section -->
+
 
     <!-- Features Section -->
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="h1">Key Values</h2>
-            <p>How we are helping farmers</p>
+            <h2 class="display-4">Key Values</h2>
+            <p class="lead">How we are helping farmers</p>
         </div>
         <!-- End Title -->
         <div class="row mx-n2">
@@ -190,7 +176,7 @@
                 <div class="col-md-8 pt-4" data-aos="fade-up">
                     <h3>Climate Resiliant Agriculture for tribal farmers</h3>
                     <br>
-                    <p class="casestudydesc">
+                    <p class="lead">
                         With changing climate, there is no digital input for tribal farmers to use climate smart
                         agriculture practices. Farmers produce is effected by changing land patterns, rainfall and
                         excessive use of pesticide and insecticide
@@ -211,7 +197,7 @@
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                     <h3>Micro-Weather monitoring in a Tea-Estate</h3>
                     <br>
-                    <p class="casestudydesc">
+                    <p class="lead">
                         With changing climate, there is no digital input for tribal farmers to use climate smart
                         agriculture practices. Farmers produce is effected by changing land patterns, rainfall and
                         excessive use of pesticide and insecticide
@@ -227,7 +213,7 @@
     </section>
     <br>
     <div id="areu">
-        <h3 class="display-4">Are you a</h3>
+        <h2 class="display-4">Are you a</h2>
     </div>
     <br>
 
@@ -307,8 +293,8 @@
     <!-- End Icon Blocks Section -->
 
     <div class="container-fluid" id="how-yuk">
-        <div class="row" id="how_content">
-            <div class="col-md">
+        <div class="row justify-content-center" id="how_content">
+            <div class="col-md-8">
                 <div>
                     <p>How Yuktix is transforming agriculture with Technology</br></p>
                     <br>
@@ -321,28 +307,34 @@
         </div>
     </div>
 
-    <div class="container-fluid">
-        <div class="row" id="tech-stack">
-            <div class="col-md">
-                <br>
+    <!-- Hero Section -->
+    <div class="bg-img-hero">
+        <div class="container space-2 space-lg-1">
+            <div class="w-lg-65 text-center mx-lg-auto">
                 <h3 class="display-4">Technology Stack </p>
+                    <h2 class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
+                        soil parameters
+                        with the
+                        help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
+                        multiple
+                        sources and on the network for every one to share and analyze.</h2>
             </div>
-            <div id="tech-stackdesc">
-                <p>Monitor your agriculture farm, plantation, research field micro-weather, soil parameters
-                    with the
-                    help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
-                    multiple
-                    sources and on the network for every one to share and analyze. </p>
-            </div>
-
         </div>
     </div>
+    <!-- End Hero Section -->
+    <br><br>
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
-            <div class="col-md-12"><img src="assets/media/images/yuktixcloud.png" class="img-fluid"
+
+            <div class="col-md-7"><img src="assets/media/images/yuktixcloud.png" class="img-fluid"
                     alt="Responsive image"></div>
+
         </div>
+
     </div>
+
+
+
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">

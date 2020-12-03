@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Greenhouse Logger | Yuktix</title>
+    <title>ankiDB Cloud | Yuktix </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -25,7 +25,7 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br><br><br><br>
+    <br><br><br><br><br><br>
     <!-- Header -->
     <?php
     include 'includes/footer.php';

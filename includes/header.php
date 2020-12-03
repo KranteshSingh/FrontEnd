@@ -35,9 +35,7 @@
                     <!-- Navigation -->
                     <div id="navBar" class="collapse navbar-collapse">
                         <ul class="js-scroll-nav navbar-nav">
-                            <li class="navbar-nav-item">
-                                <a class="nav-link" href="about.php">About Us</a>
-                            </li>
+
                             <!-- Pages -->
                             <li class="hs-has-sub-menu header-nav-item" data-hs-mega-menu-item-options='{
               "desktop": {
@@ -62,6 +60,9 @@
                             </li>
                             <li class="navbar-nav-item">
                                 <a class="nav-link" href="technology.php">Technology</a>
+                            </li>
+                            <li class="navbar-nav-item">
+                                <a class="nav-link" href="about.php">About Us</a>
                             </li>
                             <li class="navbar-nav-item">
                                 <a class="nav-link" href="contact.php">Contact Us</a>

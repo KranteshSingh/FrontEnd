@@ -469,7 +469,8 @@
                         <p class="text-white-70 mb-0"></p>
                     </div>
                     <div class="col-md-3 text-md-right">
-                        <a class="btn btn-light transition-3d-hover" href="#">Explore Sensor Catalogue</a>
+                        <a class="btn btn-light transition-3d-hover" href="sensor-catalog.php">Explore Sensor
+                            Catalogue</a>
                     </div>
                 </div>
 

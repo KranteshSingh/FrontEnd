@@ -29,12 +29,12 @@
     <div class="container space-3">
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
-                <img class="img-fluid" src="assets/svg/illustrations/reading.svg" alt="Image Description">
+                <img class="img-fluid" src="assets/media/images/weatherstationtr.png" alt="Image Description">
             </div>
 
             <div class="col-md-6">
                 <div class="mb-5">
-                    <h1 class="display-4 mb-3">
+                    <h1 class="display-5 mb-3">
                         Revolutionizing Agriculture
                         <br>
                         <span class="text-primary font-weight-bold">

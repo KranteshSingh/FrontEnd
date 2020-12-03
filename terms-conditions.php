@@ -25,6 +25,7 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
+    <br><br><br><br><br><br>
     <!-- Header -->
     <?php
     include 'includes/footer.php';

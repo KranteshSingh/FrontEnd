@@ -51,7 +51,7 @@
                                     style="min-width: 230px;">
                                     <a class="dropdown-item" href="automatic-weather-station.php">Weather Station</a>
                                     <a class="dropdown-item" href="digital-rain-gauge.php">Digital Rain Gauge</a>
-                                    <a class="dropdown-item" href="smart-irrigration.php">Smart Irrigation</a>
+                                    <a class="dropdown-item" href="smart-irrigation.php">Smart Irrigation</a>
                                     <a class="dropdown-item" href="greenhouse-logger.php">Greenhouse Logger</a>
                                     <a class="dropdown-item" href="greensense.php">Greensense</a>
                                 </div>

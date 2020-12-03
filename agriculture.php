@@ -28,9 +28,7 @@
     <!-- Hero Section -->
     <div class="container space-3">
         <div class="row justify-content-lg-between align-items-lg-center">
-            <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
-                <img class="img-fluid" src="assets/media/images/weatherstationtr.png" alt="Image Description">
-            </div>
+
 
             <div class="col-md-6">
                 <div class="mb-5">
@@ -47,11 +45,11 @@
 
                 <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
                     <a class="btn btn-primary transition-3d-hover mb-2" href="#">Start a Free Trial</a>
-
                     <div class="mx-2"></div>
-
-
                 </div>
+            </div>
+            <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
+                <img class="img-fluid" src="assets/media/images/weatherstationtr.png" alt="Image Description">
             </div>
         </div>
     </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Greenhouse Logger | Yuktix</title>
+    <title>Case Study | Yuktix </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -22,15 +22,17 @@
 <body>
     <!-- Header -->
     <?php
-    include 'includes/header.php';
+    include 'includes/header2.php';
     ?>
     <!--Header end-->
-    <br><br><br><br><br>
+    <br><br><br><br><br><br>
     <!-- Header -->
     <?php
     include 'includes/footer.php';
     ?>
     <!--Header end-->
+
+
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -39,16 +41,20 @@
     <script src="assets/js/hs.core.js"></script>
     <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Implementing Plugins -->
-    <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
-    <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
-    <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
+
     <script src="assets/vendor/appear.js"></script>
     <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
     <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
+    <script src="assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
+    <!-- JS Header -->
+    <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
+    <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
+    <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
+    <script src="assets/vendor/appear.js"></script>
+    <!-- JS Plugins Init. -->
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -64,6 +70,7 @@
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
     </script>
+
 </body>
 
 </html>

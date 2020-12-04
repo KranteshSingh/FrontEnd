@@ -208,10 +208,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
+
         // initialization of scroll nav
         $('.js-scroll-nav').each(function() {
             var scrollNav = new HSScrollNav($(this)).init();
         });
+
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });

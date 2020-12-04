@@ -42,7 +42,7 @@
                 </span>
             </h1>
             <p class="lead">Creating sensors based Agri-Intelligence Systems to assist growers in increasing
-                productivity</p>
+                Yield & Productivity</p>
         </div>
     </div>
     <!-- End Hero Section -->
@@ -59,7 +59,7 @@
                 <div
                     class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
                     <h1 class="display-1 text-white">YUKTIX</h1>
-                    <p class="lead text-white">An exploration of creativity, Growth, and faith.</p>
+                    <p class="lead text-white">Smart Sensing Solutions for Modern Agriculture</p>
                 </div>
             </div>
         </div>
@@ -67,14 +67,14 @@
     <!-- End Hero Section -->
     <br><br>
     <!-- CTA Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <div class="text-center py-6">
             <h2>What We Do</h2>
             <p class="lead">Yuktix is creating sensors based agri intelligence systems to assist
                 growers in
                 increasing
                 productivity and reducing resources to create a sustainable and food secure world.</p>
-            <span class="d-block mt-5">
+            <span class="d-block mt-1">
                 <a class="btn btn-primary transition-3d-hover" href="about.php">About Yuktix</a>
             </span>
         </div>
@@ -86,7 +86,7 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="display-4">Key Values</h2>
+            <h2 class="display-4">Our Key Values</h2>
             <p class="lead">How we are helping farmers</p>
         </div>
         <!-- End Title -->
@@ -173,7 +173,7 @@
                 <div class="col-md-4" data-aos="fade-right">
                     <img src="assets/media/images/farmer.jpeg" class="img-fluid" alt="">
                 </div>
-                <div class="col-md-8 pt-4" data-aos="fade-up">
+                <div class="col-md-8" data-aos="fade-up">
                     <h3>Climate Resiliant Agriculture for tribal farmers</h3>
                     <br>
                     <p class="lead">
@@ -194,7 +194,7 @@
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="assets/media/images/farmer.jpeg" class="img-fluid" alt="">
                 </div>
-                <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Micro-Weather monitoring in a Tea-Estate</h3>
                     <br>
                     <p class="lead">
@@ -219,9 +219,9 @@
 
 
     <!-- Icon Blocks Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <div class="row justify-content-lg-center">
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-7">
+            <div class="col-md-6 col-lg-5 mb-1 mb-md-7">
                 <!-- Icon Blocks -->
                 <div class="media pr-lg-5">
                     <figure class="w-100 max-w-8rem mr-4">
@@ -328,9 +328,7 @@
 
             <div class="col-md-7"><img src="assets/media/images/yuktixcloud.png" class="img-fluid"
                     alt="Responsive image"></div>
-
         </div>
-
     </div>
 
 
@@ -342,10 +340,10 @@
                 <div class="col-md-4" data-aos="fade-right">
                     <img src="assets/media/images/dashboard.png" class="img-fluid" alt="">
                 </div>
-                <div class="col-md-8 pt-4" data-aos="fade-up">
+                <div class="col-md-8" data-aos="fade-up">
                     <h3>ankiDB™ cloud</h3>
                     <br>
-                    <p class="casestudydesc">
+                    <p class="lead">
                         Manage your agriculture devices and data over the Yuktix device cloud. Provision and categorize
                         devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run different
                         processing pipelines, integrate with google big query or Microcoft azure.
@@ -366,7 +364,7 @@
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                     <h3>ankiDB™ micro</h3>
                     <br>
-                    <p class="casestudydesc">
+                    <p class="lead">
                         Plug multiple agriculture sensors into the low powered device nodes with solar charging and
                         battery back-up. Multiple wireless options available. On-board memory and processing.
                         <br>
@@ -411,10 +409,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
+
         // initialization of scroll nav
         $('.js-scroll-nav').each(function() {
             var scrollNav = new HSScrollNav($(this)).init();
         });
+
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });

@@ -29,53 +29,33 @@
     <!--Header end-->
 
     <!-- Gallery Section -->
-    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-4"
-        style="background-image: url(assets/media/images/yuktixherobanner.jpg)">
+    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather"
+        style="background-image: url(assets/media/images/YuktixImage.jpg)">
         <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
-            <div class="w-sm-75 w-lg-50">
-                <div class="mb-3">
-                    <!-- Fancybox -->
-                    <a class="js-fancybox video-player video-player-btn" href="javascript:;" data-hs-fancybox-options='{
-             "src": "//youtube.com/LVimD0iVZ7w",
-             "caption": "Front - Responsive Website Template",
-             "speed": 700,
-             "buttons": ["fullScreen", "close"],
-             "vimeo": {
-               "autoplay": 1
-             }
-           }'>
-                        <span class="video-player-icon">
-                            <i class="fas fa-play"></i>
-                        </span>
-                    </a>
-                    <!-- End Fancybox -->
-                </div>
+            <div class="w-sm-75 w-lg-100">
                 <br>
-                <br>
-                <br>
-                <h2 class="h1 text-white">Next Generation Solar<br> Powered Automatic Weather Station</h2>
+                <h2 class="display-4 text-white herotext"><br>Next Generation <br>Solar Powered Automatic Weather
+                    Station</h2>
             </div>
-            <div class="w-sm-65 w-lg-40">
-                <p class="text-white">We use this space as a place of reflection on the creative and faith journey.</p>
-            </div>
+
         </div>
     </div>
     <!-- End Gallery Section -->
 
-
-    <div class="container-fluid prod">
+    <br>
+    <div class="container-fluid">
         <div class="row justify-content-lg-center">
-
-            <div class="col-md-7"><img src="assets/media/images/weatherstation.png" class="img-fluid"
+            <div class="col-md-7"><img src="assets/media/images/weatherstationhow.jpg" class="img-fluid"
                     alt="Responsive image"></div>
-
         </div>
         <div class="row justify-content-lg-center">
             <div class="col-md-8 producttext align-self-center">
-                <p>Yuktix Solar powered weather stations provide real time weather conditions anytime from anywhere.
+                <p class="lead">Yuktix Solar powered weather stations provide real time weather conditions anytime from
+                    anywhere.
                     Watch AgriMet, disease advisories, daily reports and custom reports on the go. Subscribe for alerts
                     and weather forecasts for effective monitoring of your farm. Deploy Yuktix weather station networks
                     for climate studies, urban resilience and sustainable agriculture practices.</p>
+
             </div>
         </div>
     </div>
@@ -288,6 +268,20 @@
     </div>
     <!-- End Services Section -->
     <br>
+    <div class="container-fluid" id="how-yuk">
+        <div class="row justify-content-center" id="how_content">
+            <div class="col-md-8">
+                <div>
+                    <p>How Weather Station Works</br></p>
+                    <br>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                            width="920" height="450" src="https://www.youtube.com/embed/vbXB2BnnAg4" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Icon Blocks Section -->
     <div class="container space-2">
         <!-- Title -->
@@ -375,163 +369,241 @@
     <!-- End Icon Blocks Section -->
     <br>
     <br>
-    <!-- Gallery Section -->
-    <div class="container">
-        <div class="row mx-n2">
-            <div class="col-6 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);"></div>
-            </div>
-            <div class="col-md-3 d-none d-md-block px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);"></div>
-            </div>
-            <div class="col-6 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);"></div>
-            </div>
 
-            <div class="w-100"></div>
 
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);"></div>
-            </div>
-            <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);"></div>
-            </div>
-            <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);"></div>
+    <!-- Icon Blocks Section -->
+    <div class="container space-2">
+        <!-- Title -->
+        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <h2 class="h1">How Does it Looks Like</h2>
+        </div>
+        <!-- End Title -->
+        <!-- Gallery Section -->
+        <div class="container">
+            <div class="row mx-n2">
+                <div class="col-6 col-md px-2 mb-3">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);"></div>
+                </div>
+                <div class="col-md-3 d-none d-md-block px-2 mb-3">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);"></div>
+                </div>
+                <div class="col-6 col-md px-2 mb-3">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);"></div>
+                </div>
+
+                <div class="w-100"></div>
+
+                <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);"></div>
+                </div>
+                <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);"></div>
+                </div>
+                <div class="col-6 col-md px-2">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);"></div>
+                </div>
             </div>
         </div>
-    </div>
-    <!-- End Gallery Section -->
-    <br>
-    <!-- Features Section -->
-    <div class="border-bottom">
-        <div class="container space-2">
-            <div class="row">
-                <div class="col-md-4 mb-7 mb-md-0">
-                    <!-- Contacts -->
-                    <div class="media">
-                        <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
-                        </figure>
-                        <div class="media-body">
-                            <h4 class="mb-1">Real time graphs</h4>
-                            <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time sensitive
-                                data like Rain intensity and tiniest variations with ease. No more waiting for tomorrow.
+        <!-- End Gallery Section -->
+        <br>
+        <!-- Features Section -->
+        <div class="border-bottom">
+            <div class="container space-2">
+                <div class="row">
+                    <div class="col-md-4 mb-7 mb-md-0">
+                        <!-- Contacts -->
+                        <div class="media">
+                            <figure class="w-100 max-w-8rem mr-4">
+                                <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
+                            </figure>
+                            <div class="media-body">
+                                <h4 class="mb-1">Real time graphs</h4>
+                                <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time
+                                    sensitive
+                                    data like Rain intensity and tiniest variations with ease. No more waiting for
+                                    tomorrow.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- End Contacts -->
+                    </div>
+
+                    <div class="col-md-4 mb-7 mb-md-0">
+                        <!-- Contacts -->
+                        <div class="media">
+                            <figure class="w-100 max-w-8rem mr-4">
+                                <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
+                            </figure>
+                            <div class="media-body">
+                                <h4 class="mb-1">Analyze Report</h4>
+                                <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to sms
+                                    alerts.
+                                    Set your own condition for alerts. We provide reports in IMD compliant format. Ask
+                                    for
+                                    custom reports.</p>
+                            </div>
+                        </div>
+                        <!-- End Contacts -->
+                    </div>
+
+                    <div class="col-md-4">
+                        <!-- Contacts -->
+                        <div class="media">
+                            <figure class="w-100 max-w-8rem mr-4">
+                                <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
+                            </figure>
+                            <div class="media-body">
+                                <h4 class="mb-1">Personalized Monitoring</h4>
+                                <p class="font-size-1 mb-0">Download your data as excel files. Do your own analysis. Use
+                                    Yuktix python SDK and REST API to write custom clients.</p>
+                            </div>
+                        </div>
+                        <!-- End Contacts -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Features Section -->
+        <br>
+        <br>
+        <!-- CTA Section -->
+        <div class="container">
+            <div class="w-lg-85 mx-lg-auto">
+                <div class="card bg-primary text-white overflow-hidden p-4">
+                    <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                        <div class="col-md-6 offset-md-3 mb-3 mb-md-0">
+                            <h3 class="text-white mb-1">Sensor Catalogue</h3>
+                            <p class="text-white-70 mb-0"></p>
+                        </div>
+                        <div class="col-md-3 text-md-right">
+                            <a class="btn btn-light transition-3d-hover" href="sensor-catalog.php">Explore Sensor
+                                Catalogue</a>
+                        </div>
+                    </div>
+
+                    <!-- SVG Component -->
+                    <figure class="w-25 d-none d-md-block content-centered-y ml-n4">
+                        <img class="img-fluid" src="assets/svg/illustrations/communication.svg" alt="Image Description">
+                    </figure>
+                    <!-- End SVG Component -->
+                </div>
+            </div>
+        </div>
+        <!-- End CTA Section -->
+        <br>
+        <br><br>
+
+        <!-- Hero Section -->
+        <div class="bg-img-hero">
+            <div class="container space-2 space-lg-1">
+                <div class="w-lg-65 text-center mx-lg-auto">
+                    <h3 class="display-4">Case Study</p>
+                        <h2 class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
+                            soil parameters
+                            with the
+                            help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
+                            multiple
+                            sources and on the network for every one to share and analyze.</h2>
+                </div>
+            </div>
+        </div>
+        <!-- End Hero Section -->
+        <br><br>
+        <!-- ======= Case Study Section ======= -->
+        <section id="details" class="details">
+            <div class="container">
+                <div class="row content">
+                    <div class="col-md-4" data-aos="fade-right">
+                        <img src="assets/media/images/dashboard.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-md-8" data-aos="fade-up">
+                        <h3>Case Study 1</h3>
+                        <br>
+                        <p class="lead">
+                            Manage your agriculture devices and data over the Yuktix device cloud. Provision and
+                            categorize
+                            devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run different
+                            processing pipelines, integrate with google big query or Microcoft azure.
+                        </p>
+                        <br>
+                        <a href="#">
+                            <p>
+                                <b>Learn More</b>
                             </p>
-                        </div>
-                    </div>
-                    <!-- End Contacts -->
-                </div>
-
-                <div class="col-md-4 mb-7 mb-md-0">
-                    <!-- Contacts -->
-                    <div class="media">
-                        <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
-                        </figure>
-                        <div class="media-body">
-                            <h4 class="mb-1">Analyze Report</h4>
-                            <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to sms alerts.
-                                Set your own condition for alerts. We provide reports in IMD compliant format. Ask for
-                                custom reports.</p>
-                        </div>
-                    </div>
-                    <!-- End Contacts -->
-                </div>
-
-                <div class="col-md-4">
-                    <!-- Contacts -->
-                    <div class="media">
-                        <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
-                        </figure>
-                        <div class="media-body">
-                            <h4 class="mb-1">Personalized Monitoring</h4>
-                            <p class="font-size-1 mb-0">Download your data as excel files. Do your own analysis. Use
-                                Yuktix python SDK and REST API to write custom clients.</p>
-                        </div>
-                    </div>
-                    <!-- End Contacts -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Features Section -->
-    <br>
-    <br>
-    <!-- CTA Section -->
-    <div class="container">
-        <div class="w-lg-85 mx-lg-auto">
-            <div class="card bg-primary text-white overflow-hidden p-4">
-                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
-                    <div class="col-md-6 offset-md-3 mb-3 mb-md-0">
-                        <h3 class="text-white mb-1">Sensor Catalogue</h3>
-                        <p class="text-white-70 mb-0"></p>
-                    </div>
-                    <div class="col-md-3 text-md-right">
-                        <a class="btn btn-light transition-3d-hover" href="sensor-catalog.php">Explore Sensor
-                            Catalogue</a>
+                        </a>
                     </div>
                 </div>
 
-                <!-- SVG Component -->
-                <figure class="w-25 d-none d-md-block content-centered-y ml-n4">
-                    <img class="img-fluid" src="assets/svg/illustrations/communication.svg" alt="Image Description">
-                </figure>
-                <!-- End SVG Component -->
-            </div>
-        </div>
-    </div>
-    <!-- End CTA Section -->
-    <br>
-    <br><br>
+                <div class="row content">
+                    <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                        <img src="assets/media/images/yuktixdevice.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+                        <h3>Case Study 2</h3>
+                        <br>
+                        <p class="lead">
+                            Plug multiple agriculture sensors into the low powered device nodes with solar charging and
+                            battery back-up. Multiple wireless options available. On-board memory and processing.
+                            <br>
+                            The ankiDB micro stack comprises of hardware nodes and routers and firmware.
+                        </p>
+                        <br>
+                        <a href="#">
+                            <p>
+                                <b>Learn More ></b>
+                            </p>
+                        </a>
+                    </div>
+                </div>
+        </section>
+        <?php
+        include 'includes/footer.php';
+        ?>
+        <!--Header end-->
+        <!-- Global Scripts-->
+        <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+        <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
+        <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- JS Front-->
+        <script src="assets/js/hs.core.js"></script>
+        <script src="assets/js/hs.fancybox.js"></script>
+        <!-- JS Implementing Plugins -->
+        <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
+        <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
+        <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
+        <script src="assets/vendor/appear.js"></script>
+        <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+        <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
+        <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
+        <script src="assets/vendor/aos/dist/aos.js"></script>
+        <!-- JS Implementing Plugins -->
+        <!-- JS Implementing Plugins -->
+        <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
 
-    <?php
-    include 'includes/footer.php';
-    ?>
-    <!--Header end-->
-    <!-- Global Scripts-->
-    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-    <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
-    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- JS Front-->
-    <script src="assets/js/hs.core.js"></script>
-    <script src="assets/js/hs.fancybox.js"></script>
-    <!-- JS Implementing Plugins -->
-    <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
-    <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
-    <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
-    <script src="assets/vendor/appear.js"></script>
-    <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-    <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
-    <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
-    <script src="assets/vendor/aos/dist/aos.js"></script>
-    <!-- JS Implementing Plugins -->
-    <!-- JS Implementing Plugins -->
-    <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+        <!-- JS Front -->
+        <script src="assets/js/hs.fancybox.js"></script>
+        <!-- JS Plugins Init. -->
+        <script>
+        $(document).on('ready', function() {
+            // initialization of header
+            var header = new HSHeader($('#header')).init();
 
-    <!-- JS Front -->
-    <script src="assets/js/hs.fancybox.js"></script>
-    <!-- JS Plugins Init. -->
-    <script>
-    $(document).on('ready', function() {
-        // initialization of header
-        var header = new HSHeader($('#header')).init();
-        // initialization of scroll nav
-        $('.js-scroll-nav').each(function() {
-            var scrollNav = new HSScrollNav($(this)).init();
+            // initialization of scroll nav
+            $('.js-scroll-nav').each(function() {
+                var scrollNav = new HSScrollNav($(this)).init();
+            });
+
+            // initialization of HSMegaMenu component
+            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
         });
-        // initialization of HSMegaMenu component
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
-    });
 
-    $(document).on('ready', function() {
-        // initialization of fancybox
-        $('.js-fancybox').each(function() {
-            var fancybox = $.HSCore.components.HSFancyBox.init($(this));
+        $(document).on('ready', function() {
+            // initialization of fancybox
+            $('.js-fancybox').each(function() {
+                var fancybox = $.HSCore.components.HSFancyBox.init($(this));
+            });
         });
-    });
-    </script>
+        </script>
 </body>
 
 </html>

@@ -52,14 +52,14 @@
                 <h5>Products</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
-                    <li class="nav-item"><a class="nav-link" href="/automatic-weather-station.php">Weather
+                    <li class="nav-item"><a class="nav-link" href="automatic-weather-station.php">Weather
                             Station</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/digital-rain-gauge.php">Digital Rain Gauge</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/smart-irrigation.php">Smart
+                    <li class="nav-item"><a class="nav-link" href="digital-rain-gauge.php">Digital Rain Gauge</a></li>
+                    <li class="nav-item"><a class="nav-link" href="smart-irrigation.php">Smart
                             Irrigation</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/greenhouse-logger.php">Greenhouse Logger</a>
+                    <li class="nav-item"><a class="nav-link" href="greenhouse-logger.php">Greenhouse Logger</a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="/greensense.php">Greensense</a></li>
+                    <li class="nav-item"><a class="nav-link" href="greensense.php">Greensense</a></li>
                 </ul>
                 <!-- End Nav Link -->
             </div>
@@ -70,8 +70,8 @@
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">ankiDB™ Cloud</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">ankiDB™ Micro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ankidb-cloud.php">ankiDB™ Cloud</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ankidb-micro">ankiDB™ Micro</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">API Reference</a></li>
 
                 </ul>

@@ -8,7 +8,7 @@
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg">
                 <!-- Logo -->
-                <a class="navbar-brand" href="#" aria-label="Front">
+                <a class="navbar-brand" href="index.php" aria-label="Front">
                     <img width="45px" height="45px" src="assets/svg/logos/yuktix-logo.svg" alt="Logo">
                 </a>
                 <!-- End Logo -->

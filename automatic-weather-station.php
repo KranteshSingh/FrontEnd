@@ -269,10 +269,10 @@
     <!-- End Services Section -->
     <br>
     <div class="container-fluid" id="how-yuk">
-        <div class="row justify-content-center" id="how_content">
+        <div class="row justify-content-center">
             <div class="col-md-8">
                 <div>
-                    <p>How Weather Station Works</br></p>
+                    <h2 class="text-center">How Weather Station Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/vbXB2BnnAg4" frameborder="0"
@@ -287,7 +287,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Benefits</span>
-            <h2 class="h1">What people are saying</h2>
+            <h2>What people are saying</h2>
         </div>
         <!-- End Title -->
 
@@ -375,7 +375,7 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="h1">How Does it Looks Like</h2>
+            <h2>How Does it Looks Like</h2>
         </div>
         <!-- End Title -->
         <!-- Gallery Section -->
@@ -497,13 +497,13 @@
         <div class="bg-img-hero">
             <div class="container space-2 space-lg-1">
                 <div class="w-lg-65 text-center mx-lg-auto">
-                    <h3 class="display-4">Case Study</p>
-                        <h2 class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
-                            soil parameters
-                            with the
-                            help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
-                            multiple
-                            sources and on the network for every one to share and analyze.</h2>
+                    <h2>Case Studies</h2>
+                    <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
+                        soil parameters
+                        with the
+                        help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
+                        multiple
+                        sources and on the network for every one to share and analyze.</p>
                 </div>
             </div>
         </div>

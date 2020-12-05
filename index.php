@@ -58,7 +58,6 @@
                                 Yield & Productivity</p>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>

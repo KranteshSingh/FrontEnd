@@ -30,22 +30,7 @@
     <?php
     include 'includes/header.php';
     ?>
-    <!--Header end-->
-
-    <!-- Hero Section -->
-    <div class="container space-top-3 space-bottom-1 space-bottom-sm-2">
-        <div class="w-lg-75">
-            <h1 class="display-4 mb-5">
-                Agriculture Intelligence for<br>
-                <span class="text-warning">
-                    <span class="js-text-animation"></span>
-                </span>
-            </h1>
-            <p class="lead">Creating sensors based Agri-Intelligence Systems to assist growers in increasing
-                Yield & Productivity</p>
-        </div>
-    </div>
-    <!-- End Hero Section -->
+    <!--Header End-->
 
     <!-- Hero Section -->
     <div class="clearfix mx-4">
@@ -58,8 +43,22 @@
             <div class="d-md-flex space-3 space-md-0">
                 <div
                     class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
-                    <h1 class="display-1 text-white">YUKTIX</h1>
-                    <p class="lead text-white">Smart Sensing Solutions for Modern Agriculture</p>
+                    <div class="container space-top-3 space-bottom-1 space-bottom-sm-2">
+                        <div class="w-lg-100">
+                            <h1 class="display-3 mb-5 text-white herotext">
+                                Agriculture Intelligence for<br>
+                                <span class="text-warning">
+                                    <span class="js-text-animation"></span>
+                                </span>
+                            </h1>
+                            <p class="lead text-white" herotext>Creating sensors based Agri-Intelligence Systems to
+                                assist
+                                growers in
+                                increasing
+                                Yield & Productivity</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -69,7 +68,7 @@
     <!-- CTA Section -->
     <div class="container space-1">
         <div class="text-center py-6">
-            <h2>What We Do</h2>
+            <h2 class="display-5">What We Do</h2>
             <p class="lead">Yuktix is creating sensors based agri intelligence systems to assist
                 growers in
                 increasing
@@ -81,12 +80,11 @@
     </div>
     <!-- End CTA Section -->
 
-
     <!-- Features Section -->
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="display-4">Our Key Values</h2>
+            <h2 class="display-5">Our Key Values</h2>
             <p class="lead">How we are helping farmers</p>
         </div>
         <!-- End Title -->
@@ -213,10 +211,9 @@
     </section>
     <br>
     <div id="areu">
-        <h2 class="display-4">Are you a</h2>
+        <h2 class="display-5">Are you a</h2>
     </div>
     <br>
-
 
     <!-- Icon Blocks Section -->
     <div class="container space-1">
@@ -292,12 +289,13 @@
     </div>
     <!-- End Icon Blocks Section -->
 
-    <div class="container-fluid" id="how-yuk">
-        <div class="row justify-content-center" id="how_content">
-            <div class="col-md-8">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
                 <div>
-                    <p>How Yuktix is transforming agriculture with Technology</br></p>
-                    <br>
+                    <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-3 mb-md-9 mt-2">
+                        <h2 class="display-5">How Yuktix is transforming agriculture with Technology</h2>
+                    </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/vbXB2BnnAg4" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -311,13 +309,13 @@
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
             <div class="w-lg-65 text-center mx-lg-auto">
-                <h3 class="display-4">Technology Stack </p>
-                    <h2 class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
+                <h2 class="display-5">Technology Stack </p>
+                    <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
                         soil parameters
                         with the
                         help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
                         multiple
-                        sources and on the network for every one to share and analyze.</h2>
+                        sources and on the network for every one to share and analyze.</p>
             </div>
         </div>
     </div>
@@ -330,9 +328,6 @@
                     alt="Responsive image"></div>
         </div>
     </div>
-
-
-
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">
@@ -440,10 +435,6 @@
         });
     });
     </script>
-
-
-
 </body>
-
 
 </html>

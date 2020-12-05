@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Case Study | Yuktix </title>
+    <title>Case Studies | Yuktix </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -22,10 +22,13 @@
 <body>
     <!-- Header -->
     <?php
-    include 'includes/header2.php';
+    include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br><br><br><br><br>
+    <br><br><br>
+
+
+    <br><br><br>
     <!-- Header -->
     <?php
     include 'includes/footer.php';
@@ -54,7 +57,6 @@
     <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
     <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
     <script src="assets/vendor/appear.js"></script>
-    <!-- JS Plugins Init. -->
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

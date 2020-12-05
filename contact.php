@@ -96,7 +96,7 @@
                     <!-- Form -->
                     <form class="js-validate card shadow-lg mb-4" method="post" action="includes/mailer.php">
                         <div class="card-header border-0 bg-light text-center py-4 px-4 px-md-6">
-                            <h2 class="h4 mb-0">General Enquiries</h2>
+                            <h2 class="h4 mb-0">Enquiries</h2>
                         </div>
 
                         <div class="card-body p-4 p-md-6">
@@ -106,8 +106,8 @@
                                     <div class="js-form-message form-group">
                                         <label for="firstNameExample1" class="input-label">Your name</label>
                                         <input type="text" class="form-control" name="visitorName"
-                                            id="firstNameExample1" placeholder="Your Name Here" aria-label="Nataly"
-                                            required data-msg="Please enter first your name">
+                                            id="firstNameExample1" placeholder="Enter Your Name Here"
+                                            aria-label="Nataly" required data-msg="Please enter your name">
                                     </div>
                                     <!-- End Form Group -->
                                 </div>
@@ -116,7 +116,7 @@
                                     <div class="js-form-message form-group">
                                         <label for="emailAddressExample1" class="input-label">Email address</label>
                                         <input type="email" class="form-control" name="visitorEmail"
-                                            id="emailAddressExample1" placeholder="Enter Email Address Here"
+                                            id="emailAddressExample1" placeholder="Enter Your Email Here"
                                             aria-label="alex@pixeel.com" required
                                             data-msg="Please enter a valid email address">
                                     </div>
@@ -126,10 +126,10 @@
                                     <!-- Form Group -->
                                     <div class="js-form-message form-group">
                                         <label for="phoneNumber" class="input-label">Phone Number</label>
-                                        <input type="email" class="form-control" name="visitorPhone"
+                                        <input type="number" class="form-control" name="visitorPhone"
                                             id="emailAddressExample1" placeholder="Enter Phone Number Here"
                                             aria-label="alex@pixeel.com" required
-                                            data-msg="Please enter a valid email address">
+                                            data-msg="Please enter a valid phone number">
                                     </div>
                                     <!-- End Form Group -->
                                 </div>
@@ -137,10 +137,10 @@
                                     <!-- Form Group -->
                                     <div class="js-form-message form-group">
                                         <label for="phoneNumber" class="input-label">Subject</label>
-                                        <input type="email" class="form-control" name="visitorSubject"
+                                        <input type="text" class="form-control" name="visitorSubject"
                                             id="emailAddressExample1" placeholder="Your Subject Here"
                                             aria-label="alex@pixeel.com" required
-                                            data-msg="Please enter a valid email address">
+                                            data-msg="Please enter a valid Subject">
                                     </div>
                                     <!-- End Form Group -->
                                 </div>
@@ -148,12 +148,12 @@
                                 <div class="col-sm-12">
                                     <!-- Form Group -->
                                     <div class="js-form-message form-group">
-                                        <label for="message" class="input-label">Message</label>
+                                        <label for="message" class="input-label">Your Message</label>
                                         <div class="input-group">
                                             <textarea class="form-control" rows="4" name="visitorMessage" id="message"
                                                 placeholder="Hi there, I would like to ..."
                                                 aria-label="Hi there, I would like to ..." required
-                                                data-msg="Please enter a reason."></textarea>
+                                                data-msg="Please enter your message"></textarea>
                                         </div>
                                     </div>
                                     <!-- End Form Group -->
@@ -166,7 +166,7 @@
                     <!-- End Form -->
 
                     <div class="text-center">
-                        <p class="small">We'll get back to you in 1-2 business days.</p>
+                        <p class="small">We'll get back to you in 12 Hours</p>
                     </div>
                 </div>
             </div>

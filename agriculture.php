@@ -31,7 +31,7 @@
 
 
             <div class="col-md-6">
-                <div class="mb-5">
+                <div class="mb-2">
                     <h1 class="display-5 mb-3">
                         Revolutionizing Agriculture
                         <br>
@@ -48,8 +48,8 @@
                     <div class="mx-2"></div>
                 </div>
             </div>
-            <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
-                <img class="img-fluid" src="assets/media/images/weatherstationtr.png" alt="Image Description">
+            <div class="col-sm-10 col-lg-5 mb-0 mb-lg-0">
+                <img class="img-fluid" src="assets/media/images/500.png" alt="Image Description">
             </div>
         </div>
     </div>
@@ -61,7 +61,7 @@
 
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/greensensenode2.png" class="img-fluid" alt="">
+                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Increase Farm Production by 20% using Scientific Advisory</h3>
@@ -83,7 +83,7 @@
             <br><br>
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/greensensenode2.png" class="img-fluid" alt="">
+                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Save water used in Irrigation by 40%</h3>
@@ -104,7 +104,7 @@
             <br><br>
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/greensensenode2.png" class="img-fluid" alt="">
+                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Reduce Pesticide Spray by 20-25% and Reduce residure problem</h3>
@@ -125,7 +125,7 @@
             <br>
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/greensensenode2.png" class="img-fluid" alt="">
+                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Reduce Loss by 50%</h3>

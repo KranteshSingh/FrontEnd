@@ -29,8 +29,8 @@
     <!--Header end-->
 
     <!-- Gallery Section -->
-    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather"
-        style="background-image: url(assets/media/images/YuktixImage.jpg)">
+    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather opacity: 0.4;"
+        style="background-image: url(assets/media/images/YuktixImage.jpg); ">
         <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
             <div class="w-sm-75 w-lg-100">
                 <br>
@@ -55,7 +55,6 @@
                     Watch AgriMet, disease advisories, daily reports and custom reports on the go. Subscribe for alerts
                     and weather forecasts for effective monitoring of your farm. Deploy Yuktix weather station networks
                     for climate studies, urban resilience and sustainable agriculture practices.</p>
-
             </div>
         </div>
     </div>
@@ -127,145 +126,167 @@
         </div>
     </div>
     <!-- End CTA Section -->
-
-    <!-- Services Section -->
+    <!-- Features Section -->
     <div class="container space-2">
         <!-- Title -->
-        <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-9">
-            <span class="d-block small font-weight-bold text-cap mb-2">Next Generation Solar
-                Powered Automatic Weather Station</span>
+        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <span class="d-block small font-weight-bold text-cap mb-2">NEXT GENERATION SOLAR POWERED AUTOMATIC WEATHER
+                STATION</span>
             <h2>Features</h2>
         </div>
         <!-- End Title -->
 
-        <div class="row justify-content-lg-center">
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-18.svg" alt="SVG">
+        <!-- Icon Blocks -->
+        <div class="row mb-5 mb-md-9">
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-29.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>IMD Standards</h4>
-                        <p>Yuktix AWS sensor range and resolutions conform to Indian Meteorological Department (IMD)
-                            recommendations. Calibration certifcate available.</p>
+                        <h4 class="mb-0">IMD Standards</h4>
                     </div>
                 </div>
-                <!-- End Icon Blocks -->
+                <p>Yuktix AWS sensor range and resolutions conform to Indian Meteorological Department (IMD)
+                    recommendations. Calibration certifcate available.</p>
+                <!-- End Icon Block -->
             </div>
 
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-44.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>Cost Competitive</h4>
-                        <p>We provide ruggedized and field tested weather stations at a fraction of the price from
-                            competition.</p>
+                        <h4 class="mb-0">Cost Competitive</h4>
                     </div>
                 </div>
-                <!-- End Icon Blocks -->
+                <p>We provide ruggedized and field tested weather stations at a fraction of the price from competition.
+                </p>
+                <!-- End Icon Block -->
             </div>
 
-            <div class="w-100"></div>
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4 class="mb-0">Share Better</h4>
+                    </div>
+                </div>
+                <p>Subscribe to Data archives and reports. View data and report from anywhere and share insights with
+                    your team.</p>
+                <!-- End Icon Block -->
+            </div>
 
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4 class="mb-0">Solar Powered</h4>
+                    </div>
+                </div>
+                <p>No socket needed. Yuktix stations work on solar power. Yuktix stations are running in remote
+                    mountains, sea coasts and Jungles.</p>
+                <!-- End Icon Block -->
+            </div>
+
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4 class="mb-0">
+                            Dashboard</h4>
+                    </div>
+                </div>
+                <p>Whether you have one station or hundreds, see them at a glance and access data from a central
+                    dashboard.</p>
+                <!-- End Icon Block -->
+            </div>
+
+            <div class="col-sm-6 col-md-4">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
                         <img class="img-fluid" src="assets/svg/icons/icon-28.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>Share Better</h4>
-                        <p>Subscribe to Data archives and reports. View data and report from anywhere and share insights
-                            with your team.</p>
+                        <h4 class="mb-0">Research Friendly</h4>
                     </div>
                 </div>
-                <!-- End Icon Blocks -->
-            </div>
-
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Solar Powered</h4>
-                        <p>No socket needed. Yuktix stations work on solar power. Yuktix stations are running in remote
-                            mountains, sea coasts and Jungles.</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-
-            <div class="w-100"></div>
-
-
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-0">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-19.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Dashboard</h4>
-                        <p>Whether you have one station or hundreds, see them at a glance and access data from a central
-                            dashboard.</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-
-            <div class="col-md-6 col-lg-5">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-7.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Research Friendly</h4>
-                        <p>We maintain daily archive of raw data for your own analysis. Download and load data in excel.
-                            We also provide a python SDK.</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-            <div class="w-100"></div>
-            <br>
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-0">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-19.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Tough & Tested</h4>
-                        <p>Yuktix stations have been running day in and out, in rain and thunderstorms. You can also
-                            send data through SMS.</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-
-            <div class="col-md-6 col-lg-5">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-7.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Go Automatic</h4>
-                        <p>Get rid of tedious manual reporting processes. Download all the required data with one click
-                            of a button.</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
+                <p>We maintain daily archive of raw data for your own analysis. Download and load data in excel. We also
+                    provide a python SDK.</p>
+                <!-- End Icon Block -->
             </div>
         </div>
+        <div class="row mb-5 mb-md-9">
+
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4 class="mb-0">Tough & Tested</h4>
+                    </div>
+                </div>
+                <p>Yuktix stations have been running day in and out, in rain and thunderstorms. You can also send
+                    data
+                    through SMS.</p>
+                <!-- End Icon Block -->
+            </div>
+
+            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <figure class="w-100 max-w-6rem mr-3">
+                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4 class="mb-0">
+                            Go Automatic</h4>
+                    </div>
+                </div>
+                <p>Get rid of tedious manual reporting processes. Download all the required data with one click of a
+                    button.</p>
+                <!-- End Icon Block -->
+            </div>
+
+            <div class="col-sm-6 col-md-4">
+                <!-- Icon Block -->
+                <div class="media align-items-center mb-2">
+                    <div class="text-center">
+                        <div class="mb-3">
+                            <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mx-1"
+                                href="cnntact.php">Start
+                                Monitoring Your Farm</a>
+                            <a class="btn btn-link mb-2 mb-sm-0 mx-1" href="contact.php">Let's Talk <i
+                                    class="fas fa-angle-right fa-sm ml-1"></i></a>
+                        </div>
+                        <p class="small">Talk to our Agri Expert</p>
+
+                    </div>
+                    <!-- End Icon Block -->
+                </div>
+            </div>
+            <!-- End Icon Blocks -->
+        </div>
     </div>
+
+    </div>
+    <!-- End Features Section -->
+
     <!-- End Services Section -->
     <br>
     <div class="container-fluid" id="how-yuk">
@@ -275,7 +296,7 @@
                     <h2 class="text-center">How Weather Station Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/vbXB2BnnAg4" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>
@@ -382,25 +403,31 @@
         <div class="container">
             <div class="row mx-n2">
                 <div class="col-6 col-md px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);"></div>
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);">
+                    </div>
                 </div>
                 <div class="col-md-3 d-none d-md-block px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);"></div>
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);">
+                    </div>
                 </div>
                 <div class="col-6 col-md px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);"></div>
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);">
+                    </div>
                 </div>
 
                 <div class="w-100"></div>
 
                 <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);"></div>
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);">
+                    </div>
                 </div>
                 <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);"></div>
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);">
+                    </div>
                 </div>
                 <div class="col-6 col-md px-2">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);"></div>
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);">
+                    </div>
                 </div>
             </div>
         </div>
@@ -420,7 +447,8 @@
                                 <h4 class="mb-1">Real time graphs</h4>
                                 <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time
                                     sensitive
-                                    data like Rain intensity and tiniest variations with ease. No more waiting for
+                                    data like Rain intensity and tiniest variations with ease. No more waiting
+                                    for
                                     tomorrow.
                                 </p>
                             </div>
@@ -436,9 +464,12 @@
                             </figure>
                             <div class="media-body">
                                 <h4 class="mb-1">Analyze Report</h4>
-                                <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to sms
+                                <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to
+                                    sms
                                     alerts.
-                                    Set your own condition for alerts. We provide reports in IMD compliant format. Ask
+                                    Set your own condition for alerts. We provide reports in IMD compliant
+                                    format.
+                                    Ask
                                     for
                                     custom reports.</p>
                             </div>
@@ -454,7 +485,9 @@
                             </figure>
                             <div class="media-body">
                                 <h4 class="mb-1">Personalized Monitoring</h4>
-                                <p class="font-size-1 mb-0">Download your data as excel files. Do your own analysis. Use
+                                <p class="font-size-1 mb-0">Download your data as excel files. Do your own
+                                    analysis.
+                                    Use
                                     Yuktix python SDK and REST API to write custom clients.</p>
                             </div>
                         </div>
@@ -476,7 +509,8 @@
                             <p class="text-white-70 mb-0"></p>
                         </div>
                         <div class="col-md-3 text-md-right">
-                            <a class="btn btn-light transition-3d-hover" href="sensor-catalog.php">Explore Sensor
+                            <a class="btn btn-light transition-3d-hover" href="sensor-catalog.php">Explore
+                                Sensor
                                 Catalogue</a>
                         </div>
                     </div>
@@ -514,7 +548,7 @@
             <div class="container">
                 <div class="row content">
                     <div class="col-md-4" data-aos="fade-right">
-                        <img src="assets/media/images/dashboard.png" class="img-fluid" alt="">
+                        <img src="assets/media/images/500.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-8" data-aos="fade-up">
                         <h3>Case Study 1</h3>
@@ -522,7 +556,8 @@
                         <p class="lead">
                             Manage your agriculture devices and data over the Yuktix device cloud. Provision and
                             categorize
-                            devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run different
+                            devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run
+                            different
                             processing pipelines, integrate with google big query or Microcoft azure.
                         </p>
                         <br>
@@ -536,14 +571,17 @@
 
                 <div class="row content">
                     <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                        <img src="assets/media/images/yuktixdevice.png" class="img-fluid" alt="">
+                        <img src="assets/media/images/500.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                         <h3>Case Study 2</h3>
                         <br>
                         <p class="lead">
-                            Plug multiple agriculture sensors into the low powered device nodes with solar charging and
-                            battery back-up. Multiple wireless options available. On-board memory and processing.
+                            Plug multiple agriculture sensors into the low powered device nodes with solar
+                            charging
+                            and
+                            battery back-up. Multiple wireless options available. On-board memory and
+                            processing.
                             <br>
                             The ankiDB micro stack comprises of hardware nodes and routers and firmware.
                         </p>

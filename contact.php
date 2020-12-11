@@ -28,11 +28,8 @@
     <!--Header end-->
     <br><br><br>
     <!-- Contact Form Section -->
-    <div class="container">
-        <div class="row">
-            <div class="col"><br><br><br></div>
-        </div>
-    </div>
+
+
     <div class="container space-2">
         <div class="row">
             <div class="col-lg-6 mb-9 mb-lg-0">
@@ -65,6 +62,18 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="mb-3">
+                            <span class="d-block h5 mb-1">Address:</span>
+                            <span class="d-block text-body font-size-1"><b>Yuktix Technologies</b><BR>
+                                No. 1713, Floor-2, 19 Main
+                                Sector-2, HSR Layout
+                                Bangalore, Karnataka, 560102</span>
+                            <a class="font-size-14" target="_blank" href="https://goo.gl/maps/yKmwCpsxWD3kPAut9">View on
+                                Google map ></a>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="mb-3">
                             <span class="d-block h5 mb-1">Call us:</span>
                             <span class="d-block text-body font-size-1">+91-80 2572 9456</span>
                             <span class="d-block text-body font-size-1">+91-888 431 5300</span>
@@ -76,18 +85,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-6">
-                        <div class="mb-3">
-                            <span class="d-block h5 mb-1">Address:</span>
-                            <span class="d-block text-body font-size-1"><b>Yuktix Technologies</b><BR>
-                                No. 1713, Floor-2, 19 Main
-                                Sector-2, HSR Layout
-                                Bangalore, Karnataka, 560102</span>
-                            <a class="font-size-14" target="_blank" href="https://goo.gl/maps/yKmwCpsxWD3kPAut9">View on
-                                Google map ></a>
-                            </span>
-                        </div>
-                    </div>
+
                 </div>
             </div>
 

@@ -34,11 +34,11 @@
 
     <!-- Hero Section -->
     <div class="clearfix mx-4">
-        <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-vh-md-100"
+        <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-vh-md-100 "
             data-options='{direction: "normal"}'>
             <!-- Apply your Parallax background image here -->
-            <div class="divimage dzsparallaxer--target"
-                style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg);"></div>
+            <div class="divimage dzsparallaxer--target "
+                style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg); opacity: 0.4;"></div>
 
             <div class="d-md-flex space-3 space-md-0">
                 <div
@@ -168,7 +168,7 @@
         <div class="container">
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/farmer.jpeg" class="img-fluid" alt="">
+                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Climate Resiliant Agriculture for tribal farmers</h3>
@@ -189,15 +189,15 @@
 
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/farmer.jpeg" class="img-fluid" alt="">
+                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Micro-Weather monitoring in a Tea-Estate</h3>
                     <br>
                     <p class="lead">
-                        With changing climate, there is no digital input for tribal farmers to use climate smart
-                        agriculture practices. Farmers produce is effected by changing land patterns, rainfall and
-                        excessive use of pesticide and insecticide
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book.
                     </p>
                     <br>
                     <a href="#">
@@ -296,7 +296,7 @@
                         <h2 class="display-5">How Yuktix is transforming agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/vbXB2BnnAg4" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>

@@ -25,7 +25,7 @@
     ?>
     <!--Header end-->
     <!-- Hero Section -->
-    <div class="container space-top-3 space-top-lg-4 space-bottom-2 space-bottom-lg-3">
+    <div class="container space-top-3 space-top-lg-3 space-bottom-2 space-bottom-lg-3">
         <div class="row justify-content-lg-between mb-7">
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
@@ -46,10 +46,10 @@
                 <!-- End Info -->
             </div>
 
-            <div class="col-md-6 d-none d-md-inline-block">
+            <div class="col-md-4 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
-                    <img class="img-fluid" src="assets/svg/illustrations/hiker-man.svg" alt="Image Description">
+                    <img class="img-fluid" src="assets/media/images/500.png" alt="Image Description">
                 </figure>
                 <!-- End SVG Illustration -->
             </div>

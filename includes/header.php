@@ -9,7 +9,7 @@
             <nav class="js-mega-menu navbar navbar-expand-lg">
                 <!-- Logo -->
                 <a class="navbar-brand" href="index.php" aria-label="Front">
-                    <img width="45px" height="45px" src="assets/svg/logos/yuktix-logo.svg" alt="Logo">
+                    <img width="40px" height="40px" src="assets/svg/logos/yuktix-logo.svg" alt="Logo">
                 </a>
                 <!-- End Logo -->
 
@@ -72,8 +72,9 @@
                             <a class="nav-link" href="contact.php">Contact</a>
                         </li>
                         <li class="nav-item navbar-nav-last-item">
-                            <a class="btn btn-primary btn-sm transition-3d-hover" href="https://cloud.yuktix.com"
-                                target="_blank">ankiDB™ cloud</a>
+                            <a class="btn btn-primary btn-sm transition-3d-hover"
+                                href="http://webm01-dev.yuktix.com:8001/login/green.php" target="_blank">GreenSense
+                                Login</a>
                         </li>
                     </ul>
                 </div>

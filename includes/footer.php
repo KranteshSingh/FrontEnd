@@ -1,7 +1,10 @@
 <!-- ========== FOOTER ========== -->
+<hr style="position: relative; width:80%; border: none; height: 1px; background: grey; 
+            ">
 <footer class="container footer">
     <div class="space-top-1 space-bottom-1 space-bottom-lg-1">
         <div class="row justify-content-lg-between">
+
             <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
                 <h5>Yuktix Technologies PVT. LTD.</h5>
                 <!-- Nav Link -->

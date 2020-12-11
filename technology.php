@@ -30,7 +30,7 @@
     <div class="container space-3">
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
-                <img class="img-fluid" src="assets/svg/illustrations/reading.svg" alt="Image Description">
+                <img class="img-fluid" src="assets/media/images/500.png" alt="Image Description">
             </div>
 
             <div class="col-md-6">

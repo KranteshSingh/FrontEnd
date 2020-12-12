@@ -497,7 +497,9 @@
             </div>
         </div>
         <!-- End Features Section -->
+
         <br>
+
         <br>
         <!-- CTA Section -->
         <div class="container">
@@ -594,6 +596,155 @@
                     </div>
                 </div>
         </section>
+        <!-- Testimonials Section -->
+        <div class="container space-1">
+            <!-- Title -->
+            <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
+                <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
+            </div>
+            <!-- End Title -->
+
+            <!-- Testimonials Section -->
+            <div class="row">
+                <!-- Testimonials -->
+                <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <ul class="list-inline text-warning">
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                            </ul>
+                            <div class="mb-auto">
+                                <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I
+                                    also
+                                    get weather updates in real time, irrigation advisory. Have reduced water usage in
+                                    each
+                                    farm by 30% and production have improved by almost 50%. ”</p>
+                            </div>
+                        </div>
+
+                        <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
+                            <div class="media align-items-center">
+                                <div class="avatar avatar-circle mr-3">
+                                    <img class="avatar-img" src="assets/media/images/manavatar.jpg"
+                                        alt="Image Description">
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="mb-0">Aruna Urs</h4>
+                                    <small class="d-block text-body">Farmer, Sakleshpur</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Testimonials -->
+
+                <!-- Testimonials -->
+                <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <ul class="list-inline text-warning">
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                            </ul>
+                            <div class="mb-auto">
+                                <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate.
+                                    Irrigation
+                                    and rain play a important role in Guava cultivation. With Yuktix now i can monitor
+                                    soil
+                                    moisture in multiple location as well as weather forecats.”</p>
+                            </div>
+                        </div>
+
+                        <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
+                            <div class="media align-items-center">
+                                <div class="avatar avatar-circle mr-3">
+                                    <img class="avatar-img" src="assets/media/images/manavatar.jpg"
+                                        alt="Image Description">
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="mb-0">Shankar</h4>
+                                    <small class="d-block text-body">CEO - NTR Farms & KGF</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Testimonials -->
+
+                <!-- Testimonials -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <ul class="list-inline text-warning">
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                <li class="list-inline-item mx-0">
+                                    <i class="fas fa-star"></i>
+                                </li>
+                            </ul>
+                            <div class="mb-auto">
+                                <p class="text-dark mb-0">"Yuktix GreenSense for Greenhouse allowed me to monitor
+                                    micro-weather inside my Greenhouse in COVID time, share it with my agronomist, get
+                                    advisory from him. It got the advisory implemented and saved my plants from Downy
+                                    Mildew" </p>
+                            </div>
+                        </div>
+
+                        <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
+                            <div class="media align-items-center">
+                                <div class="avatar avatar-circle mr-3">
+                                    <img class="avatar-img" src="assets/media/images/manavatar.jpg"
+                                        alt="Image Description">
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="mb-0">Nitin Kumar</h4>
+                                    <small class="d-block text-body">Owner, NT Farms, Dodballapur</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Testimonials -->
+            </div>
+        </div>
+        <!-- End Testimonials Section -->
         <?php
         include 'includes/footer.php';
         ?>

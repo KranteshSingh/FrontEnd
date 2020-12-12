@@ -45,7 +45,7 @@
                     class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
                     <div class="container space-top-3 space-bottom-1 space-bottom-sm-2">
                         <div class="w-lg-100">
-                            <h1 class="display-3 mb-5 text-white herotext">
+                            <h1 class="display-3 mb-2 text-white herotext">
                                 Agriculture Intelligence for<br>
                                 <span class="text-warning">
                                     <span class="js-text-animation"></span>
@@ -63,7 +63,7 @@
         </div>
     </div>
     <!-- End Hero Section -->
-    <br><br>
+
     <!-- CTA Section -->
     <div class="container space-1">
         <div class="text-center py-6">
@@ -80,7 +80,7 @@
     <!-- End CTA Section -->
 
     <!-- Features Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <h2 class="display-5">Our Key Values</h2>
@@ -293,7 +293,7 @@
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-3 mb-md-9 mt-2">
-                        <h2 class="display-5">How Yuktix is transforming agriculture with Technology</h2>
+                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
@@ -421,7 +421,7 @@
         });
         // initialization of text animation (typing)
         var typed = new Typed(".js-text-animation", {
-            strings: ["more yield", "reduce losses", "new age farmer"],
+            strings: ["More Yield", "Monitoring Farm", "New Age Farmer"],
             typeSpeed: 70,
             loop: true,
             backSpeed: 40,

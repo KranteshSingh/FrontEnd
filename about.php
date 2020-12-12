@@ -29,9 +29,10 @@
         <div class="row justify-content-lg-between mb-7">
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
-                <div class="mb-5">
+                <div class="mb-5 mt-2">
                     <h1>About Yuktix</h1>
-                    <p>Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup and a
+                    <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
+                        and a
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
                 </div>
 
@@ -221,7 +222,7 @@
         End Hero Section -->
 
         <!-- Stats Section -->
-        <div class="container space-top-lg-1 space-bottom-2 space-bottom-lg-3">
+        <div class="container space-top-lg-1 space-bottom-2 space-bottom-lg-1">
             <div class="row justify-content-lg-center">
                 <div class="col-sm-4 col-lg-3 mb-7 mb-sm-0">
                     <!-- Stats -->
@@ -261,21 +262,6 @@
         </div>
         <!-- End Divider -->
 
-        <!-- About Section 
-        <div class="container space-2 space-lg-3">
-            <div class="row justify-content-lg-between">
-                <div class="col-lg-4 mb-5 mb-lg-0">
-                    <h2>Tools should adapt to the user, not the other way around.</h2>
-                </div>
-                <div class="col-lg-6">
-                    <p>Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup and a
-                        registered MSME working to create indigenous remote monitoring and sensor analytic solutions.
-                    </p>
-                </div>
-            </div>
-        </div>
-         End About Section -->
-
         <!-- Divider -->
         <div class="container">
             <div class="w-lg-65 mx-lg-auto">
@@ -293,39 +279,46 @@
             </div>
             <!-- End Title -->
 
-            <div class="row mx-n2 mb-5">
+            <div class="row mx-n2 mb-1">
                 <div class="col-sm-6 col-lg-6 px-2 mb-3">
                     <!-- Team -->
                     <div class="card h-100 transition-3d-hover">
                         <div class="card-body">
-                            <div class="avatar avatar-lg avatar-circle mb-4">
-                                <img class="avatar-img" src="assets/media/images/rajiv.jpg" alt="Image Description">
+                            <div class="text-center">
+                                <div class="avatar avatar-lg avatar-circle mb-4">
+                                    <img class="avatar-img" src="assets/media/images/rajiv.jpg" alt="Image Description">
+                                </div>
+                                <span class="d-block small font-weight-bold text-cap mb-1">Founder / CEO</span>
+                                <h4 class="text-lh-sm">Rajeev Jha</h4>
+                                <p class="font-size-1">Rajeev has 15+ years of experience in software industry. He
+                                    worked
+                                    for Oracle, Citrix, AOL and startups Indegene (Healthcare) and Everypath (mobile).
+                                    He
+                                    has a masters (Integrated) degree in Physics from IIT Kanpur and PGSEM diploma from
+                                    IIM
+                                    Bangalore.</p>
                             </div>
-                            <span class="d-block small font-weight-bold text-cap mb-1">Founder / CEO</span>
-                            <h4 class="text-lh-sm">Rajeev Jha</h4>
-                            <p class="font-size-1">Rajeev has 15+ years of experience in software industry. He worked
-                                for Oracle, Citrix, AOL and startups Indegene (Healthcare) and Everypath (mobile). He
-                                has a masters (Integrated) degree in Physics from IIT Kanpur and PGSEM diploma from IIM
-                                Bangalore.</p>
                         </div>
 
                         <div class="card-footer border-0 pt-0">
                             <!-- Social Networks -->
-                            <ul class="list-inline mb-0">
-                                <li class="list-inline-item">
-                                    <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
-                                        href="https://www.linkedin.com/in/rjha94">
-                                        <i class="fab fa-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
-                                        href="https://twitter.com/rjha94">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                            <!-- End Social Networks -->
+                            <div class="text-center">
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item">
+                                        <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
+                                            href="https://www.linkedin.com/in/rjha94">
+                                            <i class="fab fa-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
+                                            href="https://twitter.com/rjha94">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <!-- End Social Networks -->
+                            </div>
                         </div>
                     </div>
                     <!-- End Team -->
@@ -335,34 +328,40 @@
                     <!-- Team -->
                     <div class="card h-100 transition-3d-hover">
                         <div class="card-body">
-                            <div class="avatar avatar-lg avatar-circle mb-4">
-                                <img class="avatar-img" src="assets/media/images/shailendra.jpg"
-                                    alt="Image Description">
+                            <div class="text-center">
+                                <div class="avatar avatar-lg avatar-circle mb-4">
+                                    <img class="avatar-img" src="assets/media/images/shailendra.jpg"
+                                        alt="Image Description">
+                                </div>
+                                <span class="d-block small font-weight-bold text-cap mb-1">Co-Founder</span>
+                                <h4 class="text-lh-sm">Shailendra Singh</h4>
+                                <p class="font-size-1">Shailendra is an electronics graduate from UPTU, Lucknow. He
+                                    worked
+                                    at Thinvent technologies and Silverline EDA as embedded engineer. He is a robotics
+                                    and
+                                    DIY Enthusiast who worked on a Department of Defense UAV project.</p>
                             </div>
-                            <span class="d-block small font-weight-bold text-cap mb-1">Co-Founder</span>
-                            <h4 class="text-lh-sm">Shailendra Singh</h4>
-                            <p class="font-size-1">Shailendra is an electronics graduate from UPTU, Lucknow. He worked
-                                at Thinvent technologies and Silverline EDA as embedded engineer. He is a robotics and
-                                DIY Enthusiast who worked on a Department of Defense UAV project.</p>
                         </div>
 
                         <div class="card-footer border-0 pt-0">
                             <!-- Social Networks -->
-                            <ul class="list-inline mb-0">
-                                <li class="list-inline-item">
-                                    <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
-                                        href="https://www.linkedin.com/in/shailendrasingh0408/">
-                                        <i class="fab fa-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
-                                        href="https://twitter.com/srj0408">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                            <!-- End Social Networks -->
+                            <div class="text-center">
+                                <ul class="list-inline mb-0">
+                                    <li class="list-inline-item">
+                                        <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
+                                            href="https://www.linkedin.com/in/shailendrasingh0408/">
+                                            <i class="fab fa-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <a class="btn btn-xs btn-icon btn-soft-secondary rounded"
+                                            href="https://twitter.com/srj0408">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <!-- End Social Networks -->
+                            </div>
                         </div>
                     </div>
                     <!-- End Team -->
@@ -370,7 +369,7 @@
     </main>
     <!-- ========== END MAIN ========== -->
     <!-- Team Section -->
-    <div class="container space-2 space-lg-0">
+    <div class="container space-1 space-lg-0">
         <!-- Title -->
         <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Ideas + Innovation</span>
@@ -459,7 +458,7 @@
 
     </div>
     <!-- End Team Section -->
-    <br><br><br>
+
 
     </main>
     <!-- ========== END MAIN ========== -->

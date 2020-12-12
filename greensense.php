@@ -46,7 +46,7 @@
     <!-- Features Section -->
     <div class="container space-2 text-center">
         <div class="mb-9">
-            <h2 class="h1">What can you do with Front?</h2>
+            <h2 class="h1">What can you do with Greensense Devices?</h2>
         </div>
 
         <div class="position-relative pt-5 pb-3 pt-md-11 pb-md-7">
@@ -83,13 +83,13 @@
                     <div class="js-slide mt-1 mb-3">
                         <div class="card flex-wrap flex-row">
                             <div class="card-body py-6">
-                                <h3 class="mb-5">40% reduction in Water Usage</h3>
+                                <h3 class="mb-5">40% Reduction in Water</h3>
                                 <figure class="max-w-27rem w-100 mx-auto mb-4">
                                     <img class="img-fluid" src="assets/svg/illustrations/server-woman.svg"
                                         alt="Image Description">
                                 </figure>
-                                <p>Communication in Front happens in channels, organized by project, topic, team, or
-                                    whatever makes sense for you.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. </p>
                             </div>
                         </div>
                     </div>
@@ -104,8 +104,8 @@
                                     <img class="img-fluid" src="assets/svg/illustrations/full-stack.svg"
                                         alt="Image Description">
                                 </figure>
-                                <p>Front works with the tools and services you already use every day. Pipe in
-                                    information or take action without leaving Front.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. </p>
                             </div>
                         </div>
                     </div>
@@ -120,8 +120,8 @@
                                     <img class="img-fluid" src="assets/svg/illustrations/business-woman.svg"
                                         alt="Image Description">
                                 </figure>
-                                <p>We take security seriously at Slack. We offer measures like 2FA and SSO to ensure the
-                                    safety of your data and protect your organization.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. </p>
                             </div>
                         </div>
                     </div>
@@ -222,13 +222,13 @@
         <!-- End Title -->
 
         <!-- Features -->
-        <div class="w-lg-60 mx-lg-auto mb-5">
+        <div class="w-lg-60 mx-lg-auto mb-2">
             <div class="row mx-n2">
                 <div class="col-sm-4 px-2 mb-3 mb-sm-0">
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
                         <h2 class="h3 mb-1">Micro-Weather</h2>
 
@@ -254,7 +254,7 @@
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-29.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
                         <h3 class="mb-1">Disease Prediction</h3>
                         <p class="font-size-1">Get advance notification about crop disease before they happen</p>
@@ -268,7 +268,7 @@
                         <!-- Icon Block -->
                         <div class="border-dashed text-center rounded p-4">
                             <figure class="w-100 max-w-8rem mx-auto mb-3">
-                                <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
+                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                             </figure>
                             <h2 class="h3 mb-1">Micro-Weather</h2>
 
@@ -298,7 +298,7 @@
 
     <!-- End Features Section -->
     <!-- Testimonials Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
             <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
@@ -449,18 +449,18 @@
         </div>
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/1.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/1.jpg);">
 
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Potato</figcaption>
             </div>
             <div class="col-md-4 d-none d-md-block px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/2.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/2.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tomato</figcaption>
             </div>
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/3.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/3.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Capcicum</figcaption>
             </div>
@@ -468,33 +468,34 @@
             <div class="w-100"></div>
 
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/4.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/4.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Mango</figcaption>
             </div>
             <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/5.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/5.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Pomegranate</figcaption>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/6.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/6.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tea</figcaption>
             </div>
             <div class="w-100"></div><br>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/7.jpg);">
-                </div>
-                <figcaption class="figure-caption text-center mt-2">Guava</figcaption>
-            </div>
+
             <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/8.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/8.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Coffee</figcaption>
             </div>
+            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/7.jpg);">
+                </div>
+                <figcaption class="figure-caption text-center mt-2">Guava</figcaption>
+            </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/9.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/9.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Coconut</figcaption>
             </div>
@@ -509,44 +510,44 @@
         </div>
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw.jpg);">
                 </div>
             </div>
             <div class="col-md-4 d-none d-md-block px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw1.png);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw1.png);">
                 </div>
             </div>
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw2.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw2.jpg);">
                 </div>
             </div>
 
             <div class="w-100"></div>
 
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw3.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw3.jpg);">
                 </div>
             </div>
             <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw4.png);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw4.png);">
                 </div>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw5.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw5.jpg);">
                 </div>
             </div>
             <div class="w-100"></div>
             <br>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw6.jpg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw6.jpg);">
                 </div>
             </div>
             <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw7.jpeg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw7.jpeg);">
                 </div>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/qw8.jpeg);">
+                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw8.jpeg);">
                 </div>
             </div>
         </div>
@@ -566,11 +567,11 @@
     </div>
     <!-- End CTA Section -->
 
-    <!-- Header -->
+    <!-- Footer -->
     <?php
     include 'includes/footer.php';
     ?>
-    <!--Header end-->
+    <!--Footer end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>

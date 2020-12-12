@@ -694,7 +694,7 @@
     </div>
     <!-- End Testimonials Section -->
 
-    <br><br><br><br><br><br>
+
     <!-- Header -->
     <?php
     include 'includes/footer.php';

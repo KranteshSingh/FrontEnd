@@ -369,59 +369,20 @@
                 <!-- Device Mockup -->
                 <div class="device-wrapper">
                     <div class="device">
-                        <img class="img-fluid" src="assets/svg/components/macbook.svg" alt="Image Description">
-                        <img class="device-macbook-screen" src="assets/media/images/dashboard.png"
+                        <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
                             alt="Image Description">
-                    </div>
-                    <div class="device device-iphone-x">
-                        <img class="device-iphone-x-frame" src="assets/svg/components/iphone-x.svg"
-                            alt="Image Description">
-                        <img class="device-iphone-x-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                </div>
-                <!-- End Device Mockup -->
-            </div>
 
-            <div class="tab-pane fade" id="pills-two-code-features-example1" role="tabpanel"
-                aria-labelledby="pills-two-code-features-example1-tab">
-                <!-- Device Mockup -->
-                <div class="device-wrapper">
-                    <div class="device">
-                        <img class="img-fluid" src="assets/svg/components/macbook.svg" alt="Image Description">
-                        <img class="device-macbook-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
                     </div>
-                    <div class="device device-iphone-x">
-                        <img class="device-iphone-x-frame" src="assets/svg/components/iphone-x.svg"
-                            alt="Image Description">
-                        <img class="device-iphone-x-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                </div>
-                <!-- End Device Mockup -->
-            </div>
 
-            <div class="tab-pane fade" id="pills-three-code-features-example1" role="tabpanel"
-                aria-labelledby="pills-three-code-features-example1-tab">
-                <!-- Device Mockup -->
-                <div class="device-wrapper">
-                    <div class="device">
-                        <img class="img-fluid" src="assets/svg/components/macbook.svg" alt="Image Description">
-                        <img class="device-macbook-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                    <div class="device device-iphone-x">
-                        <img class="device-iphone-x-frame" src="assets/svg/components/iphone-x.svg"
-                            alt="Image Description">
-                        <img class="device-iphone-x-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
                 </div>
-                <!-- End Device Mockup -->
             </div>
+            <!-- End Device Mockup -->
         </div>
-        <!-- End Tab Content -->
+
+
+    </div>
+    </div>
+    <!-- End Tab Content -->
     </div>
     <!-- End Features Section -->
     <!-- Features Section -->

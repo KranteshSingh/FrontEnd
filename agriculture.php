@@ -147,6 +147,23 @@
         </div>
     </section><!-- End Details Section -->
 
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <div>
+                    <div class="w-md-75 w-lg-70 text-center mx-md-auto mb-3 mb-md-9 mt-2">
+                        <h2 class="display-5">Changing the way How Agriculture is Done
+                        </h2>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                            width="920" height="450" src="https://www.youtube.com/embed/QNXhiP2UhsY" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br>
     <?php
     include 'includes/footer.php';
     ?>

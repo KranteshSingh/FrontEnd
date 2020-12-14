@@ -52,25 +52,7 @@
 
                     <div class="mx-2"></div>
 
-                    <!-- Fancybox -->
-                    <a class="js-fancybox video-player video-player-btn media align-items-center text-dark mb-2"
-                        href="javascript:;" data-hs-fancybox-options='{
-             "src": "//youtube.com/0qisGSwZym4",
-             "caption": "Front - Responsive Website Template",
-             "speed": 700,
-             "buttons": ["fullScreen", "close"],
-             "youtube": {
-               "autoplay": 1
-             }
-           }'>
-                        <span class="video-player-icon shadow-soft mr-3">
-                            <i class="fa fa-play"></i>
-                        </span>
-                        <span class="media-body">
-                            How it works
-                        </span>
-                    </a>
-                    <!-- End Fancybox -->
+
                 </div>
             </div>
         </div>
@@ -84,23 +66,16 @@
                     alt="Responsive image"></div>
 
         </div>
-        <div class="row justify-content-lg-center">
-            <div class="col-md-8 producttext align-self-center">
-                <p>The ankiDB™ solution comprises of ankiDB™ micro and ankiDB™
-                    cloud.
-                    <br><br>
-                    The ankiDB™ micro is our hardware and firmware for gathering data from sensors, machines and
-                    processes. The ankiDB™ micro solution is optimized for low power and provides next generation
-                    technology to create ad hoc wireless sensor networks from fields to factory floors.
-                    <br><br>
-                    Together with ankiDB™ cloud solution it provides a low code cost effective solution to bring data
-                    out of silos and on the network for everyone to share and analyze. The ankiDB™ cloud solution
-                    provides facilities for device management, data storage, alarms for anomalies and analysis. The
-                    ankiDB™ stack allows for rapid deployment of data gathering and analysis solutions in multiple
-                    situations.
-                </p>
-            </div>
+    </div>
+    <br>
+    <div class="row justify-content-lg-center">
+        <div class="col-md-6 producttext align-self-center">
+            <h2>The ankiDB™ solution comprises of ankiDB™ micro and ankiDB™
+                cloud.</h2>
+            <br><br>
+
         </div>
+    </div>
     </div>
 
     <div class="position-relative u-gradient-half-primary-v3">
@@ -111,7 +86,7 @@
                         <br>
                         <strong class="font-weight-bold">ankiDB&trade; Cloud</strong>
                     </h2>
-                    <p class="">
+                    <p>
                         Manage your devices and data over the Yuktix device cloud. Provision and categorize devices,
                         view trends, analyze data and set rule base alerts.
                     </p>
@@ -125,7 +100,7 @@
     <!-- Services Section -->
     <div class="container space-2">
         <!-- Title -->
-        <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-9">
+        <div class="w-md-80 w-lg-70 text-center mx-md-auto mb-9">
             <span class="d-block small font-weight-bold text-cap mb-2">ankiDB Cloud</span>
             <h2>Features</h2>
         </div>
@@ -140,8 +115,7 @@
                     </figure>
                     <div class="media-body">
                         <h4>Account Management</h4>
-
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -149,7 +123,7 @@
                                 Add multiple accounts that can be public as well as private.
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -157,7 +131,7 @@
                                 Add users to an account
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -165,7 +139,7 @@
                                 Set passwords for users
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -189,7 +163,7 @@
                     </figure>
                     <div class="media-body">
                         <h4>User Management</h4>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -197,7 +171,7 @@
                                 Add users
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -205,7 +179,7 @@
                                 Assign users in administrator roles
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -213,7 +187,7 @@
                                 Only users in administrator roles can perform admin tasks
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -237,7 +211,7 @@
                     <div class="media-body">
                         <h4>Notifications</h4>
 
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -245,7 +219,7 @@
                                 Add triggers based on channel data and device serial number
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -253,7 +227,7 @@
                                 List all the triggers for an account
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -261,7 +235,7 @@
                                 Add/ Edit/ Remove triggers
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -282,7 +256,7 @@
                     </figure>
                     <div class="media-body">
                         <h4>Device Management</h4>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -290,7 +264,7 @@
                                 Create device with universal serial numbers
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -298,7 +272,7 @@
                                 Add channels to the device
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -306,7 +280,7 @@
                                 Add metadata to device
                             </div>
                         </div>
-                        <div class="media mb-4">
+                        <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
                             </span>
@@ -375,7 +349,7 @@
         <!-- Features Section -->
         <div class="container space-2">
             <!-- Title -->
-            <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <div class="w-md-80 w-lg-80 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2">Features</span>
                 <h2>ankiDB™ micro</h2>
             </div>
@@ -462,169 +436,41 @@
                 </div>
 
             </div>
+
+            <br>
             <div class="row">
-                <div class="col-md-6 mb-5 mb-md-0">
+                <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                     <!-- Icon Blocks -->
-                    <div class="text-center px-lg-3">
+                    <div class="media">
                         <span class="mr-3">—</span>
-                        <h3>Cloud Ready</h3>
-                        <p>ankiDB micro devices are cloud ready, just plug the power and start accessing data in real
-                            time using ankiDB cloud.</p>
+                        <div class="media-body">
+                            <h2 class="h4">Cloud Ready</h2>
+                            <p>ankiDB micro devices are cloud ready, just plug the power and start accessing data in
+                                real time using ankiDB cloud.</p>
+                        </div>
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
 
-                <div class="col-md-6 mb-5 mb-md-0">
+                <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                     <!-- Icon Blocks -->
-                    <div class="text-center px-lg-3">
+                    <div class="media">
                         <span class="mr-3">—</span>
-                        <h3>Scale Network Topologies</h3>
-                        <p>ankiDB micro allow user to use different network topologies as per their set-up like direct
-                            to cloud, local wireless sensor network, Local IP network.</p>
+                        <div class="media-body">
+                            <h3 class="h4">Scale Network Topologies</h3>
+                            <p>ankiDB micro allow user to use different network topologies as per their set-up like
+                                direct to cloud, local wireless sensor network, Local IP network.</p>
+                        </div>
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
             </div>
+
             <!-- End Features Section -->
         </div>
     </div>
     <!-- Icon Blocks Section -->
-    <div class="container space-2 prod">
-        <div class="row justify-content-lg-center">
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-7">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>GSM</h4>
-                        <p>Send data online on GPRS or through SMS on cellular networks</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
 
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-7">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Wi-Fi</h4>
-                        <p>IEEE 802.15.4, 6LoWPAN and IEEE 802.11 wireless networks</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-
-            <div class="w-100"></div>
-
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-7 mb-lg-0">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Zigbee</h4>
-                        <p>Supports Zigbee and DigiMesh proprietary protocols
-                        </p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-
-            <div class="col-md-6 col-lg-5">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>RS485 / MODBUS</h4>
-                        <p>Serial Communication and MODBUS</p>
-                    </div>
-                </div>
-                <!-- End Icon Blocks -->
-            </div>
-        </div>
-    </div>
-    <!-- End Icon Blocks Section -->
-
-    <!-- Features Section -->
-    <div class="container space-2">
-        <div class="row justify-content-lg-between align-items-lg-center">
-            <div class="col-lg-6 mb-9 mb-lg-0">
-                <div class="mb-4">
-                    <h2>Solar Gateway</h2>
-                    <p>Yuktix solar powered gateway allow us to deploy a local wireless network and collect data from
-                        multiple locations in a off-grid deployment.</p>
-                </div>
-
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>Solar or Battery Powered</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>Option for 12v DC power supply.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>
-                            Local data storage - SD card.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>
-                            Easy to configure and multiple communication interface.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>
-                            GSM, Zigbee, Wi-Fi, Ethernet</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>
-                            Rugged IP67 enclosure.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <img class="img-fluid" src="assets/media/images/yuktix_edge_server.png" alt="SVG Illustration">
-            </div>
-
-        </div>
-    </div>
-    </div>
-    <!-- End Features Section -->
 
     <?php
     include 'includes/footer.php';

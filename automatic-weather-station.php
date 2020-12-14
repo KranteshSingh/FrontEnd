@@ -29,7 +29,7 @@
     <!--Header end-->
 
     <!-- Gallery Section -->
-    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather opacity: 0.4;"
+    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather gradient-x-overlay-sm-navy"
         style="background-image: url(assets/media/images/YuktixImage.jpg); ">
         <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
             <div class="w-sm-75 w-lg-100">
@@ -37,7 +37,6 @@
                 <h2 class="display-4 text-white herotext"><br>Next Generation <br>Solar Powered Automatic Weather
                     Station</h2>
             </div>
-
         </div>
     </div>
     <!-- End Gallery Section -->
@@ -504,28 +503,27 @@
         <!-- CTA Section -->
         <div class="container">
             <div class="w-lg-85 mx-lg-auto">
-                <div class="card bg-primary text-white overflow-hidden p-4">
+                <div class="card overflow-hidden p-5">
                     <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
-                        <div class="col-md-6 offset-md-3 mb-3 mb-md-0">
-                            <h3 class="text-white mb-1">Sensor Catalogue</h3>
-                            <p class="text-white-70 mb-0"></p>
+                        <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
+                            <h3 class="h4 text-indigo mb-0">Sensor Catalogue</h3>
                         </div>
-                        <div class="col-md-3 text-md-right">
-                            <a class="btn btn-light transition-3d-hover" href="sensor-catalog.php">Explore
-                                Sensor
-                                Catalogue</a>
+
+                        <div class="col-md-4 text-md-right">
+                            <a class="btn btn-primary transition-3d-hover" href="#">Explore Sensor Catalogue</a>
                         </div>
                     </div>
 
                     <!-- SVG Component -->
-                    <figure class="w-25 d-none d-md-block content-centered-y ml-n4">
-                        <img class="img-fluid" src="assets/svg/illustrations/communication.svg" alt="Image Description">
+                    <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
+                        <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
                     </figure>
                     <!-- End SVG Component -->
                 </div>
             </div>
         </div>
         <!-- End CTA Section -->
+
         <br>
         <br><br>
 

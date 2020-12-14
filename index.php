@@ -421,7 +421,7 @@
         });
         // initialization of text animation (typing)
         var typed = new Typed(".js-text-animation", {
-            strings: ["More Yield", "Monitoring Farm", "New Age Farmer"],
+            strings: ["More Yield", "Monitoring"],
             typeSpeed: 70,
             loop: true,
             backSpeed: 40,

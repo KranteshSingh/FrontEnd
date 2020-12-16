@@ -70,7 +70,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/brinc.png" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4>BRINC</h4>
@@ -86,7 +86,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/ccamp.png" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4>C-CAMP</h4>
@@ -104,7 +104,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/ceatec-japan.jpg" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4>CEATEC, Japan, 2016</h4>
@@ -122,7 +122,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/indo-israel.jpg" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4>India Israel Innovation Bridge Winner</h4>
@@ -140,7 +140,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/kits.png" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4>Karnataka Idea2POC Winner</h4>
@@ -160,7 +160,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/nasscom-emerge-50.png" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4>NASSCOM Emerge 50 </h4>

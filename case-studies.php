@@ -25,10 +25,79 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
+    <!-- Articles Section -->
+    <div class="container space-3">
+        <!-- Title -->
+        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <h2 class="h1">Read our case studies</h2>
+            <p>We've helped some great companies, famers, organisation in agriculture domain</p>
+        </div>
+        <!-- End Title -->
+
+        <div class="row mx-n2 mb-5 mb-md-9">
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-100 transition-3d-hover" href="case-study\agriculture-farm-management-co.php">
+                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <div class="card-body">
+                        <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY</span>
+                        <h5 class="mb-0">Agriculture Farm Management Company</h5>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-100 transition-3d-hover" href="case-study\commodities-trader-company.php">
+                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <div class="card-body">
+                        <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY</span>
+                        <h5 class="mb-0">Commodities Trader Company</h5>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
+                <!-- Card -->
+                <a class="card h-100 transition-3d-hover" href="case-study\food-fmcg-company.php">
+                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <div class="card-body">
+                        <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY</span>
+                        <h5 class="mb-0">Food FMCG Company</h5>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+
+            <div class="col-sm-6 col-lg-3 px-2">
+                <!-- Card -->
+                <a class="card h-100 transition-3d-hover" href="case-study\research-institutes-and-ngo.php">
+                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <div class="card-body">
+                        <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY</span>
+                        <h5 class="mb-0">Research Institutes and NGO</h5>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+        </div>
+
+        <!-- Info -->
+        <div class="position-relative z-index-2 text-center">
+            <div class="d-inline-block font-size-1 border bg-white text-center rounded-pill py-3 px-4">
+                Want to read more? <a class="font-weight-bold ml-3" href="#">Go here <span
+                        class="fas fa-angle-right ml-1"></span></a>
+            </div>
+        </div>
+        <!-- End Info -->
+    </div>
+    <!-- End Articles Section -->
     <br><br><br>
 
 
-    <br><br><br>
+
     <!-- Header -->
     <?php
     include 'includes/footer.php';

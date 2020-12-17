@@ -8,7 +8,7 @@
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg">
                 <!-- Logo -->
-                <a class="navbar-brand" href="index.php" aria-label="Front">
+                <a class="navbar-brand" href="index.php" aria-label="Yuktix">
                     <img width="40px" height="40px" src="assets/svg/logos/yuktix-logo.svg" alt="Logo">
                 </a>
                 <!-- End Logo -->
@@ -52,15 +52,10 @@
                                 <a class="dropdown-item" href="digital-rain-gauge.php">Digital Rain Gauge</a>
 
                                 <a class="dropdown-item" href="greenhouse-logger.php">Greenhouse Logger</a>
-
                             </div>
                         </li>
-
-
                         <!-- Pages -->
-
                         <!-- End Pages -->
-
                         <li class="navbar-nav-item">
                             <a class="nav-link" href="agriculture.php">Agriculture</a>
                         </li>

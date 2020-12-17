@@ -3,26 +3,26 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agriculture Farm Management Co | Yuktix </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Hello | Yuktix</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="../assets/favicon.ico">
+    <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap" rel="stylesheet">
     <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="../assets/vendor/font-awesome/css/all.min.css">
-    <link rel="stylesheet" href="../assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
-    <link rel="stylesheet" href="../assets/vendor/dzsparallaxer/dzsparallaxer.css">
-    <link rel="stylesheet" href="../assets/vendor/fancybox/dist/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
+    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
+    <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
     <!-- CSS Front Template -->
-    <link rel="stylesheet" href="../assets/css/theme.css">
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/theme.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
     <!-- Header -->
     <?php
-    include '../includes/header2.php';
+    include 'includes/header.php';
     ?>
     <!--Header end-->
     <br><br>
@@ -41,7 +41,7 @@
             </div>
 
             <div class="col-lg-7">
-                <img class="img-fluid" src="../assets/svg/illustrations/we-are-in-office-1.svg" alt="Image Description">
+                <img class="img-fluid" src="assets/svg/illustrations/we-are-in-office-1.svg" alt="Image Description">
             </div>
         </div>
     </div>
@@ -72,13 +72,14 @@
                     <div class="tab-content pr-lg-4">
                         <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-one-code-features-example2-tab">
-
+                            <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
+                                alt="Image Description">
                         </div>
 
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
-                                <img class="avatar-img rounded-lg" src="../assets/media/images/greensense.jpg"
+                                <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
                                     alt="Image Description">
                             </div>
                         </div>
@@ -87,11 +88,12 @@
                             aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
 
+
                         </div>
                     </div>
                     <!-- End Tab Content -->
                 </div>
-                <div class="col-lg-5 order-lg-1 mb-7 mb-lg-0">
+                <div class="col-lg-6 order-lg-1 mb-7 mb-lg-0">
                     <!-- Nav -->
                     <ul class="nav nav-box" role="tablist">
                         <li class="nav-item w-100 mx-0 mb-3">
@@ -100,7 +102,7 @@
                                 aria-controls="pills-one-code-features-example2" aria-selected="true">
                                 <div class="media align-items-center align-items-lg-start">
                                     <figure class="w-100 max-w-6rem mt-2 mr-4">
-                                        <img class="img-fluid" src="../assets/svg/icons/icon-45.svg" alt="SVG">
+                                        <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
                                     </figure>
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
@@ -118,7 +120,7 @@
                                 aria-controls="pills-two-code-features-example2" aria-selected="false">
                                 <div class="media align-items-center align-items-lg-start">
                                     <figure class="w-100 max-w-6rem mt-2 mr-4">
-                                        <img class="img-fluid" src="../assets/svg/icons/icon-23.svg" alt="SVG">
+                                        <img class="img-fluid" src="assets/svg/icons/icon-23.svg" alt="SVG">
                                     </figure>
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
@@ -256,7 +258,7 @@
                     <div class="position-relative max-w-50rem mx-auto">
                         <!-- SVG Component -->
                         <div class="max-w-50rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="../assets/media/images/smartmockupsgreensense.png"
+                            <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
                                 alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
@@ -328,7 +330,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <figure class="w-100 max-w-6rem mb-4">
-                                    <img class="img-fluid" src="../assets/svg/icons/icon-2.svg" alt="SVG">
+                                    <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                                 </figure>
                                 <h3>We tackle the challenges</h3>
                                 <p>Besides working with start-up enterprises as a partner for digitalization, we
@@ -341,8 +343,7 @@
                         <!-- SVG Elements -->
                         <figure class="max-w-19rem w-100 position-absolute bottom-0 right-0 z-index-n1">
                             <div class="mb-n7 mr-n7">
-                                <img class="img-fluid" src="../assets/svg/components/dots-2.svg"
-                                    alt="Image Description">
+                                <img class="img-fluid" src="assets/svg/components/dots-2.svg" alt="Image Description">
                             </div>
                         </figure>
                         <!-- End SVG Elements -->
@@ -353,35 +354,30 @@
     </div>
     </div>
     <!-- End Features Section -->
-    <br><br><br>
+
     <!-- Header -->
     <?php
-    include '../includes/footer.php';
+    include 'includes/footer.php';
     ?>
     <!--Header end-->
-
-
     <!-- Global Scripts-->
-    <script src="../assets/vendor/jquery/dist/jquery.min.js"></script>
-    <script src="../assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
-    <script src="../assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
+    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <!-- JS Front-->
-    <script src="../assets/js/hs.core.js"></script>
-    <script src="../assets/js/hs.fancybox.js"></script>
+    <script src="assets/js/hs.core.js"></script>
+    <script src="assets/js/hs.fancybox.js"></script>
+    <!-- JS Implementing Plugins -->
+    <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
+    <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
+    <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
+    <script src="assets/vendor/appear.js"></script>
+    <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+    <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
+    <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
+    <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
 
-    <script src="../assets/vendor/appear.js"></script>
-    <script src="../assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-    <script src="../assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
-    <script src="../assets/vendor/typed.js/lib/typed.min.js"></script>
-    <script src="../assets/vendor/aos/dist/aos.js"></script>
-    <!-- JS Implementing Plugins -->
-    <script src="../assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
-    <!-- JS Header -->
-    <script src="../assets/vendor/hs-header/dist/hs-header.min.js"></script>
-    <script src="../assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
-    <script src="../assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
-    <script src="../assets/vendor/appear.js"></script>
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -397,7 +393,6 @@
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
     </script>
-
 </body>
 
 </html>

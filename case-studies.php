@@ -33,7 +33,6 @@
             <p>We've helped some great companies, famers, organisation in agriculture domain</p>
         </div>
         <!-- End Title -->
-
         <div class="row mx-n2 mb-5 mb-md-9">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
@@ -46,7 +45,6 @@
                 </a>
                 <!-- End Card -->
             </div>
-
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="commodities-trader-company.php">
@@ -58,7 +56,6 @@
                 </a>
                 <!-- End Card -->
             </div>
-
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="food-fmcg-company.php">
@@ -70,7 +67,6 @@
                 </a>
                 <!-- End Card -->
             </div>
-
             <div class="col-sm-6 col-lg-3 px-2">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="research-institutes-and-ngo.php">
@@ -83,7 +79,6 @@
                 <!-- End Card -->
             </div>
         </div>
-
         <div class="row mx-n2 mb-5 mb-md-9">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
@@ -103,8 +98,6 @@
         include 'includes/footer.php';
         ?>
         <!--Header end-->
-
-
         <!-- Global Scripts-->
         <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
         <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -113,7 +106,6 @@
         <script src="assets/js/hs.core.js"></script>
         <script src="assets/js/hs.fancybox.js"></script>
         <!-- JS Implementing Plugins -->
-
         <script src="assets/vendor/appear.js"></script>
         <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
         <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
@@ -136,12 +128,10 @@
             $('.js-scroll-nav').each(function() {
                 var scrollNav = new HSScrollNav($(this)).init();
             });
-
             // initialization of HSMegaMenu component
             var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
         });
         </script>
-
 </body>
 
 </html>

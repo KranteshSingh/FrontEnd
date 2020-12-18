@@ -20,16 +20,12 @@
 </head>
 
 <body>
-
     <!-- Header Start -->
     <?php include 'includes/header.php'; ?>
     <!--Header end-->
-
     <!-- Hero Section -->
     <div class="container space-3">
         <div class="row justify-content-lg-between align-items-lg-center">
-
-
             <div class="col-md-6">
                 <div class="mb-2">
                     <h1 class="display-5 mb-3">
@@ -42,7 +38,6 @@
                     <p class="lead">Crop Cycles decisions backed by Data. <br>Save 40% on water, <br>20% on insecticide
                         and increase production by 25%. <br>Be a new generation farmer.</p>
                 </div>
-
                 <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
                     <a class="btn btn-primary transition-3d-hover mb-2" href="contact.php">Contact Us</a>
                     <div class="mx-2"></div>
@@ -54,11 +49,8 @@
         </div>
     </div>
     <!-- End Hero Section -->
-
-
     <section id="details" class="details">
         <div class="container">
-
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
                     <img src="assets/media/images/500.png" class="img-fluid" alt="">
@@ -117,8 +109,6 @@
                         less residue</p>
 
                     <a href="greensense.php">Yuktix Soil Moisture Sensor</a> | <a href="#">Case Study</a>
-
-
                 </div>
             </div>
             <br>
@@ -143,10 +133,8 @@
                     <a href="#">Weather Station</a> | <a href="#">Case Study</a>
                 </div>
             </div>
-
         </div>
     </section><!-- End Details Section -->
-
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
@@ -167,7 +155,6 @@
     <?php
     include 'includes/footer.php';
     ?>
-    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -185,7 +172,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -201,7 +187,6 @@
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
     </script>
-
 </body>
 
 </html>

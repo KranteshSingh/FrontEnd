@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Yuktix | Sensing Solutions</title>
+    <title>Yuktix | Agriculture Sensing Solutions</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -25,13 +25,11 @@
 </head>
 
 <body>
-
     <!-- Header -->
     <?php
     include 'includes/header.php';
     ?>
     <!--Header End-->
-
     <!-- Hero Section -->
     <div class="clearfix mx-4">
         <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-vh-md-100 "
@@ -39,7 +37,6 @@
             <!-- Apply your Parallax background image here -->
             <div class="divimage dzsparallaxer--target "
                 style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg); opacity: 0.4;"></div>
-
             <div class="d-md-flex space-3 space-md-0">
                 <div
                     class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
@@ -63,7 +60,6 @@
         </div>
     </div>
     <!-- End Hero Section -->
-
     <!-- CTA Section -->
     <div class="container space-1">
         <div class="text-center py-6">
@@ -78,7 +74,6 @@
         </div>
     </div>
     <!-- End CTA Section -->
-
     <!-- Features Section -->
     <div class="container space-1">
         <!-- Title -->
@@ -105,7 +100,6 @@
                 </a>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
                 <a class="card h-100 transition-3d-hover" href="#">
@@ -123,7 +117,6 @@
                 </a>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
                 <!-- Icon Blocks -->
                 <a class="card h-100 transition-3d-hover" href="#">
@@ -141,7 +134,6 @@
                 </a>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-sm-6 col-lg-3 px-2">
                 <!-- Icon Blocks -->
                 <a class="card h-100 transition-3d-hover" href="#">
@@ -162,7 +154,6 @@
         </div>
     </div>
     <!-- End Features Section -->
-
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">
@@ -186,7 +177,6 @@
                     </a>
                 </div>
             </div>
-
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="assets/media/images/500.png" class="img-fluid" alt="">
@@ -213,7 +203,6 @@
         <h2 class="display-5">Are you a</h2>
     </div>
     <br>
-
     <!-- Icon Blocks Section -->
     <div class="container space-1">
         <div class="row justify-content-lg-center">
@@ -233,7 +222,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-6 col-lg-5 mb-3 mb-md-7">
                 <!-- Icon Blocks -->
                 <div class="media pl-lg-5">
@@ -249,9 +237,7 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="w-100"></div>
-
             <div class="col-md-6 col-lg-5 mb-3 mb-md-7 mb-lg-0">
                 <!-- Icon Blocks -->
                 <div class="media pr-lg-5">
@@ -267,7 +253,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-6 col-lg-5">
                 <!-- Icon Blocks -->
                 <div class="media pl-lg-5">
@@ -287,7 +272,6 @@
         </div>
     </div>
     <!-- End Icon Blocks Section -->
-
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
@@ -303,7 +287,6 @@
             </div>
         </div>
     </div>
-
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
@@ -350,7 +333,6 @@
                     </a>
                 </div>
             </div>
-
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="assets/media/images/yuktixdevice.png" class="img-fluid" alt="">
@@ -373,13 +355,9 @@
                 </div>
             </div>
     </section>
-
-    <!-- Header -->
     <?php
     include 'includes/footer.php';
     ?>
-    <!--Header end-->
-
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -397,7 +375,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

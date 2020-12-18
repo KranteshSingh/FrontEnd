@@ -24,15 +24,12 @@
     <?php
     include 'includes/header.php';
     ?>
-
-
     <!-- Hero Section -->
     <div class="container space-3">
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-sm-10 col-lg-6 mb-3 mb-lg-0">
                 <img class="img-fluid rounded" src="assets/media/images/Frame10.jpg" alt="Image Description">
             </div>
-
             <div class="col-md-6">
                 <div class="mb-5">
                     <h1 class="display-5 mb-3">
@@ -46,19 +43,15 @@
                         cloud. We provide a low code solution to bring data out of silos and on the network for everyone
                         to share and analyze</p>
                 </div>
-
                 <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
                     <a class="btn btn-primary transition-3d-hover mb-2" href="#">Know More</a>
 
                     <div class="mx-2"></div>
-
-
                 </div>
             </div>
         </div>
     </div>
     <!-- End Hero Section -->
-
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
 
@@ -75,7 +68,6 @@
         </div>
     </div>
     </div>
-
     <div class="position-relative u-gradient-half-primary-v3">
         <div class="container-fluid u-space-1 prod">
             <div class="w-md-60 w-lg-70 text-center mx-auto">
@@ -94,7 +86,6 @@
             </div>
         </div>
     </div>
-
     <!-- Services Section -->
     <div class="container space-1">
         <!-- Title -->
@@ -103,7 +94,6 @@
             <h2>Features</h2>
         </div>
         <!-- End Title -->
-
         <div class="row justify-content-lg-center">
             <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                 <!-- Icon Blocks -->
@@ -149,7 +139,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                 <!-- Icon Blocks -->
                 <div class="media pl-lg-5">
@@ -194,9 +183,7 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="w-100"></div>
-
             <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                 <!-- Icon Blocks -->
                 <div class="media pr-lg-5">
@@ -242,7 +229,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                 <!-- Icon Blocks -->
                 <div class="media pl-lg-5">
@@ -309,7 +295,6 @@
                 <div class="w-md-80 w-lg-70 text-center mx-auto mb-9">
                     <h2 class="text-primary mt-2"><span class="font-weight-bold">ankiDB&trade; micro</span></h2>
                     <p class="mt-7">
-
                     </p>
                 </div>
                 <div class="row align-items-lg-center">
@@ -334,7 +319,6 @@
                 </div>
             </div>
         </div>
-
         <!-- Features Section -->
         <div class="container space-1">
             <!-- Title -->
@@ -343,7 +327,6 @@
                 <h2>ankiDB™ micro</h2>
             </div>
             <!-- End Title -->
-
             <div class="row">
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                     <!-- Icon Blocks -->
@@ -357,7 +340,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                     <!-- Icon Blocks -->
                     <div class="media">
@@ -370,7 +352,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                     <!-- Icon Blocks -->
                     <div class="media">
@@ -383,7 +364,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-0">
                     <!-- Icon Blocks -->
                     <div class="media">
@@ -397,7 +377,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-0">
                     <!-- Icon Blocks -->
                     <div class="media">
@@ -410,7 +389,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-sm-6 col-md-4">
                     <!-- Icon Blocks -->
                     <div class="media">
@@ -423,9 +401,7 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
             </div>
-
             <br>
             <div class="row">
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
@@ -440,7 +416,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                     <!-- Icon Blocks -->
                     <div class="media">
@@ -458,8 +433,6 @@
         </div>
     </div>
     <!-- Icon Blocks Section -->
-
-
     <?php
     include 'includes/footer.php';
     ?>
@@ -481,18 +454,15 @@
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of scroll nav
         $('.js-scroll-nav').each(function() {
             var scrollNav = new HSScrollNav($(this)).init();
         });
-
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });

@@ -12,7 +12,6 @@
                     <img width="40px" height="40px" src="assets/svg/logos/yuktix-logo.svg" alt="Logo">
                 </a>
                 <!-- End Logo -->
-
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn btn-icon btn-sm rounded-circle"
                     aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse"
@@ -31,7 +30,6 @@
                     </span>
                 </button>
                 <!-- End Responsive Toggle Button -->
-
                 <!-- Navigation -->
                 <div id="navBar" class="collapse navbar-collapse">
                     <ul class="js-scroll-nav navbar-nav">

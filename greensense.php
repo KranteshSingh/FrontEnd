@@ -93,7 +93,6 @@
                         </div>
                     </div>
                     <!-- End Card Block -->
-
                     <!-- Card Block -->
                     <div class="js-slide mt-1 mb-3">
                         <div class="card flex-wrap flex-row">
@@ -108,7 +107,6 @@
                         </div>
                     </div>
                     <!-- End Card Block -->
-
                     <!-- Card Block -->
                     <div class="js-slide mt-1 mb-3">
                         <div class="card flex-wrap flex-row">
@@ -124,7 +122,6 @@
                     </div>
                     <!-- End Card Block -->
                 </div>
-
                 <!-- Info -->
                 <p class="text-white">
                     See Yuktix Device in action.
@@ -137,7 +134,6 @@
                 </p>
                 <!-- End Info -->
             </div>
-
             <!-- Background -->
             <div class="bg-navy position-absolute top-0 right-0 bottom-0 left-0 rounded-lg mx-sm-7"
                 style="background-image: url(assets/svg/components/abstract-shapes-20.svg);"></div>
@@ -153,7 +149,6 @@
                     <p>Yuktix GreenSense is a collection of hardware and next generation AI based software to provide
                         user actionable data about his farm like</p>
                 </div>
-
                 <!-- Info -->
                 <div class="media pt-3">
                     <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
@@ -197,7 +192,6 @@
                 </div>
                 <!-- End Info -->
             </div>
-
             <div class="col-lg-7 order-lg-1">
                 <!-- Card Block -->
                 <img class="img-fluid rounded" src="assets/media/images/yuktixgreensense.jpg" alt="Image Description">
@@ -207,8 +201,6 @@
         <!-- End Card Block -->
     </div>
     <!-- End Features Section -->
-
-
     <!-- Features Section -->
     <div class="container space-2">
         <!-- Title -->
@@ -217,7 +209,6 @@
                 farm?</h2>
         </div>
         <!-- End Title -->
-
         <!-- Features -->
         <div class="w-lg-60 mx-lg-auto mb-2">
             <div class="row mx-n2">
@@ -233,7 +224,6 @@
                     </div>
                     <!-- End Icon Block -->
                 </div>
-
                 <div class="col-sm-4 px-2 mb-3 mb-sm-0">
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
@@ -246,7 +236,6 @@
                     </div>
                     <!-- End Icon Block -->
                 </div>
-
                 <div class="col-sm-4 px-2">
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
@@ -273,7 +262,6 @@
                         </div>
                         <!-- End Icon Block -->
                     </div>
-
                     <div class="col-sm-6 px-2 mb-3 mb-sm-0">
                         <!-- Icon Block -->
                         <div class="border-dashed text-center rounded p-4">
@@ -291,8 +279,6 @@
         </div>
         <!-- End Features -->
     </div>
-
-
     <!-- End Features Section -->
     <!-- Testimonials Section -->
     <div class="container space-1">
@@ -301,7 +287,6 @@
             <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
-
         <!-- Testimonials Section -->
         <div class="row">
             <!-- Testimonials -->
@@ -346,7 +331,6 @@
                 </div>
             </div>
             <!-- End Testimonials -->
-
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
                 <div class="card h-100">
@@ -374,7 +358,6 @@
                                 moisture in multiple location as well as weather forecats.”</p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -389,7 +372,6 @@
                 </div>
             </div>
             <!-- End Testimonials -->
-
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4">
                 <div class="card h-100">
@@ -418,7 +400,6 @@
                                 Mildew" </p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -438,8 +419,6 @@
     <!-- End Testimonials Section -->
     <!-- Gallery Section -->
     <div class="container">
-
-
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
             <h2 class="h1">Crops we provide advisory for</h2>
@@ -447,7 +426,6 @@
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/1.jpg);">
-
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Potato</figcaption>
             </div>
@@ -461,9 +439,7 @@
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Capcicum</figcaption>
             </div>
-
             <div class="w-100"></div>
-
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/4.jpg);">
                 </div>
@@ -480,7 +456,6 @@
                 <figcaption class="figure-caption text-center mt-2">Tea</figcaption>
             </div>
             <div class="w-100"></div><br>
-
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/8.jpg);">
                 </div>
@@ -498,7 +473,6 @@
             </div>
         </div>
     </div>
-
     <!-- End Gallery Section -->
     <div class="container space-2">
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
@@ -518,9 +492,7 @@
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw2.jpg);">
                 </div>
             </div>
-
             <div class="w-100"></div>
-
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw3.jpg);">
                 </div>
@@ -563,7 +535,6 @@
         </div>
     </div>
     <!-- End CTA Section -->
-
     <!-- Footer -->
     <?php
     include 'includes/footer.php';
@@ -588,10 +559,8 @@
     <!-- JS Implementing Plugins -->
     <!-- JS Implementing Plugins -->
     <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
-
     <!-- JS Front -->
     <script src="assets/js/hs.slick-carousel.js"></script>
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

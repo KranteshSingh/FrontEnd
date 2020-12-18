@@ -27,7 +27,6 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-
     <!-- Gallery Section -->
     <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather gradient-x-overlay-sm-navy"
         style="background-image: url(assets/media/images/YuktixImage.jpg); ">
@@ -40,7 +39,6 @@
         </div>
     </div>
     <!-- End Gallery Section -->
-
     <br>
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
@@ -57,7 +55,6 @@
             </div>
         </div>
     </div>
-
     <!-- Step Section -->
     <div class="container space-2">
         <!-- Title -->
@@ -66,7 +63,6 @@
             <h2>It works in 3 Simple Steps</h2>
         </div>
         <!-- End Title -->
-
         <!-- Step -->
         <ul class="step step-md step-centered">
             <li class="step-item">
@@ -78,7 +74,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
@@ -88,7 +83,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
@@ -115,7 +109,6 @@
                             Action</a>
                     </div>
                 </div>
-
                 <!-- SVG Component -->
                 <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
                     <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
@@ -134,7 +127,6 @@
             <h2>Features</h2>
         </div>
         <!-- End Title -->
-
         <!-- Icon Blocks -->
         <div class="row mb-5 mb-md-9">
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
@@ -151,7 +143,6 @@
                     recommendations. Calibration certifcate available.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -166,7 +157,6 @@
                 </p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -181,7 +171,6 @@
                     your team.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -196,7 +185,6 @@
                     mountains, sea coasts and Jungles.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -212,7 +200,6 @@
                     dashboard.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -229,7 +216,6 @@
             </div>
         </div>
         <div class="row mb-5 mb-md-9">
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -245,7 +231,6 @@
                     through SMS.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -261,7 +246,6 @@
                     button.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -274,7 +258,6 @@
                                     class="fas fa-angle-right fa-sm ml-1"></i></a>
                         </div>
                         <p class="small">Talk to our Agri Expert</p>
-
                     </div>
                     <!-- End Icon Block -->
                 </div>
@@ -282,11 +265,8 @@
             <!-- End Icon Blocks -->
         </div>
     </div>
-
     </div>
     <!-- End Features Section -->
-
-    <!-- End Services Section -->
     <br>
     <div class="container-fluid" id="how-yuk">
         <div class="row justify-content-center">
@@ -310,7 +290,6 @@
             <h2>What people are saying</h2>
         </div>
         <!-- End Title -->
-
         <div class="row">
             <div class="col-md-4 mb-5 mb-md-0">
                 <!-- Icon Blocks -->
@@ -323,7 +302,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-4 mb-5 mb-md-0">
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
@@ -335,7 +313,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-4">
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
@@ -360,7 +337,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-4 mb-5 mb-md-0">
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
@@ -372,7 +348,6 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="col-md-4">
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
@@ -389,8 +364,6 @@
     <!-- End Icon Blocks Section -->
     <br>
     <br>
-
-
     <!-- Icon Blocks Section -->
     <div class="container space-2">
         <!-- Title -->
@@ -413,9 +386,7 @@
                     <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);">
                     </div>
                 </div>
-
                 <div class="w-100"></div>
-
                 <div class="col-6 col-md px-2 mb-3 mb-md-0">
                     <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);">
                     </div>
@@ -454,7 +425,6 @@
                         </div>
                         <!-- End Contacts -->
                     </div>
-
                     <div class="col-md-4 mb-7 mb-md-0">
                         <!-- Contacts -->
                         <div class="media">
@@ -475,7 +445,6 @@
                         </div>
                         <!-- End Contacts -->
                     </div>
-
                     <div class="col-md-4">
                         <!-- Contacts -->
                         <div class="media">
@@ -496,9 +465,7 @@
             </div>
         </div>
         <!-- End Features Section -->
-
         <br>
-
         <br>
         <!-- CTA Section -->
         <div class="container">
@@ -508,12 +475,10 @@
                         <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
                             <h3 class="h4 text-indigo mb-0">Sensor Catalogue</h3>
                         </div>
-
                         <div class="col-md-4 text-md-right">
                             <a class="btn btn-primary transition-3d-hover" href="#">Explore Sensor Catalogue</a>
                         </div>
                     </div>
-
                     <!-- SVG Component -->
                     <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
                         <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
@@ -523,10 +488,8 @@
             </div>
         </div>
         <!-- End CTA Section -->
-
         <br>
         <br><br>
-
         <!-- Hero Section -->
         <div class="bg-img-hero">
             <div class="container space-2 space-lg-1">
@@ -568,7 +531,6 @@
                         </a>
                     </div>
                 </div>
-
                 <div class="row content">
                     <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                         <img src="assets/media/images/500.png" class="img-fluid" alt="">
@@ -601,7 +563,6 @@
                 <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
             </div>
             <!-- End Title -->
-
             <!-- Testimonials Section -->
             <div class="row">
                 <!-- Testimonials -->
@@ -633,7 +594,6 @@
                                     farm by 30% and production have improved by almost 50%. ”</p>
                             </div>
                         </div>
-
                         <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                             <div class="media align-items-center">
                                 <div class="avatar avatar-circle mr-3">
@@ -649,7 +609,6 @@
                     </div>
                 </div>
                 <!-- End Testimonials -->
-
                 <!-- Testimonials -->
                 <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
                     <div class="card h-100">
@@ -679,7 +638,6 @@
                                     moisture in multiple location as well as weather forecats.”</p>
                             </div>
                         </div>
-
                         <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                             <div class="media align-items-center">
                                 <div class="avatar avatar-circle mr-3">
@@ -695,7 +653,6 @@
                     </div>
                 </div>
                 <!-- End Testimonials -->
-
                 <!-- Testimonials -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
@@ -724,7 +681,6 @@
                                     Mildew" </p>
                             </div>
                         </div>
-
                         <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                             <div class="media align-items-center">
                                 <div class="avatar avatar-circle mr-3">
@@ -746,7 +702,6 @@
         <?php
         include 'includes/footer.php';
         ?>
-        <!--Header end-->
         <!-- Global Scripts-->
         <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
         <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -766,7 +721,6 @@
         <!-- JS Implementing Plugins -->
         <!-- JS Implementing Plugins -->
         <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
-
         <!-- JS Front -->
         <script src="assets/js/hs.fancybox.js"></script>
         <!-- JS Plugins Init. -->

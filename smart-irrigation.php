@@ -31,13 +31,11 @@
             <div class="w-sm-75 w-lg-100">
                 <br>
                 <h2 class="display-4 text-white herotext">Save 40% of water and 30% on power used in Irrigation. </h2>
-
                 <p class="lead text-white text-center">Monitor your agriculture farm land soil moisture 24x7
                     from
                     anywhere, anytime using Yukix Soil Sensors.
                 </p>
             </div>
-
         </div>
     </div>
     <!-- End Gallery Section -->
@@ -55,12 +53,10 @@
                     </div>
                     <!-- End Mockups -->
                 </div>
-
                 <div class="col-lg-5">
                     <div class="mb-5">
                         <h2>Monitor Soil Moisture</h2>
                     </div>
-
                     <!-- Icon Block -->
                     <ul class="step step-dashed mb-7">
                         <li class="step-item">
@@ -72,7 +68,6 @@
                                 </div>
                             </div>
                         </li>
-
                         <li class="step-item mb-0">
                             <div class="step-content-wrapper">
                                 <span class="step-icon step-icon-xs step-icon-soft-primary">2</span>
@@ -109,10 +104,8 @@
                                 </div>
                             </div>
                         </li>
-
                     </ul>
                     <!-- End Icon Block -->
-
                     <div class="mt-2">
                         <a class="btn btn-primary transition-3d-hover px-4" href="#">Request Demo</a>
                     </div>
@@ -131,18 +124,8 @@
                 sources, run AI based models and provide advisory for irrigation</p>
         </div>
         <!-- End Title -->
-
-
-
-
-
-
-
-
     </div>
     <!-- End Icon Blocks -->
-
-
     </div>
     <!-- End Features Section -->
     <!-- Step Section -->
@@ -153,7 +136,6 @@
             <h2>How it Works</h2>
         </div>
         <!-- End Title -->
-
         <!-- Step -->
         <ul class="step step-md step-centered">
             <li class="step-item">
@@ -166,7 +148,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
@@ -177,7 +158,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
@@ -193,7 +173,6 @@
     </div>
     <!-- End Step Section -->
     <!-- Features Section -->
-
     <div class="container space-1 prod">
         <div class="row justify-content-lg-between align-items-lg-center ">
             <div class="col-lg-5 mb-9 mb-lg-0 ml-2">
@@ -203,7 +182,6 @@
                         crop.
                         Analyze your irrigation using calender view, improve it and save more. </p>
                 </div>
-
                 <div class="media">
                     <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
@@ -229,7 +207,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-6">
                 <div class="position-relative max-w-50rem mx-auto">
                     <!-- Device Mockup -->
@@ -237,12 +214,9 @@
                         <img class="device-iphone-x-frame" src="assets/media/images/sav40.png" alt="Image Description">
                     </div>
                     <!-- End Device Mockup -->
-
-
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <!-- End Features Section -->
     <!-- Icon Blocks Section -->
@@ -253,7 +227,6 @@
             <br>
             <img class="img-fluid" src="assets/media/images/soilgal.png">
         </div>
-
     </div>
     <!-- Features Section -->
     <div class="container space-2">
@@ -265,7 +238,6 @@
                 forecast and take actions.</p>
         </div>
         <!-- End Title -->
-
         <!-- Nav -->
         <div class="text-center">
             <ul class="nav nav-segment nav-pills scrollbar-horizontal mb-7" role="tablist">
@@ -274,11 +246,9 @@
                         href="#pills-one-code-features-example1" role="tab"
                         aria-controls="pills-one-code-features-example1" aria-selected="true">Dashboard</a>
                 </li>
-
             </ul>
         </div>
         <!-- End Nav -->
-
         <!-- Tab Content -->
         <div class="tab-content pr-lg-4">
             <div class="tab-pane fade show active" id="pills-one-code-features-example1" role="tabpanel"
@@ -299,7 +269,6 @@
                 </div>
                 <!-- End Device Mockup -->
             </div>
-
             <div class="tab-pane fade" id="pills-two-code-features-example1" role="tabpanel"
                 aria-labelledby="pills-two-code-features-example1-tab">
                 <!-- Device Mockup -->
@@ -318,7 +287,6 @@
                 </div>
                 <!-- End Device Mockup -->
             </div>
-
             <div class="tab-pane fade" id="pills-three-code-features-example1" role="tabpanel"
                 aria-labelledby="pills-three-code-features-example1-tab">
                 <!-- Device Mockup -->
@@ -351,7 +319,6 @@
                         real
                         time. Donwload reports or data for indepth research or future analysis. </p>
                 </div>
-
                 <div class="media">
                     <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
@@ -377,7 +344,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-6">
                 <div class="position-relative max-w-50rem mx-auto">
                     <!-- Device Mockup -->
@@ -385,8 +351,6 @@
                         <img class="device-iphone-x-frame" src="assets/media/images/500.png" alt="Image Description">
                     </div>
                     <!-- End Device Mockup -->
-
-
                 </div>
             </div>
         </div>
@@ -446,7 +410,6 @@
                     </a>
                 </div>
             </div>
-
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="assets/media/images/500.png" class="img-fluid" alt="">
@@ -476,7 +439,6 @@
             <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
-
         <!-- Testimonials Section -->
         <div class="row">
             <!-- Testimonials -->
@@ -508,7 +470,6 @@
                                 farm by 30% and production have improved by almost 50%. ”</p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -523,7 +484,6 @@
                 </div>
             </div>
             <!-- End Testimonials -->
-
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
                 <div class="card h-100">
@@ -553,7 +513,6 @@
                                 moisture in multiple location as well as weather forecats.”</p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -568,7 +527,6 @@
                 </div>
             </div>
             <!-- End Testimonials -->
-
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4">
                 <div class="card h-100">
@@ -597,7 +555,6 @@
                                 Mildew" </p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -615,8 +572,6 @@
         </div>
     </div>
     <!-- End Testimonials Section -->
-
-
     <!-- Header -->
     <?php
     include 'includes/footer.php';
@@ -639,7 +594,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

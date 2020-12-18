@@ -20,11 +20,9 @@
 </head>
 
 <body>
-
     <?php
     include 'includes/header.php';
     ?>
-
     <!-- Hero Section -->
     <div class="bg-primary bg-img-hero" style="background-image: url(assets/svg/components/abstract-shapes-5.svg);">
         <div class="container space-2 space-lg-3">
@@ -236,18 +234,15 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of scroll nav
         $('.js-scroll-nav').each(function() {
             var scrollNav = new HSScrollNav($(this)).init();
         });
-
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });

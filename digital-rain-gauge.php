@@ -35,7 +35,6 @@
                     <div class="col-lg-6 mb-5 mb-lg-0">
                         <img class="img-fluid" src="assets/svg/illustrations/relaxing-man.svg" alt="SVG Illustration">
                     </div>
-
                     <div class="col-lg-5">
                         <!-- Title -->
                         <div class="mb-4">
@@ -50,7 +49,6 @@
         <!-- End Hero Section -->
     </main>
     <!-- ========== END MAIN ========== -->
-
     <!-- Header -->
     <?php
     include 'includes/footer.php';
@@ -73,7 +71,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -84,7 +81,6 @@
         $('.js-scroll-nav').each(function() {
             var scrollNav = new HSScrollNav($(this)).init();
         });
-
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });

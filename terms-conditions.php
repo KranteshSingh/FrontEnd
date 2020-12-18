@@ -25,7 +25,6 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-
     <br><br><br>
     <!-- ========== MAIN ========== -->
     <main id="content" role="main">
@@ -74,9 +73,7 @@
     <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
-
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

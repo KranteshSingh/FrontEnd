@@ -24,11 +24,7 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <!-- Header -->
-
     <main id="content" role="main">
-
-
         <!-- Hero Section -->
         <div class="bg-primary bg-img-hero" style="background-image: url(assets/svg/components/abstract-shapes-5.svg);">
             <div class="container space-2 space-lg-3">
@@ -43,10 +39,8 @@
         <div class="container u-space-1-top u-space-2-bottom">
             <div class="row">
                 <main class="col-md-12" role="main">
-
                     <div class="mb-9">
                         <BR><BR><BR></BR>
-
                         <p class="lead font-weight-normal">
                             This Privacy Policy describes Our policies and procedures on the collection, use and
                             disclosure
@@ -59,11 +53,9 @@
                             Privacy Policy has been created with the help of the Privacy Policy Generator.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h1>Interpretation and Definitions</h1>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4"> Interpretation </h2>
                         <p>
@@ -73,7 +65,6 @@
                             appear in singular or in plural.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Definitions</h2>
                         <p>
@@ -122,11 +113,9 @@
                         </ul>
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h1>Collecting and Using Your Personal Data</h1>
                     </div>
-
                     <div class="mb-9">
                         <h2>Types of Data Collected</h2>
                         <h2 class="h4 mt-3"> Personal Data </h2>
@@ -144,7 +133,6 @@
                             <li>Usage Data</li>
                         </ul>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4"> Usage Data </h2>
                         <p>
@@ -172,7 +160,6 @@
                             You access the Service by or through a mobile device.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4"> Tracking Technologies and Cookies </h2>
                         <p>
@@ -259,7 +246,6 @@
                             visit our Cookies Policy or the Cookies section of our Privacy Policy.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Use of Your Personal Data</h2>
                         <p>
@@ -344,7 +330,6 @@
                             </li>
                         </ul>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Retention of Your Personal Data</h2>
                         <p>
@@ -361,7 +346,6 @@
                             to retain this data for longer time periods.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4"> Transfer of Your Personal Data </h2>
                         <p>
@@ -383,7 +367,6 @@
                             including the security of Your data and other personal information.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h5">Business Transactions</h2>
                         <p>
@@ -392,7 +375,6 @@
                             subject to a different Privacy Policy.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h5">Law enforcement</h2>
                         <p>
@@ -401,7 +383,6 @@
                             (e.g. a court or a government agency).
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h5">Other legal requirements</h2>
                         <p>
@@ -416,7 +397,6 @@
                             <li>Protect against legal liability</li>
                         </ul>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h5">Security of Your Personal Data</h2>
                         <p>
@@ -426,7 +406,6 @@
                             We cannot guarantee its absolute security.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Your California Privacy Rights (California's Shine the Light law)</h2>
                         <p>
@@ -441,7 +420,6 @@
                             provided below.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">California Privacy Rights for Minor Users (California Business
                             and Professions Code Section 22581)</h2>
@@ -461,7 +439,6 @@
                             removal in certain circumstances.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Links to Other Websites</h2>
                         <p>
@@ -474,7 +451,6 @@
                             policies or practices of any third party sites or services.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Changes to this Privacy Policy</h2>
                         <p>
@@ -491,7 +467,6 @@
                             Changes to this Privacy Policy are effective when they are posted on this page.
                         </p>
                     </div>
-
                     <div class="mb-9">
                         <h2 class="h4">Contact Us</h2>
                         <p>If you have any questions about this Privacy Policy, You can contact us:</p>
@@ -499,15 +474,12 @@
                             <li>By email: shailendra@yuktix.com</li>
                         </ul>
                     </div>
-
                 </main>
             </div>
         </div>
-
         <?php
         include 'includes/footer.php';
         ?>
-        <!--Header end-->
         <!-- Global Scripts-->
         <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
         <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -525,7 +497,6 @@
         <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
         <script src="assets/vendor/aos/dist/aos.js"></script>
         <!-- JS Implementing Plugins -->
-
         <!-- JS Plugins Init. -->
         <script>
         $(document).on('ready', function() {

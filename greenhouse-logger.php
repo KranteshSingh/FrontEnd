@@ -38,7 +38,6 @@
                     GreenHouse.
                 </p>
             </div>
-
         </div>
     </div>
     <!-- End Gallery Section -->
@@ -52,19 +51,14 @@
                         <div class="device device-iphone-x w-100 mx-auto">
                             <img class="device-iphone-x-frame" src="assets/media/images/greensense.jpeg"
                                 alt="Image Description">
-
                         </div>
-
-
                     </div>
                     <!-- End Mockups -->
                 </div>
-
                 <div class="col-lg-5">
                     <div class="mb-5">
                         <h2>Yuktix Greensense Device</h2>
                     </div>
-
                     <!-- Icon Block -->
                     <ul class="step step-dashed mb-7">
                         <li class="step-item">
@@ -76,7 +70,6 @@
                                 </div>
                             </div>
                         </li>
-
                         <li class="step-item mb-0">
                             <div class="step-content-wrapper">
                                 <span class="step-icon step-icon-xs step-icon-soft-primary">2</span>
@@ -124,7 +117,6 @@
                         </li>
                     </ul>
                     <!-- End Icon Block -->
-
                     <div class="mt-2">
                         <a class="btn btn-primary transition-3d-hover px-4" href="#">Request Demo</a>
                     </div>
@@ -141,7 +133,6 @@
             <h2>Monitor your farms using next generation IoT device, increase yield, reduce losses.</h2>
         </div>
         <!-- End Title -->
-
         <!-- Icon Blocks -->
         <div class="row mb-5 mb-md-9">
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
@@ -157,7 +148,6 @@
                 <p>Get micro-weather and soil data from your farm in real time. </p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -171,7 +161,6 @@
                 <p>Farm level and block level forecast delivered on your phone</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -185,7 +174,6 @@
                 <p>Get advance notification about crop disease before they happen</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -199,7 +187,6 @@
                 <p>When to irrigate and how much to irrigate.</p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -213,7 +200,6 @@
                 <p>Capture, upload and get advisory from expert. </p>
                 <!-- End Icon Block -->
             </div>
-
             <div class="col-sm-6 col-md-4">
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
@@ -229,14 +215,11 @@
             </div>
         </div>
         <!-- End Icon Blocks -->
-
         <div class="text-center">
             <div class="mb-3">
                 <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mx-1" href="contact.php">Start
                     Monitoring Your GreenHouse</a>
-
             </div>
-
             <p class="small"></p>
         </div>
     </div>
@@ -249,7 +232,6 @@
             <h2>How it Works</h2>
         </div>
         <!-- End Title -->
-
         <!-- Step -->
         <ul class="step step-md step-centered">
             <li class="step-item">
@@ -262,7 +244,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
@@ -273,7 +254,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
@@ -297,7 +277,6 @@
                     <p>Monitor important micro-weather parameters of your Greenhouse impacting plants growth.
                         Temperature, Humidity, Lux, Soil Moisture ( Soil EC, Soil Temperature ) CO2. </p>
                 </div>
-
                 <div class="media">
                     <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
@@ -323,7 +302,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-6">
                 <div class="position-relative max-w-50rem mx-auto">
                     <!-- Device Mockup -->
@@ -332,8 +310,6 @@
                             alt="Image Description">
                     </div>
                     <!-- End Device Mockup -->
-
-
                 </div>
             </div>
         </div>
@@ -348,7 +324,6 @@
                 forecast and take actions.</p>
         </div>
         <!-- End Title -->
-
         <!-- Nav -->
         <div class="text-center">
             <ul class="nav nav-segment nav-pills scrollbar-horizontal mb-7" role="tablist">
@@ -357,11 +332,9 @@
                         href="#pills-one-code-features-example1" role="tab"
                         aria-controls="pills-one-code-features-example1" aria-selected="true">Dashboard</a>
                 </li>
-
             </ul>
         </div>
         <!-- End Nav -->
-
         <!-- Tab Content -->
         <div class="tab-content pr-lg-4">
             <div class="tab-pane fade show active" id="pills-one-code-features-example1" role="tabpanel"
@@ -373,13 +346,10 @@
                             alt="Image Description">
 
                     </div>
-
                 </div>
             </div>
             <!-- End Device Mockup -->
         </div>
-
-
     </div>
     </div>
     <!-- End Tab Content -->
@@ -394,7 +364,6 @@
                     <p>Set Alerts for individual parameters for a single or multiple devices and get notified in real
                         time. Donwload reports or data for indepth research or future analysis. </p>
                 </div>
-
                 <div class="media">
                     <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
@@ -420,7 +389,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-6">
                 <div class="position-relative max-w-50rem mx-auto">
                     <!-- Device Mockup -->
@@ -428,8 +396,6 @@
                         <img class="device-iphone-x-frame" src="assets/media/images/500.png" alt="Image Description">
                     </div>
                     <!-- End Device Mockup -->
-
-
                 </div>
             </div>
         </div>
@@ -519,7 +485,6 @@
             <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
-
         <!-- Testimonials Section -->
         <div class="row">
             <!-- Testimonials -->
@@ -549,7 +514,6 @@
                                 farm by 30% and production have improved by almost 50%. ”</p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -564,7 +528,6 @@
                 </div>
             </div>
             <!-- End Testimonials -->
-
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
                 <div class="card h-100">
@@ -592,7 +555,6 @@
                                 moisture in multiple location as well as weather forecats.”</p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -607,7 +569,6 @@
                 </div>
             </div>
             <!-- End Testimonials -->
-
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4">
                 <div class="card h-100">
@@ -636,7 +597,6 @@
                                 Mildew" </p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -654,8 +614,6 @@
         </div>
     </div>
     <!-- End Testimonials Section -->
-
-
     <!-- Header -->
     <?php
     include 'includes/footer.php';
@@ -678,7 +636,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

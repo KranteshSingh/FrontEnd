@@ -23,7 +23,6 @@
     <?php
     include 'includes/header.php';
     ?>
-    <!--Header end-->
     <!-- Hero Section -->
     <div class="container space-top-3 space-top-lg-3 space-bottom-2 space-bottom-lg-2">
         <div class="row justify-content-lg-between mb-3">
@@ -42,11 +41,8 @@
                     <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
                             class="fas fa-angle-right fa-sm ml-1"></i></a>
                 </div>
-
-
                 <!-- End Info -->
             </div>
-
             <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
@@ -55,7 +51,6 @@
                 <!-- End SVG Illustration -->
             </div>
         </div>
-
         <!-- Services Section -->
         <div class="container space-2">
             <!-- Title -->
@@ -64,7 +59,6 @@
                 <h2>Our Achievements</h2>
             </div>
             <!-- End Title -->
-
             <div class="row justify-content-lg-center">
                 <div class="col-md-6 col-lg-5 mb-1 mb-md-5 mb-lg-7">
                     <!-- Icon Blocks -->
@@ -81,7 +75,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
@@ -97,9 +90,7 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="w-100"></div>
-
                 <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
@@ -117,7 +108,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
@@ -133,9 +123,7 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="w-100"></div>
-
                 <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-0">
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
@@ -155,7 +143,6 @@
                     </div>
                     <!-- End Icon Blocks -->
                 </div>
-
                 <div class="col-md-6 col-lg-5">
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
@@ -175,20 +162,6 @@
         <!-- End Services Section -->
         <!-- ========== MAIN ========== -->
         <main id="content" role="main">
-            <!-- Hero Section 
-        <div class="container space-top-3 space-top-lg-4 space-bottom-2">
-            <div class="w-lg-80 text-center mx-lg-auto">
-                <div class="mb-5 mb-md-11">
-                    <h1 class="display-4">About Us</h1>
-                    <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
-                        and a registered MSME working to create indigenous remote monitoring and sensor analytic
-                        solutions.</p>
-                </div>
-            </div>
-        </div>
-        End Hero Section -->
-
-
             <!-- Divider -->
             <div class="container">
                 <div class="w-lg-65 mx-lg-auto">
@@ -204,7 +177,6 @@
                 </div>
             </div>
             <!-- End Divider -->
-
             <!-- Team Section -->
             <div class="container space-2 space-lg-3">
                 <!-- Title -->
@@ -213,7 +185,6 @@
                     <h2>Creative Minds Empowering Tomorrow's Agriculture</h2>
                 </div>
                 <!-- End Title -->
-
                 <div class="row mx-n2 mb-1">
                     <div class="col-sm-6 col-lg-6 px-2 mb-3">
                         <!-- Team -->
@@ -237,7 +208,6 @@
                                         Bangalore.</p>
                                 </div>
                             </div>
-
                             <div class="card-footer border-0 pt-0">
                                 <!-- Social Networks -->
                                 <div class="text-center">
@@ -261,7 +231,6 @@
                         </div>
                         <!-- End Team -->
                     </div>
-
                     <div class="col-sm-6 col-lg-6 px-2 mb-3">
                         <!-- Team -->
                         <div class="card h-100 transition-3d-hover">
@@ -281,7 +250,6 @@
                                         DIY Enthusiast who worked on a Department of Defense UAV project.</p>
                                 </div>
                             </div>
-
                             <div class="card-footer border-0 pt-0">
                                 <!-- Social Networks -->
                                 <div class="text-center">
@@ -336,7 +304,6 @@
                     </div>
                     <!-- End Team -->
                 </div>
-
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
                     <div class="card h-100 transition-3d-hover">
@@ -361,7 +328,6 @@
                     </div>
                     <!-- End Team -->
                 </div>
-
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
                     <div class="card h-100 transition-3d-hover">
@@ -384,7 +350,6 @@
                     </div>
                     <!-- End Team -->
                 </div>
-
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
                     <div class="card h-100 transition-3d-hover">
@@ -405,16 +370,10 @@
                 </div>
             </div>
             <br>
-
         </div>
-
         <!-- End Team Section -->
-
-
         </main>
-
         <!-- ========== END MAIN ========== -->
-
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
             <h2 class="text-primary mt-2"><span class="font-weight-bold">Accolades</span></h2>
         </div>
@@ -457,7 +416,6 @@
         <!-- End Clients -->
     </div>
     <!-- End Hero Section -->
-
     <!-- End Team Section -->
     <div class="container">
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
@@ -542,6 +500,5 @@
     });
     </script>
 </body>
-
 
 </html>

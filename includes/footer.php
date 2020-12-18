@@ -4,7 +4,6 @@
 <footer class="container footer">
     <div class="space-top-1 space-bottom-1 space-bottom-lg-1">
         <div class="row justify-content-lg-between">
-
             <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
                 <h5>Yuktix Technologies PVT. LTD.</h5>
                 <!-- Nav Link -->
@@ -23,7 +22,6 @@
                             </span>
                         </a>
                     </li>
-
                     <li class="nav-item mt-2">
                         <a class="nav-link media" href="tel:+918025729456">
                             <span class="media">
@@ -45,7 +43,6 @@
                 </ul>
                 <!-- End Nav Link -->
             </div>
-
             <div class="col-6 col-md-3 col-lg mb-5 mb-lg-0">
                 <h5>Company</h5>
 
@@ -57,7 +54,6 @@
                 </ul>
                 <!-- End Nav Link -->
             </div>
-
             <div class="col-6 col-md-3 col-lg mb-5 mb-lg-0">
                 <h5>Products</h5>
                 <!-- Nav Link -->
@@ -73,24 +69,19 @@
                 </ul>
                 <!-- End Nav Link -->
             </div>
-
             <div class="col-6 col-md-3 col-lg">
                 <h5>Documentation</h5>
-
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
                     <li class="nav-item"><a class="nav-link" href="ankidb-cloud.php">ankiDB™ Cloud</a></li>
                     <li class="nav-item"><a class="nav-link" href="ankidb-micro.php">ankiDB™ Micro</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">API Reference</a></li>
-
                 </ul>
                 <!-- End Nav Link -->
             </div>
-
             <div class="col-6 col-md-3 col-lg">
                 <h5>Resources</h5>
-
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item">
@@ -122,9 +113,7 @@
             </div>
         </div>
     </div>
-
     <hr class="my-0">
-
     <div class="space-1">
         <div class="row align-items-md-center mb-7">
             <div class="col-md-6 mb-4 mb-md-0">
@@ -140,7 +129,6 @@
                 </ul>
                 <!-- End Nav Link -->
             </div>
-
             <div class="col-md-6 text-md-right">
                 <ul class="list-inline mb-0">
                     <!-- Social Networks -->
@@ -178,7 +166,6 @@
                 </ul>
             </div>
         </div>
-
         <!-- Copyright -->
         <div class="w-md-75 text-lg-center mx-lg-auto">
             <p class="small text-black">© 2020 Yuktix Technologies PVT. LTD. | All rights reserved.</p>

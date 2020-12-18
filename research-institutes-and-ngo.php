@@ -36,10 +36,7 @@
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
-
-
             </div>
-
             <div class="col-lg-7">
                 <img class="img-fluid" src="assets/svg/illustrations/we-are-in-office-1.svg" alt="Image Description">
             </div>
@@ -55,7 +52,6 @@
         </svg>
     </figure>
     <!-- End SVG Top Shape -->
-
     <!-- Features Section -->
     <div class="bg-light">
         <div class="container space-2 space-lg-1">
@@ -65,7 +61,6 @@
                 <h2>INTRODUCTION</h2>
             </div>
             <!-- End Title -->
-
             <div class="row">
                 <div class="col-lg-6 order-lg-2 align-self-lg-end">
                     <!-- Tab Content -->
@@ -75,7 +70,6 @@
                             <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
                                 alt="Image Description">
                         </div>
-
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
@@ -83,12 +77,9 @@
                                     alt="Image Description">
                             </div>
                         </div>
-
                         <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
-
-
                         </div>
                     </div>
                     <!-- End Tab Content -->
@@ -113,7 +104,6 @@
                                 </div>
                             </a>
                         </li>
-
                         <li class="nav-item w-100 mx-0 mb-3">
                             <a class="nav-link p-4" id="pills-two-code-features-example2-tab" data-toggle="pill"
                                 href="#pills-two-code-features-example2" role="tab"
@@ -131,19 +121,13 @@
                                 </div>
                             </a>
                         </li>
-
-
                     </ul>
                     <!-- End Nav -->
                 </div>
-
-
             </div>
         </div>
     </div>
     <!-- End Features Section -->
-
-
     <!-- SVG Bottom Shape -->
     <figure>
         <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -175,7 +159,6 @@
             <h2>The Challenges</h2>
         </div>
         <!-- End Title -->
-
         <!-- Step -->
         <ul class="step step-md step-centered">
             <li class="step-item">
@@ -187,7 +170,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
@@ -197,7 +179,6 @@
                     </div>
                 </div>
             </li>
-
             <li class="step-item">
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
@@ -211,7 +192,6 @@
         <!-- End Step -->
     </div>
     <!-- End Step Section -->
-
     <!-- Features Section -->
     <div class="position-relative gradient-y-gray">
         <div class="container space-2">
@@ -221,7 +201,6 @@
                         <h2>Yuktix Solution</h2>
                         <p></p>
                     </div>
-
                     <div class="media">
                         <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
                             <i class="fas fa-check fa-xs"></i>
@@ -251,9 +230,7 @@
                                 weather prediction</p>
                         </div>
                     </div>
-
                 </div>
-
                 <div class="col-lg-6 align-self-center">
                     <div class="position-relative max-w-50rem mx-auto">
                         <!-- SVG Component -->
@@ -275,7 +252,6 @@
             <h2 class="h1">What we achieved</h2>
         </div>
         <!-- End Title -->
-
         <div class="w-md-80 mx-md-auto">
             <div class="row justify-content-lg-center align-items-md-center">
                 <div class="col-md-5 mb-7 mb-md-0">
@@ -320,10 +296,8 @@
                             Effective Utilization of man Power
                         </div>
                     </div>
-
                     <!-- End Features -->
                 </div>
-
                 <div class="col-md-7 col-lg-5">
                     <div class="position-relative">
                         <!-- Card -->
@@ -339,7 +313,6 @@
                             </div>
                         </div>
                         <!-- End Card -->
-
                         <!-- SVG Elements -->
                         <figure class="max-w-19rem w-100 position-absolute bottom-0 right-0 z-index-n1">
                             <div class="mb-n7 mr-n7">
@@ -354,12 +327,9 @@
     </div>
     </div>
     <!-- End Features Section -->
-
-    <!-- Header -->
     <?php
     include 'includes/footer.php';
     ?>
-    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -377,18 +347,15 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of scroll nav
         $('.js-scroll-nav').each(function() {
             var scrollNav = new HSScrollNav($(this)).init();
         });
-
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });

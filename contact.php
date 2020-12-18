@@ -28,8 +28,6 @@
     <!--Header end-->
     <br><br><br>
     <!-- Contact Form Section -->
-
-
     <div class="container space-2">
         <div class="row">
             <div class="col-lg-6 mb-9 mb-lg-0">
@@ -37,7 +35,6 @@
                     <h1 class="display-4">Get in touch</h1>
                     <p>We'd love to talk about how we can help you.</p>
                 </div>
-
                 <!-- Leaflet -->
                 <div id="mapExample2" class="min-h-300rem mb-5" data-hs-leaflet-options='{
                "map": {
@@ -58,7 +55,6 @@
                ]
               }'></div>
                 <!-- End Leaflet -->
-
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="mb-3">
@@ -84,11 +80,8 @@
                             <span class="d-block text-body font-size-1">support@yuktix.com</span>
                         </div>
                     </div>
-
-
                 </div>
             </div>
-
             <div class="col-lg-6">
                 <div class="ml-lg-5">
                     <!-- Form -->
@@ -96,7 +89,6 @@
                         <div class="card-header border-0 bg-light text-center py-4 px-4 px-md-6">
                             <h2 class="h4 mb-0">Enquiries</h2>
                         </div>
-
                         <div class="card-body p-4 p-md-6">
                             <div class="row">
                                 <div class="col-sm-12">
@@ -142,7 +134,6 @@
                                     </div>
                                     <!-- End Form Group -->
                                 </div>
-
                                 <div class="col-sm-12">
                                     <!-- Form Group -->
                                     <div class="js-form-message form-group">
@@ -157,12 +148,10 @@
                                     <!-- End Form Group -->
                                 </div>
                             </div>
-
                             <button type="submit" class="btn btn-block btn-primary transition-3d-hover">Submit</button>
                         </div>
                     </form>
                     <!-- End Form -->
-
                     <div class="text-center">
                         <p class="small">We'll get back to you in 12 Hours</p>
                     </div>
@@ -171,11 +160,9 @@
         </div>
     </div>
     <!-- End Contact Form Section -->
-
     <?php
     include 'includes/footer.php';
     ?>
-    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -195,12 +182,10 @@
     <!-- JS Implementing Plugins -->
     <script src="assets/vendor/leaflet/dist/leaflet.js"></script>
     <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-
     <!-- JS Front -->
     <script src="assets/js/hs.leaflet.js"></script>
     <script src="assets/js/hs.validation.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -233,6 +218,5 @@
     });
     </script>
 </body>
-
 
 </html>

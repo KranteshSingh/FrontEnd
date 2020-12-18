@@ -18,4 +18,4 @@ $headers = "From: " . $visitor_email;
 
 mail($mailTo, $email_subject, $email_body, $headers);
 
-header("Location: contact");
+header("Location: ../");

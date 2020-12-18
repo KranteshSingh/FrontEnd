@@ -22,6 +22,7 @@
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <?php include 'includes/tracking.inc'; ?>
 </head>
 
 <body>

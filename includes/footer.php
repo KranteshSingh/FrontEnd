@@ -58,6 +58,7 @@
                 <h5>Products</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
+                    <li class="nav-item"><a class="nav-link" href="greensense.php">Greensense</a></li>
                     <li class="nav-item"><a class="nav-link" href="automatic-weather-station.php">Weather
                             Station</a></li>
                     <li class="nav-item"><a class="nav-link" href="digital-rain-gauge.php">Digital Rain Gauge</a></li>
@@ -65,7 +66,6 @@
                             Irrigation</a></li>
                     <li class="nav-item"><a class="nav-link" href="greenhouse-logger.php">Greenhouse Logger</a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="greensense.php">Greensense</a></li>
                 </ul>
                 <!-- End Nav Link -->
             </div>

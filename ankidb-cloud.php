@@ -17,6 +17,7 @@
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <?php include 'includes/tracking.inc'; ?>
 </head>
 
 <body>
@@ -25,7 +26,7 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br><br>
+
     <!-- ========== MAIN ========== -->
     <main id="content" role="main">
         <!-- Hero Section -->
@@ -49,12 +50,10 @@
         </div>
         <!-- End Hero Section -->
     </main>
-    <!-- ========== END MAIN ========== --><br><br><br>
-
+    <!-- ========== END MAIN ========== -->
     <?php
     include 'includes/footer.php';
     ?>
-
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>

@@ -21,6 +21,7 @@
 </head>
 
 <body>
+    <div name="top"></div>
     <?php
     include 'includes/header.php';
     ?>
@@ -170,7 +171,6 @@
                 </div>
             </div>
             <!-- End Divider -->
-
             <!-- Divider -->
             <div class="container">
                 <div class="w-lg-65 mx-lg-auto">
@@ -500,6 +500,7 @@
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
     </script>
+
 </body>
 
 </html>

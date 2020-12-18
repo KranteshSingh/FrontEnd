@@ -88,8 +88,7 @@
                                     <img class="img-fluid" src="assets/svg/illustrations/server-woman.svg"
                                         alt="Image Description">
                                 </figure>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. </p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -104,8 +103,7 @@
                                     <img class="img-fluid" src="assets/svg/illustrations/full-stack.svg"
                                         alt="Image Description">
                                 </figure>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. </p>
+                                <p> </p>
                             </div>
                         </div>
                     </div>
@@ -120,8 +118,7 @@
                                     <img class="img-fluid" src="assets/svg/illustrations/business-woman.svg"
                                         alt="Image Description">
                                 </figure>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. </p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
@@ -149,7 +146,7 @@
     <!-- End Features Section -->
     <!-- Features Section -->
     <div class="container space-2">
-        <div class="row align-items-lg-center">
+        <div class="row align-items-lg-start">
             <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                 <div class="mb-5">
                     <h2 class="mb-3">How Greensense Works</h2>
@@ -454,7 +451,7 @@
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Potato</figcaption>
             </div>
-            <div class="col-md-4 d-none d-md-block px-2 mb-3">
+            <div class="col-md-4 d-md-block px-2 mb-3">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/2.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tomato</figcaption>
@@ -472,7 +469,7 @@
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Mango</figcaption>
             </div>
-            <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/5.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Pomegranate</figcaption>
@@ -484,7 +481,7 @@
             </div>
             <div class="w-100"></div><br>
 
-            <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/8.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Coffee</figcaption>
@@ -513,7 +510,7 @@
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw.jpg);">
                 </div>
             </div>
-            <div class="col-md-4 d-none d-md-block px-2 mb-3">
+            <div class="col-md-4 d-md-block px-2 mb-3">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw1.png);">
                 </div>
             </div>
@@ -528,7 +525,7 @@
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw3.jpg);">
                 </div>
             </div>
-            <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw4.png);">
                 </div>
             </div>
@@ -542,7 +539,7 @@
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw6.jpg);">
                 </div>
             </div>
-            <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw7.jpeg);">
                 </div>
             </div>

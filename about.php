@@ -47,10 +47,10 @@
                 <!-- End Info -->
             </div>
 
-            <div class="col-md-5 d-none d-md-inline-block">
+            <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
-                <figure class="w-80">
-                    <img class="img-fluid" src="assets/media/images/500.png" alt="Image Description">
+                <figure class="w-100">
+                    <img class="img-fluid rounded" src="assets/media/images/Frame1.jpg" alt="Image Description">
                 </figure>
                 <!-- End SVG Illustration -->
             </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Hello | Yuktix</title>
+    <title>Commodities Trader Company | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -32,7 +32,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>Produce Quality Monitoring</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -107,7 +107,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">Commodities Trader Company</p>
                                         </div>
                                     </div>
                                 </div>
@@ -125,7 +125,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Yuktix GreenSense and ankiDBTM</p>
+                                            <p class="text-body mb-0">Yuktix Coldsense and ankiDBTM</p>
                                         </div>
                                     </div>
                                 </div>
@@ -159,10 +159,13 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>The user was storing raw produce red dry chili in cold storages across Telangana
+                    and Andhra Pradesh. Cold Storages are of the conventional type with floors
+                    separated by wooden floors. Chiller is on the top floor and cold air circulates
+                    down from there to the basement to maintain the desired temperature. The user
+                    was unable to track the real-time temperature of each floor for deviations from
+                    prescribed norms. Long term deviation can alter the quality of chili stored and
+                    affects the quality of the end product.</p>
             </div>
         </div>
     </div>
@@ -182,8 +185,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
-                        <p></p>
+                        <h3>Challenge 1</h3>
+                        <p>Multiple floors with different temperature profiles.</p>
                     </div>
                 </div>
             </li>
@@ -192,8 +195,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
-                        <p></p>
+                        <h3>Challenge 2</h3>
+                        <p>Wires carrying current are prohibited inside the cold storage</p>
                     </div>
                 </div>
             </li>
@@ -202,8 +205,29 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
-                        <p></p>
+                        <h3>Challenge 3</h3>
+                        <p>Thick concrete walls. After packing the produce, a signal needs to
+                            come out that rules out Wi-Fi and blue tooth.</p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>Challenge 3</h3>
+                        <p>A lot of power fluctuations, also uninterrupted power supply
+                            is not guaranteed</p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>Challenge 3</h3>
+                        <p>Multiple warehouses spread in the state. Data aggregation on one
+                            platform required for a distributed team</p>
                     </div>
                 </div>
             </li>
@@ -227,13 +251,15 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Solar powered GreenSense Nodes
-                                with crop need-based sensors were
-                                deployed in different farms to collect
-                                24x7 data without deploying a staff.
-                                The data collected by sensors was
-                                pushed to the Yuktix ankiDB™ for
-                                analysis</p>
+                            <p>ColdSense devices were installed in
+                                each floor at two different locations.
+                                The data capture is happening from
+                                twelve different points capturing
+                                accurate hyperlocal variations. The
+                                data collected from ColdSense
+                                devices is made available to different
+                                stakeholders of the organisation
+                                in a distributed team.</p>
                         </div>
                     </div>
                     <div class="media">
@@ -241,14 +267,15 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix ankiDB™ processed the collected
-                                data and ran it through crop specific
-                                computation modules to provide a
-                                possibility of disease happening to the
-                                crop. The data was made available on
-                                the GreenSense dashboard along with
-                                weather data, NDVI images, and local
-                                weather prediction</p>
+                            <p>ankiDB™
+                                computation modules provide
+                                statistical modules to compute and
+                                rank the cold storage performances
+                                as a an index for the management.
+                                Daily report to operations team and
+                                monthly reports to management
+                                with different warehouse rankings is
+                                generated</p>
                         </div>
                     </div>
 
@@ -285,7 +312,9 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            Quality of produce stored
+                            was maintained as per the
+                            prescribed norms.
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -293,7 +322,8 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            Alerts to warehouse operators to
+                            correct operations in real time.
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -301,7 +331,8 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Increase in production
+                            Reduction in power consumption
+                            of the cold storage
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -309,17 +340,12 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Wastage Reduction
+                            Streamlined and automated the
+                            process of data capture from
+                            multiple location.
                         </div>
                     </div>
-                    <div class="media mb-4">
-                        <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                            <i class="fas fa-check"></i>
-                        </span>
-                        <div class="media-body text-dark">
-                            Effective Utilization of man Power
-                        </div>
-                    </div>
+
 
                     <!-- End Features -->
                 </div>

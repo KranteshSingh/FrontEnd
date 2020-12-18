@@ -23,13 +23,20 @@
                             </span>
                         </a>
                     </li>
-                    <BR>
-                    <li class="nav-item">
+
+                    <li class="nav-item mt-2">
+                        <a class="nav-link media" href="tel:+918025729456">
+                            <span class="media">
+                                <span class="fas fa-phone-alt mt-1 mr-2"></span>
+                                <span class="media-body">
+                                    +91 80 2572 9456 (Landline)
+                                </span>
+                            </span>
+                        </a>
                         <a class="nav-link media" href="tel:+918884315300">
                             <span class="media">
                                 <span class="fas fa-phone-alt mt-1 mr-2"></span>
                                 <span class="media-body">
-                                    +91 80 2572 9456 (Landline)<br>
                                     +91 888 431 5300 (Mobile)
                                 </span>
                             </span>
@@ -46,7 +53,7 @@
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="about.php">About Us </a></li>
                     <li class="nav-item"><a class="nav-link" href="http://blog.yuktix.com/">Our Blog</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Case Study</a></li>
+                    <li class="nav-item"><a class="nav-link" href="case-studies.php">Case Studies</a></li>
                 </ul>
                 <!-- End Nav Link -->
             </div>
@@ -74,7 +81,7 @@
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
                     <li class="nav-item"><a class="nav-link" href="ankidb-cloud.php">ankiDB™ Cloud</a></li>
-                    <li class="nav-item"><a class="nav-link" href="ankidb-micro">ankiDB™ Micro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ankidb-micro.php">ankiDB™ Micro</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">API Reference</a></li>
 
                 </ul>
@@ -98,7 +105,15 @@
                         <a class="nav-link" href="https://cloud.yuktix.com">
                             <span class="media align-items-center">
                                 <i class="fa fa-user-circle mr-2"></i>
-                                <span class="media-body">ankiDB™ cloud</span>
+                                <span class="media-body">ankiDB™ Login</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://webm01-dev.yuktix.com:8001/login/green.php">
+                            <span class="media align-items-center">
+                                <i class="fa fa-user-circle mr-2"></i>
+                                <span class="media-body">GreenSense Login</span>
                             </span>
                         </a>
                     </li>
@@ -166,7 +181,7 @@
 
         <!-- Copyright -->
         <div class="w-md-75 text-lg-center mx-lg-auto">
-            <p class="text-muted small">© 2020 Yuktix Technologies PVT. LTD. | All rights reserved.</p>
+            <p class="small text-black">© 2020 Yuktix Technologies PVT. LTD. | All rights reserved.</p>
             <p class="text-muted small">All content on this website is created by Yuktix Technologies and
                 using any of the content, documents, diagrams, images, slides and videos without prior written
                 consent is not permitted.</p>

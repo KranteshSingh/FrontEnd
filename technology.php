@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Technology | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
@@ -29,8 +29,8 @@
     <!-- Hero Section -->
     <div class="container space-3">
         <div class="row justify-content-lg-between align-items-lg-center">
-            <div class="col-sm-10 col-lg-5 mb-7 mb-lg-0">
-                <img class="img-fluid" src="assets/media/images/500.png" alt="Image Description">
+            <div class="col-sm-10 col-lg-6 mb-3 mb-lg-0">
+                <img class="img-fluid rounded" src="assets/media/images/Frame10.jpg" alt="Image Description">
             </div>
 
             <div class="col-md-6">
@@ -64,7 +64,6 @@
 
             <div class="col-md-7"><img src="assets/media/images/yuktixcloud.png" class="img-fluid"
                     alt="Responsive image"></div>
-
         </div>
     </div>
     <br>
@@ -72,15 +71,14 @@
         <div class="col-md-6 producttext align-self-center">
             <h2>The ankiDB™ solution comprises of ankiDB™ micro and ankiDB™
                 cloud.</h2>
-            <br><br>
-
+            <br>
         </div>
     </div>
     </div>
 
     <div class="position-relative u-gradient-half-primary-v3">
-        <div class="container-fluid u-space-2 prod">
-            <div class="w-md-80 w-lg-70 text-center mx-auto">
+        <div class="container-fluid u-space-1 prod">
+            <div class="w-md-60 w-lg-70 text-center mx-auto">
                 <div class="mb-4">
                     <h2 class="text-primary mt-2">
                         <br>
@@ -98,7 +96,7 @@
     </div>
 
     <!-- Services Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-80 w-lg-70 text-center mx-md-auto mb-9">
             <span class="d-block small font-weight-bold text-cap mb-2">ankiDB Cloud</span>
@@ -147,9 +145,6 @@
                                 Add user email + phone for notifications
                             </div>
                         </div>
-
-
-
                     </div>
                 </div>
                 <!-- End Icon Blocks -->
@@ -292,14 +287,8 @@
                 </div>
                 <!-- End Icon Blocks -->
             </div>
-
             <div class="w-100"></div>
-
-
-
         </div>
-
-
         <!-- End Services Section -->
         <!-- CTA Section -->
         <div class="container space-2 prod">
@@ -347,7 +336,7 @@
         </div>
 
         <!-- Features Section -->
-        <div class="container space-2">
+        <div class="container space-1">
             <!-- Title -->
             <div class="w-md-80 w-lg-80 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2">Features</span>
@@ -465,7 +454,6 @@
                     <!-- End Icon Blocks -->
                 </div>
             </div>
-
             <!-- End Features Section -->
         </div>
     </div>

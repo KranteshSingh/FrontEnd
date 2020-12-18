@@ -171,7 +171,7 @@
         </div>
     </div>
     <!-- End Contact Form Section -->
-    <br><br><br>
+
     <?php
     include 'includes/footer.php';
     ?>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Hello | Yuktix</title>
+    <title>Table Grape Grower in Karnataka | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -32,7 +32,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>Table Grape Grower in Karnataka</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -159,10 +159,10 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>Downey mildew is one the most common disease in Grapes. Pathogens thrive in certain
+                    weather conditions and access to weather data and pathogen lifecycle can predict
+                    diseases in crops. The user wanted an economical solution to accurately predict the
+                    onset of disease so that pesticide spraying can be regulated more effectively</p>
             </div>
         </div>
     </div>
@@ -182,7 +182,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
+                        <h3>Remote Location</h3>
                         <p></p>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
+                        <h3>An integrated economical solution was required.</h3>
                         <p></p>
                     </div>
                 </div>
@@ -202,7 +202,16 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
+                        <h3>24x7 real-time data capture was required.</h3>
+                        <p></p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>Reduction in usage of pesticide</h3>
                         <p></p>
                     </div>
                 </div>
@@ -227,13 +236,12 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Solar powered GreenSense Nodes
-                                with crop need-based sensors were
-                                deployed in different farms to collect
-                                24x7 data without deploying a staff.
-                                The data collected by sensors was
-                                pushed to the Yuktix ankiDB™ for
-                                analysis</p>
+                            <p>Hyperlocal data was captured using
+                                GreenSense nodes (air temperature,
+                                humidity and Leaf Wetness). The data
+                                collected from the nodes was analyzed
+                                using ankiDB™ computation engine
+                                running Broome Model.</p>
                         </div>
                     </div>
                     <div class="media">
@@ -241,14 +249,11 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix ankiDB™ processed the collected
-                                data and ran it through crop specific
-                                computation modules to provide a
-                                possibility of disease happening to the
-                                crop. The data was made available on
-                                the GreenSense dashboard along with
-                                weather data, NDVI images, and local
-                                weather prediction</p>
+                            <p>The onset of
+                                Downey mildew was calculated and
+                                assigned a probability. A report was
+                                generated on daily basis and shared
+                                with users over email and SMS.</p>
                         </div>
                     </div>
 
@@ -285,7 +290,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            30% pesticide reduction.
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -293,33 +298,11 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            Pesticide spraying was regulated
+                            using alerts.
                         </div>
                     </div>
-                    <div class="media mb-4">
-                        <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                            <i class="fas fa-check"></i>
-                        </span>
-                        <div class="media-body text-dark">
-                            Increase in production
-                        </div>
-                    </div>
-                    <div class="media mb-4">
-                        <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                            <i class="fas fa-check"></i>
-                        </span>
-                        <div class="media-body text-dark">
-                            Wastage Reduction
-                        </div>
-                    </div>
-                    <div class="media mb-4">
-                        <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                            <i class="fas fa-check"></i>
-                        </span>
-                        <div class="media-body text-dark">
-                            Effective Utilization of man Power
-                        </div>
-                    </div>
+
 
                     <!-- End Features -->
                 </div>

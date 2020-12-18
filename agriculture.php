@@ -48,8 +48,8 @@
                     <div class="mx-2"></div>
                 </div>
             </div>
-            <div class="col-sm-10 col-lg-5 mb-0 mb-lg-0">
-                <img class="img-fluid" src="assets/media/images/500.png" alt="Image Description">
+            <div class="col-sm-10 col-lg-6 mb-0 mb-lg-0">
+                <img class="img-fluid rounded" src="assets/media/images/Frame6.jpg" alt="Image Description">
             </div>
         </div>
     </div>

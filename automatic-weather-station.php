@@ -405,7 +405,7 @@
                     <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);">
                     </div>
                 </div>
-                <div class="col-md-3 d-none d-md-block px-2 mb-3">
+                <div class="col-md-3 d-md-block px-2 mb-3">
                     <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);">
                     </div>
                 </div>
@@ -420,7 +420,7 @@
                     <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);">
                     </div>
                 </div>
-                <div class="col-md-4 d-none d-md-block px-2 mb-3 mb-md-0">
+                <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                     <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);">
                     </div>
                 </div>

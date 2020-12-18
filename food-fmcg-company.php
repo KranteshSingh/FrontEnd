@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Hello | Yuktix</title>
+    <title>Food FMCG Company | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -32,7 +32,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>Food FMCG Company</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -107,7 +107,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">Food FMCG Company</p>
                                         </div>
                                     </div>
                                 </div>
@@ -159,10 +159,12 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>The client wanted to test the effectiveness of a new soil moisture absorbent
+                    molecule by running tests across vast tracts of lands in a remote location. The
+                    claim from molecule manufacturers was to increase the soil water holding capacity
+                    by up to 30 percent. However, there was no data available to test the claim under
+                    different and varying conditions. It was a challenge to collect data manually from
+                    such a vast tract of land in a remote location.</p>
             </div>
         </div>
     </div>
@@ -182,7 +184,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
+                        <h3>Remote off-grid locations in Orissa</h3>
                         <p></p>
                     </div>
                 </div>
@@ -192,7 +194,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
+                        <h3>Limited Network</h3>
                         <p></p>
                     </div>
                 </div>
@@ -202,7 +204,16 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
+                        <h3>Harsh Environment</h3>
+                        <p></p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">4</span>
+                    <div class="step-content">
+                        <h3>No Power</h3>
                         <p></p>
                     </div>
                 </div>
@@ -227,13 +238,16 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Solar powered GreenSense Nodes
-                                with crop need-based sensors were
-                                deployed in different farms to collect
-                                24x7 data without deploying a staff.
-                                The data collected by sensors was
-                                pushed to the Yuktix ankiDB™ for
-                                analysis</p>
+                            <p>Yuktix deployed GreenSense nodes
+                                with onboard single-cell solar charger
+                                (SSC) and battery with soil moisture
+                                sensors. The nodes were deployed in
+                                fields that have absorbent molecules
+                                (treatment group) as well as the ones
+                                without (control group). The data
+                                from all the fields were collected
+                                and Volumetric water content was
+                                computed in real time. </p>
                         </div>
                     </div>
                     <div class="media">
@@ -241,14 +255,15 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix ankiDB™ processed the collected
-                                data and ran it through crop specific
-                                computation modules to provide a
-                                possibility of disease happening to the
-                                crop. The data was made available on
-                                the GreenSense dashboard along with
-                                weather data, NDVI images, and local
-                                weather prediction</p>
+                            <p>The result
+                                showing side by side comparison of
+                                both treatment and control groups
+                                was published and passed to the
+                                client team daily. The client could see
+                                the variation across groups in real
+                                time. The nodes kept working without
+                                any maintenance during the entire
+                                project lifecycle</p>
                         </div>
                     </div>
 
@@ -285,7 +300,9 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            Real-time data capture thus
+                            removing the dependency on
+                            on-field staff.
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -293,7 +310,8 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            Yuktix GreenSense remove chances
+                            of human error.
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -301,7 +319,8 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Increase in production
+                            Quick report publishing leads to
+                            quick decision making
                         </div>
                     </div>
                     <div class="media mb-4">

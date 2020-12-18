@@ -47,9 +47,9 @@
             <div class="row justify-content-lg-between align-items-lg-center">
                 <div class="col-lg-6 mb-9 mb-lg-0">
                     <!-- Mockups -->
-                    <div class="position-relative max-w-40rem mx-auto">
+                    <div class="position-relative max-w-50rem mx-auto">
                         <div class="device device-iphone-x w-100 mx-auto">
-                            <img class="device-iphone-x-frame" src="assets/media/images/soilmoisture.jpeg"
+                            <img class="device-iphone-x-frame" src="assets/media/images/500.png"
                                 alt="Image Description">
                         </div>
                     </div>
@@ -193,12 +193,14 @@
     </div>
     <!-- End Step Section -->
     <!-- Features Section -->
-    <div class="container space-1">
-        <div class="row justify-content-lg-between align-items-lg-center">
-            <div class="col-lg-5 mb-9 mb-lg-0">
+
+    <div class="container space-1 prod">
+        <div class="row justify-content-lg-between align-items-lg-center ">
+            <div class="col-lg-5 mb-9 mb-lg-0 ml-2">
                 <div class="mb-4">
                     <h2>Save 40% Water</h2>
-                    <p>Using Yuktix advisory and GreenSense dashboard, plan your irrigation schedule according to crop.
+                    <p>Using Yuktix advisory and GreenSense dashboard, plan your irrigation schedule according to
+                        crop.
                         Analyze your irrigation using calender view, improve it and save more. </p>
                 </div>
 
@@ -241,6 +243,7 @@
             </div>
         </div>
     </div>
+    </div>
     <!-- End Features Section -->
     <!-- Icon Blocks Section -->
     <div class="container space-2">
@@ -257,7 +260,8 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <h2>Analyze, Share and Get advice </h2>
-            <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get weather
+            <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get
+                weather
                 forecast and take actions.</p>
         </div>
         <!-- End Title -->
@@ -343,7 +347,8 @@
             <div class="col-lg-5 mb-9 mb-lg-0">
                 <div class="mb-4">
                     <h2>Get Notified over SMS, Email and WhatsApp</h2>
-                    <p>Set Alerts for individual parameters for a single or multiple devices and get notified in real
+                    <p>Set Alerts for individual parameters for a single or multiple devices and get notified in
+                        real
                         time. Donwload reports or data for indepth research or future analysis. </p>
                 </div>
 
@@ -496,8 +501,10 @@
                             </li>
                         </ul>
                         <div class="mb-auto">
-                            <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I also
-                                get weather updates in real time, irrigation advisory. Have reduced water usage in each
+                            <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I
+                                also
+                                get weather updates in real time, irrigation advisory. Have reduced water usage in
+                                each
                                 farm by 30% and production have improved by almost 50%. ”</p>
                         </div>
                     </div>
@@ -539,8 +546,10 @@
                             </li>
                         </ul>
                         <div class="mb-auto">
-                            <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate. Irrigation
-                                and rain play a important role in Guava cultivation. With Yuktix now i can monitor soil
+                            <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate.
+                                Irrigation
+                                and rain play a important role in Guava cultivation. With Yuktix now i can monitor
+                                soil
                                 moisture in multiple location as well as weather forecats.”</p>
                         </div>
                     </div>

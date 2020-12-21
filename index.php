@@ -45,7 +45,7 @@
                         <div class="w-lg-100">
                             <h1 class="display-3 mb-2 text-white herotext">
                                 Agriculture Intelligence for<br>
-                                <span class="text-warning">
+                                <span class="text-warning display-4">
                                     <span class="js-text-animation"></span>
                                 </span>
                             </h1>
@@ -86,7 +86,7 @@
         <div class="row mx-n2">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover" href="#">
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
@@ -103,7 +103,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover" href="#">
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
@@ -120,7 +120,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover" href="#">
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
@@ -137,14 +137,14 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover" href="#">
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                         </figure>
-                        <h4>Reduced Losses</h4>
-                        <p class="font-size-1 text-body mb-0">With advance AI and ML based disease prediction algorithms
-                            and image analysis, spray only when required. </p>
+                        <h4>Reduce Wastage</h4>
+                        <p class="font-size-1 text-body mb-0">Advanced disease prediction models and alert mechanism to
+                            prevent susceptible crop damage </p>
                     </div>
                     <div class="card-footer border-0 pt-0">
                         <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -163,7 +163,7 @@
                     <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
-                    <h3>Climate Resiliant Agriculture for tribal farmers</h3>
+                    <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
                     <br>
                     <p class="lead">
                         With changing climate, there is no digital input for tribal farmers to use climate smart
@@ -183,12 +183,12 @@
                     <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Micro-Weather monitoring in a Tea-Estate</h3>
+                    <h3>Smart Guava Farm</h3>
                     <br>
                     <p class="lead">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                        of type and scrambled it to make a type specimen book.
+                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about soil
+                        moisture and amount of rain.
+                        Jai Javan, Jai Vigyaan.
                     </p>
                     <br>
                     <a href="#">
@@ -200,84 +200,85 @@
             </div>
     </section>
     <br>
-    <div id="areu">
-        <h2 class="display-5">Are you a</h2>
+    <div>
+        <h2 class="display-5 text-center">Are you a</h2>
     </div>
     <br>
-    <!-- Icon Blocks Section -->
-    <div class="container space-1">
-        <div class="row justify-content-lg-center">
-            <div class="col-md-6 col-lg-5 mb-1 mb-md-7">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Individual Grower</h4>
-                        <p>Are you a individual horticulture grower drowing Tomato, Chilli, Potato, Okra or any
-                            other
-                            horticuture crop. </p>
-                        <a href="#">Learn More ></a></span>
+    <!-- Articles Section -->
+    <div class="container space-2">
+        <div class="row">
+            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card shadow-lg h-100 text-center transition-3d-hover" href="#">
+                    <div class="card-body pt-7 px-7">
+                        <figure class="avatar mx-auto mb-4">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>Individual Grower</h3>
+                        <p class="text-body">Are you a individual horticulture grower drowing Tomato, Chilli, Potato,
+                            Okra or any other horticuture crop.
+                        </p>
                     </div>
-                </div>
-                <!-- End Icon Blocks -->
+
+                </a>
+                <!-- End Card -->
             </div>
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-7">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Plantation</h4>
-                        <p>Are you a Tea, Coffee or Coconut planation and want to monitor micro-weather and regulate
-                            irrigation schedule in your planation. </p>
-                        <a href="#">Learn More ></a></span>
+
+            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card shadow-lg h-100 text-center transition-3d-hover" href="#">
+                    <div class="card-body pt-7 px-7">
+                        <figure class="avatar mx-auto mb-4">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>Plantation</h3>
+                        <p class="text-body">Are you a Tea, Coffee or Coconut planation and want to monitor
+                            micro-weather and regulate irrigation schedule in your planation.</p>
                     </div>
-                </div>
-                <!-- End Icon Blocks -->
+
+                </a>
+                <!-- End Card -->
             </div>
-            <div class="w-100"></div>
-            <div class="col-md-6 col-lg-5 mb-3 mb-md-7 mb-lg-0">
-                <!-- Icon Blocks -->
-                <div class="media pr-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>NGO/FPO</h4>
-                        <p>Are you a NGO or a FPO working with a group of farmers and want to use next generation
-                            digital tools to provide advisory to your farmers </p>
-                        <a href="#">Learn More ></a></span>
+
+            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card shadow-lg h-100 text-center transition-3d-hover" href="#">
+                    <div class="card-body pt-7 px-7">
+                        <figure class="avatar mx-auto mb-4">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>NGO/FPO</h3>
+                        <p class="text-body">Are you a NGO or a FPO working with a group of farmers and want to use next
+                            generation digital tools to provide advisory to your farmers</p>
                     </div>
-                </div>
-                <!-- End Icon Blocks -->
+
+                </a>
+                <!-- End Card -->
             </div>
-            <div class="col-md-6 col-lg-5">
-                <!-- Icon Blocks -->
-                <div class="media pl-lg-5">
-                    <figure class="w-100 max-w-8rem mr-4">
-                        <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4>Research Institute</h4>
-                        <p>Are you a agriculture research institute and want to use low powered, wireless sensors
-                            for
-                            your agriculture research </p>
-                        <a href="#">Learn More ></a></span>
+            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card shadow-lg h-100 text-center transition-3d-hover" href="#">
+                    <div class="card-body pt-7 px-7">
+                        <figure class="avatar mx-auto mb-4">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>Research Institute</h3>
+                        <p class="text-body">Are you a agriculture research institute and want to use low powered,
+                            wireless sensors for your agriculture research</p>
                     </div>
-                </div>
-                <!-- End Icon Blocks -->
+
+                </a>
+                <!-- End Card -->
             </div>
         </div>
     </div>
-    <!-- End Icon Blocks Section -->
+    <!-- End Articles Section -->
+
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
                 <div>
-                    <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-3 mb-md-9 mt-2">
+                    <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-2">
                         <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
@@ -291,7 +292,7 @@
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
-            <div class="w-lg-65 text-center mx-lg-auto">
+            <div class="w-lg-70 text-center mx-lg-auto">
                 <h2 class="display-5">Technology Stack </p>
                     <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
                         soil parameters
@@ -327,9 +328,9 @@
                         processing pipelines, integrate with google big query or Microcoft azure.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="ankidb-cloud.php">
                         <p>
-                            <b>Learn More</b>
+                            <b>Learn More ></b>
                         </p>
                     </a>
                 </div>
@@ -348,7 +349,7 @@
                         The ankiDB micro stack comprises of hardware nodes and routers and firmware.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="ankidb-micro.php">
                         <p>
                             <b>Learn More ></b>
                         </p>
@@ -390,7 +391,8 @@
         // initialization of HSMegaMenu component
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
-
+    </script>
+    <script>
     // For Hero Section
     $(document).on('ready', function() {
         // initialization of video on background
@@ -399,7 +401,7 @@
         });
         // initialization of text animation (typing)
         var typed = new Typed(".js-text-animation", {
-            strings: ["More Yield", "Monitoring"],
+            strings: ["Plantation", "Horticulture Crops", "Growers", "Farmers"],
             typeSpeed: 70,
             loop: true,
             backSpeed: 40,

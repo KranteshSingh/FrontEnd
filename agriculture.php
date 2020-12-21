@@ -79,18 +79,15 @@
                     <img src="assets/media/images/500.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Save water used in Irrigation by 40%</h3>
-                    <p class="font-italic">
-                        Irregulated irrigation can lead to plant water stress which in turn leads to slow growth and low
-                        productivity. The way irrigation is done in current scenario don’t account.
+                    <h3>Save 40% Water</h3>
+                    <p>India is behind US, china and other european countries in terms of productivity / acre. The
+                        reason behind this is un-availibilty of scitific advisory backed by data. This leads to low
+                        productivity.
+                        <br><br>
+                        Yuktix provides a perfect blend of sensing devices deployed in the field to capture
+                        micro-weather and soil data coupled with next generation agri-itellignce software utilizing
+                        scinetific reseach to increase your farm productivity by 15-20%.
                     </p>
-                    <ul>
-                        <li>Weather forecast</li>
-                        <li>soil moisture at root zone</li>
-                        <li>Evapotranspiration</li>
-                    </ul>
-                    <p>Yuktix provide irrigation advisory and irrigation planning using its next generation wireless,
-                        solar powered and robust device. Save upto 40% on water used in irrigation</p>
                     <a href="#">Yuktix Soil Moisture Sensor</a> | <a href="#">Case Study</a>
                 </div>
             </div>
@@ -114,26 +111,7 @@
             </div>
             <br>
             <br>
-            <div class="row content">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Reduce Loss by 50%</h3>
-                    <p class="font-italic">
-                        Irregulated irrigation can lead to plant water stress which in turn leads to slow growth and low
-                        productivity. The way irrigation is done in current scenario don’t account.
-                    <ul>
-                        <li>Waether Forecast</li>
-                        <li>Soil moisture at root zone</li>
-                        <li>Evapotranspiration</li>
-                    </ul>
-                    Yuktix provide irrigation advisory and irrigation planning using its next generation wireless,
-                    solar powered and robust device. Save upto 40% on water used in irrigation
-                    </p>
-                    <a href="#">Weather Station</a> | <a href="#">Case Study</a>
-                </div>
-            </div>
+
         </div>
     </section><!-- End Details Section -->
     <div class="container-fluid">

@@ -28,11 +28,11 @@
     ?>
     <!--Header end-->.
     <!-- Hero Section -->
-    <div class="container space-top-2 space-top-md-4 space-top-lg-3">
+    <div class="container space-top-2 space-top-md-4 space-top-lg-3 mb-3">
         <div class="border-bottom">
             <div class="w-lg-75 text-center mx-lg-auto">
                 <div class="mb-9">
-                    <h1 class="display-4 mb-4">A better way to Monitor Your Farms</h1>
+                    <h1 class="display-4 mb-4">Digitise your Farm with Yuktix GreenSense</h1>
                     <p class="lead">Using Next Generation IoT Devices, Increase Yield & Reduce Losses</p>
                     <p>Become a Next Generation Farmer</p>
                 </div>
@@ -45,105 +45,87 @@
     </div>
     <!-- End Hero Section -->
     <!-- Features Section -->
-    <div class="container space-2 text-center">
-        <div class="mb-9">
-            <h2 class="h1">What can you do with Greensense Devices?</h2>
+    <div class="container space-1">
+        <!-- Title -->
+        <div class="w-md-75 w-lg-75 text-center mx-md-auto mb-5 mb-md-9">
+            <h2 class="display-5">
+                How Yuktix GreenSense can help you?</h2>
         </div>
-
-        <div class="position-relative pt-5 pb-3 pt-md-11 pb-md-7">
-            <div class="position-relative z-index-2 p-2 p-sm-0">
-                <!-- News Carousel -->
-                <div class="js-slick-carousel slick slick-equal-height slick-gutters-3 mb-5"
-                    data-hs-slick-carousel-options='{
-             "slidesToShow": 3,
-             "dots": true,
-             "dotsClass": "slick-pagination slick-pagination-white d-lg-none mt-5",
-             "responsive": [{
-               "breakpoint": 1200,
-                 "settings": {
-                   "slidesToShow": 3
-                 }
-               }, {
-               "breakpoint": 992,
-               "settings": {
-                 "slidesToShow": 2
-                }
-               }, {
-               "breakpoint": 768,
-               "settings": {
-                 "slidesToShow": 2
-                }
-               }, {
-               "breakpoint": 554,
-               "settings": {
-                 "slidesToShow": 1
-               }
-             }]
-           }'>
-                    <!-- Card Block -->
-                    <div class="js-slide mt-1 mb-3">
-                        <div class="card flex-wrap flex-row">
-                            <div class="card-body py-6">
-                                <h3 class="mb-5">40% Reduction in Water</h3>
-                                <figure class="max-w-27rem w-100 mx-auto mb-4">
-                                    <img class="img-fluid" src="assets/svg/illustrations/server-woman.svg"
-                                        alt="Image Description">
-                                </figure>
-                                <p></p>
-                            </div>
-                        </div>
+        <div class="row mx-n2">
+            <!-- Features Section -->
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
+                <!-- Icon Blocks -->
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                    <div class="card-body">
+                        <figure class="w-100 max-w-8rem mb-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
+                        </figure>
+                        <h4>Increase Production</h4>
+                        <p class="font-size-1 text-body mb-0">Follow best scientific advisory backed by data collected
+                            by on-filed sensor and produce more per acre.</p>
                     </div>
-                    <!-- End Card Block -->
-                    <!-- Card Block -->
-                    <div class="js-slide mt-1 mb-3">
-                        <div class="card flex-wrap flex-row">
-                            <div class="card-body py-6">
-                                <h3 class="mb-5">25% reduction in Pesticides</h3>
-                                <figure class="max-w-27rem w-100 mx-auto mb-4">
-                                    <img class="img-fluid" src="assets/svg/illustrations/full-stack.svg"
-                                        alt="Image Description">
-                                </figure>
-                                <p> </p>
-                            </div>
-                        </div>
+                    <div class="card-footer border-0 pt-0">
+                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                     </div>
-                    <!-- End Card Block -->
-                    <!-- Card Block -->
-                    <div class="js-slide mt-1 mb-3">
-                        <div class="card flex-wrap flex-row">
-                            <div class="card-body py-6">
-                                <h3 class="mb-5">15-20% increase in Yield</h3>
-                                <figure class="max-w-27rem w-100 mx-auto mb-4">
-                                    <img class="img-fluid" src="assets/svg/illustrations/business-woman.svg"
-                                        alt="Image Description">
-                                </figure>
-                                <p></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Card Block -->
-                </div>
-                <!-- Info -->
-                <p class="text-white">
-                    See Yuktix Device in action.
-                    <a class="text-white font-weight-bold" href="contact.php">
-                        Get a Demo
-                        <span class="btn btn-xs btn-icon btn-light rounded-circle ml-2">
-                            <i class="fas fa-arrow-right"></i>
-                        </span>
-                    </a>
-                </p>
-                <!-- End Info -->
+                </a>
+                <!-- End Icon Blocks -->
             </div>
-            <!-- Background -->
-            <div class="bg-navy position-absolute top-0 right-0 bottom-0 left-0 rounded-lg mx-sm-7"
-                style="background-image: url(assets/svg/components/abstract-shapes-20.svg);"></div>
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
+                <!-- Icon Blocks -->
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                    <div class="card-body">
+                        <figure class="w-100 max-w-8rem mb-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
+                        </figure>
+                        <h4>Save Water</h4>
+                        <p class="font-size-1 text-body mb-0">With next generation soil Volumetric water content sensor,
+                            plan your irrigation schedule and save upto 40% of water </p>
+                    </div>
+                    <div class="card-footer border-0 pt-0">
+                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                    </div>
+                </a>
+                <!-- End Icon Blocks -->
+            </div>
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
+                <!-- Icon Blocks -->
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                    <div class="card-body">
+                        <figure class="w-100 max-w-8rem mb-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
+                        </figure>
+                        <h4>Less Pesticide Spray</h4>
+                        <p class="font-size-1 text-body mb-0">With advance AI and ML based disease prediction algorithms
+                            and image analysis, spray only when required. </p>
+                    </div>
+                    <div class="card-footer border-0 pt-0">
+                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                    </div>
+                </a>
+                <!-- End Icon Blocks -->
+            </div>
+            <div class="col-sm-6 col-lg-3 px-2">
+                <!-- Icon Blocks -->
+                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                    <div class="card-body">
+                        <figure class="w-100 max-w-8rem mb-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
+                        </figure>
+                        <h4>Reduce Wastage</h4>
+                        <p class="font-size-1 text-body mb-0">Advanced disease prediction models and alert mechanism to
+                            prevent susceptible crop damage </p>
+                    </div>
+                    <div class="card-footer border-0 pt-0">
+                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                    </div>
+                </a>
+                <!-- End Icon Blocks -->
+            </div>
         </div>
     </div>
-    <!-- End Features Section -->
     <!-- Features Section -->
     <div class="container space-2">
-        <div class="row align-items-lg-start">
+        <div class="row align-items-lg-center">
             <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                 <div class="mb-5">
                     <h2 class="mb-3">How Greensense Works</h2>

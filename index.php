@@ -188,11 +188,11 @@
                 </div>
             </div>
     </section>
-    <br>
+
     <div>
         <h2 class="display-5 text-center">Are you a</h2>
     </div>
-    <br>
+
     <!-- Articles Section -->
     <div class="container space-2">
         <div class="row">

@@ -236,8 +236,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <h2>Analyze, Share and Get advice </h2>
-            <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get
-                weather
+            <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get weather
                 forecast and take actions.</p>
         </div>
         <!-- End Title -->
@@ -259,57 +258,13 @@
                 <!-- Device Mockup -->
                 <div class="device-wrapper">
                     <div class="device">
-                        <img class="img-fluid" src="assets/svg/components/macbook.svg" alt="Image Description">
-                        <img class="device-macbook-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                    <div class="device device-iphone-x">
-                        <img class="device-iphone-x-frame" src="assets/svg/components/iphone-x.svg"
-                            alt="Image Description">
-                        <img class="device-iphone-x-screen" src="assets/media/images/dashboard.png"
+                        <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
                             alt="Image Description">
                     </div>
                 </div>
-                <!-- End Device Mockup -->
             </div>
-            <div class="tab-pane fade" id="pills-two-code-features-example1" role="tabpanel"
-                aria-labelledby="pills-two-code-features-example1-tab">
-                <!-- Device Mockup -->
-                <div class="device-wrapper">
-                    <div class="device">
-                        <img class="img-fluid" src="assets/svg/components/macbook.svg" alt="Image Description">
-                        <img class="device-macbook-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                    <div class="device device-iphone-x">
-                        <img class="device-iphone-x-frame" src="assets/svg/components/iphone-x.svg"
-                            alt="Image Description">
-                        <img class="device-iphone-x-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                </div>
-                <!-- End Device Mockup -->
-            </div>
-            <div class="tab-pane fade" id="pills-three-code-features-example1" role="tabpanel"
-                aria-labelledby="pills-three-code-features-example1-tab">
-                <!-- Device Mockup -->
-                <div class="device-wrapper">
-                    <div class="device">
-                        <img class="img-fluid" src="assets/svg/components/macbook.svg" alt="Image Description">
-                        <img class="device-macbook-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                    <div class="device device-iphone-x">
-                        <img class="device-iphone-x-frame" src="assets/svg/components/iphone-x.svg"
-                            alt="Image Description">
-                        <img class="device-iphone-x-screen" src="assets/media/images/dashboard.png"
-                            alt="Image Description">
-                    </div>
-                </div>
-                <!-- End Device Mockup -->
-            </div>
+            <!-- End Device Mockup -->
         </div>
-        <!-- End Tab Content -->
     </div>
     <!-- End Features Section -->
     <!-- Features Section -->
@@ -348,10 +303,11 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="position-relative max-w-50rem mx-auto">
+                <div class="position-relative max-w-80rem mx-auto">
                     <!-- Device Mockup -->
-                    <div class="device device-iphone-x w-100 mx-auto">
-                        <img class="device-iphone-x-frame" src="assets/media/images/500.png" alt="Image Description">
+                    <div class="w-100 mx-auto">
+                        <img class="img-fluid rounded cardshadow" src="assets\media\images\greenhouse\notification.png"
+                            alt="Instant Notification">
                     </div>
                     <!-- End Device Mockup -->
                 </div>
@@ -394,7 +350,7 @@
         <div class="container">
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Case Study 1</h3>
@@ -415,7 +371,7 @@
             </div>
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                     <h3>Case Study 2</h3>
@@ -446,7 +402,7 @@
         <div class="row">
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">
@@ -489,7 +445,7 @@
             <!-- End Testimonials -->
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">
@@ -532,7 +488,7 @@
             <!-- End Testimonials -->
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">

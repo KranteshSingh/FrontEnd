@@ -364,10 +364,8 @@
         </div>
     </div>
     <!-- End Icon Blocks Section -->
-    <br>
-    <br>
     <!-- Icon Blocks Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <h2>How Does it Looks Like</h2>
@@ -571,7 +569,7 @@
             <div class="row">
                 <!-- Testimonials -->
                 <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                    <div class="card h-100">
+                    <div class="card h-100 cardshadow">
                         <div class="card-body">
                             <ul class="list-inline text-warning">
                                 <li class="list-inline-item mx-0">
@@ -615,7 +613,7 @@
                 <!-- End Testimonials -->
                 <!-- Testimonials -->
                 <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                    <div class="card h-100">
+                    <div class="card h-100 cardshadow">
                         <div class="card-body">
                             <ul class="list-inline text-warning">
                                 <li class="list-inline-item mx-0">
@@ -659,7 +657,7 @@
                 <!-- End Testimonials -->
                 <!-- Testimonials -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100">
+                    <div class="card h-100 cardshadow">
                         <div class="card-body">
                             <ul class="list-inline text-warning">
                                 <li class="list-inline-item mx-0">

@@ -177,7 +177,8 @@
             </div>
             <div class="col-lg-7 order-lg-1">
                 <!-- Card Block -->
-                <img class="img-fluid rounded" src="assets/media/images/yuktixgreensense.jpg" alt="Image Description">
+                <img class="img-fluid rounded" src="assets/media/images/greensense/yuktixgreensense.jpg"
+                    alt="Image Description">
 
             </div>
         </div>
@@ -236,8 +237,18 @@
     <!-- End Features Section -->
 
     <div class="container">
-        <h2 class="h1 text-center">Yuktix GreenSense Dashboard</h2>
-        <div class="img-fluid mx-auto"><img src="assets/media/images/gdashboard.png" alt="Greensense Dashboard"></div>
+        <h2 class="h1 text-center mb-7">Yuktix GreenSense Dashboard</h2>
+        <div class="row align-items-lg-center">
+            <div class="col-lg-6">
+                <div class="mx-auto"><img class="img-fluid rounded"
+                        src="assets\media\images\mockups\ankidbmockuptwoscr.png" alt="Greensense Dashboard"></div>
+            </div>
+            <div class="col-lg-6 justify-content-center">
+
+                <div class="mx-auto"><img class="img-fluid rounded"
+                        src="assets\media\images\mockups\smartmockupsgreensense.png" alt="Greensense Dashboard"></div>
+            </div>
+        </div>
     </div>
     <!-- Testimonials Section -->
     <br><br>
@@ -251,7 +262,7 @@
         <div class="row">
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">
@@ -293,7 +304,7 @@
             <!-- End Testimonials -->
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">
@@ -334,7 +345,7 @@
             <!-- End Testimonials -->
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">

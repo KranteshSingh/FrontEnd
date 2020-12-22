@@ -345,16 +345,15 @@
                     <div class="device">
                         <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
                             alt="Image Description">
-
                     </div>
                 </div>
             </div>
             <!-- End Device Mockup -->
         </div>
     </div>
-    </div>
+
     <!-- End Tab Content -->
-    </div>
+
     <!-- End Features Section -->
     <!-- Features Section -->
     <div class="container space-2">

@@ -37,7 +37,8 @@
             data-options='{direction: "normal"}'>
             <!-- Apply your Parallax background image here -->
             <div class="divimage dzsparallaxer--target "
-                style="height: 130%; background-image: url(assets/media/images/YuktixImage.jpg); opacity: 0.4;"></div>
+                style="height: 130%; background-image: url(assets/media/images/homepage/weather-station.jpg); opacity: 0.4;">
+            </div>
             <div class="d-md-flex space-3 space-md-0">
                 <div
                     class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
@@ -146,7 +147,8 @@
         <div class="container">
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/tribalcase.png" class="img-fluid rounded" alt="TRIBAL FARMER">
+                    <img src="assets/media/images/case-studies/tribalcase.png" class="img-fluid rounded"
+                        alt="TRIBAL FARMER">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
@@ -166,7 +168,8 @@
             </div>
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/guavaplantation.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
+                    <img src="assets/media/images/case-studies/guavaplantation.png" class="img-fluid rounded"
+                        alt="GUAVA PLANTATION">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Smart Guava Farm</h3>
@@ -302,7 +305,7 @@
         <div class="container">
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/dashboard.png" class="img-fluid" alt="">
+                    <img src="assets/media/images/mockups/gdashboard.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>ankiDB™ cloud</h3>
@@ -322,7 +325,7 @@
             </div>
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/yuktixdevice.png" class="img-fluid" alt="">
+                    <img src="assets/media/images/technology/yuktixdevice.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                     <h3>ankiDB™ micro</h3>

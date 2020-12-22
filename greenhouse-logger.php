@@ -28,7 +28,7 @@
     <!--Header end-->
     <!-- Gallery Section -->
     <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather"
-        style="background-image: url(assets/media/images/720.png)">
+        style="background-image: url(https://dummyimage.com/1280x720/000/fff)">
         <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
             <div class="w-sm-75 w-lg-100">
                 <br>
@@ -49,8 +49,8 @@
                 <div class="col-lg-6 mb-9 mb-lg-0">
                     <!-- Mockups -->
                     <div class="position-relative max-w-40rem mx-auto">
-                        <div class="device device-iphone-x w-100 mx-auto">
-                            <img class="device-iphone-x-frame" src="assets/media/images/greensense.jpeg"
+                        <div class=" w-100 mx-auto">
+                            <img class="img-fluid rounded" src="assets/media/images/greensense.jpeg"
                                 alt="Image Description">
                         </div>
                     </div>
@@ -391,10 +391,11 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="position-relative max-w-50rem mx-auto">
+                <div class="position-relative max-w-80rem mx-auto">
                     <!-- Device Mockup -->
-                    <div class="device device-iphone-x w-100 mx-auto">
-                        <img class="device-iphone-x-frame" src="assets/media/images/500.png" alt="Image Description">
+                    <div class=" w-100 mx-auto">
+                        <img class="img-fluid rounded" src="assets\media\images\greenhouse\notification.png"
+                            alt="Instant Notification">
                     </div>
                     <!-- End Device Mockup -->
                 </div>
@@ -408,7 +409,7 @@
                 <div>
                     <h2 class="text-center">How GreenHouse Logger Works</br></h2>
                     <br>
-                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="rounded embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
@@ -437,7 +438,7 @@
         <div class="container">
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Case Study 1</h3>
@@ -459,7 +460,7 @@
 
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                     <h3>Case Study 2</h3>
@@ -490,8 +491,8 @@
         <div class="row">
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                <div class="card h-100">
-                    <div class="card-body">
+                <div class="card h-100 cardshadow">
+                    <div class="card-body ">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">
                                 <i class="fas fa-star"></i>
@@ -531,7 +532,7 @@
             <!-- End Testimonials -->
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">
@@ -572,7 +573,7 @@
             <!-- End Testimonials -->
             <!-- Testimonials -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100">
+                <div class="card h-100 cardshadow">
                     <div class="card-body">
                         <ul class="list-inline text-warning">
                             <li class="list-inline-item mx-0">

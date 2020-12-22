@@ -40,12 +40,13 @@
                         and increase production by 25%. <br>Be a new generation farmer.</p>
                 </div>
                 <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
-                    <a class="btn btn-primary transition-3d-hover mb-2" href="contact.php">Contact Us</a>
+                    <a class="btn btn-primary transition-3d-hover mb-2" href="contact.php">About Us</a>
                     <div class="mx-2"></div>
                 </div>
             </div>
             <div class="col-sm-10 col-lg-6 mb-0 mb-lg-0">
-                <img class="img-fluid rounded" src="assets/media/images/Frame6.jpg" alt="Image Description">
+                <img class="img-fluid rounded" src="assets/media/images/agriculture/Frame6.jpg"
+                    alt="Yuktix Agriculture">
             </div>
         </div>
     </div>
@@ -54,7 +55,7 @@
         <div class="container">
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Increase Farm Production by 20% using Scientific Advisory</h3>
@@ -76,7 +77,7 @@
             <br><br>
             <div class="row content">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Save 40% Water</h3>
@@ -94,7 +95,7 @@
             <br><br>
             <div class="row content">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Reduce Pesticide Spray by 20-25% and Reduce residure problem</h3>

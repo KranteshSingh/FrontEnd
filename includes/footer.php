@@ -1,7 +1,7 @@
 <!-- ========== FOOTER ========== -->
-<hr style="position: relative; width:80%; border: none; height: 1px; background: grey; 
-            ">
 <footer class="container footer">
+    <hr style="position: relative; width:94%; border: none; height: 1px; background: grey; 
+            ">
     <div class="space-top-1 space-bottom-1 space-bottom-lg-1">
         <div class="row justify-content-lg-between">
             <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
@@ -115,7 +115,7 @@
     </div>
     <hr class="my-0">
     <div class="space-1">
-        <div class="row align-items-md-center mb-7">
+        <div class="row align-items-md-center mb-3">
             <div class="col-md-6 mb-4 mb-md-0">
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 align-items-center">

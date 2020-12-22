@@ -21,7 +21,6 @@
 </head>
 
 <body>
-    <div name="top"></div>
     <?php
     include 'includes/header.php';
     ?>
@@ -47,7 +46,7 @@
             <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
-                    <img class="img-fluid rounded" src="assets/media/images/Frame1.jpg" alt="Image Description">
+                    <img class="img-fluid rounded" src="assets/media/images/about-us/Frame1.jpg" alt="About Yuktix">
                 </figure>
                 <!-- End SVG Illustration -->
             </div>
@@ -65,7 +64,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/media/images/brinc.png" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/about-us/brinc.png" alt="BRINC LOGO">
                         </figure>
                         <div class="media-body">
                             <h4>BRINC</h4>
@@ -80,7 +79,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/media/images/ccamp.png" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/about-us/ccamp.png" alt="CCAMP LOGO">
                         </figure>
                         <div class="media-body">
                             <h4>C-CAMP</h4>
@@ -96,7 +95,8 @@
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/media/images/ceatec-japan.jpg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/about-us/ceatec-japan.jpg"
+                                alt="CEATEC JAPAN">
                         </figure>
                         <div class="media-body">
                             <h4>CEATEC, Japan, 2016</h4>
@@ -113,7 +113,8 @@
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/media/images/indo-israel.jpg" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/about-us/indo-israel.jpg"
+                                alt="INDO ISRAEL LOGO">
                         </figure>
                         <div class="media-body">
                             <h4>India Israel Innovation Bridge Winner</h4>
@@ -129,7 +130,7 @@
                     <!-- Icon Blocks -->
                     <div class="media pr-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/media/images/kits.png" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/about-us/kits.png" alt="KITS LOGO">
                         </figure>
                         <div class="media-body">
                             <h4>Karnataka Idea2POC Winner</h4>
@@ -148,7 +149,8 @@
                     <!-- Icon Blocks -->
                     <div class="media pl-lg-5">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/media/images/nasscom-emerge-50.png" alt="SVG">
+                            <img class="img-fluid" src="assets/media/images/about-us/nasscom-emerge-50.png"
+                                alt="NASSCOM EMERGE 50 LOGO">
                         </figure>
                         <div class="media-body">
                             <h4>NASSCOM Emerge 50 </h4>
@@ -188,12 +190,12 @@
                 <div class="row mx-n2 mb-1">
                     <div class="col-sm-6 col-lg-6 px-2 mb-3">
                         <!-- Team -->
-                        <div class="card h-100 transition-3d-hover">
+                        <div class="card h-100 transition-3d-hover cardshadow">
                             <div class="card-body">
                                 <div class="text-center">
                                     <div class="avatar avatar-lg avatar-circle mb-4">
-                                        <img class="avatar-img" src="assets/media/images/rajiv.jpg"
-                                            alt="Image Description">
+                                        <img class="avatar-img" src="assets/media/images/about-us/rajiv.jpg"
+                                            alt="RAJEEV JHA">
                                     </div>
                                     <span class="d-block small font-weight-bold text-cap mb-1">Founder / CEO</span>
                                     <h4 class="text-lh-sm">Rajeev Jha</h4>
@@ -233,12 +235,12 @@
                     </div>
                     <div class="col-sm-6 col-lg-6 px-2 mb-3">
                         <!-- Team -->
-                        <div class="card h-100 transition-3d-hover">
+                        <div class="card h-100 transition-3d-hover cardshadow">
                             <div class="card-body">
                                 <div class="text-center">
                                     <div class="avatar avatar-lg avatar-circle mb-4">
-                                        <img class="avatar-img" src="assets/media/images/shailendra.jpg"
-                                            alt="Image Description">
+                                        <img class="avatar-img" src="assets/media/images/about-us/shailendra.jpg"
+                                            alt="SHAILENDRA SINGH">
                                     </div>
                                     <span class="d-block small font-weight-bold text-cap mb-1">Co-Founder</span>
                                     <h4 class="text-lh-sm">Shailendra Singh</h4>
@@ -286,90 +288,109 @@
             <div class="row mx-n2 mb-5">
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
-                    <div class="card h-100 transition-3d-hover">
+                    <div class="card h-100 transition-3d-hover cardshadow">
                         <div class="card-body">
-                            <div class="avatar avatar-lg avatar-circle mb-4">
-                                <img class="avatar-img" src="assets/media/images/bns-murthy.jpg"
-                                    alt="Image Description">
+                            <div class="text-center">
+                                <div class="avatar avatar-lg avatar-circle mb-4">
+                                    <img class="avatar-img" src="assets/media/images/about-us/bns-murthy.jpg"
+                                        alt="BNS MURTHY">
+                                </div>
+                                <h4 class="text-lh-sm">Dr. BNS Murthy</h4>
+                                <span class="d-block small font-weight-bold text-cap mb-1">Horticulture Commissioner of
+                                    India</span>
+                                <p class="font-size-1">Dr Murthy is serving as Horticulture Commissioner in Department
+                                    of
+                                    Agriculture, Cooperation & Farmers Welfare. Dr murthy is working to make the Indian
+                                    horticulture sector a vibrant and profitable venture and work more like a technology
+                                    driven
+                                    venture.</p>
                             </div>
-                            <h4 class="text-lh-sm">Dr. BNS Murthy</h4>
-                            <span class="d-block small font-weight-bold text-cap mb-1">Horticulture Commissioner of
-                                India</span>
-                            <p class="font-size-1">Dr Murthy is serving as Horticulture Commissioner in Department of
-                                Agriculture, Cooperation & Farmers Welfare. Dr murthy is working to make the Indian
-                                horticulture sector a vibrant and profitable venture and work more like a technology
-                                driven
-                                venture.</p>
                         </div>
                     </div>
                     <!-- End Team -->
                 </div>
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
-                    <div class="card h-100 transition-3d-hover">
+                    <div class="card h-100 transition-3d-hover cardshadow">
                         <div class="card-body">
-                            <div class="avatar avatar-lg avatar-circle mb-4">
-                                <img class="avatar-img" src="assets/media/images/sridhar-gautam.jpg"
-                                    alt="Image Description">
+                            <div class="text-center">
+                                <div class="avatar avatar-lg avatar-circle mb-4">
+                                    <img class="avatar-img" src="assets/media/images/about-us/sridhar-gautam.jpg"
+                                        alt="SRIDHAR GAUTAM">
+                                </div>
+                                <h4 class="text-lh-sm">Dr. Sridhar Gautam</h4>
+                                <span class="d-block small font-weight-bold text-cap mb-1">Senior Scientist, Indian
+                                    Council
+                                    of
+                                    Agriculture Research</span>
+                                <p class="font-size-1">PhD in Plant Physiology from the ICAR-Indian Agricultural
+                                    Research
+                                    Institute. Dr sridhar is a proponent of opening up of data and information (Open
+                                    Access
+                                    &
+                                    Open Data) and application of free and open source software in agricultural
+                                    research. He
+                                    is
+                                    also also on the board of AgriXIv, an open access preprints repository of
+                                    agriculture
+                                    and
+                                    allied sciences and Thesis Commons, an open access thesis repository.</p>
                             </div>
-                            <h4 class="text-lh-sm">Dr. Sridhar Gautam</h4>
-                            <span class="d-block small font-weight-bold text-cap mb-1">Senior Scientist, Indian Council
-                                of
-                                Agriculture Research</span>
-                            <p class="font-size-1">PhD in Plant Physiology from the ICAR-Indian Agricultural Research
-                                Institute. Dr sridhar is a proponent of opening up of data and information (Open Access
-                                &
-                                Open Data) and application of free and open source software in agricultural research. He
-                                is
-                                also also on the board of AgriXIv, an open access preprints repository of agriculture
-                                and
-                                allied sciences and Thesis Commons, an open access thesis repository.</p>
                         </div>
                     </div>
                     <!-- End Team -->
                 </div>
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
-                    <div class="card h-100 transition-3d-hover">
+                    <div class="card h-100 transition-3d-hover cardshadow">
                         <div class="card-body">
-                            <div class="avatar avatar-lg avatar-circle mb-4">
-                                <img class="avatar-img" src="assets/media/images/nb-singh.jpg" alt="Image Description">
+                            <div class="text-center">
+                                <div class="avatar avatar-lg avatar-circle mb-4">
+                                    <img class="avatar-img" src="assets/media/images/about-us/nb-singh.jpg"
+                                        alt="DR. N.B. SINGH">
+                                </div>
+                                <h4 class="text-lh-sm">Dr. N.B. Singh</h4>
+                                <span class="d-block small font-weight-bold text-cap mb-1">Dean, Central Agriculture
+                                    University</span>
+                                <p class="font-size-1">Dr Singh is Dean of College of Post Graduate Studies (CPGS),
+                                    Meghalaya.
+                                    Dr Singh is coordinating and monitoring the Teaching, Research and Extension
+                                    activities
+                                    as
+                                    dean of the institute. He is also a forest Geneticist who has introduced temperate
+                                    fruits
+                                    namely, Apple, Peach, Pecan at Experimental farm of the CPGS, Mid Hills of
+                                    Meghalaya.
+                                </p>
                             </div>
-                            <h4 class="text-lh-sm">Dr. N.B. Singh</h4>
-                            <span class="d-block small font-weight-bold text-cap mb-1">Dean, Central Agriculture
-                                University</span>
-                            <p class="font-size-1">Dr Singh is Dean of College of Post Graduate Studies (CPGS),
-                                Meghalaya.
-                                Dr Singh is coordinating and monitoring the Teaching, Research and Extension activities
-                                as
-                                dean of the institute. He is also a forest Geneticist who has introduced temperate
-                                fruits
-                                namely, Apple, Peach, Pecan at Experimental farm of the CPGS, Mid Hills of Meghalaya.
-                            </p>
                         </div>
                     </div>
                     <!-- End Team -->
                 </div>
                 <div class="col-sm-6 col-lg-3 px-2 mb-3">
                     <!-- Team -->
-                    <div class="card h-100 transition-3d-hover">
+                    <div class="card h-100 transition-3d-hover cardshadow">
                         <div class="card-body">
-                            <div class="avatar avatar-lg avatar-circle mb-4">
-                                <img class="avatar-img" src="assets/media/images/Rishi-mughsot-2.png"
-                                    alt="Image Description">
+                            <div class="text-center">
+                                <div class="avatar avatar-lg avatar-circle mb-4">
+                                    <img class="avatar-img" src="assets/media/images/about-us/girish.jpeg"
+                                        alt="GIRISH KSHRISAGAR">
+                                </div>
+                                <h4 class="text-lh-sm">Girish Kshrisagar</h4>
+                                <span class="d-block small font-weight-bold text-cap mb-1">Ex-Bayer Agriculture</span>
+                                <p class="font-size-1">Chemical Engineer - IIT Bombay.
+                                    Ex-Bayer, Agriculture Industry Expert with 30+ years of experience.
+
+                                    Professional who has worked in Developed country (Germany) and two major emerging
+                                    economies (China, India) proving comfortable in handling different cultures and mind
+                                    sets.</p>
                             </div>
-                            <span class="d-block small font-weight-bold text-cap mb-1"></span>
-                            <h4 class="text-lh-sm">Rishi Prakash</h4>
-                            <p class="font-size-1">Rishi did his mechanical engineering from IIT Kanpur in 1998 and
-                                management studies from SP Jain. He has worked for Lehman Brothers, Nomura, TATA motors
-                                and
-                                HCL technologies.</p>
                         </div>
+                        <!-- End Team -->
                     </div>
-                    <!-- End Team -->
                 </div>
+                <br>
             </div>
-            <br>
         </div>
         <!-- End Team Section -->
         </main>
@@ -381,34 +402,38 @@
         <div class="row justify-content-between text-center">
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/indo-israel.jpg"
-                        alt="ISRAEL">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/indo-israel.jpg"
+                        alt="INDO ISRAEL">
                 </div>
             </div>
             <div class="col-4 col-lg-2 mb-5 mb-lg-0">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/brinc.png" alt="BRINC">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/brinc.png"
+                        alt="BRINC">
                 </div>
             </div>
             <div class="col-4 col-lg-2 mb-5 mb-lg-0">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/kits.png" alt="KITS">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/kits.png"
+                        alt="KITS">
                 </div>
             </div>
             <div class="col-4 col-lg-2 mb-5 mb-lg-0">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/nasscom-emerge-50.png"
-                        alt="NASSCOM">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto"
+                        src="assets/media/images/about-us/nasscom-emerge-50.png" alt="NASSCOM">
                 </div>
             </div>
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/ccamp.png" alt="CCAMP">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/ccamp.png"
+                        alt="CCAMP">
                 </div>
             </div>
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/marico.png" alt="MARICO">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/marico.png"
+                        alt="MARICO">
                 </div>
             </div>
         </div>
@@ -424,35 +449,38 @@
         <div class="row justify-content-between text-center">
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/Monsantologo.png"
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/Monsantologo.png"
                         alt="MONSANTO">
                 </div>
             </div>
             <div class="col-4 col-lg-2 mb-5 mb-lg-0">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/bayerlogo.png" alt="BAYER">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/bayerlogo.png"
+                        alt="BAYER">
                 </div>
             </div>
             <div class="col-4 col-lg-2 mb-5 mb-lg-0">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/gmvikaslogo.png"
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/gmvikaslogo.png"
                         alt="KITS">
                 </div>
             </div>
             <div class="col-4 col-lg-2 mb-5 mb-lg-0">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/hmlogo.png" alt="NASSCOM">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/hmlogo.png"
+                        alt="NASSCOM">
                 </div>
             </div>
 
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/itclogo.png" alt="CCAMP">
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/itclogo.png"
+                        alt="CCAMP">
                 </div>
             </div>
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
-                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/naturexlogo.png"
+                    <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/naturexlogo.png"
                         alt="Naturex Logo">
                 </div>
             </div>

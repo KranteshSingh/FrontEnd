@@ -33,21 +33,19 @@
                     <h1 class="display-5 mb-3">
                         Our Technology
                         <br>
-                        <span class="text-primary font-weight-bold">
-                            <span class="js-text-animation"></span>
-                        </span>
+
                     </h1>
                     <p class="lead">Turn your physical assets into digital data sources with the help of Yuktix ankiDB™
                         cloud. We provide a low code solution to bring data out of silos and on the network for everyone
                         to share and analyze</p>
                 </div>
                 <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
-                    <a class="btn btn-primary transition-3d-hover mb-2" href="#">Know More</a>
+                    <a class="btn btn-primary transition-3d-hover mb-2" href="about.php">About Us</a>
                     <div class="mx-2"></div>
                 </div>
             </div>
             <div class="col-sm-10 col-lg-6 mb-3 mb-lg-0">
-                <img class="img-fluid rounded" src="assets/media/images/Frame10.jpg" alt="Image Description">
+                <img class="img-fluid rounded" src="assets/media/images/technology/Frame10.jpg" alt="Yuktix Technology">
             </div>
         </div>
     </div>
@@ -55,8 +53,8 @@
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
 
-            <div class="col-md-7"><img src="assets/media/images/yuktixcloud.png" class="img-fluid"
-                    alt="Responsive image"></div>
+            <div class="col-md-7"><img src="assets/media/images/technology/yuktixcloud.png" class="img-fluid"
+                    alt="Yuktix Cloud"></div>
         </div>
     </div>
     <br>
@@ -80,7 +78,8 @@
                         Manage your devices and data over the Yuktix device cloud. Provision and categorize devices,
                         view trends, analyze data and set rule base alerts.
                     </p>
-                    <img class="img-fluid mx-auto d-block my-5" src="assets/media/images/ankidb-cloud.png">
+                    <img class="img-fluid mx-auto d-block my-5" src="assets/media/images/technology/ankidbdashboard.png"
+                        alt="ANKIDB CLOUD">
                     <br><br>
                 </div>
             </div>
@@ -103,14 +102,7 @@
                     </figure>
                     <div class="media-body">
                         <h4>Account Management</h4>
-                        <div class="media mb-1">
-                            <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                                <i class="fas fa-check"></i>
-                            </span>
-                            <div class="media-body text-dark">
-                                Add multiple accounts that can be public as well as private.
-                            </div>
-                        </div>
+
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -125,6 +117,14 @@
                             </span>
                             <div class="media-body text-dark">
                                 Set passwords for users
+                            </div>
+                        </div>
+                        <div class="media mb-1">
+                            <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
+                                <i class="fas fa-check"></i>
+                            </span>
+                            <div class="media-body text-dark">
+                                Add multiple accounts that can be public as well as private.
                             </div>
                         </div>
                         <div class="media mb-1">
@@ -193,14 +193,7 @@
                     <div class="media-body">
                         <h4>Notifications</h4>
 
-                        <div class="media mb-1">
-                            <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                                <i class="fas fa-check"></i>
-                            </span>
-                            <div class="media-body text-dark">
-                                Add triggers based on channel data and device serial number
-                            </div>
-                        </div>
+
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -215,6 +208,14 @@
                             </span>
                             <div class="media-body text-dark">
                                 Add/ Edit/ Remove triggers
+                            </div>
+                        </div>
+                        <div class="media mb-1">
+                            <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
+                                <i class="fas fa-check"></i>
+                            </span>
+                            <div class="media-body text-dark">
+                                Add triggers based on channel data and device serial number
                             </div>
                         </div>
                         <div class="media mb-1">
@@ -237,14 +238,7 @@
                     </figure>
                     <div class="media-body">
                         <h4>Device Management</h4>
-                        <div class="media mb-1">
-                            <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
-                                <i class="fas fa-check"></i>
-                            </span>
-                            <div class="media-body text-dark">
-                                Create device with universal serial numbers
-                            </div>
-                        </div>
+
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -259,6 +253,14 @@
                             </span>
                             <div class="media-body text-dark">
                                 Add metadata to device
+                            </div>
+                        </div>
+                        <div class="media mb-1">
+                            <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
+                                <i class="fas fa-check"></i>
+                            </span>
+                            <div class="media-body text-dark">
+                                Create device with universal serial numbers
                             </div>
                         </div>
                         <div class="media mb-1">
@@ -310,11 +312,12 @@
                         </p>
                         <a class="btn btn-primary u-btn-primary u-btn-wide u-btn-pill transition-3d-hover"
                             target="_blank"
-                            href="https://yuktix.sgp1.digitaloceanspaces.com/docs/ankidb-micro-hardware.pdf">Read More
+                            href="https://yuktix.sgp1.digitaloceanspaces.com/docs/ankidb-micro-hardware.pdf">Know More
                             <span class="fa fa-angle-right ml-2"></span></a>
                     </div>
                     <div class="col-lg-7">
-                        <img class="img-fluid" src="assets/media/images/yuktixdevice.png" alt="SVG Illustration">
+                        <img class="img-fluid" src="assets/media/images/technology/yuktixdevice.png"
+                            alt="Yuktix Device">
                     </div>
                 </div>
             </div>

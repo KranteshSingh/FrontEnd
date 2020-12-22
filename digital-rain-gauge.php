@@ -50,7 +50,6 @@
         <!-- End Hero Section -->
     </main>
     <!-- ========== END MAIN ========== -->
-    <!-- Header -->
     <?php
     include 'includes/footer.php';
     ?>

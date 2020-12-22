@@ -38,7 +38,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="agriculture-farm-management-co.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 1</span>
                         <h5 class="mb-0">Agriculture Farm Management Company</h5>
@@ -49,7 +49,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="commodities-trader-company.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 2</span>
                         <h5 class="mb-0">Commodities Trader Company</h5>
@@ -60,7 +60,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="food-fmcg-company.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 3</span>
                         <h5 class="mb-0">Food FMCG Company</h5>
@@ -71,7 +71,7 @@
             <div class="col-sm-6 col-lg-3 px-2">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="research-institutes-and-ngo.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 4</span>
                         <h5 class="mb-0">Research Institutes and NGO</h5>
@@ -84,7 +84,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="table-grape-grower-in-karnataka.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 5</span>
                         <h5 class="mb-0">Table Grape Growers in Karnataka</h5>
@@ -95,7 +95,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="jhulsa-for-muskmellon-farm.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 6</span>
                         <h5 class="mb-0">Jhulsa for Muskmellon Farmers</h5>
@@ -106,7 +106,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="maharastra-ngo-grape-farmers.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 7</span>
                         <h5 class="mb-0">Maharastra NGO Grape Farming</h5>
@@ -117,7 +117,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="next-generation-guava-plantation.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 8</span>
                         <h5 class="mb-0">Next Generation Guava Plantation</h5>
@@ -131,7 +131,7 @@
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 transition-3d-hover" href="table-grape-grower-in-karnataka.php">
-                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <img class="card-img-top" src="https://dummyimage.com/500x300/000/fff" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 9</span>
                         <h5 class="mb-0">Multinational Seed & Fertilizers Company</h5>

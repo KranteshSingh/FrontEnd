@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 Error | Yuktix </title>
+    <title>Page Not Available | Yuktix </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -41,8 +41,8 @@
                     <div class="col-lg-5">
                         <!-- Title -->
                         <div class="mb-4">
-                            <h1>Page Does Not Exists</h1>
-                            <p>Go Back to <a href="/">HOME</a></p>
+                            <h1>The Page You're Looking for Doesn't Exist</h1>
+                            <p>You may go to <a href="/">HOME</a></p>
                         </div>
                         <!-- End Title -->
                     </div>

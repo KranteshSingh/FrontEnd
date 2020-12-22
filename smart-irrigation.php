@@ -27,7 +27,8 @@
     ?>
     <!--Header end-->
     <!-- Gallery Section -->
-    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0" style="background-image: url(assets/media/images/720.png)">
+    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0"
+        style="background-image: url(https://dummyimage.com/1280x720/000/fff)">
         <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
             <div class="w-sm-75 w-lg-100">
                 <br>
@@ -48,7 +49,7 @@
                     <!-- Mockups -->
                     <div class="position-relative max-w-50rem mx-auto">
                         <div class="device device-iphone-x w-100 mx-auto">
-                            <img class="device-iphone-x-frame" src="assets/media/images/500.png"
+                            <img class="device-iphone-x-frame" src="assets\media\images\sirrigation\soilmoisture.jpeg"
                                 alt="Image Description">
                         </div>
                     </div>
@@ -108,7 +109,7 @@
                     </ul>
                     <!-- End Icon Block -->
                     <div class="mt-2">
-                        <a class="btn btn-primary transition-3d-hover px-4" href="#">Request Demo</a>
+                        <a class="btn btn-primary transition-3d-hover px-4" href="contact.php">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -212,7 +213,8 @@
                 <div class="position-relative max-w-50rem mx-auto">
                     <!-- Device Mockup -->
                     <div class="device device-iphone-x w-100 mx-auto">
-                        <img class="device-iphone-x-frame" src="assets/media/images/sav40.png" alt="Image Description">
+                        <img class="device-iphone-x-frame" src="assets/media/images/sirrigation/sav40.png"
+                            alt="Dashboard Image">
                     </div>
                     <!-- End Device Mockup -->
                 </div>
@@ -226,7 +228,7 @@
         <div class="w-md-100 w-lg-80 text-center mx-md-auto mb-5 mb-md-9">
             <h2>How Does it Looks Like</h2>
             <br>
-            <img class="img-fluid" src="assets/media/images/soilgal.png">
+            <img class="img-fluid" src="assets/media/images/sirrigation/soilgal.png">
         </div>
     </div>
     <!-- Features Section -->

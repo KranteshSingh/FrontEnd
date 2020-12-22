@@ -296,7 +296,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/ecom.png" alt="SVG">
+                        <img class="img-fluid" src="assets/media/images/about-us/ecom.png" alt="THE ECONOMICS TIMES">
                     </figure>
                     <h3>The Economic Times</h3>
                     <p>Groups, Individuals work on smart moves to make smart cities</p>
@@ -307,7 +307,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/thehindu.jpg" alt="SVG">
+                        <img class="img-fluid" src="assets/media/images/about-us/thehindu.jpg" alt="THE HINDU">
                     </figure>
                     <h3>The Hindu</h3>
                     <p>Understanding the weather</p>
@@ -318,7 +318,8 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/indianexp.png" alt="SVG">
+                        <img class="img-fluid" src="assets/media/images/about-us/indianexp.png"
+                            alt="THE INDIAN EXPRESS">
                     </figure>
                     <h3>The Indian Express</h3>
                     <p>Stop inefficient budget spend or pour more into a winning ad when needed.</p>
@@ -331,7 +332,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/citizem.png" alt="SVG">
+                        <img class="img-fluid" src="assets/media/images/about-us/citizen.png" alt="CITIZEN">
                     </figure>
                     <h3>Citizen Matters</h3>
                     <p>Weather Web proves that Jayanagar is hotter than Hebbal</p>
@@ -342,7 +343,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/telit.png" alt="SVG">
+                        <img class="img-fluid" src="assets/media/images/about-us/telit.png" alt="TELIT">
                     </figure>
                     <h3>Telit</h3>
                     <p>Banglore open weather network</p>
@@ -353,7 +354,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/bmirror.png" alt="SVG">
+                        <img class="img-fluid" src="assets/media/images/about-us/bmirror.png" alt="BMIRROR">
                     </figure>
                     <h3>Banglore Mirror</h3>
                     <p>The Weather Trackers</p>
@@ -376,30 +377,32 @@
         <div class="container">
             <div class="row mx-n2">
                 <div class="col-6 col-md px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws1.jpg);">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws1.jpg);">
                     </div>
                 </div>
                 <div class="col-md-3 d-md-block px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws2.jpg);">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws2.jpg);">
                     </div>
                 </div>
                 <div class="col-6 col-md px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws3.jpg);">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws3.jpg);">
                     </div>
                 </div>
                 <div class="w-100"></div>
                 <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws4.jpg);">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws4.jpg);">
                     </div>
                 </div>
                 <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws5.jpg);">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws5.jpg);">
                     </div>
                 </div>
                 <div class="col-6 col-md px-2">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/ws6.png);">
+                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws6.png);">
                     </div>
                 </div>
+
+
             </div>
         </div>
         <!-- End Gallery Section -->
@@ -512,7 +515,7 @@
             <div class="container">
                 <div class="row content">
                     <div class="col-md-4" data-aos="fade-right">
-                        <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                        <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-8" data-aos="fade-up">
                         <h3>Case Study 1</h3>
@@ -534,7 +537,7 @@
                 </div>
                 <div class="row content">
                     <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                        <img src="assets/media/images/500.png" class="img-fluid" alt="">
+                        <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                         <h3>Case Study 2</h3>

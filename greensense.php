@@ -234,14 +234,16 @@
         <!-- End Features -->
     </div>
     <!-- End Features Section -->
+
     <div class="container">
         <h2 class="h1 text-center">Yuktix GreenSense Dashboard</h2>
         <div class="img-fluid mx-auto"><img src="assets/media/images/gdashboard.png" alt="Greensense Dashboard"></div>
     </div>
     <!-- Testimonials Section -->
+    <br><br>
     <div class="container space-1">
         <!-- Title -->
-        <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
+        <div class="w-md-100 w-lg-100 mb-2 mb-md-3 text-center">
             <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
@@ -392,7 +394,7 @@
 
                 <!-- SVG Component -->
                 <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
-                    <img class="img-fluid" src="../../assets/svg/components/half-circle-2.svg" alt="Image Description">
+                    <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
                 </figure>
                 <!-- End SVG Component -->
             </div>
@@ -409,49 +411,58 @@
         </div>
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/1.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/1.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Potato</figcaption>
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/2.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/2.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tomato</figcaption>
             </div>
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/3.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/3.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Capcicum</figcaption>
             </div>
             <div class="w-100"></div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/4.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/4.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Mango</figcaption>
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/5.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/5.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Pomegranate</figcaption>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/6.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/6.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tea</figcaption>
             </div>
             <div class="w-100"></div><br>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/8.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/8.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Coffee</figcaption>
             </div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/7.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/7.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Guava</figcaption>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/9.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/9.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Coconut</figcaption>
             </div>
@@ -465,42 +476,51 @@
         </div>
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct1.jpeg);">
                 </div>
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw1.png);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct2.png);">
                 </div>
             </div>
             <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw2.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct3.jpg);">
                 </div>
             </div>
             <div class="w-100"></div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw3.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct4.jpg);">
                 </div>
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw4.png);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct5.jpeg);">
                 </div>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw5.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct6.jpg);">
                 </div>
             </div>
             <div class="w-100"></div>
             <br>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw6.jpg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct7.jpg);">
                 </div>
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw7.jpeg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct8.jpg);">
                 </div>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero rounded" style="background-image: url(assets/media/images/qw8.jpeg);">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greensense/yproduct9.png);">
                 </div>
             </div>
         </div>

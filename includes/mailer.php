@@ -10,6 +10,8 @@ $email_from = 'info@seasonalshop.in';
 $email_subject = "New Enquiry";
 $email_body = "Name : $visitor_name.\n" .
     "User_Email :- $visitor_email.\n" .
+    "User_Phone :- $visitor_phone.\n" .
+    "User_Subject :- $visitor_subject.\n" .
     "User Message: $visitor_message.\n";
 
 $mailTo = "mail@krantesh.com";

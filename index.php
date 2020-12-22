@@ -84,71 +84,75 @@
             <p class="lead">How we are helping farmers</p>
         </div>
         <!-- End Title -->
-        <div class="row mx-n2">
-            <div class="col-sm-6 col-lg-4 px-2 mb-3 mb-lg-0">
-                <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
+    </div>
+    <!-- Articles Section -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                    <div class="card-body pt-5 px-5">
+                        <figure class="avatar mx-auto mb-1">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>Increase Production</h3>
+                        <p class="text-body font-size-1">Follow best scientific advisory backed by data collected
+                            by on-filed sensor and produce more per acre.
+                        </p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                    <div class="card-body pt-5 px-5">
+                        <figure class="avatar mx-auto mb-1">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>Reduce Losses</h3>
+                        <p class="text-body font-size-1">With advance AI and ML based disease prediction algorithms
+                            and image analysis, spray only when required.</p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                    <div class="card-body pt-5 px-5">
+                        <figure class="avatar mx-auto mb-1">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3>Save Water</h3>
+                        <p class="text-body font-size-1">With next generation soil Volumetric water content sensor,
+                            schedule irrigation schedule and save upto 40% of water</p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
 
-                            <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
 
-                        </figure>
-                        <h4>Increase Production</h4>
-                        <p class="font-size-1 text-body mb-0">Follow best scientific advisory backed by data collected
-                            by on-filed sensor and produce more per acre.</p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
-                <!-- End Icon Blocks -->
-            </div>
-            <div class="col-sm-6 col-lg-4 px-2 mb-3 mb-lg-0">
-                <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
-                        </figure>
-                        <h4>Save Water</h4>
-                        <p class="font-size-1 text-body mb-0">With next generation soil Volumetric water content sensor,
-                            plan your irrigation schedule and save upto 40% of water </p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
-                <!-- End Icon Blocks -->
-            </div>
-            <div class="col-sm-6 col-lg-4 px-2 mb-3 mb-sm-0">
-                <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
-                        </figure>
-                        <h4>Reduces Losses and Residue</h4>
-                        <p class="font-size-1 text-body mb-0">With advance AI and ML based disease prediction algorithms
-                            and image analysis, spray only when required. </p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
-                <!-- End Icon Blocks -->
-            </div>
 
         </div>
     </div>
+    <!-- End Articles Section -->
     <!-- End Features Section -->
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets/media/images/case-studies/tribalcase.png" class="img-fluid rounded"
-                        alt="TRIBAL FARMER">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="TRIBAL FARMER">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
@@ -166,10 +170,9 @@
                     </a>
                 </div>
             </div>
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets/media/images/case-studies/guavaplantation.png" class="img-fluid rounded"
-                        alt="GUAVA PLANTATION">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="GUAVA PLANTATION">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Smart Guava Farm</h3>
@@ -208,6 +211,9 @@
                             Chilli, Potato,
                             Okra or any other horticuture crop.
                         </p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
                     </div>
                 </a>
                 <!-- End Card -->
@@ -223,6 +229,9 @@
                         <h3>Plantation</h3>
                         <p class="text-body font-size-1">Are you a Tea, Coffee or Coconut planation and want to monitor
                             micro-weather and regulate irrigation schedule in your planation.</p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
                     </div>
                 </a>
                 <!-- End Card -->
@@ -239,6 +248,9 @@
                         <p class="text-body font-size-1">Are you a NGO or a FPO working with a group of farmers and want
                             to use next
                             generation digital tools to provide advisory to your farmers</p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
                     </div>
                 </a>
                 <!-- End Card -->
@@ -254,6 +266,9 @@
                         <p class="text-body font-size-1">Are you a agriculture research institute and want to use low
                             powered,
                             wireless sensors for your agriculture research</p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
                     </div>
                 </a>
                 <!-- End Card -->
@@ -303,7 +318,7 @@
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
                     <img src="assets/media/images/mockups/gdashboard.png" class="img-fluid" alt="">
                 </div>
@@ -371,12 +386,7 @@
         // initialization of header
         var header = new HSHeader($('#header')).init();
 
-        // initialization of scroll nav
-        $('.js-scroll-nav').each(function() {
-            var scrollNav = new HSScrollNav($(this)).init();
-        });
-
-        // initialization of HSMegaMenu component
+        // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
     </script>

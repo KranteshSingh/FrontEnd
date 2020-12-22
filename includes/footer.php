@@ -74,9 +74,10 @@
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
+                    <li class="nav-item"><a class="nav-link" href="downloads.php">Downloads</a></li>
                     <li class="nav-item"><a class="nav-link" href="ankidb-cloud.php">ankiDB™ Cloud</a></li>
                     <li class="nav-item"><a class="nav-link" href="ankidb-micro.php">ankiDB™ Micro</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">API Reference</a></li>
+
                 </ul>
                 <!-- End Nav Link -->
             </div>

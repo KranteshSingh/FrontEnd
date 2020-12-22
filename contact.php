@@ -27,9 +27,9 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br><br>
+
     <!-- Contact Form Section -->
-    <div class="container space-2">
+    <div class="container space-top-3">
         <div class="row">
             <div class="col-lg-6 mb-9 mb-lg-0">
                 <div class="mb-5">
@@ -193,14 +193,11 @@
         // initialization of header
         var header = new HSHeader($('#header')).init();
 
-        // initialization of scroll nav
-        $('.js-scroll-nav').each(function() {
-            var scrollNav = new HSScrollNav($(this)).init();
-        });
-
-        // initialization of HSMegaMenu component
+        // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
+    </script>
+    <script>
     $(document).on('ready', function() {
         // initialization of leaflet
         $('#mapExample2').each(function() {

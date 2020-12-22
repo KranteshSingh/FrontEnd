@@ -462,14 +462,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-        // initialization of scroll nav
-        $('.js-scroll-nav').each(function() {
-            var scrollNav = new HSScrollNav($(this)).init();
-        });
-        // initialization of HSMegaMenu component
+
+        // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
     });
-
+    </script>
+    <script>
     $(document).on('ready', function() {
         // initialization of fancybox
         $('.js-fancybox').each(function() {

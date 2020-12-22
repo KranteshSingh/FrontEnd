@@ -28,22 +28,37 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <!-- Gallery Section -->
-    <div class="d-md-flex min-vh-md-100 bg-img-hero mx-0 heroweather gradient-x-overlay-sm-navy"
-        style="background-image: url(assets/media/images/YuktixImage.jpg); ">
-        <div class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 space-3 space-md-0">
-            <div class="w-sm-75 w-lg-100">
-                <br>
-                <h2 class="display-4 text-white herotext"><br>Next Generation <br>Solar Powered Automatic Weather
-                    Station</h2>
+    <div class="container space-top-3 space-top-lg-3 space-bottom-2 space-bottom-lg-2">
+        <div class="row justify-content-lg-between mb-3">
+            <div class="col-md-6 col-lg-5">
+                <!-- Info -->
+                <div class="mb-5 mt-2">
+                    <h1>Automatic Weather Station</h1>
+                    <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
+                        and a
+                        registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
+                </div>
+                <div class="mb-3">
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                        Started</a>
+                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
+                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+                </div>
+                <!-- End Info -->
+            </div>
+            <div class="col-md-6 d-none d-md-inline-block">
+                <!-- SVG Illustration -->
+                <figure class="w-100">
+                    <img class="img-fluid rounded" src="https://dummyimage.com/700x500/000/fff" alt="About Yuktix">
+                </figure>
+                <!-- End SVG Illustration -->
             </div>
         </div>
     </div>
-    <!-- End Gallery Section -->
-    <br>
+
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
-            <div class="col-md-7"><img src="assets/media/images/weatherstationhow.jpg" class="img-fluid"
+            <div class="col-md-7"><img src="assets/media/images/aws/awsworks.jpg" class="img-fluid"
                     alt="Responsive image"></div>
         </div>
         <div class="row justify-content-lg-center">
@@ -731,15 +746,11 @@
             // initialization of header
             var header = new HSHeader($('#header')).init();
 
-            // initialization of scroll nav
-            $('.js-scroll-nav').each(function() {
-                var scrollNav = new HSScrollNav($(this)).init();
-            });
-
-            // initialization of HSMegaMenu component
+            // initialization of mega menu
             var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
         });
-
+        </script>
+        <script>
         $(document).on('ready', function() {
             // initialization of fancybox
             $('.js-fancybox').each(function() {

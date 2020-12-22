@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ankiDB Cloud | Yuktix </title>
+    <title>Downloads | Yuktix </title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -37,6 +37,7 @@
                     <div class="col-lg-6 mb-5 mb-lg-0">
                         <img class="img-fluid" src="assets/svg/illustrations/relaxing-man.svg" alt="SVG Illustration">
                     </div>
+
                     <div class="col-lg-5">
                         <!-- Title -->
                         <div class="mb-4">
@@ -51,9 +52,12 @@
         <!-- End Hero Section -->
     </main>
     <!-- ========== END MAIN ========== -->
+    <br><br><br>
+    <!-- Header -->
     <?php
     include 'includes/footer.php';
     ?>
+    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -71,7 +75,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

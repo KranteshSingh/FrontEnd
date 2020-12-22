@@ -53,9 +53,9 @@
     <!-- End Hero Section -->
     <section id="details" class="details">
         <div class="container">
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Increase Farm Production by 20% using Scientific Advisory</h3>
@@ -75,9 +75,9 @@
                 </div>
             </div>
             <br><br>
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Save 40% Water</h3>
@@ -93,9 +93,9 @@
                 </div>
             </div>
             <br><br>
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Reduce Pesticide Spray by 20-25% and Reduce residure problem</h3>
@@ -123,7 +123,7 @@
                         <h2 class="display-5">Changing the way How Agriculture is Done
                         </h2>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                    <div class="embed-responsive embed-responsive-16by9 rounded"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/QNXhiP2UhsY" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>

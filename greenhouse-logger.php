@@ -447,7 +447,7 @@
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
                     <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>
@@ -469,7 +469,7 @@
                 </div>
             </div>
 
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
                 </div>

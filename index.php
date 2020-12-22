@@ -338,7 +338,7 @@
                     </a>
                 </div>
             </div>
-            <div class="row content">
+            <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="assets/media/images/technology/yuktixdevice.png" class="img-fluid" alt="">
                 </div>

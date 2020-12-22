@@ -197,7 +197,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Challenge 3</h3>
+                        <h3>Challenge 4</h3>
                         <p>A lot of power fluctuations, also uninterrupted power supply
                             is not guaranteed</p>
                     </div>
@@ -207,7 +207,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Challenge 3</h3>
+                        <h3>Challenge 5</h3>
                         <p>Multiple warehouses spread in the state. Data aggregation on one
                             platform required for a distributed team</p>
                     </div>
@@ -289,9 +289,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Quality of produce stored
-                            was maintained as per the
-                            prescribed norms.
+                            20% improvement in performance
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -299,8 +297,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Alerts to warehouse operators to
-                            correct operations in real time.
+                            30% improvement in produce quality
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -308,8 +305,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Reduction in power consumption
-                            of the cold storage
+                            tool to monitor quality of produce for a distributed team
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -317,9 +313,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Streamlined and automated the
-                            process of data capture from
-                            multiple location.
+                            20% reduction in power usage
                         </div>
                     </div>
                     <!-- End Features -->

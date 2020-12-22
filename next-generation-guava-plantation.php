@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Agriculture Farm Management Co. | Yuktix</title>
+    <title>Next Generation Guava Plantation | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -33,7 +33,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>Next Generation Guava Plantation</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -101,7 +101,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">Guava Organic Plantation, Karnataka</p>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Yuktix GreenSense and ankiDBTM</p>
+                                            <p class="text-body mb-0">Yuktix GreenSense</p>
                                         </div>
                                     </div>
                                 </div>
@@ -146,10 +146,15 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>The client is doing Guava Plantation in a district in Karnataka. At present, he don't have any
+                <ul class="text-left">
+                    <li>Micro-weather information about his farm i.e. How much rain it happened?</li>
+                    <li>No information about the soil moisture</li>
+                    <li>No information on soil micro and macro-nutrients</li>
+                    <li>Availability of water is a issue</li>
+                    <li>Disease attack</li>
+                </ul>
+                </p>
             </div>
         </div>
     </div>
@@ -168,8 +173,9 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
-                        <p></p>
+                        <h3>Challenge 1</h3>
+                        <p>Excessive amount of rain and soil moisture lead to excessive ripening of fruits and do a lot
+                            of damage</p>
                     </div>
                 </div>
             </li>
@@ -177,8 +183,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
-                        <p></p>
+                        <h3>Challenge 3</h3>
+                        <p>Limited Amount of Water Availability</p>
                     </div>
                 </div>
             </li>
@@ -186,8 +192,17 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
-                        <p></p>
+                        <h3>Challenge 3</h3>
+                        <p>Disease attack leads to loss </p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">4</span>
+                    <div class="step-content">
+                        <h3>Challenge 4</h3>
+                        <p>No soil information and thus low productivity from the farm land </p>
                     </div>
                 </div>
             </li>
@@ -216,6 +231,13 @@
                                 The data collected by sensors was
                                 pushed to the Yuktix ankiDB™ for
                                 analysis</p>
+                            <ul>
+                                <li>solar powered automatic weather station</li>
+                                <li>GreenSense soil moisture sensor node</li>
+                                <li>Disease forecast</li>
+                                <li>Soil testing based fertilizer recommendation</li>
+                                <li>Next 5 days weather forecast for planning various activities</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="media">
@@ -235,11 +257,10 @@
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center">
-                    <div class="position-relative max-w-50rem mx-auto">
+                    <div class="position-relative max-w-70rem mx-auto">
                         <!-- SVG Component -->
-                        <div class="max-w-50rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
-                                alt="Image Description">
+                        <div class="max-w-70rem w-100 z-index-n1 mx-auto">
+                            <img class="img-fluid" src="assets/media/images/gdashboard.png" alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
                     </div>
@@ -264,7 +285,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            25% Water Saved
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -272,7 +293,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            25% reduction in loss
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -280,7 +301,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Increase in production
+                            15% increase in productivity
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -288,7 +309,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Wastage Reduction
+                            100 Man Hour Saved
                         </div>
                     </div>
                     <div class="media mb-4">

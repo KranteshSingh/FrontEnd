@@ -109,7 +109,7 @@
                     <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 7</span>
-                        <h5 class="mb-0">Maharastra NGO Grame Farming</h5>
+                        <h5 class="mb-0">Maharastra NGO Grape Farming</h5>
                     </div>
                 </a>
                 <!-- End Card -->
@@ -127,6 +127,20 @@
             </div>
         </div>
         <!-- End Articles Section -->
+        <div class="row mx-n2 mb-5 mb-md-9">
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-100 transition-3d-hover" href="table-grape-grower-in-karnataka.php">
+                    <img class="card-img-top" src="assets/media/images/img7.jpg" alt="Image Description">
+                    <div class="card-body">
+                        <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 9</span>
+                        <h5 class="mb-0">Multinational Seed & Fertilizers Company</h5>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+
+        </div>
         <!-- Header -->
         <?php
         include 'includes/footer.php';

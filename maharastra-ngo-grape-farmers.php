@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Agriculture Farm Management Co. | Yuktix</title>
+    <title>Maharastra NGO Grape Farming | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -33,7 +33,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>NGO in Maharastra working with Grape Farmers</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -101,7 +101,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">NGO in Maharastra working with Grape Farmers</p>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Yuktix GreenSense and ankiDBTM</p>
+                                            <p class="text-body mb-0">Yuktix GreenSense and Weather Station</p>
                                         </div>
                                     </div>
                                 </div>
@@ -146,10 +146,14 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>The client is a big NGO working with farmers with a Agri-enterpreneur model.</p>
+                <ul class="text-left">
+                    <li>They don't have access to farm level data / village level data.</li>
+                    <li>No soil testing and fertilizer recommendation. </li>
+                    <li>No irrigation advisory, plants under stress and farmer don't know when to irrigate and when not.
+                    </li>
+                    <li>Powdery and Downy mildew casue upto 40% loss in production</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -168,8 +172,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
-                        <p></p>
+                        <h3>Challenge 1</h3>
+                        <p>100's of farmer in a village, no easy way to discimate daily and weekly advisory </p>
                     </div>
                 </div>
             </li>
@@ -177,8 +181,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
-                        <p></p>
+                        <h3>Challenge 2</h3>
+                        <p>Local language</p>
                     </div>
                 </div>
             </li>
@@ -186,8 +190,26 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
-                        <p></p>
+                        <h3>Challenge 3</h3>
+                        <p>Remote location</p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>Challenge 4</h3>
+                        <p>No weather forecast and micro-weather information </p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>Challenge 5</h3>
+                        <p>Management don't have any information about the status quo at ground level</p>
                     </div>
                 </div>
             </li>
@@ -209,13 +231,11 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Solar powered GreenSense Nodes
-                                with crop need-based sensors were
-                                deployed in different farms to collect
-                                24x7 data without deploying a staff.
-                                The data collected by sensors was
-                                pushed to the Yuktix ankiDB™ for
-                                analysis</p>
+                            <p>Yutix Weather Station and Yuktix GreenSense soil moisture sensor nodes for individual
+                                Farms. Yuktix Weather station collect the micro-weather information and
+                                yuktix GreenSense nodes collect Temperature, humidity and soil moisture data from
+                                individual farmers field. The collected data is then send to Yuktix ankiDB
+                                cloud</p>
                         </div>
                     </div>
                     <div class="media">
@@ -223,14 +243,10 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix ankiDB™ processed the collected
-                                data and ran it through crop specific
-                                computation modules to provide a
-                                possibility of disease happening to the
-                                crop. The data was made available on
-                                the GreenSense dashboard along with
-                                weather data, NDVI images, and local
-                                weather prediction</p>
+                            <p>Yutkix ankiDB cloud analyze the data, run data analysis, AI and diases prediction
+                                algorithm to provide actionable intelligence to the NGO team via GreenSense
+                                dashboard. The same actionable data i.e. Irrigation advisory, disease and weather
+                                forecast is also send to the farmers in local language via SMS</p>
                         </div>
                     </div>
                 </div>
@@ -264,7 +280,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            25% Increase in Production
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -272,7 +288,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            100's of man hour saved
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -280,7 +296,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Increase in production
+                            Upto 40% reduction in loss due to disease attack
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -288,7 +304,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Wastage Reduction
+                            40% reduction in loss due to disease attack
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -309,7 +325,7 @@
                                 <figure class="w-100 max-w-6rem mb-4">
                                     <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                                 </figure>
-                                <h3>We tackle the challenges</h3>
+                                <h3>We tackled the challenges</h3>
                                 <p>Besides working with start-up enterprises as a partner for digitalization, we
                                     have built enterprise products for common pain points that we have
                                     encountered in various products and projects.</p>

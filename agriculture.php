@@ -80,13 +80,13 @@
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Save 40% Water</h3>
-                    <p>India is behind US, china and other european countries in terms of productivity / acre. The
-                        reason behind this is un-availibilty of scitific advisory backed by data. This leads to low
-                        productivity.
-                        <br><br>
-                        Yuktix provides a perfect blend of sensing devices deployed in the field to capture
-                        micro-weather and soil data coupled with next generation agri-itellignce software utilizing
-                        scinetific reseach to increase your farm productivity by 15-20%.
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                        and more recently with desktop publishing software like Aldus PageMaker including versions of
+                        Lorem Ipsum.
                     </p>
                     <a href="#">Yuktix Soil Moisture Sensor</a> | <a href="#">Case Study</a>
                 </div>

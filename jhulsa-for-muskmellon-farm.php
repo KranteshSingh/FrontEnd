@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Agriculture Farm Management Co. | Yuktix</title>
+    <title>Jhulsa for Muskmellon Farmers | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -33,7 +33,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>Jhulsa for Muskmellon Farmers</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -101,7 +101,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">a Medium Scale Muskmellon Grower in UP </p>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Yuktix GreenSense and ankiDBTM</p>
+                                            <p class="text-body mb-0">Yuktix GreenSense</p>
                                         </div>
                                     </div>
                                 </div>
@@ -146,10 +146,18 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>
+                <ul class="text-left">
+                    <li>Farmer is doing crops in 2 cycle - 1st 6 month muskmellon and Rest 4 month Tomato / Bitter Gaurd
+                    </li>
+                    <li>No soil testing, so they spray fertilizer on guess basis.</li>
+                    <li>Disease attack casue loss upto 50%.</li>
+                    <li>Powdery and downy mildew are prominent. Jhulsa also cuase
+                        loss upto 40% last year</li>
+                    <li>No information about weather forecast</li>
+                    <li>Market connect</li>
+                </ul>
+                </p>
             </div>
         </div>
     </div>
@@ -168,7 +176,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
+                        <h3>Same disease but different crops</h3>
                         <p></p>
                     </div>
                 </div>
@@ -177,7 +185,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
+                        <h3>Remote location, no soil testing</h3>
                         <p></p>
                     </div>
                 </div>
@@ -186,7 +194,16 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
+                        <h3>Disease caused loss of upto 40% </h3>
+                        <p></p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>1 lakh ruppes pestcide in a cycle</h3>
                         <p></p>
                     </div>
                 </div>
@@ -209,13 +226,16 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Solar powered GreenSense Nodes
-                                with crop need-based sensors were
-                                deployed in different farms to collect
-                                24x7 data without deploying a staff.
-                                The data collected by sensors was
-                                pushed to the Yuktix ankiDB™ for
-                                analysis</p>
+                            <p>We provided Yuktix GreenSense solution to the farmers on rental basis. This comprises of
+                                followig features
+                            <ul>
+                                <li>Weather forecast </li>
+                                <li>Farm level micro-weather monitoring </li>
+                                <li>Disease forecast and mitigation </li>
+                                <li>Soil testing </li>
+                                <li>Access to agri expert on phone </li>
+                            </ul>
+                            </p>
                         </div>
                     </div>
                     <div class="media">
@@ -223,14 +243,7 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix ankiDB™ processed the collected
-                                data and ran it through crop specific
-                                computation modules to provide a
-                                possibility of disease happening to the
-                                crop. The data was made available on
-                                the GreenSense dashboard along with
-                                weather data, NDVI images, and local
-                                weather prediction</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -264,7 +277,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            30% reduction in loss due to disease
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -272,7 +285,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            INR 60,000 savings in pesticide usage
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -280,7 +293,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Increase in production
+                            Increase in production by 25%
                         </div>
                     </div>
                     <div class="media mb-4">

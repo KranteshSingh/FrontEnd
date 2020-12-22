@@ -60,7 +60,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
                         </figure>
-                        <h4>Increase Production</h4>
+                        <h4>20% Increase in Yield</h4>
                         <p class="font-size-1 text-body mb-0">Follow best scientific advisory backed by data collected
                             by on-filed sensor and produce more per acre.</p>
                     </div>
@@ -77,7 +77,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
                         </figure>
-                        <h4>Save Water</h4>
+                        <h4>40% Water Saving</h4>
                         <p class="font-size-1 text-body mb-0">With next generation soil Volumetric water content sensor,
                             plan your irrigation schedule and save upto 40% of water </p>
                     </div>
@@ -94,7 +94,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
                         </figure>
-                        <h4>Less Pesticide Spray</h4>
+                        <h4>40% Less Fertilizers</h4>
                         <p class="font-size-1 text-body mb-0">With advance AI and ML based disease prediction algorithms
                             and image analysis, spray only when required. </p>
                     </div>
@@ -111,7 +111,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                         </figure>
-                        <h4>Reduce Wastage</h4>
+                        <h4>15% Wastage Reduction</h4>
                         <p class="font-size-1 text-body mb-0">Advanced disease prediction models and alert mechanism to
                             prevent susceptible crop damage </p>
                     </div>
@@ -202,7 +202,6 @@
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
                         <h2 class="h3 mb-1">Micro-Weather</h2>
-
                         <p class="font-size-1">Get micro-weather data and soil data from your farm in real time. </p>
                     </div>
                     <!-- End Icon Block -->
@@ -214,7 +213,6 @@
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
                         <h3 class="mb-1">Weather Forecast</h3>
-
                         <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
                     </div>
                     <!-- End Icon Block -->
@@ -231,38 +229,15 @@
                     <!-- End Icon Block -->
                 </div>
             </div>
-            <div class="w-lg-60 mx-lg-auto mb-5 mt-2">
-                <div class="row mx-n2">
-                    <div class="col-sm-6 px-2 mb-3 mb-sm-0">
-                        <!-- Icon Block -->
-                        <div class="border-dashed text-center rounded p-4">
-                            <figure class="w-100 max-w-8rem mx-auto mb-3">
-                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                            </figure>
-                            <h2 class="h3 mb-1">Micro-Weather</h2>
 
-                            <p class="font-size-1">Get micro-weather and soil data from your farm in real time. </p>
-                        </div>
-                        <!-- End Icon Block -->
-                    </div>
-                    <div class="col-sm-6 px-2 mb-3 mb-sm-0">
-                        <!-- Icon Block -->
-                        <div class="border-dashed text-center rounded p-4">
-                            <figure class="w-100 max-w-8rem mx-auto mb-3">
-                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                            </figure>
-                            <h3 class="mb-1">Weather Forecast</h3>
-
-                            <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
-                        </div>
-                        <!-- End Icon Block -->
-                    </div>
-                </div>
-            </div>
         </div>
         <!-- End Features -->
     </div>
     <!-- End Features Section -->
+    <div class="container">
+        <h2 class="h1 text-center">Yuktix GreenSense Dashboard</h2>
+        <div class="img-fluid mx-auto"><img src="assets/media/images/gdashboard.png" alt="Greensense Dashboard"></div>
+    </div>
     <!-- Testimonials Section -->
     <div class="container space-1">
         <!-- Title -->
@@ -400,6 +375,32 @@
         </div>
     </div>
     <!-- End Testimonials Section -->
+    <br>
+    <!-- CTA Section -->
+    <div class="container">
+        <div class="w-lg-85 mx-lg-auto">
+            <div class="card overflow-hidden p-5">
+                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                    <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
+                        <h3 class="h4 text-indigo mb-0">Revolutionizing the way your Agriculture works!</h3>
+                    </div>
+
+                    <div class="col-md-4 text-md-right">
+                        <a class="btn btn-primary transition-3d-hover" href="case-studies.php">Explore Case Studies</a>
+                    </div>
+                </div>
+
+                <!-- SVG Component -->
+                <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
+                    <img class="img-fluid" src="../../assets/svg/components/half-circle-2.svg" alt="Image Description">
+                </figure>
+                <!-- End SVG Component -->
+            </div>
+        </div>
+    </div>
+    <!-- End CTA Section -->
+    <br>
+    <br>
     <!-- Gallery Section -->
     <div class="container">
         <!-- Title -->
@@ -507,7 +508,7 @@
     <!-- End Gallery Section -->
     </div>
     <!-- CTA Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <div class="text-center py-6"
             style="background: url(assets/svg/components/abstract-shapes-19.svg) center no-repeat;">
             <h2>Find the right solution for your farm</h2>

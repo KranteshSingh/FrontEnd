@@ -36,7 +36,6 @@
                         and a
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
                 </div>
-
                 <div class="mb-3">
                     <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
                         Started</a>
@@ -293,9 +292,9 @@
                                 <img class="avatar-img" src="assets/media/images/bns-murthy.jpg"
                                     alt="Image Description">
                             </div>
+                            <h4 class="text-lh-sm">Dr. BNS Murthy</h4>
                             <span class="d-block small font-weight-bold text-cap mb-1">Horticulture Commissioner of
                                 India</span>
-                            <h4 class="text-lh-sm">Dr. BNS Murthy</h4>
                             <p class="font-size-1">Dr Murthy is serving as Horticulture Commissioner in Department of
                                 Agriculture, Cooperation & Farmers Welfare. Dr murthy is working to make the Indian
                                 horticulture sector a vibrant and profitable venture and work more like a technology
@@ -313,10 +312,10 @@
                                 <img class="avatar-img" src="assets/media/images/sridhar-gautam.jpg"
                                     alt="Image Description">
                             </div>
+                            <h4 class="text-lh-sm">Dr. Sridhar Gautam</h4>
                             <span class="d-block small font-weight-bold text-cap mb-1">Senior Scientist, Indian Council
                                 of
                                 Agriculture Research</span>
-                            <h4 class="text-lh-sm">Dr. Sridhar Gautam</h4>
                             <p class="font-size-1">PhD in Plant Physiology from the ICAR-Indian Agricultural Research
                                 Institute. Dr sridhar is a proponent of opening up of data and information (Open Access
                                 &
@@ -336,9 +335,9 @@
                             <div class="avatar avatar-lg avatar-circle mb-4">
                                 <img class="avatar-img" src="assets/media/images/nb-singh.jpg" alt="Image Description">
                             </div>
+                            <h4 class="text-lh-sm">Dr. N.B. Singh</h4>
                             <span class="d-block small font-weight-bold text-cap mb-1">Dean, Central Agriculture
                                 University</span>
-                            <h4 class="text-lh-sm">Dr. N.B. Singh</h4>
                             <p class="font-size-1">Dr Singh is Dean of College of Post Graduate Studies (CPGS),
                                 Meghalaya.
                                 Dr Singh is coordinating and monitoring the Teaching, Research and Extension activities
@@ -402,7 +401,6 @@
                         alt="NASSCOM">
                 </div>
             </div>
-
             <div class="col-4 col-lg-2">
                 <div class="mx-3">
                     <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/ccamp.png" alt="CCAMP">
@@ -484,7 +482,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Agriculture Farm Management Co. | Yuktix</title>
+    <title>Multinational Seed & Fertilizers Company | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -33,7 +33,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Farm Asset Management</h1>
+                    <h1>Multinational Seed & Fertilizers Company</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -101,7 +101,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">Multinational Seed & Fertilizers Company</p>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,8 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Yuktix GreenSense and ankiDBTM</p>
+                                            <p class="text-body mb-0">Yuktix GreeSense for Greehouse, GreenSense - Soil
+                                                Moisture, Yuktix Weather Station</p>
                                         </div>
                                     </div>
                                 </div>
@@ -146,10 +147,13 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
                 <h2>The Problem</h2>
-                <p>The client is in the business of developing farming lands. They are managing farms across Andhra
-                    Pradesh in remote locations. Farms have different crops, fruits, vegetable, and trees. The
-                    requirement was to have a single dashboard with weather and other relevant data from the farms to
-                    help the operations team and be an eye and ears for the management</p>
+                <p>The client is a Miltiational company. One of their VRS ( vegetable research center ) and seed
+                    production facility is working with farmers growing
+                    tomato for seeds in multiple locatons. Irrigation play a important role in tomato. At present the
+                    company research team and production team don't have information about the irrigation
+                    done by the farmers i.e. if they are under irrigating or over irrigating. Also, if there is any
+                    failure, they won't be able to find out the reason behind it in
+                    absense of data.</p>
             </div>
         </div>
     </div>
@@ -168,8 +172,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Real time data capture</h3>
-                        <p></p>
+                        <h3>Challenge 1</h3>
+                        <p>Multiple Locations</p>
                     </div>
                 </div>
             </li>
@@ -177,8 +181,8 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Provide actionable intelligence from data</h3>
-                        <p></p>
+                        <h3>Challenge 2</h3>
+                        <p>No power, remote locations</p>
                     </div>
                 </div>
             </li>
@@ -186,8 +190,17 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Farms were located in remote locations with poor power and network</h3>
-                        <p></p>
+                        <h3>Challenge 3</h3>
+                        <p>No alert mechnism for farmers</p>
+                    </div>
+                </div>
+            </li>
+            <li class="step-item">
+                <div class="step-content-wrapper">
+                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <div class="step-content">
+                        <h3>Challenge 4</h3>
+                        <p>No reporting tool for distributed reseach team </p>
                     </div>
                 </div>
             </li>
@@ -209,13 +222,14 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Solar powered GreenSense Nodes
-                                with crop need-based sensors were
-                                deployed in different farms to collect
-                                24x7 data without deploying a staff.
-                                The data collected by sensors was
-                                pushed to the Yuktix ankiDB™ for
-                                analysis</p>
+                            <p>Yuktix GreenSense for Greenhouse with Soil VWC ( volumetric water content ), Soil EC and
+                                Soil Tempeature. Multiple sensors were deployed in a single GreenHouse. There were
+                                multiple
+                                Greenhouse in a single location and multiple locations. Soil data was sampled every 15
+                                minute to monitor even the smallest changes. In case of unavailability of the network,
+                                the data
+                                was saved locally on SD card with RTC values and synchronized with cloud once network is
+                                back </p>
                         </div>
                     </div>
                     <div class="media">
@@ -223,14 +237,11 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix ankiDB™ processed the collected
-                                data and ran it through crop specific
-                                computation modules to provide a
-                                possibility of disease happening to the
-                                crop. The data was made available on
-                                the GreenSense dashboard along with
-                                weather data, NDVI images, and local
-                                weather prediction</p>
+                            <p>Data collected by the devices is analyzed by ankiDB cloud and made available to the user
+                                via GreenSense dashboard. Daily and weekly reports are send to research and production
+                                team.
+                                Alerts are also send to grower if soil VWC values are found to be below the recommended
+                                value. </p>
                         </div>
                     </div>
                 </div>
@@ -264,7 +275,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in usage of pesticides
+                            25% Reduction in water utilized
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -272,7 +283,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Water saving in Irrigation
+                            15% reduction in amount of fertilizer used using Soil EC values
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -288,7 +299,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Wastage Reduction
+                            150 man hours saved
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -310,9 +321,9 @@
                                     <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                                 </figure>
                                 <h3>We tackle the challenges</h3>
-                                <p>Besides working with start-up enterprises as a partner for digitalization, we
-                                    have built enterprise products for common pain points that we have
-                                    encountered in various products and projects.</p>
+                                <p>"Yuktix GreenSense devices help us to monitor Soil moisture from multiple locations
+                                    and optimize the use of water and fertilizer. It really has been usefull for us in
+                                    saving our time also"</p>
                             </div>
                         </div>
                         <!-- End Card -->

@@ -41,14 +41,12 @@
                             <a id="pagesMegaMenu" class="hs-mega-menu-invoker nav-link nav-link-toggle"
                                 href="javascript:;" aria-haspopup="true" aria-expanded="false"
                                 aria-labelledby="pagesSubMenu">Products</a>
-
                             <div id="pagesSubMenu" class="hs-sub-menu dropdown-menu" aria-labelledby="pagesMegaMenu"
                                 style="min-width: 230px;">
                                 <a class="dropdown-item" href="greensense.php">Greensense</a>
                                 <a class="dropdown-item" href="automatic-weather-station.php">Weather Station</a>
                                 <a class="dropdown-item" href="smart-irrigation.php">Smart Irrigation</a>
                                 <a class="dropdown-item" href="digital-rain-gauge.php">Digital Rain Gauge</a>
-
                                 <a class="dropdown-item" href="greenhouse-logger.php">Greenhouse Logger</a>
                             </div>
                         </li>

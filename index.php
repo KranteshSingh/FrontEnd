@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/favicon.ico">
+    <link rel="shortcut icon" href="assets\favicon\favicon.ico">
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap" rel="stylesheet">
     <!-- CSS Implementing Plugins -->
@@ -88,7 +88,7 @@
         <!-- End Title -->
     </div>
     <!-- Articles Section -->
-    <div class="container">
+    <div class="container" data-aos="zoom-in-up">
         <div class="row">
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->

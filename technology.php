@@ -482,6 +482,10 @@
         });
     });
     </script>
+    <script>
+    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
+        '<script src="assets/vendor/polifills.js"><\/script>');
+    </script>
 </body>
 
 </html>

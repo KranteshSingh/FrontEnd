@@ -10,17 +10,23 @@
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap" rel="stylesheet">
     <!-- CSS Implementing Plugins -->
+    <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
     <link rel="stylesheet" href="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
-    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
+    <link rel="stylesheet" href="assets/vendor/jquery-ui/themes/base/jquery-ui.min.css">
+    <link rel="stylesheet" href="assets/vendor/prism/prism.css">
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
+    <!--CSS for Hero Section -->
+    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
-    <!-- CSS Front Template -->
+    <!-- CSS Front -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <?php include 'includes/tracking.inc'; ?>
 </head>
+
 
 <body>
     <!-- Header -->
@@ -353,6 +359,7 @@
                 </div>
             </div>
     </section>
+
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
@@ -680,9 +687,6 @@
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- JS Front-->
-    <script src="assets/js/hs.core.js"></script>
-    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Implementing Plugins -->
     <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
     <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
@@ -692,20 +696,9 @@
     <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
-    <!-- JS Implementing Plugins -->
-    <!-- JS Implementing Plugins -->
-    <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
     <!-- JS Front -->
-    <script src="assets/js/hs.slick-carousel.js"></script>
-    <!-- JS Plugins Init. -->
-    <script>
-    $(document).on('ready', function() {
-        // initialization of slick carousel
-        $('.js-slick-carousel').each(function() {
-            var slickCarousel = $.HSCore.components.HSSlickCarousel.init($(this));
-        });
-    });
-    </script>
+    <script src="assets/js/hs.core.js"></script>
+    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -720,6 +713,46 @@
         }).init();
 
     });
+    </script>
+    <script>
+    // For Hero Section
+    $(document).on('ready', function() {
+        // initialization of video on background
+        $('.js-video-bg').each(function() {
+            var videoBg = new HSVideoBg($(this)).init();
+        });
+        // initialization of text animation (typing)
+        var typed = new Typed(".js-text-animation", {
+            strings: ["Plantation", "Horticulture Crops", "Growers", "Farmers"],
+            typeSpeed: 70,
+            loop: true,
+            backSpeed: 40,
+            backDelay: 2000
+        });
+        // initialization of aos
+        AOS.init({
+            duration: 650,
+            once: true
+        });
+    });
+    </script>
+    <script>
+    // Init AOS
+    function aos_init() {
+        AOS.init({
+            duration: 1000,
+            easing: "ease-in-out",
+            once: true,
+            mirror: false
+        });
+    }
+    $(window).on('load', function() {
+        aos_init();
+    });
+    </script>
+    <script>
+    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
+        '<script src="assets/vendor/polifills.js"><\/script>');
     </script>
 </body>
 

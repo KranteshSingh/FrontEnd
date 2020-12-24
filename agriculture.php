@@ -12,11 +12,15 @@
     <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
     <link rel="stylesheet" href="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
-    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
+    <link rel="stylesheet" href="assets/vendor/jquery-ui/themes/base/jquery-ui.min.css">
+    <link rel="stylesheet" href="assets/vendor/prism/prism.css">
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
+    <!--CSS for Hero Section -->
+    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
-    <!-- CSS Front Template -->
+    <!-- CSS Front -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <?php include 'includes/tracking.inc'; ?>
@@ -27,7 +31,7 @@
     <?php include 'includes/header.php'; ?>
     <!--Header end-->
     <!-- Hero Section -->
-    <div class="container space-3">
+    <div class="container space-top-3">
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-md-6">
                 <div class="mb-2">
@@ -137,6 +141,51 @@
         </div>
     </div>
     <br><br>
+
+    <!-- ======= Case Study Section ======= -->
+    <section id="details" class="details">
+        <div class="container">
+            <div class="row content align-items-lg-center">
+                <div class="col-md-4" data-aos="fade-right">
+                    <img src="assets\media\images\case-studies\10.jpeg" class="img-fluid rounded" alt="TRIBAL FARMER">
+                </div>
+                <div class="col-md-8" data-aos="fade-up">
+                    <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
+                    <br>
+                    <p class="lead">
+                        With changing climate, there is no digital input for tribal farmers to use climate smart
+                        agriculture practices. Farmers produce is effected by changing land patterns, rainfall and
+                        excessive use of pesticide and insecticide
+                    </p>
+                    <br>
+                    <a href="climate-resiliant-agriculture-tribal.php">
+                        <p>
+                            <b>Read the Full Case Study ></b>
+                        </p>
+                    </a>
+                </div>
+            </div>
+            <div class="row content align-items-lg-center">
+                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                    <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
+                </div>
+                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
+                    <h3>Smart Guava Farm</h3>
+                    <br>
+                    <p class="lead">
+                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about soil
+                        moisture and amount of rain. <br>
+                        Jai Javan, Jai Vigyaan.
+                    </p>
+                    <br>
+                    <a href="next-generation-guava-plantation.php">
+                        <p>
+                            <b>Read the full case study ></b>
+                        </p>
+                    </a>
+                </div>
+            </div>
+    </section>
     <?php
     include 'includes/footer.php';
     ?>
@@ -144,9 +193,6 @@
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- JS Front-->
-    <script src="assets/js/hs.core.js"></script>
-    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Implementing Plugins -->
     <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
     <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
@@ -156,7 +202,9 @@
     <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
-    <!-- JS Implementing Plugins -->
+    <!-- JS Front -->
+    <script src="assets/js/hs.core.js"></script>
+    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -171,6 +219,32 @@
         }).init();
 
     });
+    </script>
+    <script>
+    // For Hero Section
+    $(document).on('ready', function() {
+        // initialization of video on background
+        $('.js-video-bg').each(function() {
+            var videoBg = new HSVideoBg($(this)).init();
+        });
+        // initialization of text animation (typing)
+        var typed = new Typed(".js-text-animation", {
+            strings: ["Plantation", "Horticulture Crops", "Growers", "Farmers"],
+            typeSpeed: 70,
+            loop: true,
+            backSpeed: 40,
+            backDelay: 2000
+        });
+        // initialization of aos
+        AOS.init({
+            duration: 650,
+            once: true
+        });
+    });
+    </script>
+    <script>
+    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
+        '<script src="assets/vendor/polifills.js"><\/script>');
     </script>
 </body>
 

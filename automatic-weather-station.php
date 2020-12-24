@@ -49,7 +49,7 @@
             <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
-                    <img class="img-fluid rounded" src="https://dummyimage.com/700x500/000/fff" alt="About Yuktix">
+                    <img class="img-fluid rounded" src="assets\media\images\aws\HML.jpeg" alt="About Yuktix">
                 </figure>
                 <!-- End SVG Illustration -->
             </div>
@@ -379,385 +379,412 @@
         </div>
     </div>
     <!-- End Icon Blocks Section -->
-    <!-- Icon Blocks Section -->
-    <div class="container space-1">
-        <!-- Title -->
+    <!-- Gallery Section -->
+    <div class="container">
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <h2>How Does it Looks Like</h2>
         </div>
-        <!-- End Title -->
-        <!-- Gallery Section -->
-        <div class="container">
-            <div class="row mx-n2">
-                <div class="col-6 col-md px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws1.jpg);">
-                    </div>
-                </div>
-                <div class="col-md-3 d-md-block px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws2.jpg);">
-                    </div>
-                </div>
-                <div class="col-6 col-md px-2 mb-3">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws3.jpg);">
-                    </div>
-                </div>
-                <div class="w-100"></div>
-                <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws4.jpg);">
-                    </div>
-                </div>
-                <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws5.jpg);">
-                    </div>
-                </div>
-                <div class="col-6 col-md px-2">
-                    <div class="h-250rem bg-img-hero" style="background-image: url(assets/media/images/aws/aws6.png);">
-                    </div>
+        <div class="row mx-n2">
+            <div class="col-4 col-md px-2 mb-3">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws10.jpeg);">
                 </div>
 
+            </div>
+            <div class="col-md-4 d-md-block px-2 mb-3">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws2.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-4 col-md px-2 mb-3">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws3.jpeg);">
+                </div>
+
+            </div>
+            <div class="w-100"></div>
+            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws4.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws5.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-6 col-md px-2">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws6.jpeg);">
+                </div>
+
+            </div>
+            <div class="w-100"></div><br>
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws7.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws8.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-6 col-md px-2">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/aws/ws9.jpeg);">
+                </div>
 
             </div>
         </div>
-        <!-- End Gallery Section -->
-        <br>
-        <!-- Features Section -->
-        <div class="border-bottom">
-            <div class="container space-2">
-                <div class="row">
-                    <div class="col-md-4 mb-7 mb-md-0">
-                        <!-- Contacts -->
-                        <div class="media">
-                            <figure class="w-100 max-w-8rem mr-4">
-                                <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
-                            </figure>
-                            <div class="media-body">
-                                <h4 class="mb-1">Real time graphs</h4>
-                                <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time
-                                    sensitive
-                                    data like Rain intensity and tiniest variations with ease. No more waiting
-                                    for
-                                    tomorrow.
-                                </p>
-                            </div>
-                        </div>
-                        <!-- End Contacts -->
-                    </div>
-                    <div class="col-md-4 mb-7 mb-md-0">
-                        <!-- Contacts -->
-                        <div class="media">
-                            <figure class="w-100 max-w-8rem mr-4">
-                                <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
-                            </figure>
-                            <div class="media-body">
-                                <h4 class="mb-1">Analyze Report</h4>
-                                <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to
-                                    sms
-                                    alerts.
-                                    Set your own condition for alerts. We provide reports in IMD compliant
-                                    format.
-                                    Ask
-                                    for
-                                    custom reports.</p>
-                            </div>
-                        </div>
-                        <!-- End Contacts -->
-                    </div>
-                    <div class="col-md-4">
-                        <!-- Contacts -->
-                        <div class="media">
-                            <figure class="w-100 max-w-8rem mr-4">
-                                <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
-                            </figure>
-                            <div class="media-body">
-                                <h4 class="mb-1">Personalized Monitoring</h4>
-                                <p class="font-size-1 mb-0">Download your data as excel files. Do your own
-                                    analysis.
-                                    Use
-                                    Yuktix python SDK and REST API to write custom clients.</p>
-                            </div>
-                        </div>
-                        <!-- End Contacts -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Features Section -->
-        <br>
-        <br>
-        <!-- CTA Section -->
-        <div class="container">
-            <div class="w-lg-85 mx-lg-auto">
-                <div class="card overflow-hidden p-5">
-                    <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
-                        <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
-                            <h3 class="h4 text-indigo mb-0">Sensor Catalogue</h3>
-                        </div>
-                        <div class="col-md-4 text-md-right">
-                            <a class="btn btn-primary transition-3d-hover" href="#">Explore Sensor Catalogue</a>
-                        </div>
-                    </div>
-                    <!-- SVG Component -->
-                    <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
-                        <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
-                    </figure>
-                    <!-- End SVG Component -->
-                </div>
-            </div>
-        </div>
-        <!-- End CTA Section -->
-        <br>
-        <br><br>
-        <!-- Hero Section -->
-        <div class="bg-img-hero">
-            <div class="container space-2 space-lg-1">
-                <div class="w-lg-65 text-center mx-lg-auto">
-                    <h2>Case Studies</h2>
-                    <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
-                        soil parameters
-                        with the
-                        help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
-                        multiple
-                        sources and on the network for every one to share and analyze.</p>
-                </div>
-            </div>
-        </div>
-        <!-- End Hero Section -->
-        <br><br>
-        <!-- ======= Case Study Section ======= -->
-        <section id="details" class="details">
-            <div class="container">
-                <div class="row content align-items-lg-center">
-                    <div class="col-md-4" data-aos="fade-right">
-                        <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
-                    </div>
-                    <div class="col-md-8" data-aos="fade-up">
-                        <h3>Case Study 1</h3>
-                        <br>
-                        <p class="lead">
-                            Manage your agriculture devices and data over the Yuktix device cloud. Provision and
-                            categorize
-                            devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run
-                            different
-                            processing pipelines, integrate with google big query or Microcoft azure.
-                        </p>
-                        <br>
-                        <a href="#">
-                            <p>
-                                <b>Learn More</b>
-                            </p>
-                        </a>
-                    </div>
-                </div>
-                <div class="row content align-items-lg-center">
-                    <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                        <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
-                    </div>
-                    <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-                        <h3>Case Study 2</h3>
-                        <br>
-                        <p class="lead">
-                            Plug multiple agriculture sensors into the low powered device nodes with solar
-                            charging
-                            and
-                            battery back-up. Multiple wireless options available. On-board memory and
-                            processing.
-                            <br>
-                            The ankiDB micro stack comprises of hardware nodes and routers and firmware.
-                        </p>
-                        <br>
-                        <a href="#">
-                            <p>
-                                <b>Learn More ></b>
-                            </p>
-                        </a>
-                    </div>
-                </div>
-        </section>
-        <!-- Testimonials Section -->
-        <div class="container space-1">
-            <!-- Title -->
-            <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
-                <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
-            </div>
-            <!-- End Title -->
-            <!-- Testimonials Section -->
+    </div>
+    <!-- End Gallery Section -->
+    <br>
+    <!-- Features Section -->
+    <div class="border-bottom">
+        <div class="container space-2">
             <div class="row">
-                <!-- Testimonials -->
-                <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                    <div class="card h-100 cardshadow">
-                        <div class="card-body">
-                            <ul class="list-inline text-warning">
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                            </ul>
-                            <div class="mb-auto">
-                                <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I
-                                    also
-                                    get weather updates in real time, irrigation advisory. Have reduced water usage in
-                                    each
-                                    farm by 30% and production have improved by almost 50%. ”</p>
-                            </div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
-                            <div class="media align-items-center">
-                                <div class="avatar avatar-circle mr-3">
-                                    <img class="avatar-img" src="assets/media/images/manavatar.jpg"
-                                        alt="Image Description">
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="mb-0">Aruna Urs</h4>
-                                    <small class="d-block text-body">Farmer, Sakleshpur</small>
-                                </div>
-                            </div>
+                <div class="col-md-4 mb-7 mb-md-0">
+                    <!-- Contacts -->
+                    <div class="media">
+                        <figure class="w-100 max-w-8rem mr-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
+                        </figure>
+                        <div class="media-body">
+                            <h4 class="mb-1">Real time graphs</h4>
+                            <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time
+                                sensitive
+                                data like Rain intensity and tiniest variations with ease. No more waiting
+                                for
+                                tomorrow.
+                            </p>
                         </div>
                     </div>
+                    <!-- End Contacts -->
                 </div>
-                <!-- End Testimonials -->
-                <!-- Testimonials -->
-                <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
-                    <div class="card h-100 cardshadow">
-                        <div class="card-body">
-                            <ul class="list-inline text-warning">
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                            </ul>
-                            <div class="mb-auto">
-                                <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate.
-                                    Irrigation
-                                    and rain play a important role in Guava cultivation. With Yuktix now i can monitor
-                                    soil
-                                    moisture in multiple location as well as weather forecats.”</p>
-                            </div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
-                            <div class="media align-items-center">
-                                <div class="avatar avatar-circle mr-3">
-                                    <img class="avatar-img" src="assets/media/images/manavatar.jpg"
-                                        alt="Image Description">
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="mb-0">Shankar</h4>
-                                    <small class="d-block text-body">CEO - NTR Farms & KGF</small>
-                                </div>
-                            </div>
+                <div class="col-md-4 mb-7 mb-md-0">
+                    <!-- Contacts -->
+                    <div class="media">
+                        <figure class="w-100 max-w-8rem mr-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
+                        </figure>
+                        <div class="media-body">
+                            <h4 class="mb-1">Analyze Report</h4>
+                            <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to
+                                sms
+                                alerts.
+                                Set your own condition for alerts. We provide reports in IMD compliant
+                                format.
+                                Ask
+                                for
+                                custom reports.</p>
                         </div>
                     </div>
+                    <!-- End Contacts -->
                 </div>
-                <!-- End Testimonials -->
-                <!-- Testimonials -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 cardshadow">
-                        <div class="card-body">
-                            <ul class="list-inline text-warning">
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                                <li class="list-inline-item mx-0">
-                                    <i class="fas fa-star"></i>
-                                </li>
-                            </ul>
-                            <div class="mb-auto">
-                                <p class="text-dark mb-0">"Yuktix GreenSense for Greenhouse allowed me to monitor
-                                    micro-weather inside my Greenhouse in COVID time, share it with my agronomist, get
-                                    advisory from him. It got the advisory implemented and saved my plants from Downy
-                                    Mildew" </p>
-                            </div>
-                        </div>
-                        <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
-                            <div class="media align-items-center">
-                                <div class="avatar avatar-circle mr-3">
-                                    <img class="avatar-img" src="assets/media/images/manavatar.jpg"
-                                        alt="Image Description">
-                                </div>
-                                <div class="media-body">
-                                    <h4 class="mb-0">Nitin Kumar</h4>
-                                    <small class="d-block text-body">Owner, NT Farms, Dodballapur</small>
-                                </div>
-                            </div>
+                <div class="col-md-4">
+                    <!-- Contacts -->
+                    <div class="media">
+                        <figure class="w-100 max-w-8rem mr-4">
+                            <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
+                        </figure>
+                        <div class="media-body">
+                            <h4 class="mb-1">Personalized Monitoring</h4>
+                            <p class="font-size-1 mb-0">Download your data as excel files. Do your own
+                                analysis.
+                                Use
+                                Yuktix python SDK and REST API to write custom clients.</p>
                         </div>
                     </div>
+                    <!-- End Contacts -->
                 </div>
-                <!-- End Testimonials -->
             </div>
         </div>
-        <!-- End Testimonials Section -->
-        <?php
-        include 'includes/footer.php';
-        ?>
-        <!-- Global Scripts-->
-        <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-        <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
-        <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- JS Front-->
-        <script src="assets/js/hs.core.js"></script>
-        <script src="assets/js/hs.fancybox.js"></script>
-        <!-- JS Implementing Plugins -->
-        <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
-        <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
-        <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
-        <script src="assets/vendor/appear.js"></script>
-        <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-        <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
-        <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
-        <script src="assets/vendor/aos/dist/aos.js"></script>
-        <!-- JS Implementing Plugins -->
-        <!-- JS Implementing Plugins -->
-        <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
-        <!-- JS Front -->
-        <script src="assets/js/hs.fancybox.js"></script>
-        <!-- JS Plugins Init. -->
-        <script>
-        $(document).on('ready', function() {
-            // initialization of header
-            var header = new HSHeader($('#header')).init();
+    </div>
+    <!-- End Features Section -->
+    <br>
+    <br>
+    <!-- CTA Section -->
+    <div class="container">
+        <div class="w-lg-85 mx-lg-auto">
+            <div class="card overflow-hidden p-5">
+                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                    <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
+                        <h3 class="h4 text-indigo mb-0">Sensor Catalogue</h3>
+                    </div>
+                    <div class="col-md-4 text-md-right">
+                        <a class="btn btn-primary transition-3d-hover" href="#">Explore Sensor Catalogue</a>
+                    </div>
+                </div>
+                <!-- SVG Component -->
+                <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
+                    <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
+                </figure>
+                <!-- End SVG Component -->
+            </div>
+        </div>
+    </div>
+    <!-- End CTA Section -->
+    <br>
+    <br><br>
+    <!-- Hero Section -->
+    <div class="bg-img-hero">
+        <div class="container space-2 space-lg-1">
+            <div class="w-lg-65 text-center mx-lg-auto">
+                <h2>Case Studies</h2>
+                <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
+                    soil parameters
+                    with the
+                    help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
+                    multiple
+                    sources and on the network for every one to share and analyze.</p>
+            </div>
+        </div>
+    </div>
+    <!-- End Hero Section -->
+    <br><br>
+    <!-- ======= Case Study Section ======= -->
+    <section id="details" class="details">
+        <div class="container">
+            <div class="row content align-items-lg-center">
+                <div class="col-md-4" data-aos="fade-right">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                </div>
+                <div class="col-md-8" data-aos="fade-up">
+                    <h3>Case Study 1</h3>
+                    <br>
+                    <p class="lead">
+                        Manage your agriculture devices and data over the Yuktix device cloud. Provision and
+                        categorize
+                        devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run
+                        different
+                        processing pipelines, integrate with google big query or Microcoft azure.
+                    </p>
+                    <br>
+                    <a href="#">
+                        <p>
+                            <b>Learn More</b>
+                        </p>
+                    </a>
+                </div>
+            </div>
+            <div class="row content align-items-lg-center">
+                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                </div>
+                <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+                    <h3>Case Study 2</h3>
+                    <br>
+                    <p class="lead">
+                        Plug multiple agriculture sensors into the low powered device nodes with solar
+                        charging
+                        and
+                        battery back-up. Multiple wireless options available. On-board memory and
+                        processing.
+                        <br>
+                        The ankiDB micro stack comprises of hardware nodes and routers and firmware.
+                    </p>
+                    <br>
+                    <a href="#">
+                        <p>
+                            <b>Learn More ></b>
+                        </p>
+                    </a>
+                </div>
+            </div>
+    </section>
+    <!-- Testimonials Section -->
+    <div class="container space-1">
+        <!-- Title -->
+        <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
+            <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
+        </div>
+        <!-- End Title -->
+        <!-- Testimonials Section -->
+        <div class="row">
+            <!-- Testimonials -->
+            <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
+                <div class="card h-100 cardshadow">
+                    <div class="card-body">
+                        <ul class="list-inline text-warning">
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                        </ul>
+                        <div class="mb-auto">
+                            <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I
+                                also
+                                get weather updates in real time, irrigation advisory. Have reduced water usage in
+                                each
+                                farm by 30% and production have improved by almost 50%. ”</p>
+                        </div>
+                    </div>
+                    <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
+                        <div class="media align-items-center">
+                            <div class="avatar avatar-circle mr-3">
+                                <img class="avatar-img" src="assets/media/images/manavatar.jpg" alt="Image Description">
+                            </div>
+                            <div class="media-body">
+                                <h4 class="mb-0">Aruna Urs</h4>
+                                <small class="d-block text-body">Farmer, Sakleshpur</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Testimonials -->
+            <!-- Testimonials -->
+            <div class="col-md-6 col-lg-4 mb-3 mb-md-5 mb-lg-0">
+                <div class="card h-100 cardshadow">
+                    <div class="card-body">
+                        <ul class="list-inline text-warning">
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                        </ul>
+                        <div class="mb-auto">
+                            <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate.
+                                Irrigation
+                                and rain play a important role in Guava cultivation. With Yuktix now i can monitor
+                                soil
+                                moisture in multiple location as well as weather forecats.”</p>
+                        </div>
+                    </div>
+                    <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
+                        <div class="media align-items-center">
+                            <div class="avatar avatar-circle mr-3">
+                                <img class="avatar-img" src="assets/media/images/manavatar.jpg" alt="Image Description">
+                            </div>
+                            <div class="media-body">
+                                <h4 class="mb-0">Shankar</h4>
+                                <small class="d-block text-body">CEO - NTR Farms & KGF</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Testimonials -->
+            <!-- Testimonials -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 cardshadow">
+                    <div class="card-body">
+                        <ul class="list-inline text-warning">
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                            <li class="list-inline-item mx-0">
+                                <i class="fas fa-star"></i>
+                            </li>
+                        </ul>
+                        <div class="mb-auto">
+                            <p class="text-dark mb-0">"Yuktix GreenSense for Greenhouse allowed me to monitor
+                                micro-weather inside my Greenhouse in COVID time, share it with my agronomist, get
+                                advisory from him. It got the advisory implemented and saved my plants from Downy
+                                Mildew" </p>
+                        </div>
+                    </div>
+                    <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
+                        <div class="media align-items-center">
+                            <div class="avatar avatar-circle mr-3">
+                                <img class="avatar-img" src="assets/media/images/manavatar.jpg" alt="Image Description">
+                            </div>
+                            <div class="media-body">
+                                <h4 class="mb-0">Nitin Kumar</h4>
+                                <small class="d-block text-body">Owner, NT Farms, Dodballapur</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Testimonials -->
+        </div>
+    </div>
+    <!-- End Testimonials Section -->
+    <?php
+    include 'includes/footer.php';
+    ?>
+    <!-- Global Scripts-->
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
+    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- JS Front-->
+    <script src="assets/js/hs.core.js"></script>
+    <script src="assets/js/hs.fancybox.js"></script>
+    <!-- JS Implementing Plugins -->
+    <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
+    <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
+    <script src="assets/vendor/hs-scroll-nav/dist/hs-scroll-nav.min.js"></script>
+    <script src="assets/vendor/appear.js"></script>
+    <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+    <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
+    <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
+    <script src="assets/vendor/aos/dist/aos.js"></script>
+    <!-- JS Implementing Plugins -->
+    <!-- JS Implementing Plugins -->
+    <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+    <!-- JS Front -->
+    <script src="assets/js/hs.fancybox.js"></script>
+    <!-- JS Plugins Init. -->
+    <script>
+    $(document).on('ready', function() {
+        // initialization of header
+        var header = new HSHeader($('#header')).init();
 
-            // initialization of mega menu
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        // initialization of mega menu
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
+    });
+    </script>
+    <script>
+    $(document).on('ready', function() {
+        // initialization of fancybox
+        $('.js-fancybox').each(function() {
+            var fancybox = $.HSCore.components.HSFancyBox.init($(this));
         });
-        </script>
-        <script>
-        $(document).on('ready', function() {
-            // initialization of fancybox
-            $('.js-fancybox').each(function() {
-                var fancybox = $.HSCore.components.HSFancyBox.init($(this));
-            });
-        });
-        </script>
+    });
+    </script>
 </body>
 
 </html>

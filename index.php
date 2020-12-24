@@ -179,11 +179,11 @@
                     <br>
                     <p class="lead">
                         Increase in yield by 25%, reduction in loss by 20% due to absence of information about soil
-                        moisture and amount of rain.
+                        moisture and amount of rain. <br>
                         Jai Javan, Jai Vigyaan.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="https://seasonalshop.in/next-generation-guava-plantation.php">
                         <p>
                             <b>Read the full case study ></b>
                         </p>
@@ -201,7 +201,7 @@
         <div class="row">
             <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="jhulsa-for-muskmellon-farm.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -221,7 +221,8 @@
 
             <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow"
+                    href="agriculture-farm-management-co.php ">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -239,7 +240,8 @@
 
             <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow"
+                    href="climate-resiliant-agriculture-tribal.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -257,7 +259,7 @@
             </div>
             <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="research-institutes-and-ngo.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -387,7 +389,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
     <script>

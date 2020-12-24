@@ -92,6 +92,7 @@
                     </div>
                 </a>
                 <!-- End Card -->
+
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
@@ -132,11 +133,22 @@
         <div class="row mx-n2 mb-5 mb-md-9">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="table-grape-grower-in-karnataka.php">
+                <a class="card h-100 transition-3d-hover" href="multinational-agruculture-seed-fertilizers.php">
                     <img class="card-img-top" src="assets\media\images\case-studies\9.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 9</span>
                         <h5 class="mb-0">Multinational Seed & Fertilizers Company</h5>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+            <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-100 transition-3d-hover" href="climate-resiliant-agriculture-tribal.php">
+                    <img class="card-img-top" src="assets\media\images\case-studies\10.jpeg" alt="Image Description">
+                    <div class="card-body">
+                        <span class="d-block small font-weight-bold text-cap mb-2">CASE STUDY 10</span>
+                        <h5 class="mb-0">Climate Resiliant Agriculture for Tribal Farme</h5>
                     </div>
                 </a>
                 <!-- End Card -->
@@ -175,7 +187,12 @@
             var header = new HSHeader($('#header')).init();
 
             // initialization of mega menu
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+            var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+                desktop: {
+                    position: 'left'
+                }
+            }).init();
+
         });
         </script>
 </body>

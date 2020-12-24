@@ -26,8 +26,37 @@
     <?php
     include 'includes/header.php';
     ?>
-    <!--Header end-->.
+    <!--Header end-->
     <!-- Hero Section -->
+    <div class="container space-top-3 space-top-lg-3 space-bottom-2 space-bottom-lg-2">
+        <div class="row justify-content-lg-between mb-3">
+            <div class="col-md-6 col-lg-5">
+                <!-- Info -->
+                <div class="mb-5 mt-2">
+                    <h1>Digitise your Farm with Yuktix GreenSense</h1>
+                    <p class="lead">Using Next Generation IoT Devices, Increase Yield & Reduce Losses</p>
+                    <p>Become a Next Generation Farmer</p>
+                </div>
+                <div class="mb-3">
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                        Started</a>
+                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
+                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+                </div>
+                <!-- End Info -->
+            </div>
+            <div class="col-md-6 d-none d-md-inline-block">
+                <!-- SVG Illustration -->
+                <figure class="w-100">
+                    <img class="img-fluid rounded" src="assets\media\images\greensense\greensensefar.jpg"
+                        alt="About Yuktix">
+                </figure>
+                <!-- End SVG Illustration -->
+            </div>
+        </div>
+    </div>
+    <!-- Hero Section -->
+    <!--
     <div class="container space-top-2 space-top-md-4 space-top-lg-3 mb-3">
         <div class="border-bottom">
             <div class="w-lg-75 text-center mx-lg-auto">
@@ -43,8 +72,10 @@
             </div>
         </div>
     </div>
-    <!-- End Hero Section -->
+    -->
+
     <!-- Features Section -->
+
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-75 w-lg-75 text-center mx-md-auto mb-5 mb-md-9">
@@ -252,6 +283,64 @@
     </div>
     <!-- Testimonials Section -->
     <br><br>
+    <!-- ======= Case Study Section ======= -->
+    <section id="details" class="details">
+        <div class="container">
+            <div class="row content align-items-lg-center">
+                <div class="col-md-4" data-aos="fade-right">
+                    <img src="assets\media\images\case-studies\6.png" class="img-fluid rounded" alt="TRIBAL FARMER">
+                </div>
+                <div class="col-md-8" data-aos="fade-up">
+                    <h3>Jhulsa for Muskmellon Farm</h3>
+                    <br>
+                    <p class="lead">
+                        Reduction in loss due to disease by 30%, increase in production by 25 and savings of INR 60,000
+                        in pesticide usage.
+                    </p>
+                    <br>
+                    <a href="jhulsa-for-muskmellon-farm.php">
+                        <p>
+                            <b>Read the Full Case Study ></b>
+                        </p>
+                    </a>
+                </div>
+            </div>
+            <div class="row content align-items-lg-center">
+                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                    <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
+                </div>
+                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
+                    <h3>Smart Guava Farm</h3>
+                    <br>
+                    <p class="lead">
+                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about soil
+                        moisture and amount of rain. <br>
+                        Jai Javan, Jai Vigyaan.
+                    </p>
+                    <br>
+                    <a href="https://seasonalshop.in/next-generation-guava-plantation.php">
+                        <p>
+                            <b>Read the full case study ></b>
+                        </p>
+                    </a>
+                </div>
+            </div>
+    </section>
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <div>
+                    <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
+                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                            width="920" height="450" src="https://www.youtube.com/embed/UaPNqp5ut7U" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-2 mb-md-3 text-center">
@@ -592,7 +681,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

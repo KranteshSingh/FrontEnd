@@ -505,7 +505,12 @@
             var header = new HSHeader($('#header')).init();
 
             // initialization of mega menu
-            var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+            var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+                desktop: {
+                    position: 'left'
+                }
+            }).init();
+
         });
         </script>
 </body>

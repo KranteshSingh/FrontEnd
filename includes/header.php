@@ -1,17 +1,15 @@
 <!-- ========== HEADER ========== -->
-<header id="header" class="header header-sticky-top" data-hs-header-options='{
-          "fixMoment": 1000,
-          "fixEffect": "slide"
-        }'>
+<header id="header" class="header">
     <div class="header-section">
         <div id="logoAndNav" class="container">
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg">
                 <!-- Logo -->
-                <a class="navbar-brand" href="index.php" aria-label="Yuktix">
+                <a class="navbar-brand" href="#" aria-label="Front">
                     <img width="40px" height="40px" src="assets/svg/logos/yuktix-logo.svg" alt="Logo">
                 </a>
                 <!-- End Logo -->
+
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn btn-icon btn-sm rounded-circle"
                     aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse"
@@ -30,46 +28,107 @@
                     </span>
                 </button>
                 <!-- End Responsive Toggle Button -->
+
                 <!-- Navigation -->
                 <div id="navBar" class="collapse navbar-collapse">
-                    <ul class="js-scroll-nav navbar-nav">
-                        <li class="hs-has-sub-menu header-nav-item" data-hs-mega-menu-item-options='{
-                  "desktop": {
-                    "position": "left"
-                  }
-                }'>
-                            <a id="pagesMegaMenu" class="hs-mega-menu-invoker nav-link nav-link-toggle"
-                                href="javascript:;" aria-haspopup="true" aria-expanded="false"
-                                aria-labelledby="pagesSubMenu">Products</a>
-                            <div id="pagesSubMenu" class="hs-sub-menu dropdown-menu" aria-labelledby="pagesMegaMenu"
-                                style="min-width: 230px;">
-                                <a class="dropdown-item" href="greensense.php">Greensense</a>
-                                <a class="dropdown-item" href="automatic-weather-station.php">Weather Station</a>
-                                <a class="dropdown-item" href="smart-irrigation.php">Smart Irrigation</a>
-                                <a class="dropdown-item" href="digital-rain-gauge.php">Digital Rain Gauge</a>
-                                <a class="dropdown-item" href="greenhouse-logger.php">Greenhouse Logger</a>
-                            </div>
-                        </li>
-                        <!-- Pages -->
-                        <!-- End Pages -->
-                        <li class="navbar-nav-item">
-                            <a class="nav-link" href="agriculture.php">Agriculture</a>
-                        </li>
-                        <li class="navbar-nav-item">
-                            <a class="nav-link" href="technology.php">Technology</a>
-                        </li>
-                        <li class="navbar-nav-item">
-                            <a class="nav-link" href="about.php">About</a>
-                        </li>
-                        <li class="navbar-nav-item">
-                            <a class="nav-link" href="contact.php">Contact</a>
-                        </li>
-                        <li class="nav-item navbar-nav-last-item">
-                            <a class="btn btn-primary btn-sm transition-3d-hover"
-                                href="http://webm01-dev.yuktix.com:8001/login/green.php" target="_blank">GreenSense
-                                Login</a>
-                        </li>
-                    </ul>
+                    <div class="navbar-body header-abs-top-inner">
+                        <ul class="navbar-nav">
+                            <!-- Home -->
+
+
+                            <!-- Pages -->
+                            <li class="hs-has-sub-menu navbar-nav-item">
+                                <a id="pagesMegaMenu" class="hs-mega-menu-invoker nav-link nav-link-toggle"
+                                    href="javascript:;" aria-haspopup="true" aria-expanded="false"
+                                    aria-labelledby="pagesSubMenu">Products</a>
+
+                                <!-- Pages - Submenu -->
+                                <div id="pagesSubMenu" class="hs-sub-menu dropdown-menu" aria-labelledby="pagesMegaMenu"
+                                    style="min-width: 230px;">
+                                    <!-- Company -->
+                                    <div class="hs-has-sub-menu">
+                                        <a id="navLinkPagesCompany"
+                                            class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle"
+                                            href="greensense.php" aria-haspopup="true" aria-expanded="false"
+                                            aria-controls="navSubmenuPagesCompany">Greensense</a>
+
+
+                                    </div>
+                                    <!-- Company -->
+
+                                    <!-- Portfolio -->
+                                    <div class="hs-has-sub-menu">
+                                        <a id="navLinkPagesPortfolio"
+                                            class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle"
+                                            href="automatic-weather-station.php" aria-haspopup="true"
+                                            aria-expanded="false" aria-controls="navSubmenuPagesPortfolio">Weather
+                                            Station</a>
+
+
+                                    </div>
+                                    <!-- End Portfolio -->
+
+                                    <!-- Login -->
+                                    <div class="hs-has-sub-menu">
+                                        <a id="navLinkPagesLogin"
+                                            class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle"
+                                            href="smart-irrigation.php" aria-haspopup="true" aria-expanded="false"
+                                            aria-controls="navSubmenuPagesLogin">Smart Irrigation</a>
+
+
+                                    </div>
+                                    <!-- Signup -->
+
+                                    <!-- Contacts -->
+                                    <div class="hs-has-sub-menu">
+                                        <a id="navLinkContactsServices"
+                                            class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle"
+                                            href="digital-rain-gauge.php" aria-haspopup="true" aria-expanded="false"
+                                            aria-controls="navSubmenuContactsServices">Digital Rain Gauge</a>
+
+
+                                    </div>
+                                    <!-- Contacts -->
+
+                                    <!-- Utilities -->
+                                    <div class="hs-has-sub-menu">
+                                        <a id="navLinkPagesUtilities"
+                                            class="hs-mega-menu-invoker dropdown-item dropdown-item-toggle"
+                                            href="greenhouse-logger.php" aria-haspopup="true" aria-expanded="false"
+                                            aria-controls="navSubmenuPagesUtilities">Greenhouse Logger</a>
+
+
+                                    </div>
+                                    <!-- Utilities -->
+
+
+                                    <!-- Specialty -->
+                                </div>
+                                <!-- End Pages - Submenu -->
+                            </li>
+                            <!-- End Pages -->
+                            <li class="navbar-nav-item">
+                                <a class="nav-link" href="agriculture.php">Agriculture</a>
+                            </li>
+                            <li class="navbar-nav-item">
+                                <a class="nav-link" href="technology.php">Technology</a>
+                            </li>
+                            <li class="navbar-nav-item">
+                                <a class="nav-link" href="about.php">About</a>
+                            </li>
+                            <li class="navbar-nav-item">
+                                <a class="nav-link" href="contact.php">Contact</a>
+                            </li>
+                            <li class="nav-item navbar-nav-last-item">
+                                <a class="btn btn-primary btn-sm transition-3d-hover"
+                                    href="http://webm01-dev.yuktix.com:8001/login/green.php" target="_blank">GreenSense
+                                    Login</a>
+                            </li>
+
+
+
+                        </ul>
+                    </div>
                 </div>
                 <!-- End Navigation -->
             </nav>

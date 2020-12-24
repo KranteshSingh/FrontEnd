@@ -68,14 +68,14 @@
                     <div class="tab-content pr-lg-4">
                         <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-one-code-features-example2-tab">
-                            <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
+                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\6.png"
                                 alt="Image Description">
                         </div>
 
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
-                                <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
+                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png"
                                     alt="Image Description">
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                     <div class="position-relative max-w-50rem mx-auto">
                         <!-- SVG Component -->
                         <div class="max-w-50rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
+                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png"
                                 alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
@@ -370,7 +370,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

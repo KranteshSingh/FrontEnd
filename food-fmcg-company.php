@@ -68,14 +68,14 @@
                     <div class="tab-content pr-lg-4">
                         <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-one-code-features-example2-tab">
-                            <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
+                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\3.png"
                                 alt="Image Description">
                         </div>
 
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
-                                <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
+                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png"
                                     alt="Image Description">
                             </div>
                         </div>
@@ -253,7 +253,7 @@
                     <div class="position-relative max-w-50rem mx-auto">
                         <!-- SVG Component -->
                         <div class="max-w-50rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
+                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png"
                                 alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
@@ -263,6 +263,45 @@
         </div>
     </div>
     <!-- End Features Section -->
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <div>
+                    <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
+                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                            width="920" height="450" src="https://www.youtube.com/embed/UaPNqp5ut7U" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- CTA Section -->
+    <div class="container">
+        <div class="w-lg-85 mx-lg-auto mt-7">
+            <div class="card overflow-hidden p-4">
+                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                    <div class="col-md-5 offset-md-3 mb-3 mb-md-0">
+                        <h3 class="h4 mb-0">Read Detailed Article</h3>
+                    </div>
+                    <div class="col-md-4 text-md-right">
+                        <a class="btn btn-primary transition-3d-hover"
+                            href="http://blog.yuktix.com/2019/11/greensense-for-potato-plantation.html"
+                            target="_blank">Learn More</a>
+                    </div>
+                </div>
+
+                <!-- SVG Component -->
+                <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
+                    <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
+                </figure>
+                <!-- End SVG Component -->
+            </div>
+        </div>
+    </div>
+    <!-- End CTA Section -->
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
@@ -375,7 +414,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

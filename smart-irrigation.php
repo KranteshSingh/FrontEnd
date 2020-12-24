@@ -31,7 +31,7 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>Yuktix Smart Irrigation</h1>
+                    <h1>Smart Irrigation</h1>
                     <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
                         and a
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
@@ -573,7 +573,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

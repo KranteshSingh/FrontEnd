@@ -53,7 +53,6 @@
             </div>
         </div>
     </div>
-
     <!-- Features Section -->
     <div class="overflow-hidden">
         <div class="container space-2">
@@ -158,7 +157,7 @@
                         <h4 class="mb-0">Micro-Weather</h4>
                     </div>
                 </div>
-                <p>Get micro-weather and soil data from your farm in real time. </p>
+                <p>Get to know micro-weather inside your Greenhouse in real time. </p>
                 <!-- End Icon Block -->
             </div>
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
@@ -171,7 +170,7 @@
                         <h4 class="mb-0">Weather forecast</h4>
                     </div>
                 </div>
-                <p>Farm level and block level forecast delivered on your phone</p>
+                <p>Location specific weather forecast</p>
                 <!-- End Icon Block -->
             </div>
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
@@ -184,7 +183,7 @@
                         <h4 class="mb-0">Disease Prediction</h4>
                     </div>
                 </div>
-                <p>Get advance notification about crop disease before they happen</p>
+                <p>Get notified about disease forecast and take corrective action </p>
                 <!-- End Icon Block -->
             </div>
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
@@ -197,7 +196,7 @@
                         <h4 class="mb-0">Irrigation Advisory </h4>
                     </div>
                 </div>
-                <p>When to irrigate and how much to irrigate.</p>
+                <p>With Soil moisture sensor, monitor and irrigate your Greenhouse crops</p>
                 <!-- End Icon Block -->
             </div>
             <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
@@ -210,7 +209,7 @@
                         <h4 class="mb-0">Image analysis</h4>
                     </div>
                 </div>
-                <p>Capture, upload and get advisory from expert. </p>
+                <p>Capture, upload and get advisory from expert </p>
                 <!-- End Icon Block -->
             </div>
             <div class="col-sm-6 col-md-4">
@@ -223,7 +222,7 @@
                         <h4 class="mb-0">A full solution for GreenHouse</h4>
                     </div>
                 </div>
-                <p>You will get complete information about your farm?</p>
+                <p>Want to automate your Greenhouse and convert it into a next-gen Greenhouse.</p>
                 <!-- End Icon Block -->
             </div>
         </div>
@@ -428,21 +427,7 @@
             </div>
         </div>
     </div>
-    <!-- Hero Section -->
-    <div class="bg-img-hero">
-        <div class="container space-2 space-lg-1">
-            <div class="w-lg-65 text-center mx-lg-auto">
-                <h2>Case Studies</h2>
-                <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
-                    soil parameters
-                    with the
-                    help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
-                    multiple
-                    sources and on the network for every one to share and analyze.</p>
-            </div>
-        </div>
-    </div>
-    <!-- End Hero Section -->
+
     <br><br>
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
@@ -656,7 +641,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Multinational Seed & Fertilizers Company | Yuktix</title>
+    <title>Climate Resiliant Agriculture for Tribal Farmers | Yuktix</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -33,7 +33,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Multinational Seed & Fertilizers Company</h1>
+                    <h1>Climate Resiliant Agriculture for Tribal Farmers</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -68,7 +68,7 @@
                     <div class="tab-content pr-lg-4">
                         <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-one-code-features-example2-tab">
-                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\9.png"
+                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\10.jpeg"
                                 alt="Image Description">
                         </div>
 
@@ -101,7 +101,8 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Multinational Seed & Fertilizers Company</p>
+                                            <p class="text-body mb-0">Climate Resiliant Agriculture for Tribal Farmers
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -118,8 +119,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Product Used</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Yuktix GreeSense for Greehouse, GreenSense - Soil
-                                                Moisture, Yuktix Weather Station</p>
+                                            <p class="text-body mb-0">Yuktix GreenSense and ankiDBTM</p>
                                         </div>
                                     </div>
                                 </div>
@@ -143,17 +143,24 @@
     <!-- End SVG Bottom Shape -->
     <!-- Tools Section -->
     <div class="position-relative gradient-y-gray">
-        <div class="container space-2 space-bottom-sm-3">
+        <div class="container space-1 space-bottom-sm-2">
             <!-- Title -->
-            <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
+            <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-1">
                 <h2>The Problem</h2>
-                <p>The client is a Miltiational company. One of their VRS ( vegetable research center ) and seed
-                    production facility is working with farmers growing
-                    tomato for seeds in multiple locatons. Irrigation play a important role in tomato. At present the
-                    company research team and production team don't have information about the irrigation
-                    done by the farmers i.e. if they are under irrigating or over irrigating. Also, if there is any
-                    failure, they won't be able to find out the reason behind it in
-                    absense of data.</p>
+                <p>The client is a NGO based in Odhisha and work with traibal farmers in the remote locations in Odisha.
+                    At present, they don't have information about Micro-weather information about the locations they are
+                    working in. Availability of water is these area depend on single sources and with changing climate,
+                    they want to optimize the water usage. <br><br>To optimize the water usage, they need to know how
+                    much
+                    it
+                    has rained and what is the soil moisture in the field, so that they can provide custom adviosry to
+                    the farmers. Right now they don't have </p><br>
+                <ul class="text-left">
+                    <li>Weather station to monitor the micro-climate</li>
+                    <li>Infratsrurure to store and process the information</li>
+                    <li>Digital tool to generate report and custom adviosry</li>
+                    <li>Send the advisory to end farmer</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -173,7 +180,7 @@
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
                         <h3>Challenge 1</h3>
-                        <p>Multiple Locations</p>
+                        <p>Remotest location, with limited network </p>
                     </div>
                 </div>
             </li>
@@ -182,7 +189,7 @@
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
                         <h3>Challenge 2</h3>
-                        <p>No power, remote locations</p>
+                        <p>Limited human intervention</p>
                     </div>
                 </div>
             </li>
@@ -191,16 +198,16 @@
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
                         <h3>Challenge 3</h3>
-                        <p>No alert mechnism for farmers</p>
+                        <p>Limited water resources</p>
                     </div>
                 </div>
             </li>
             <li class="step-item">
                 <div class="step-content-wrapper">
-                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <span class="step-icon step-icon-soft-primary">4</span>
                     <div class="step-content">
                         <h3>Challenge 4</h3>
-                        <p>No reporting tool for distributed reseach team </p>
+                        <p>No digital tool to distribute the information</p>
                     </div>
                 </div>
             </li>
@@ -222,14 +229,16 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Yuktix GreenSense for Greenhouse with Soil VWC ( volumetric water content ), Soil EC and
-                                Soil Tempeature. Multiple sensors were deployed in a single GreenHouse. There were
-                                multiple
-                                Greenhouse in a single location and multiple locations. Soil data was sampled every 15
-                                minute to monitor even the smallest changes. In case of unavailability of the network,
-                                the data
-                                was saved locally on SD card with RTC values and synchronized with cloud once network is
-                                back </p>
+                            <p>Yuktix deployed GreenSense nodes
+                                with onboard single-cell solar charger
+                                (SSC) and battery with soil moisture
+                                sensors. The nodes were deployed in
+                                fields that have absorbent molecules
+                                (treatment group) as well as the ones
+                                without (control group). The data
+                                from all the fields were collected
+                                and Volumetric water content was
+                                computed in real time. </p>
                         </div>
                     </div>
                     <div class="media">
@@ -237,11 +246,18 @@
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
-                            <p>Data collected by the devices is analyzed by ankiDB cloud and made available to the user
-                                via GreenSense dashboard. Daily and weekly reports are send to research and production
-                                team.
-                                Alerts are also send to grower if soil VWC values are found to be below the recommended
-                                value. </p>
+                            <p>The client could see
+                                the variation across groups in real
+                                time. The nodes kept working without
+                                any maintenance during the entire
+                                project lifecycle</p><br>
+                            <ul class="text-left">
+                                <li>Solar powered automatic weather station </li>
+                                <li>GreenSense soil moisture sensor node for individual farm</li>
+                                <li>Interactive dashboard and report over email for NGO team</li>
+                                <li>Soil testing based fertilizer recommendation</li>
+                                <li>Next 5 days weather forecast for planning various activities</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -259,6 +275,22 @@
         </div>
     </div>
     <!-- End Features Section -->
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <div>
+                    <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
+                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                            width="920" height="450" src="https://www.youtube.com/embed/UaPNqp5ut7U" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
@@ -275,7 +307,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            25% Reduction in water utilized
+                            25% water saved
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -283,7 +315,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            15% reduction in amount of fertilizer used using Soil EC values
+                            25% reduction in losses
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -291,7 +323,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            Increase in production
+                            15% increase in productivity
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -299,7 +331,7 @@
                             <i class="fas fa-check"></i>
                         </span>
                         <div class="media-body text-dark">
-                            150 man hours saved
+                            Wastage Reduction
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -321,9 +353,9 @@
                                     <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                                 </figure>
                                 <h3>We tackle the challenges</h3>
-                                <p>"Yuktix GreenSense devices help us to monitor Soil moisture from multiple locations
-                                    and optimize the use of water and fertilizer. It really has been usefull for us in
-                                    saving our time also"</p>
+                                <p>Besides working with start-up enterprises as a partner for digitalization, we
+                                    have built enterprise products for common pain points that we have
+                                    encountered in various products and projects.</p>
                             </div>
                         </div>
                         <!-- End Card -->
@@ -338,7 +370,6 @@
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <!-- End Features Section -->
     <?php

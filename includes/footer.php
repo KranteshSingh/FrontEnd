@@ -9,7 +9,7 @@
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item">
-                        <a class="nav-link media" href="">
+                        <a class="nav-link media" href="#">
                             <span class="media">
                                 <span class="fas fa-location-arrow mt-1 mr-2"></span>
                                 <span class="media-body">

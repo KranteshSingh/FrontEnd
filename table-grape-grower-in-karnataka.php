@@ -68,15 +68,15 @@
                     <div class="tab-content pr-lg-4">
                         <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-one-code-features-example2-tab">
-                            <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
-                                alt="Image Description">
+                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\5.png"
+                                alt="CLIENT">
                         </div>
 
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
-                                <img class="avatar-img rounded-lg" src="assets/media/images/greensense.jpg"
-                                    alt="Image Description">
+                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png"
+                                    alt="Product Used">
                             </div>
                         </div>
 
@@ -101,7 +101,7 @@
                                     <div class="media-body">
                                         <h4 class="mb-0">Client Profile</h4>
                                         <div class="d-none d-lg-block mt-2">
-                                            <p class="text-body mb-0">Agriculture Farm Management Co.</p>
+                                            <p class="text-body mb-0">Table App Grower in Karnataka</p>
                                         </div>
                                     </div>
                                 </div>
@@ -240,10 +240,10 @@
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center">
-                    <div class="position-relative max-w-50rem mx-auto">
+                    <div class="position-relative max-w-70rem mx-auto">
                         <!-- SVG Component -->
-                        <div class="max-w-50rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
+                        <div class="max-w-70rem w-100 z-index-n1 mx-auto">
+                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png"
                                 alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
@@ -253,6 +253,44 @@
         </div>
     </div>
     <!-- End Features Section -->
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <div>
+                    <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
+                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
+                            width="920" height="450" src=" https://youtube.com/embed/vbXB2BnnAg4" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- CTA Section -->
+    <div class="container">
+        <div class="w-lg-85 mx-lg-auto mt-7">
+            <div class="card overflow-hidden p-4">
+                <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
+                    <div class="col-md-5 offset-md-3 mb-3 mb-md-0">
+                        <h3 class="h4 mb-0">Read Detailed Article</h3>
+                    </div>
+                    <div class="col-md-4 text-md-right">
+                        <a class="btn btn-primary transition-3d-hover"
+                            href="http://blog.yuktix.com/2019/11/GreenSense-for-vineyards-case-study.html"
+                            target="_blank">Learn More</a>
+                    </div>
+                </div>
+
+                <!-- SVG Component -->
+                <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
+                    <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
+                </figure>
+                <!-- End SVG Component -->
+            </div>
+        </div>
+    </div>
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
@@ -291,10 +329,9 @@
                                 <figure class="w-100 max-w-6rem mb-4">
                                     <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                                 </figure>
-                                <h3>We tackle the challenges</h3>
-                                <p>Besides working with start-up enterprises as a partner for digitalization, we
-                                    have built enterprise products for common pain points that we have
-                                    encountered in various products and projects.</p>
+                                <h3>We tackled the challenges</h3>
+                                <p>We helped the grower convert his farm into a next generation digital farm by
+                                    providing him 24*7 micro-weather monitoring and advisory delivered on his phone</p>
                             </div>
                         </div>
                         <!-- End Card -->
@@ -339,7 +376,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

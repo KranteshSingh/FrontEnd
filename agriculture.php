@@ -70,7 +70,8 @@
                         scinetific reseach to increase your farm productivity by 15-20%.
                         <br>
                         <br>
-                        <a href="greensense.php">Greensense</a> | <a href="#">Case Study</a>
+                        <a href="greensense.php">Greensense</a> | <a href="next-generation-guava-plantation.php">Case
+                            Study</a>
                     </p>
                 </div>
             </div>
@@ -89,7 +90,8 @@
                         and more recently with desktop publishing software like Aldus PageMaker including versions of
                         Lorem Ipsum.
                     </p>
-                    <a href="#">Yuktix Soil Moisture Sensor</a> | <a href="#">Case Study</a>
+                    <a href="smart-irrigation.php">Yuktix Soil Moisture Sensor</a> | <a
+                        href="table-grape-grower-in-karnataka.php">Case Study</a>
                 </div>
             </div>
             <br><br>
@@ -107,7 +109,8 @@
                         possibility of disease and spray accordingly. Save upto 25% on pesticie and gorw produce with
                         less residue</p>
 
-                    <a href="greensense.php">Yuktix Soil Moisture Sensor</a> | <a href="#">Case Study</a>
+                    <a href="greensense.php">Yuktix Greensense</a> | <a href="table-grape-grower-in-karnataka.php">Case
+                        Study</a>
                 </div>
             </div>
             <br>
@@ -159,7 +162,12 @@
         var header = new HSHeader($('#header')).init();
 
         // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu')).init();
+        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+            desktop: {
+                position: 'left'
+            }
+        }).init();
+
     });
     </script>
 </body>

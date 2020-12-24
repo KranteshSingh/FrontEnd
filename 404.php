@@ -17,7 +17,8 @@
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <?php include 'includes/tracking.inc'; ?>
+
+
 </head>
 
 <body>
@@ -37,11 +38,10 @@
                     <div class="col-lg-6 mb-5 mb-lg-0">
                         <img class="img-fluid" src="assets/svg/illustrations/relaxing-man.svg" alt="SVG Illustration">
                     </div>
-
                     <div class="col-lg-5">
                         <!-- Title -->
                         <div class="mb-4">
-                            <h1>The Page You're Looking for Doesn't Exist</h1>
+                            <h1>This Page is Not Available or Has Been Removed</h1>
                             <p>You may go to <a href="/">HOME</a></p>
                         </div>
                         <!-- End Title -->
@@ -52,7 +52,7 @@
         <!-- End Hero Section -->
     </main>
     <!-- ========== END MAIN ========== -->
-    <br><br><br>
+
     <!-- Header -->
     <?php
     include 'includes/footer.php';

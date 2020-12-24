@@ -469,7 +469,7 @@
                 position: 'left'
             }
         }).init();
-
+        // initialization of aos
     });
     </script>
     <script>

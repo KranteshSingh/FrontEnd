@@ -13,7 +13,10 @@
     <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
     <link rel="stylesheet" href="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
+    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -57,9 +60,6 @@
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- JS Front-->
-    <script src="assets/js/hs.core.js"></script>
-    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Implementing Plugins -->
     <script src="assets/vendor/hs-header/dist/hs-header.min.js"></script>
     <script src="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
@@ -70,7 +70,9 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
+    <!-- JS Front-->
+    <script src="assets/js/hs.core.js"></script>
+    <script src="assets/js/hs.fancybox.js"></script>
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -85,6 +87,11 @@
         }).init();
 
     });
+    </script>
+    <!-- IE Support -->
+    <script>
+    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
+        '<script src="assets/vendor/polifills.js"><\/script>');
     </script>
 </body>
 

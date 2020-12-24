@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Not Available | Yuktix </title>
+    <title>Error 404 | Page Not Available</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -14,10 +14,12 @@
     <link rel="stylesheet" href="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
-
+    <?php include 'includes/tracking.inc'; ?>
 
 </head>
 
@@ -27,9 +29,9 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br><br>
+
     <!-- ========== MAIN ========== -->
-    <main id="content" role="main">
+    <main id="content space-top-3" role="main">
         <!-- Hero Section -->
         <div class="d-lg-flex">
             <div

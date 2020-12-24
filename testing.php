@@ -25,6 +25,9 @@
 
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <?php include 'includes/tracking.inc'; ?>
+
 </head>
 
 <body>
@@ -579,8 +582,6 @@
         <?php
         include 'includes/footer.php';
         ?>
-
-
         <!-- JS Global Compulsory -->
         <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
         <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>

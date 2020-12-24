@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
     <link rel="stylesheet" href="assets/vendor/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">

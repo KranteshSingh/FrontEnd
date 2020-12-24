@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
     <!--CSS for Hero Section -->
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
-    <link rel="stylesheet" href="assets/vendor/hs-video-bg/dist/hs-video-bg.min.css">
+    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">

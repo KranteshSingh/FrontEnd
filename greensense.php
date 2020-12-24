@@ -19,14 +19,12 @@
     <!--CSS for Hero Section -->
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
-
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
     <!-- CSS Front -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <?php include 'includes/tracking.inc'; ?>
 </head>
-
 
 <body>
     <!-- Header -->
@@ -47,7 +45,6 @@
                 <div class="mb-3">
                     <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-
                 </div>
                 <!-- End Info -->
             </div>
@@ -62,25 +59,6 @@
         </div>
     </div>
     <!-- Hero Section -->
-
-    <!--
-    <div class="container space-top-2 space-top-md-4 space-top-lg-3 mb-3">
-        <div class="border-bottom">
-            <div class="w-lg-75 text-center mx-lg-auto">
-                <div class="mb-9">
-                    <h1 class="display-4 mb-4">Digitise your Farm with Yuktix GreenSense</h1>
-                    <p class="lead">Using Next Generation IoT Devices, Increase Yield & Reduce Losses</p>
-                    <p>Become a Next Generation Farmer</p>
-                </div>
-
-                <div class="w-lg-75 mx-lg-auto">
-                    <img class="img-fluid" src="assets/svg/illustrations/communicating-men.svg" alt="Image Description">
-                </div>
-            </div>
-        </div>
-    </div>
-    -->
-
     <!-- Features Section -->
     <div class="container space-1">
         <!-- Title -->
@@ -216,7 +194,6 @@
                 <!-- Card Block -->
                 <img class="img-fluid rounded" src="assets/media/images/greensense/yuktixgreensense.jpg"
                     alt="Image Description">
-
             </div>
         </div>
         <!-- End Card Block -->
@@ -291,13 +268,10 @@
                 </div>
             </div>
         </div>
-
-
     </div>
     <!-- End Features -->
     </div>
     <!-- End Features Section -->
-
     <div class="container">
         <h2 class="h1 text-center mb-7">Yuktix GreenSense Dashboard</h2>
         <div class="row align-items-lg-center">
@@ -359,7 +333,6 @@
                 </div>
             </div>
     </section>
-
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
@@ -412,7 +385,6 @@
                                 farm by 30% and production have improved by almost 50%. ”</p>
                         </div>
                     </div>
-
                     <div class="card-footer border-0 bg-transparent pt-0 px-5 pb-5">
                         <div class="media align-items-center">
                             <div class="avatar avatar-circle mr-3">
@@ -524,13 +496,11 @@
                     <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
                         <h3 class="h4 text-indigo mb-0">Revolutionizing the way your Agriculture works!</h3>
                     </div>
-
                     <div class="col-md-4 text-md-right">
                         <a class="btn btn-primary transition-3d-hover" href="case-studies.php">Explore Case
                             Studies</a>
                     </div>
                 </div>
-
                 <!-- SVG Component -->
                 <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
                     <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
@@ -704,14 +674,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

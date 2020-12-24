@@ -489,11 +489,9 @@
         <!-- End Clients -->
     </div>
     <br><br><br>
-    <!-- End Hero Section -->
     <?php
     include 'includes/footer.php';
     ?>
-    <!--Header end-->
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -516,14 +514,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

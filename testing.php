@@ -2,19 +2,14 @@
 <html lang="en">
 
 <head>
-    <!-- Title -->
-    <title>Testing Header</title>
-
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <title>Testing Header</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
-
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap" rel="stylesheet">
-
     <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
     <link rel="stylesheet" href="assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
@@ -22,12 +17,10 @@
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/hs-video-bg/dist/hs-video-bg.min.css">
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
-
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <?php include 'includes/tracking.inc'; ?>
-
 </head>
 
 <body>
@@ -46,7 +39,6 @@
                         <img width="40px" height="40px" src="assets/svg/logos/yuktix-logo.svg" alt="Yuktix Logo">
                     </a>
                     <!-- End Logo -->
-
                     <!-- Responsive Toggle Button -->
                     <button type="button" class="navbar-toggler btn btn-icon btn-sm rounded-circle"
                         aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar"
@@ -65,19 +57,15 @@
                         </span>
                     </button>
                     <!-- End Responsive Toggle Button -->
-
                     <!-- Navigation -->
                     <div id="navBar" class="collapse navbar-collapse">
                         <div class="navbar-body header-sticky-top-inner">
                             <ul class="navbar-nav">
-
-
                                 <!-- Blog -->
                                 <li class="hs-has-sub-menu navbar-nav-item">
                                     <a id="blogMegaMenu" class="hs-mega-menu-invoker nav-link nav-link-toggle"
                                         href="javascript:;" aria-haspopup="true" aria-expanded="false"
                                         aria-labelledby="blogSubMenu">Products</a>
-
                                     <!-- Blog - Submenu -->
                                     <div id="blogSubMenu" class="hs-sub-menu dropdown-menu"
                                         aria-labelledby="blogMegaMenu" style="min-width: 230px;">
@@ -105,7 +93,6 @@
                                 <li class="navbar-nav-item">
                                     <a class="nav-link" href="contact.php">Contact</a>
                                 </li>
-
                                 <!-- Button -->
                                 <li class="navbar-nav-last-item">
                                     <a class="btn btn-sm btn-primary transition-3d-hover"
@@ -124,8 +111,6 @@
         </div>
     </header>
     <!-- ========== END HEADER ========== -->
-
-
     <main id="content" role="main">
         <!-- Hero Section -->
         <div class="bg-primary bg-img-hero" style="background-image: url(assets/svg/components/abstract-shapes-5.svg);">
@@ -138,10 +123,7 @@
             </div>
         </div>
         <!-- End Hero Section -->
-
     </main>
-    </div>
-    </div>
     <?php
     include 'includes/footer.php';
     ?>

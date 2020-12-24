@@ -192,7 +192,6 @@
                     </div>
                 </div>
             </li>
-
         </ul>
         <!-- End Step -->
         <ul class="step step-md step-centered">
@@ -233,7 +232,6 @@
                     </div>
                 </div>
             </li>
-
         </ul>
     </div>
     <!-- End Step Section -->
@@ -412,7 +410,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

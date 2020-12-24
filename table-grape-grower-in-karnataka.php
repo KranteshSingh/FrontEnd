@@ -28,13 +28,11 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br>
     <!-- Hero Section -->
-    <div class="container space-2">
+    <div class="container space-top-3">
         <div class="row align-items-lg-center">
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
-
                     <h1>Table Grape Grower in Karnataka</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
@@ -81,7 +79,6 @@
                                     alt="Product Used">
                             </div>
                         </div>
-
                         <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
@@ -284,7 +281,6 @@
                             target="_blank">Learn More</a>
                     </div>
                 </div>
-
                 <!-- SVG Component -->
                 <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
                     <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
@@ -370,7 +366,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -383,7 +378,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

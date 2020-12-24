@@ -73,7 +73,6 @@
                             <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\7.png"
                                 alt="Image Description">
                         </div>
-
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
@@ -380,7 +379,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

@@ -34,7 +34,6 @@
         <div class="row align-items-lg-center">
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
-
                     <h1>Next Generation Guava Plantation</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
@@ -386,7 +385,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

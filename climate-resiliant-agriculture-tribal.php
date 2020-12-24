@@ -28,13 +28,11 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-    <br><br>
     <!-- Hero Section -->
-    <div class="container space-2">
+    <div class="container space-top-3">
         <div class="row align-items-lg-center">
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
-
                     <h1>Climate Resiliant Agriculture for Tribal Farmers</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
@@ -292,7 +290,6 @@
             </div>
         </div>
     </div>
-
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
@@ -399,14 +396,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

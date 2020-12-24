@@ -142,9 +142,6 @@
                 </a>
                 <!-- End Card -->
             </div>
-
-
-
         </div>
     </div>
     <!-- End Articles Section -->
@@ -193,11 +190,9 @@
                 </div>
             </div>
     </section>
-
     <div>
         <h2 class="display-5 text-center">Are you a</h2>
     </div>
-
     <!-- Articles Section -->
     <div class="container space-2">
         <div class="row">
@@ -220,7 +215,6 @@
                 </a>
                 <!-- End Card -->
             </div>
-
             <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-70 text-center transition-3d-hover cardshadow"
@@ -239,7 +233,6 @@
                 </a>
                 <!-- End Card -->
             </div>
-
             <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-70 text-center transition-3d-hover cardshadow"
@@ -280,7 +273,6 @@
         </div>
     </div>
     <!-- End Articles Section -->
-
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
@@ -297,7 +289,6 @@
         </div>
     </div>
     <br>
-
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
@@ -389,14 +380,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

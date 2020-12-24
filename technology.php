@@ -23,7 +23,6 @@
 </head>
 
 <body>
-
     <?php
     include 'includes/header.php';
     ?>
@@ -35,7 +34,6 @@
                     <h1 class="display-5 mb-3">
                         Our Technology
                         <br>
-
                     </h1>
                     <p class="lead">Turn your physical assets into digital data sources with the help of Yuktix ankiDB™
                         cloud. We provide a low code solution to bring data out of silos and on the network for everyone
@@ -104,7 +102,6 @@
                     </figure>
                     <div class="media-body">
                         <h4>Account Management</h4>
-
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -194,8 +191,6 @@
                     </figure>
                     <div class="media-body">
                         <h4>Notifications</h4>
-
-
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -240,7 +235,6 @@
                     </figure>
                     <div class="media-body">
                         <h4>Device Management</h4>
-
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>

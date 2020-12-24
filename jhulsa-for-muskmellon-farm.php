@@ -73,7 +73,6 @@
                             <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\6.png"
                                 alt="Image Description">
                         </div>
-
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
@@ -81,7 +80,6 @@
                                     alt="Image Description">
                             </div>
                         </div>
-
                         <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
@@ -377,7 +375,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

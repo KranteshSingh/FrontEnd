@@ -41,7 +41,6 @@
                 <div class="mb-3">
                     <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-
                 </div>
                 <!-- End Info -->
             </div>
@@ -79,7 +78,6 @@
                                 <span class="step-icon step-icon-xs step-icon-soft-primary">1</span>
                                 <div class="step-content">
                                     <h3 class="h4">Temperature Sensor</h3>
-
                                 </div>
                             </div>
                         </li>
@@ -130,7 +128,6 @@
                         </li>
                     </ul>
                     <!-- End Icon Block -->
-
                 </div>
             </div>
         </div>
@@ -360,9 +357,7 @@
             <!-- End Device Mockup -->
         </div>
     </div>
-
     <!-- End Tab Content -->
-
     <!-- End Features Section -->
     <!-- Features Section -->
     <div class="container space-2">
@@ -425,7 +420,6 @@
             </div>
         </div>
     </div>
-
     <br><br>
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
@@ -451,7 +445,6 @@
                     </a>
                 </div>
             </div>
-
             <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
                     <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
@@ -483,57 +476,48 @@
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog2.jpeg);">
                 </div>
-
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog1.jpeg);">
                 </div>
-
             </div>
             <div class="col-4 col-md px-2 mb-3">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog3.jpeg);">
                 </div>
-
             </div>
             <div class="w-100"></div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog4.jpeg);">
                 </div>
-
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog5.jpeg);">
                 </div>
-
             </div>
             <div class="col-6 col-md px-2">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog6.jpeg);">
                 </div>
-
             </div>
             <div class="w-100"></div><br>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog8.jpeg);">
                 </div>
-
             </div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog7.jpeg);">
                 </div>
-
             </div>
             <div class="col-6 col-md px-2">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog9.jpeg);">
                 </div>
-
             </div>
         </div>
     </div>
@@ -701,14 +685,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

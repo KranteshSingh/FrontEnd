@@ -43,7 +43,6 @@
                 <div class="mb-3">
                     <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-
                 </div>
                 <!-- End Info -->
             </div>
@@ -56,7 +55,6 @@
             </div>
         </div>
     </div>
-
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
             <div class="col-md-7"><img src="assets/media/images/aws/awsworks.jpg" class="img-fluid"
@@ -282,7 +280,6 @@
             <!-- End Icon Blocks -->
         </div>
     </div>
-    </div>
     <!-- End Features Section -->
     <br>
     <div class="container-fluid" id="how-yuk">
@@ -299,7 +296,6 @@
             </div>
         </div>
     </div>
-
     <!-- Icon Blocks Section -->
     <div class="container space-2">
         <!-- Title -->
@@ -387,44 +383,37 @@
             <h2>How Does it Looks Like</h2>
         </div>
         <div class="row mx-n2">
-
             <div class="w-100"></div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/aws/ws4.jpeg);">
                 </div>
-
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/aws/ws5.jpeg);">
                 </div>
-
             </div>
             <div class="col-6 col-md px-2">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/aws/ws6.jpeg);">
                 </div>
-
             </div>
             <div class="w-100"></div><br>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/aws/ws7.jpeg);">
                 </div>
-
             </div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/aws/ws8.jpeg);">
                 </div>
-
             </div>
             <div class="col-6 col-md px-2">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/aws/ws9.jpeg);">
                 </div>
-
             </div>
         </div>
     </div>
@@ -744,7 +733,6 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-    <!-- JS Implementing Plugins -->
     <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
     <!-- JS Front -->
     <script src="assets/js/hs.fancybox.js"></script>
@@ -753,14 +741,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

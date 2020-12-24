@@ -85,7 +85,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <!-- IE Support -->

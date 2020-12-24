@@ -73,7 +73,6 @@
                             <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\1.png"
                                 alt="Image Description">
                         </div>
-
                         <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
@@ -81,7 +80,6 @@
                                     alt="Image Description">
                             </div>
                         </div>
-
                         <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel"
                             aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
@@ -330,7 +328,6 @@
             </div>
         </div>
     </div>
-    </div>
     <!-- End Features Section -->
     <?php
     include 'includes/footer.php';
@@ -357,14 +354,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

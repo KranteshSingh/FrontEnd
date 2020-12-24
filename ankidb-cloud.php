@@ -28,7 +28,6 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-
     <!-- ========== MAIN ========== -->
     <main id="content" role="main">
         <!-- Hero Section -->
@@ -73,20 +72,17 @@
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
     <!-- JS Implementing Plugins -->
-
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

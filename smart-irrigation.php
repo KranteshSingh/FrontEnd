@@ -41,7 +41,6 @@
                 <div class="mb-3">
                     <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-
                 </div>
                 <!-- End Info -->
             </div>
@@ -55,7 +54,6 @@
             </div>
         </div>
     </div>
-
     <!-- Features Section -->
     <div class="overflow-hidden">
         <div class="container space-2">
@@ -123,7 +121,6 @@
                         </li>
                     </ul>
                     <!-- End Icon Block -->
-
                 </div>
             </div>
         </div>
@@ -581,7 +578,6 @@
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

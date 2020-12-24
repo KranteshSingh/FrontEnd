@@ -28,7 +28,6 @@
     include 'includes/header.php';
     ?>
     <!--Header end-->
-
     <!-- Articles Section -->
     <div class="container space-top-3">
         <!-- Title -->
@@ -94,7 +93,6 @@
                     </div>
                 </a>
                 <!-- End Card -->
-
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
@@ -130,7 +128,6 @@
                 <!-- End Card -->
             </div>
         </div>
-
         <!-- End Articles Section -->
         <div class="row mx-n2 mb-5 mb-md-9">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
@@ -186,15 +183,13 @@
         <script>
         $(document).on('ready', function() {
             // initialization of header
-            var header = new HSHeader($('#header')).init();
-
+            var header = new HSHeader($('#header')).init()
             // initialization of mega menu
             var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
                 desktop: {
                     position: 'left'
                 }
             }).init();
-
         });
         </script>
         <script>

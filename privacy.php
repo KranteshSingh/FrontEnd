@@ -512,7 +512,6 @@
                     position: 'left'
                 }
             }).init();
-
         });
         </script>
         <script>

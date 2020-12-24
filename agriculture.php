@@ -121,7 +121,6 @@
             </div>
             <br>
             <br>
-
         </div>
     </section><!-- End Details Section -->
     <div class="container-fluid">
@@ -141,7 +140,6 @@
         </div>
     </div>
     <br><br>
-
     <!-- ======= Case Study Section ======= -->
     <section id="details" class="details">
         <div class="container">
@@ -210,14 +208,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>

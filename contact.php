@@ -77,7 +77,6 @@
                             <span class="d-block text-body font-size-1">+91-80 2572 9456</span>
                             <span class="d-block text-body font-size-1">+91-888 431 5300</span>
                         </div>
-
                         <div class="mb-3">
                             <span class="d-block h5 mb-1">Email us:</span>
                             <span class="d-block text-body font-size-1">support@yuktix.com</span>
@@ -194,14 +193,12 @@
     $(document).on('ready', function() {
         // initialization of header
         var header = new HSHeader($('#header')).init();
-
         // initialization of mega menu
         var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
             desktop: {
                 position: 'left'
             }
         }).init();
-
     });
     </script>
     <script>
@@ -209,13 +206,11 @@
         // initialization of leaflet
         $('#mapExample2').each(function() {
             var leaflet = $.HSCore.components.HSLeaflet.init($(this)[0]);
-
             L.tileLayer(
                 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
                     id: 'mapbox/light-v9'
                 }).addTo(leaflet);
         });
-
         // initialization of form validation
         $('.js-validate').each(function() {
             var validation = $.HSCore.components.HSValidation.init($(this));

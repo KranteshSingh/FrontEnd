@@ -53,7 +53,7 @@
         </div>
     </div>
     <!-- Services Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-9">
             <span class="d-block small font-weight-bold text-cap mb-2">What we do</span>
@@ -180,7 +180,7 @@
         </div>
         <!-- End Divider -->
         <!-- Team Section -->
-        <div class="container space-2 space-lg-3">
+        <div class="container space-1 space-lg-2">
             <!-- Title -->
             <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2">Our team</span>

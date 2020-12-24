@@ -31,16 +31,15 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>Reduce loosed, Improve production of your Greenhouse</h1>
+                    <h1>Reduce looses, Improve production of your Greenhouse</h1>
                     <p class="lead">Deploy Yuktix device, monitor, Analyze and maintain micro-weather
                         of your
                         GreenHouse.</p>
                 </div>
                 <div class="mb-3">
-                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
-                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+
                 </div>
                 <!-- End Info -->
             </div>
@@ -129,9 +128,7 @@
                         </li>
                     </ul>
                     <!-- End Icon Block -->
-                    <div class="mt-2">
-                        <a class="btn btn-primary transition-3d-hover px-4" href="#">Request Demo</a>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -318,7 +315,7 @@
                 <div class="position-relative max-w-50rem mx-auto">
                     <!-- Device Mockup -->
                     <div class="device device-iphone-x w-100 mx-auto">
-                        <img class="device-iphone-x-frame" src="assets/media/images/greenhouse-750.jpeg"
+                        <img class="device-iphone-x-frame" src="https://dummyimage.com/600x600/000/fff"
                             alt="Image Description">
                     </div>
                     <!-- End Device Mockup -->
@@ -354,8 +351,7 @@
                 <!-- Device Mockup -->
                 <div class="device-wrapper">
                     <div class="device">
-                        <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
-                            alt="Image Description">
+                        <img class="img-fluid" src="https://dummyimage.com/1280x720/000/fff" alt="Image Description">
                     </div>
                 </div>
             </div>

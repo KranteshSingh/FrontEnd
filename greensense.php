@@ -85,7 +85,7 @@
             <!-- Features Section -->
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
@@ -102,7 +102,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
@@ -119,7 +119,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
@@ -136,7 +136,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="greensense.php">
+                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body">
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">

@@ -32,22 +32,22 @@
                 <!-- Info -->
                 <div class="mb-5 mt-2">
                     <h1>Smart Irrigation</h1>
-                    <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
-                        and a
-                        registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
+                    <p class="lead">Save 40% of water and 30% on power used in Irrigation.
+                        Monitor your agriculture farm land soil moisture 24x7 from anywhere, anytime using Yukix Soil
+                        Sensors. </p>
                 </div>
                 <div class="mb-3">
-                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
-                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+
                 </div>
                 <!-- End Info -->
             </div>
             <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
-                    <img class="img-fluid rounded" src="https://dummyimage.com/700x500/000/fff" alt="About Yuktix">
+                    <img class="img-fluid rounded" src="assets\media\images\sirrigation\sisystem.jpg"
+                        alt="About Yuktix">
                 </figure>
                 <!-- End SVG Illustration -->
             </div>
@@ -121,9 +121,7 @@
                         </li>
                     </ul>
                     <!-- End Icon Block -->
-                    <div class="mt-2">
-                        <a class="btn btn-primary transition-3d-hover px-4" href="contact.php">Contact Us</a>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -210,7 +208,7 @@
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
-                        <p>Deploy multiple GreenSense nodes with required Sensors</p>
+                        <p>Deploy multiple GreenSense nodes with Sensors</p>
                     </div>
                 </div>
                 <div class="media">
@@ -223,7 +221,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="position-relative max-w-50rem mx-auto">
+                <div class="position-relative max-w-90rem mx-auto">
                     <!-- Device Mockup -->
                     <div class="device device-iphone-x w-100 mx-auto">
                         <img class="device-iphone-x-frame" src="assets/media/images/sirrigation/sav40.png"
@@ -236,16 +234,16 @@
     </div>
     <!-- End Features Section -->
     <!-- Icon Blocks Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
-        <div class="w-md-100 w-lg-80 text-center mx-md-auto mb-5 mb-md-9">
+        <div class="w-md-100 w-lg-80 text-center mx-md-auto mb-2 mb-md-9">
             <h2>How Does it Looks Like</h2>
             <br>
             <img class="img-fluid" src="assets/media/images/sirrigation/soilgal.png">
         </div>
     </div>
     <!-- Features Section -->
-    <div class="container space-2">
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <h2>Analyze, Share and Get advice </h2>
@@ -270,9 +268,11 @@
                 aria-labelledby="pills-one-code-features-example1-tab">
                 <!-- Device Mockup -->
                 <div class="device-wrapper">
-                    <div class="device">
-                        <img class="img-fluid" src="assets/media/images/smartmockupsgreensense.png"
-                            alt="Image Description">
+                    <div class="text-center">
+                        <div class="device">
+                            <img class="img-fluid" height="500px" width="500px"
+                                src="assets\media\images\mockups\smartmockupssoil.png" alt="Image Description">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -335,13 +335,14 @@
                     <h2 class="text-center">How Smart Irrigation Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/SeF6g4LhQvk" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>
             </div>
         </div>
     </div>
+
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">

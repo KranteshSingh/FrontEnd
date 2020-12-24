@@ -90,7 +90,7 @@
         <div class="row">
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -108,7 +108,7 @@
             </div>
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="#">
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -314,7 +314,7 @@
     <br>
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
-            <div class="col-md-7"><img src="https://dummyimage.com/1280x720/000/fff.png" class="img-fluid"
+            <div class="col-md-7"><img src="assets\media\images\technology\yuktixcloud.png" class="img-fluid"
                     alt="Responsive image"></div>
         </div>
     </div>

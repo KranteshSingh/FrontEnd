@@ -39,10 +39,9 @@
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
                 </div>
                 <div class="mb-3">
-                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
-                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+
                 </div>
                 <!-- End Info -->
             </div>
@@ -268,7 +267,7 @@
                     <div class="text-center">
                         <div class="mb-3">
                             <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mx-1"
-                                href="cnntact.php">Start
+                                href="contact.php">Start
                                 Monitoring Your Farm</a>
                             <a class="btn btn-link mb-2 mb-sm-0 mx-1" href="contact.php">Let's Talk <i
                                     class="fas fa-angle-right fa-sm ml-1"></i></a>
@@ -386,24 +385,7 @@
             <h2>How Does it Looks Like</h2>
         </div>
         <div class="row mx-n2">
-            <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded"
-                    style="background-image: url(assets/media/images/aws/ws10.jpeg);">
-                </div>
 
-            </div>
-            <div class="col-md-4 d-md-block px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded"
-                    style="background-image: url(assets/media/images/aws/ws2.jpeg);">
-                </div>
-
-            </div>
-            <div class="col-4 col-md px-2 mb-3">
-                <div class="h-250rem bg-img-hero rounded"
-                    style="background-image: url(assets/media/images/aws/ws3.jpeg);">
-                </div>
-
-            </div>
             <div class="w-100"></div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
@@ -519,7 +501,8 @@
                         <h3 class="h4 text-indigo mb-0">Sensor Catalogue</h3>
                     </div>
                     <div class="col-md-4 text-md-right">
-                        <a class="btn btn-primary transition-3d-hover" href="#">Explore Sensor Catalogue</a>
+                        <a class="btn btn-primary transition-3d-hover" href="sensor-catalog.php">Explore Sensor
+                            Catalogue</a>
                     </div>
                 </div>
                 <!-- SVG Component -->

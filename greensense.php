@@ -38,10 +38,9 @@
                     <p>Become a Next Generation Farmer</p>
                 </div>
                 <div class="mb-3">
-                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="contact.php">Get
                         Started</a>
-                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
-                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+
                 </div>
                 <!-- End Info -->
             </div>
@@ -56,6 +55,7 @@
         </div>
     </div>
     <!-- Hero Section -->
+
     <!--
     <div class="container space-top-2 space-top-md-4 space-top-lg-3 mb-3">
         <div class="border-bottom">
@@ -75,7 +75,6 @@
     -->
 
     <!-- Features Section -->
-
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-75 w-lg-75 text-center mx-md-auto mb-5 mb-md-9">
@@ -225,9 +224,9 @@
         </div>
         <!-- End Title -->
         <!-- Features -->
-        <div class="w-lg-60 mx-lg-auto mb-2">
+        <div class="w-lg-80 mx-lg-auto mb-2">
             <div class="row mx-n2">
-                <div class="col-sm-4 px-2 mb-3 mb-sm-0">
+                <div class="col px-2 mb-3 mb-sm-0">
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
@@ -238,7 +237,7 @@
                     </div>
                     <!-- End Icon Block -->
                 </div>
-                <div class="col-sm-4 px-2 mb-3 mb-sm-0">
+                <div class="col px-2 mb-3 mb-sm-0">
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
@@ -249,7 +248,7 @@
                     </div>
                     <!-- End Icon Block -->
                 </div>
-                <div class="col-sm-4 px-2">
+                <div class="col px-2">
                     <!-- Icon Block -->
                     <div class="border-dashed text-center rounded p-4">
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
@@ -258,12 +257,37 @@
                         <h3 class="mb-1">Disease Prediction</h3>
                         <p class="font-size-1">Get advance notification about crop disease before they happen</p>
                     </div>
+                </div>
+                <!-- End Icon Block -->
+                <div class="col px-2 mb-3 mb-sm-0">
+                    <!-- Icon Block -->
+                    <div class="border-dashed text-center rounded p-4">
+                        <figure class="w-100 max-w-8rem mx-auto mb-3">
+                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                        </figure>
+                        <h2 class="h3 mb-1">Fertilizers Advisory</h2>
+                        <p class="font-size-1">Get micro-weather data and soil data from your farm in real time.
+                        </p>
+                    </div>
+                    <!-- End Icon Block -->
+                </div>
+                <div class="col px-2 mb-3 mb-sm-0">
+                    <!-- Icon Block -->
+                    <div class="border-dashed text-center rounded p-4">
+                        <figure class="w-100 max-w-8rem mx-auto mb-3">
+                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                        </figure>
+                        <h3 class="mb-1">Irrigation Advisory</h3>
+                        <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
+                    </div>
                     <!-- End Icon Block -->
                 </div>
             </div>
-
         </div>
-        <!-- End Features -->
+
+
+    </div>
+    <!-- End Features -->
     </div>
     <!-- End Features Section -->
 
@@ -277,7 +301,8 @@
             <div class="col-lg-6 justify-content-center">
 
                 <div class="mx-auto"><img class="img-fluid rounded"
-                        src="assets\media\images\mockups\smartmockupsgreensense.png" alt="Greensense Dashboard"></div>
+                        src="assets\media\images\mockups\smartmockupsgreensense.png" alt="Greensense Dashboard">
+                </div>
             </div>
         </div>
     </div>
@@ -294,7 +319,8 @@
                     <h3>Jhulsa for Muskmellon Farm</h3>
                     <br>
                     <p class="lead">
-                        Reduction in loss due to disease by 30%, increase in production by 25 and savings of INR 60,000
+                        Reduction in loss due to disease by 30%, increase in production by 25 and savings of INR
+                        60,000
                         in pesticide usage.
                     </p>
                     <br>
@@ -371,8 +397,10 @@
                             </li>
                         </ul>
                         <div class="mb-auto">
-                            <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I also
-                                get weather updates in real time, irrigation advisory. Have reduced water usage in each
+                            <p class="text-dark mb-0">“With Yuktix now i am able to monitor micro-weather, soil. I
+                                also
+                                get weather updates in real time, irrigation advisory. Have reduced water usage in
+                                each
                                 farm by 30% and production have improved by almost 50%. ”</p>
                         </div>
                     </div>
@@ -413,8 +441,10 @@
                             </li>
                         </ul>
                         <div class="mb-auto">
-                            <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate. Irrigation
-                                and rain play a important role in Guava cultivation. With Yuktix now i can monitor soil
+                            <p class="text-dark mb-0">“Earlier i didn't have a clue about when to irrigate.
+                                Irrigation
+                                and rain play a important role in Guava cultivation. With Yuktix now i can monitor
+                                soil
                                 moisture in multiple location as well as weather forecats.”</p>
                         </div>
                     </div>
@@ -488,7 +518,8 @@
                     </div>
 
                     <div class="col-md-4 text-md-right">
-                        <a class="btn btn-primary transition-3d-hover" href="case-studies.php">Explore Case Studies</a>
+                        <a class="btn btn-primary transition-3d-hover" href="case-studies.php">Explore Case
+                            Studies</a>
                     </div>
                 </div>
 

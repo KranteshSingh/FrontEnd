@@ -291,13 +291,14 @@
                     <h2 class="text-center">How Weather Station Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/7AOBqfHu4bg" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>
             </div>
         </div>
     </div>
+
     <!-- Icon Blocks Section -->
     <div class="container space-2">
         <!-- Title -->

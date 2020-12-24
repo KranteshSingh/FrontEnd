@@ -61,7 +61,7 @@
                     <!-- Mockups -->
                     <div class="position-relative max-w-40rem mx-auto">
                         <div class=" w-100 mx-auto">
-                            <img class="img-fluid rounded" src="assets/media/images/greensense.jpeg"
+                            <img class="img-fluid rounded" src="assets\media\images\greenhouse\gloogerdevice.jpeg"
                                 alt="Image Description">
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="mb-5">
-                        <h2>Yuktix Greensense Device</h2>
+                        <h2>Yuktix Greenhouse Logger Device</h2>
                     </div>
                     <!-- Icon Block -->
                     <ul class="step step-dashed mb-7">
@@ -141,8 +141,8 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <span class="d-block small font-weight-bold text-cap mb-2">Greensense Features</span>
-            <h2>Monitor your farms using next generation IoT device, increase yield, reduce losses.</h2>
+            <span class="d-block small font-weight-bold text-cap mb-2">Greenhouse Logger Device Features</span>
+            <h2>Features</h2>
         </div>
         <!-- End Title -->
         <!-- Icon Blocks -->
@@ -476,6 +476,70 @@
                 </div>
             </div>
     </section>
+    <div class="container">
+        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <h2>How Does it Looks Like</h2>
+        </div>
+        <div class="row mx-n2">
+            <div class="col-4 col-md px-2 mb-3">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog2.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-md-4 d-md-block px-2 mb-3">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog1.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-4 col-md px-2 mb-3">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog3.jpeg);">
+                </div>
+
+            </div>
+            <div class="w-100"></div>
+            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog4.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog5.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-6 col-md px-2">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog6.jpeg);">
+                </div>
+
+            </div>
+            <div class="w-100"></div><br>
+            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog8.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog7.jpeg);">
+                </div>
+
+            </div>
+            <div class="col-6 col-md px-2">
+                <div class="h-250rem bg-img-hero rounded"
+                    style="background-image: url(assets/media/images/greenhouse/glog9.jpeg);">
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- End Gallery Section -->
     <!-- Testimonials Section -->
     <div class="container space-2">
         <!-- Title -->

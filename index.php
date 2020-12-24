@@ -152,7 +152,7 @@
         <div class="container">
             <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="TRIBAL FARMER">
+                    <img src="assets\media\images\case-studies\10.jpeg" class="img-fluid rounded" alt="TRIBAL FARMER">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
@@ -163,7 +163,7 @@
                         excessive use of pesticide and insecticide
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="climate-resiliant-agriculture-tribal.php">
                         <p>
                             <b>Read the Full Case Study ></b>
                         </p>
@@ -172,7 +172,7 @@
             </div>
             <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="GUAVA PLANTATION">
+                    <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
                     <h3>Smart Guava Farm</h3>
@@ -183,7 +183,7 @@
                         Jai Javan, Jai Vigyaan.
                     </p>
                     <br>
-                    <a href="https://seasonalshop.in/next-generation-guava-plantation.php">
+                    <a href="next-generation-guava-plantation.php">
                         <p>
                             <b>Read the full case study ></b>
                         </p>
@@ -287,7 +287,7 @@
                         <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/7AOBqfHu4bg" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>
@@ -295,6 +295,7 @@
         </div>
     </div>
     <br>
+
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">

@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
+    <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
     <!-- CSS Front Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -419,6 +420,86 @@
     </div>
     <!-- End Gallery Section -->
     <br>
+    <!-- ======= Gallery Section ======= -->
+    <section id="gallery" class="gallery">
+        <div class="container">
+
+            <div class="section-title" data-aos="fade-up">
+                <h2>Gallery</h2>
+                <p>Check our Gallery</p>
+            </div>
+
+            <div class="row no-gutters" data-aos="fade-left">
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="100">
+                        <a href="assets/media/images/aws/ws4.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="150">
+                        <a href="assets/media/images/aws/ws5.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws5.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="200">
+                        <a href="assets/media/images/aws/ws6.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws6.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="250">
+                        <a href="assets/media/images/aws/ws7.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws7.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
+                        <a href="assets/media/images/aws/ws8.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws8.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="350">
+                        <a href="assets/media/images/aws/ws9.jpegf" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws9.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="400">
+                        <a href="assets/media/images/aws/ws10.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws10.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="450">
+                        <a href="assets/media/images/aws/ws4.jpeg" class="venobox" data-gall="gallery-item">
+                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Gallery Section -->
+
     <!-- Features Section -->
     <div class="border-bottom">
         <div class="container space-2">
@@ -732,6 +813,7 @@
     <script src="assets/vendor/hs-video-bg/dist/hs-video-bg.min.js"></script>
     <script src="assets/vendor/typed.js/lib/typed.min.js"></script>
     <script src="assets/vendor/aos/dist/aos.js"></script>
+    <script src="assets/vendor/venobox/venobox.min.js"></script>
     <!-- JS Implementing Plugins -->
     <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
     <!-- JS Front -->
@@ -769,6 +851,23 @@
     }
     $(window).on('load', function() {
         aos_init();
+    });
+    </script>
+    <script>
+    // Initiate the venobox plugin
+    $(window).on('load', function() {
+        $('.venobox').venobox();
+    });
+
+    // jQuery counterUp
+    $('[data-toggle="counter-up"]').counterUp({
+        delay: 10,
+        time: 1000
+    });
+
+    // Initiate venobox lightbox
+    $(document).ready(function() {
+        $('.venobox').venobox();
     });
     </script>
     <script>

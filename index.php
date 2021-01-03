@@ -281,7 +281,7 @@
                         <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/7AOBqfHu4bg" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/Bw4UZXs_3TY" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>
@@ -289,6 +289,7 @@
         </div>
     </div>
     <br>
+
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">

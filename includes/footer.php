@@ -152,8 +152,8 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="btn btn-xs btn-icon btn-soft-secondary"
-                            href="https://www.linkedin.com/company/yuktix-technologies-pvt-ltd" target="_blank">
+                        <a class="btn btn-xs btn-icon btn-soft-secondary" href="https://www.linkedin.com/company/yuktix"
+                            target="_blank">
                             <i class="fab fa-linkedin"></i>
                         </a>
                     </li>

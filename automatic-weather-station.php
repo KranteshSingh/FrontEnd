@@ -58,7 +58,7 @@
     </div>
     <div class="container-fluid">
         <div class="row justify-content-lg-center">
-            <div class="col-md-7"><img src="assets/media/images/aws/awsworks.jpg" class="img-fluid"
+            <div class="col-md-7"><img src="assets/media/images/aws/awsworks.jpg" class="img-fluid b-lazy"
                     alt="Responsive image"></div>
         </div>
         <div class="row justify-content-lg-center">
@@ -127,7 +127,7 @@
                 </div>
                 <!-- SVG Component -->
                 <figure class="w-25 d-none d-md-block position-absolute top-0 left-0 mt-n2">
-                    <img class="img-fluid" src="assets/svg/illustrations/apps.svg" alt="Image Description">
+                    <img class="img-fluid b-lazy" src="assets/svg/illustrations/apps.svg" alt="Image Description">
                 </figure>
                 <!-- End SVG Component -->
             </div>
@@ -149,7 +149,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-29.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-29.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">IMD Standards</h4>
@@ -163,7 +163,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-44.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-44.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">Cost Competitive</h4>
@@ -177,7 +177,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-2.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">Share Better</h4>
@@ -191,7 +191,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-37.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">Solar Powered</h4>
@@ -205,7 +205,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-5.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">
@@ -220,7 +220,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-28.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-28.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">Research Friendly</h4>
@@ -236,7 +236,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-37.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">Tough & Tested</h4>
@@ -251,7 +251,7 @@
                 <!-- Icon Block -->
                 <div class="media align-items-center mb-2">
                     <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
+                        <img class="img-fluid b-lazy" src="assets/svg/icons/icon-5.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
                         <h4 class="mb-0">
@@ -310,7 +310,8 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/about-us/ecom.png" alt="THE ECONOMICS TIMES">
+                        <img class="img-fluid b-lazy" src="assets/media/images/about-us/ecom.png"
+                            alt="THE ECONOMICS TIMES">
                     </figure>
                     <h3>The Economic Times</h3>
                     <p>Groups, Individuals work on smart moves to make smart cities</p>
@@ -321,7 +322,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/about-us/thehindu.jpg" alt="THE HINDU">
+                        <img class="img-fluid b-lazy" src="assets/media/images/about-us/thehindu.jpg" alt="THE HINDU">
                     </figure>
                     <h3>The Hindu</h3>
                     <p>Understanding the weather</p>
@@ -332,7 +333,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/about-us/indianexp.png"
+                        <img class="img-fluid b-lazy" src="assets/media/images/about-us/indianexp.png"
                             alt="THE INDIAN EXPRESS">
                     </figure>
                     <h3>The Indian Express</h3>
@@ -346,7 +347,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/about-us/citizen.png" alt="CITIZEN">
+                        <img class="img-fluid b-lazy" src="assets/media/images/about-us/citizen.png" alt="CITIZEN">
                     </figure>
                     <h3>Citizen Matters</h3>
                     <p>Weather Web proves that Jayanagar is hotter than Hebbal</p>
@@ -357,7 +358,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/about-us/telit.png" alt="TELIT">
+                        <img class="img-fluid b-lazy" src="assets/media/images/about-us/telit.png" alt="TELIT">
                     </figure>
                     <h3>Telit</h3>
                     <p>Banglore open weather network</p>
@@ -368,7 +369,7 @@
                 <!-- Icon Blocks -->
                 <div class="text-center px-lg-3">
                     <figure class="max-w-10rem mx-auto mb-4">
-                        <img class="img-fluid" src="assets/media/images/about-us/bmirror.png" alt="BMIRROR">
+                        <img class="img-fluid b-lazy" src="assets/media/images/about-us/bmirror.png" alt="BMIRROR">
                     </figure>
                     <h3>Banglore Mirror</h3>
                     <p>The Weather Trackers</p>
@@ -386,33 +387,33 @@
         <div class="row mx-n2">
             <div class="w-100"></div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded"
+                <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws4.jpeg);">
                 </div>
             </div>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded"
+                <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws5.jpeg);">
                 </div>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero rounded"
+                <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws6.jpeg);">
                 </div>
             </div>
             <div class="w-100"></div><br>
             <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded"
+                <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws7.jpeg);">
                 </div>
             </div>
             <div class="col-6 col-md px-2 mb-3 mb-md-0">
-                <div class="h-250rem bg-img-hero rounded"
+                <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws8.jpeg);">
                 </div>
             </div>
             <div class="col-6 col-md px-2">
-                <div class="h-250rem bg-img-hero rounded"
+                <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws9.jpeg);">
                 </div>
             </div>
@@ -432,65 +433,65 @@
             <div class="row no-gutters" data-aos="fade-left">
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="100">
                         <a href="assets/media/images/aws/ws4.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="150">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="150">
                         <a href="assets/media/images/aws/ws5.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws5.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws5.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="200">
                         <a href="assets/media/images/aws/ws6.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws6.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws6.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="250">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="250">
                         <a href="assets/media/images/aws/ws7.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws7.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws7.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="300">
                         <a href="assets/media/images/aws/ws8.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws8.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws8.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="350">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="350">
                         <a href="assets/media/images/aws/ws9.jpegf" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws9.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws9.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="400">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="400">
                         <a href="assets/media/images/aws/ws10.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws10.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws10.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item" data-aos="zoom-in" data-aos-delay="450">
+                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="450">
                         <a href="assets/media/images/aws/ws4.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid">
+                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>
                 </div>
@@ -508,7 +509,7 @@
                     <!-- Contacts -->
                     <div class="media">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-4.svg" alt="SVG">
+                            <img class="img-fluid b-lazy" src="assets/svg/icons/icon-4.svg" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4 class="mb-1">Real time graphs</h4>
@@ -526,7 +527,7 @@
                     <!-- Contacts -->
                     <div class="media">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-64.svg" alt="SVG">
+                            <img class="img-fluid b-lazy" src="assets/svg/icons/icon-64.svg" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4 class="mb-1">Analyze Report</h4>
@@ -546,7 +547,7 @@
                     <!-- Contacts -->
                     <div class="media">
                         <figure class="w-100 max-w-8rem mr-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-65.svg" alt="SVG">
+                            <img class="img-fluid b-lazy" src="assets/svg/icons/icon-65.svg" alt="SVG">
                         </figure>
                         <div class="media-body">
                             <h4 class="mb-1">Personalized Monitoring</h4>
@@ -579,7 +580,7 @@
                 </div>
                 <!-- SVG Component -->
                 <figure class="w-35 position-absolute top-0 left-0 mt-n11 ml-n11">
-                    <img class="img-fluid" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
+                    <img class="img-fluid b-lazy" src="assets/svg/components/half-circle-2.svg" alt="Image Description">
                 </figure>
                 <!-- End SVG Component -->
             </div>
@@ -609,7 +610,7 @@
         <div class="container">
             <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid b-lazy rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
                     <h3>Case Study 1</h3>
@@ -631,7 +632,7 @@
             </div>
             <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid b-lazy rounded" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
                     <h3>Case Study 2</h3>
@@ -818,6 +819,7 @@
     <script src="assets/vendor/fancybox/dist/jquery.fancybox.min.js"></script>
     <!-- JS Front -->
     <script src="assets/js/hs.fancybox.js"></script>
+    <script src="assets/js/blazy.js"></script>
     <!-- JS Plugins Init. -->
     <script>
     $(document).on('ready', function() {
@@ -830,6 +832,13 @@
             }
         }).init();
     });
+    </script>
+    <script>
+    ;
+    (function() {
+        // Initialize
+        var bLazy = new Blazy();
+    })();
     </script>
     <script>
     $(document).on('ready', function() {

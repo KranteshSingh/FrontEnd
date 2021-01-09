@@ -52,12 +52,8 @@
                                     <span class="js-text-animation"></span>
                                 </span>
                             </h1>
-                            <p class="lead text-white herotext">Creating sensors based Agri-Intelligence Systems
-                                to
-                                assist
-                                growers in
-                                increasing
-                                Yield & Productivity</p>
+                            <p class="lead text-white herotext">
+                            Boost farm productivity using smart sensors and data intelligence. </p>
 
                         </div>
                     </div>
@@ -73,10 +69,10 @@
             <div class="col-lg-12">
                 <div class="text-center py-6">
                     <h2 class="display-5 hcolor">What We Do</h2>
-                    <p class="lead pl-10 pr-10">Yuktix is creating sensors based agri intelligence systems to assist
+                    <p class="lead pl-10 pr-10">Yuktix provides agri intelligence systems to assist
                         growers in
                         increasing
-                        productivity and reducing resources to create a sustainable and food secure world.</p>
+                        productivity and reducing risks to create a sustainable and food secure world.</p>
                     <span class="d-block mt-1">
                         <a class="btn btn-primary transition-3d-hover" href="about.php">About Yuktix</a>
                     </span>
@@ -89,8 +85,8 @@
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="display-5 hcolor">Our Key Values</h2>
-            <p class="lead">How we are helping farmers</p>
+            <h2 class="display-5 hcolor">How we help growers</h2>
+            <p class="lead">&nbsp;</p>
         </div>
         <!-- End Title -->
     </div>
@@ -104,10 +100,10 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">Increase Production</h3>
-                        <p class="text-body font-size-1">Follow best scientific advisory backed by data
-                            collected
-                            by on-filed sensor and produce more per acre.
+                        <h3 class="hcolor">Accurate monitoring</h3>
+                        <p class="text-body font-size-1">Use ground bases IoT devices and advance ML to 
+                        boost productivity of every acre. We provide weather forecasts, soil advisory, 
+                        irrigation schedule and more.
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -125,10 +121,11 @@
                             <img class="avatar-img" src="assets/svg/icons/icon-31.svg" alt="Logo">
 
                         </figure>
-                        <h3 class="hcolor">Reduce Losses</h3>
-                        <p class="text-body font-size-1">With advance AI and ML based disease prediction
-                            algorithms
-                            and image analysis, spray only when required.</p>
+                        <h3 class="hcolor">Disease management</h3>
+                        <p class="text-body font-size-1">
+                        Use weather linked disease modeling to 
+                        predict problems before they happen. 
+                       </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                         </div>
@@ -143,9 +140,12 @@
                         <figure class="avatar mx-auto mb-1">
                             <i class="fas fa-water fa-3x"></i>
                         </figure>
-                        <h3 class="hcolor">Save Water</h3>
-                        <p class="text-body font-size-1">With next generation soil sensor,
-                            schedule irrigation and save upto 40% of water used</p>
+                        <h3 class="hcolor">Digital agronomy</h3>
+                        <p class="text-body font-size-1">
+                        Use kamera app to report problems or connect with 
+                        an agronomist to discuss crop management.
+                            
+                        </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                         </div>
@@ -168,15 +168,19 @@
                     <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
                     <br>
                     <p class="lead">
-                        With changing climate, there is no digital input for tribal farmers to use climate smart
-                        agriculture practices. Farmers produce is effected by changing land patterns, rainfall
-                        and
-                        excessive use of pesticide and insecticide
+                        Farm produce is affected by a changing climate, land patterns, 
+                        unpredictable rainfall and excessive use of pesticides. 
+                        Tribal farmers in Orissa need digital data to face the challenges of climate change. 
+                        Learn how Yuktix is working with Gram Vikas to install climate smart 
+                        agriculture practices. 
+
+                     
+
                     </p>
                     <br>
                     <a href="climate-resiliant-agriculture-tribal.php">
                         <p>
-                            <b>Read the Full Case Study ></b>
+                            <b>Read the Case Study ></b>
                         </p>
                     </a>
                 </div>
@@ -186,25 +190,27 @@
                     <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Smart Guava Farm</h3>
+                    <h3>Smart Guava Farm in Kolar</h3>
                     <br>
                     <p class="lead">
-                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about
-                        soil
-                        moisture and amount of rain. <br>
-                        Jai Javan, Jai Vigyaan.
+                    A guava farm faced the challenges of falling fruits because of 
+                    excessive soil moisture. The growers had no information on weather 
+                    or soil data. Yuktix provided accurate soil advisory to boost production 
+                    by 25%.  
+                    <br>
+                        Jai Kishan, Jai Vigyaan.
                     </p>
                     <br>
                     <a href="next-generation-guava-plantation.php">
                         <p>
-                            <b>Read the full case study ></b>
+                            <b>Read the case study ></b>
                         </p>
                     </a>
                 </div>
             </div>
     </section>
     <div>
-        <h2 class="display-5 text-center hcolor mt-5">Are you a</h2>
+        <h2 class="display-5 text-center hcolor mt-5">Yuktix customers </h2>
     </div>
     <!-- Articles Section -->
     <div class="container space-2">
@@ -216,11 +222,10 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">Individual Grower</h3>
-                        <p class="text-body font-size-1"><br>Are you a individual horticulture grower drowing
-                            Tomato,
-                            Chilli, Potato,
-                            Okra or any other horticuture crop.
+                        <h3 class="hcolor"> Growers</h3>
+                        <p class="text-body font-size-1"><br>We provide support for Tomato, 
+                        Potato, melon and capsicum. Contact us for horticulture 
+                        crops and Greenhouse cultivation. 
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -237,10 +242,10 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">Plantation</h3>
-                        <p class="text-body font-size-1">Are you a Tea, Coffee or Coconut planation and want to
-                            monitor
-                            micro-weather and regulate irrigation schedule in your planation.</p>
+                        <h3 class="hcolor">Plantations</h3>
+                        <p class="text-body font-size-1">
+                        Yuktix solutions help 
+                        Tea, Coffee and Coconut planations.</p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                         </div>
@@ -256,7 +261,7 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">NGO/FPO</h3>
+                        <h3 class="hcolor">Farmer producer Organizations.</h3>
                         <p class="text-body font-size-1">Are you a NGO or a FPO working with a group of farmers
                             and want
                             to use next
@@ -275,10 +280,11 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">Agriculture Research Institute</h3>
-                        <p class="text-body font-size-1">Are you a agriculture research institute and want to
-                            use IoT
-                            for collecting data from field?
+                        <h3 class="hcolor">Research Institutes</h3>
+                        <p class="text-body font-size-1">Yuktix is working with researchers from premium 
+                        institutions solving their automated field data gathering, reporting and model 
+                        development problems. 
+                        
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -295,7 +301,7 @@
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-2">
-                        <h2 class="display-5 hcolor">How Yuktix is transforming Agriculture with Technology</h2>
+                        <h2 class="display-5 hcolor">1 minute introduction video</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/Bw4UZXs_3TY" frameborder="0"
@@ -311,8 +317,8 @@
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
             <div class="w-lg-70 text-center mx-lg-auto">
-                <h2 class="display-5 hcolor">Technology Stack </h2>
-                </p>
+                <h2 class="display-5 hcolor">Our Technology</h2>
+                
                 <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
                     soil parameters
                     with the

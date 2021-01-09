@@ -31,7 +31,7 @@
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-md-6">
                 <div class="mb-5">
-                    <h1 class="display-5 mb-3">
+                    <h1 class="display-5 mb-3 text-primary">
                         Our Technology
                         <br>
                     </h1>
@@ -60,7 +60,7 @@
     <br>
     <div class="row justify-content-lg-center">
         <div class="col-md-6 producttext align-self-center">
-            <h2>The ankiDB™ solution comprises of ankiDB™ micro and ankiDB™
+            <h2 class="text-primary">The ankiDB™ solution comprises of ankiDB™ micro and ankiDB™
                 cloud.</h2>
             <br>
         </div>
@@ -90,7 +90,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-70 text-center mx-md-auto mb-9">
             <span class="d-block small font-weight-bold text-cap mb-2">ankiDB Cloud</span>
-            <h2>Features</h2>
+            <h2 class="text-primary">Features</h2>
         </div>
         <!-- End Title -->
         <div class="row justify-content-lg-center">
@@ -101,7 +101,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-18.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>Account Management</h4>
+                        <h4 class="text-primary">Account Management</h4>
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -145,7 +145,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-27.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>User Management</h4>
+                        <h4 class="text-primary">User Management</h4>
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -190,7 +190,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-28.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>Notifications</h4>
+                        <h4 class="text-primary">Notifications</h4>
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -234,7 +234,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4>Device Management</h4>
+                        <h4 class="text-primary">Device Management</h4>
                         <div class="media mb-1">
                             <span class="icon icon-xs icon-soft-primary icon-circle mr-3">
                                 <i class="fas fa-check"></i>
@@ -278,7 +278,7 @@
         <div class="container space-2 prod">
             <div class="text-center py-6"
                 style="background: url(assets/svg/components/abstract-shapes-19.svg) center no-repeat;">
-                <h2>Interested in trying out ankiDB™ IOT Cloud?</h2>
+                <h2 class="text-primary">Interested in trying out ankiDB™ IOT Cloud?</h2>
                 <p>Read more how we used ankiDB™ cloud in different use cases</p>
                 <span class="d-block mt-5">
                     <a class="btn btn-primary transition-3d-hover" href="#">Explore ankiDB™ Cloud
@@ -323,7 +323,7 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-80 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2">Features</span>
-                <h2>ankiDB™ micro</h2>
+                <h2 class="text-primary">ankiDB™ micro</h2>
             </div>
             <!-- End Title -->
             <div class="row">
@@ -332,7 +332,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h2 class="h4">Power</h2>
+                            <h2 class="h4 text-primary">Power</h2>
                             <p>Yuktix devices can be powered by DC 12V or Solar or battery only, thus making them
                                 suitable for deployment in in-premise or off-grid deployments.</p>
                         </div>
@@ -344,7 +344,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h3 class="h4">Solar Computing</h3>
+                            <h3 class="h4 text-primary">Solar Computing</h3>
                             <p>Solar powered with battery backup consumes power in the range of few micro in sleep mode
                                 and around 5-9 mA while active and 30-35 mA while transmitting data.</p>
                         </div>
@@ -356,7 +356,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h4>Communication</h4>
+                            <h4 class="h4 text-primary">Communication</h4>
                             <p>Different wired ( RS485, RS232, 4-20mA) and wireless ( GSM, LoRa, Xbee, Satellite )
                                 communication option for transmitting data to ankiDB cloud.</p>
                         </div>
@@ -368,7 +368,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h4>Firmware Stack</h4>
+                            <h4 class="h4 text-primary">Firmware Stack</h4>
                             <p>Yuktix ankiDB firmware target AVR CPU and is low powered optimized. Out of box support
                                 for I2C, SPI, UART, analog, RS485, RS232, GSM, GPRS, Wi-Fi, Ethernet, Satellite, Xbee,
                                 LoRa.</p>
@@ -381,7 +381,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h4>Modular</h4>
+                            <h4 class="h4 text-primary">Modular</h4>
                             <p>Our modular structure allow us to interface different sensor cards and communication
                                 option with designing everything from scratch.</p>
                         </div>
@@ -393,7 +393,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h4>Different Interfaces</h4>
+                            <h4 class="h4 text-primary">Different Interfaces</h4>
                             <p>Multiple GPIO's, UART, Analog pins allow us to interface different sensors and modules
                                 thus making it a best platform for quick prototyping.</p>
                         </div>
@@ -408,7 +408,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h2 class="h4">Cloud Ready</h2>
+                            <h2 class="h4 text-primary">Cloud Ready</h2>
                             <p>ankiDB micro devices are cloud ready, just plug the power and start accessing data in
                                 real time using ankiDB cloud.</p>
                         </div>
@@ -420,7 +420,7 @@
                     <div class="media">
                         <span class="mr-3">—</span>
                         <div class="media-body">
-                            <h3 class="h4">Scale Network Topologies</h3>
+                            <h3 class="h4 text-primary">Scale Network Topologies</h3>
                             <p>ankiDB micro allow user to use different network topologies as per their set-up like
                                 direct to cloud, local wireless sensor network, Local IP network.</p>
                         </div>

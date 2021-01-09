@@ -38,7 +38,7 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>Digitise your Farm with Yuktix GreenSense</h1>
+                    <h1 class="text-primary">Digitise your Farm with Yuktix GreenSense</h1>
                     <p class="lead">Using Next Generation IoT Devices, Increase Yield & Reduce Losses</p>
                     <p>Become a Next Generation Farmer</p>
                 </div>
@@ -62,8 +62,8 @@
     <!-- Features Section -->
     <div class="container space-1">
         <!-- Title -->
-        <div class="w-md-75 w-lg-75 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="display-5">
+        <div class="w-md-75 w-lg-75 text-cent er mx-md-auto mb-5 mb-md-9">
+            <h2 class="display-5 text-center text-primary">
                 How Yuktix GreenSense can help you?</h2>
         </div>
         <div class="row mx-n2">
@@ -75,7 +75,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
                         </figure>
-                        <h4>20% Increase in Yield</h4>
+                        <h4 class="text-primary">20% Increase in Yield</h4>
                         <p class="font-size-1 text-body mb-0">Follow best scientific advisory backed by data collected
                             by on-filed sensor and produce more per acre.</p>
                     </div>
@@ -92,7 +92,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
                         </figure>
-                        <h4>40% Water Saving</h4>
+                        <h4 class="text-primary">40% Water Saving</h4>
                         <p class="font-size-1 text-body mb-0">With next generation soil Volumetric water content sensor,
                             plan your irrigation schedule and save upto 40% of water </p>
                     </div>
@@ -109,7 +109,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
                         </figure>
-                        <h4>40% Less Fertilizers</h4>
+                        <h4 class="text-primary">40% Less Fertilizers</h4>
                         <p class="font-size-1 text-body mb-0">With advance AI and ML based disease prediction algorithms
                             and image analysis, spray only when required. </p>
                     </div>
@@ -126,7 +126,7 @@
                         <figure class="w-100 max-w-8rem mb-4">
                             <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                         </figure>
-                        <h4>15% Wastage Reduction</h4>
+                        <h4 class="text-primary">15% Wastage Reduction</h4>
                         <p class="font-size-1 text-body mb-0">Advanced disease prediction models and alert mechanism to
                             prevent susceptible crop damage </p>
                     </div>
@@ -143,7 +143,7 @@
         <div class="row align-items-lg-center">
             <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
                 <div class="mb-5">
-                    <h2 class="mb-3">How Greensense Works</h2>
+                    <h2 class="mb-3 text-primary">How Greensense Works</h2>
                     <p>Yuktix GreenSense is a collection of hardware and next generation AI based software to provide
                         user actionable data about his farm like</p>
                 </div>
@@ -203,7 +203,7 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-lg-70 text-center mx-lg-auto mb-5">
-            <h2 class="d-block font-weight-bold text-cap mb-2">What Information You will get about your
+            <h2 class="d-block font-weight-bold text-cap mb-2 text-primary">What Information You will get about your
                 farm?</h2>
         </div>
         <!-- End Title -->
@@ -216,7 +216,7 @@
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
-                        <h2 class="h3 mb-1">Micro-Weather</h2>
+                        <h2 class="h3 mb-1 text-primary">Micro-Weather</h2>
                         <p class="font-size-1">Get micro-weather data and soil data from your farm in real time. </p>
                     </div>
                     <!-- End Icon Block -->
@@ -227,7 +227,7 @@
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
-                        <h3 class="mb-1">Weather Forecast</h3>
+                        <h3 class="mb-1 text-primary">Weather Forecast</h3>
                         <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
                     </div>
                     <!-- End Icon Block -->
@@ -238,7 +238,7 @@
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
-                        <h3 class="mb-1">Disease Prediction</h3>
+                        <h3 class="mb-1 text-primary">Disease Prediction</h3>
                         <p class="font-size-1">Get advance notification about crop disease before they happen</p>
                     </div>
                 </div>
@@ -249,7 +249,7 @@
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
-                        <h2 class="h3 mb-1">Fertilizers Advisory</h2>
+                        <h2 class="h3 mb-1 text-primary">Fertilizers Advisory</h2>
                         <p class="font-size-1">Get micro-weather data and soil data from your farm in real time.
                         </p>
                     </div>
@@ -261,7 +261,7 @@
                         <figure class="w-100 max-w-8rem mx-auto mb-3">
                             <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                         </figure>
-                        <h3 class="mb-1">Irrigation Advisory</h3>
+                        <h3 class="mb-1 text-primary">Irrigation Advisory</h3>
                         <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
                     </div>
                     <!-- End Icon Block -->
@@ -273,7 +273,7 @@
     </div>
     <!-- End Features Section -->
     <div class="container">
-        <h2 class="h1 text-center mb-7">Yuktix GreenSense Dashboard</h2>
+        <h2 class="h1 text-center mb-7 text-primary">Yuktix GreenSense Dashboard</h2>
         <div class="row align-items-lg-center">
             <div class="col-lg-6">
                 <div class="mx-auto"><img class="img-fluid rounded"
@@ -338,7 +338,7 @@
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
-                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                        <h2 class="display-5 text-primary">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/UaPNqp5ut7U" frameborder="0"
@@ -351,7 +351,7 @@
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-2 mb-md-3 text-center">
-            <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
+            <h2 class="h1 text-primary">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
         <!-- Testimonials Section -->
@@ -516,7 +516,7 @@
     <div class="container">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
-            <h2 class="h1">Crops we provide advisory for</h2>
+            <h2 class="h1 text-primary">Crops we provide advisory for</h2>
         </div>
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
@@ -580,7 +580,7 @@
     <!-- End Gallery Section -->
     <div class="container space-2">
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
-            <h2 class="h1">Our Products</h2>
+            <h2 class="h1 text-primary">Our Products</h2>
             <!-- Gallery Section -->
         </div>
         <div class="row mx-n2">
@@ -640,7 +640,7 @@
     <div class="container space-1">
         <div class="text-center py-6"
             style="background: url(assets/svg/components/abstract-shapes-19.svg) center no-repeat;">
-            <h2>Find the right solution for your farm</h2>
+            <h2 class="text-primary">Find the right solution for your farm</h2>
             <p>Reach out to our Agriculture Specialist for Free Consultation</p>
             <span class="d-block mt-5">
                 <a class="btn btn-primary transition-3d-hover" href="contact.php">Contact Now</a>

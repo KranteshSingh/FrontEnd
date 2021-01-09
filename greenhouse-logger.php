@@ -33,7 +33,7 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>Reduce looses, Improve production of your Greenhouse</h1>
+                    <h1 class="text-primary">Reduce looses, Improve production of your Greenhouse</h1>
                     <p class="lead">Deploy Yuktix device, monitor, Analyze and maintain micro-weather
                         of your
                         GreenHouse.</p>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="mb-5">
-                        <h2>Yuktix Greenhouse Logger Device</h2>
+                        <h2 class="text-primary">Yuktix Greenhouse Logger Device</h2>
                     </div>
                     <!-- Icon Block -->
                     <ul class="step step-dashed mb-7">
@@ -138,7 +138,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Greenhouse Logger Device Features</span>
-            <h2>Features</h2>
+            <h2 class="text-primary">Features</h2>
         </div>
         <!-- End Title -->
         <!-- Icon Blocks -->
@@ -150,7 +150,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-29.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Micro-Weather</h4>
+                        <h4 class="mb-0 text-primary">Micro-Weather</h4>
                     </div>
                 </div>
                 <p>Get to know micro-weather inside your Greenhouse in real time. </p>
@@ -163,7 +163,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-44.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Weather forecast</h4>
+                        <h4 class="mb-0 text-primary">Weather forecast</h4>
                     </div>
                 </div>
                 <p>Location specific weather forecast</p>
@@ -176,7 +176,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Disease Prediction</h4>
+                        <h4 class="mb-0 text-primary">Disease Prediction</h4>
                     </div>
                 </div>
                 <p>Get notified about disease forecast and take corrective action </p>
@@ -189,7 +189,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Irrigation Advisory </h4>
+                        <h4 class="mb-0 text-primary">Irrigation Advisory </h4>
                     </div>
                 </div>
                 <p>With Soil moisture sensor, monitor and irrigate your Greenhouse crops</p>
@@ -202,7 +202,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Image analysis</h4>
+                        <h4 class="mb-0 text-primary">Image analysis</h4>
                     </div>
                 </div>
                 <p>Capture, upload and get advisory from expert </p>
@@ -215,7 +215,7 @@
                         <img class="img-fluid" src="assets/svg/icons/icon-28.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">A full solution for GreenHouse</h4>
+                        <h4 class="mb-0 text-primary">A full solution for GreenHouse</h4>
                     </div>
                 </div>
                 <p>Want to automate your Greenhouse and convert it into a next-gen Greenhouse.</p>
@@ -237,7 +237,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Always improving</span>
-            <h2>How it Works</h2>
+            <h2 class="text-primary">How it Works</h2>
         </div>
         <!-- End Title -->
         <!-- Step -->
@@ -246,7 +246,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Monitor</h3>
+                        <h3 class="text-primary">Monitor</h3>
                         <p>Monitor important micro-weather parameters of your Greenhouse impacting plants growth.
                             Temperature, Humidity, Lux, Soil Moisture ( Soil EC, Soil Temperature ) CO2. </p>
                     </div>
@@ -256,7 +256,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Analyze</h3>
+                        <h3 class="text-primary">Analyze</h3>
                         <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data,
                             get weather forecast and take actions.</p>
                     </div>
@@ -266,7 +266,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Get notified</h3>
+                        <h3 class="text-primary">Get notified</h3>
                         <p>Set Alerts for individual parameters for a single or multiple devices and get notified in
                             real time. Donwload reports or data for indepth research or future analysis. </p>
                     </div>
@@ -281,12 +281,12 @@
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-lg-5 mb-9 mb-lg-0">
                 <div class="mb-4">
-                    <h2>Monitor</h2>
+                    <h2 class="text-primary">Monitor</h2>
                     <p>Monitor important micro-weather parameters of your Greenhouse impacting plants growth.
                         Temperature, Humidity, Lux, Soil Moisture ( Soil EC, Soil Temperature ) CO2. </p>
                 </div>
                 <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                    <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
@@ -294,7 +294,7 @@
                     </div>
                 </div>
                 <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                    <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
@@ -302,7 +302,7 @@
                     </div>
                 </div>
                 <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                    <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
@@ -327,7 +327,7 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2>Analyze, Share and Get advice </h2>
+            <h2 class="text-primary">Analyze, Share and Get advice </h2>
             <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get weather
                 forecast and take actions.</p>
         </div>
@@ -364,12 +364,12 @@
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-lg-5 mb-9 mb-lg-0">
                 <div class="mb-4">
-                    <h2>Get Notified over SMS, Email and WhatsApp</h2>
+                    <h2 class="text-primary">Get Notified over SMS, Email and WhatsApp</h2>
                     <p>Set Alerts for individual parameters for a single or multiple devices and get notified in real
                         time. Donwload reports or data for indepth research or future analysis. </p>
                 </div>
                 <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                    <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
@@ -377,7 +377,7 @@
                     </div>
                 </div>
                 <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                    <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
@@ -385,7 +385,7 @@
                     </div>
                 </div>
                 <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                    <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                         <i class="fas fa-check fa-xs"></i>
                     </span>
                     <div class="media-body">
@@ -410,7 +410,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div>
-                    <h2 class="text-center">How GreenHouse Logger Works</br></h2>
+                    <h2 class="text-center text-primary">How GreenHouse Logger Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="rounded embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
@@ -469,7 +469,7 @@
     </section>
     <div class="container">
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2>How Does it Looks Like</h2>
+            <h2 class="text-primary">How Does it Looks Like</h2>
         </div>
         <div class="row mx-n2">
             <div class="col-4 col-md px-2 mb-3">
@@ -526,7 +526,7 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
-            <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
+            <h2 class="h1 text-primary">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
         <!-- Testimonials Section -->

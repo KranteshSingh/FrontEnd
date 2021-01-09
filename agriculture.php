@@ -35,7 +35,7 @@
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-md-6">
                 <div class="mb-2">
-                    <h1 class="display-5 mb-3">
+                    <h1 class="display-5 mb-3 text-primary">
                         Revolutionizing Agriculture
                         <br>
                         <span class="text-primary font-weight-bold">
@@ -128,7 +128,7 @@
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-70 text-center mx-md-auto mb-3 mb-md-9 mt-2">
-                        <h2 class="display-5">Changing the way How Agriculture is Done
+                        <h2 class="display-5 text-primary">Changing the way How Agriculture is Done
                         </h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9 rounded"><iframe class="embed-responsive-item"

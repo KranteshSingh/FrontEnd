@@ -4,7 +4,7 @@
 <head>
     <title>About | Yuktix</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -32,7 +32,7 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>About Yuktix</h1>
+                    <h1 class="hcolor">About Yuktix</h1>
                     <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
                         and a
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
@@ -54,12 +54,41 @@
             </div>
         </div>
     </div>
-    <!-- Services Section -->
+
+    <!-- Stats Section -->
     <div class="container space-1">
+        <div class="w-lg-80 mx-lg-auto">
+            <div class="row">
+                <div class="col-sm-4 mb-3 mb-sm-0">
+                    <div class="text-center">
+                        <span class="d-block font-size-5 font-size-md-down-3 font-weight-bold hcolor">3000+</span>
+                        <p>Provided Farming Advisory</p>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 mb-3 mb-sm-0">
+                    <div class="text-center">
+                        <span class="d-block font-size-5 font-size-md-down-3 font-weight-bold hcolor">100+</span>
+                        <p>Farmers are currently working</p>
+                    </div>
+                </div>
+
+                <div class="col-sm-4">
+                    <div class="text-center">
+                        <span class="d-block font-size-5 font-size-md-down-3 font-weight-bold hcolor">500+</span>
+                        <p>Yuktix Devices in Action</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Stats Section -->
+    <!-- Services Section -->
+    <div class="container space-1 gradient-y-sm-primary">
         <!-- Title -->
         <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-9">
-            <span class="d-block small font-weight-bold text-cap mb-2">What we do</span>
-            <h2>Our Achievements</h2>
+            <span class="d-block small font-weight-bold text-cap mb-2">OVER THE YEARS</span>
+            <h2 class="hcolor">Our Achievements</h2>
         </div>
         <!-- End Title -->
         <div class="row justify-content-lg-center">
@@ -186,7 +215,7 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2">Our team</span>
-                <h2>Creative Minds Empowering Tomorrow's Agriculture</h2>
+                <h2 class="hcolor">Creative Minds Empowering Tomorrow's Agriculture</h2>
             </div>
             <!-- End Title -->
             <div class="row mx-n2 mb-1">
@@ -280,15 +309,15 @@
     </main>
     <!-- ========== END MAIN ========== -->
     <!-- Team Section -->
-    <div class="container space-1 space-lg-0">
+    <div class="container space-1 space-lg-0 gradient-y-sm-primary">
         <!-- Title -->
         <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Ideas + Innovation</span>
-            <h2>Our Advisers</h2>
+            <h2 class="hcolor">Our Advisers</h2>
         </div>
         <!-- End Title -->
         <div class="row mx-n2 mb-5">
-            <div class="col-sm-6 col-lg-3 px-2 mb-3">
+            <div class="col-sm-6 col-lg-6 px-2 mb-3">
                 <!-- Team -->
                 <div class="card h-100 transition-3d-hover cardshadow">
                     <div class="card-body">
@@ -311,7 +340,7 @@
                 </div>
                 <!-- End Team -->
             </div>
-            <div class="col-sm-6 col-lg-3 px-2 mb-3">
+            <div class="col-sm-6 col-lg-6 px-2 mb-3">
                 <!-- Team -->
                 <div class="card h-100 transition-3d-hover cardshadow">
                     <div class="card-body">
@@ -342,7 +371,7 @@
                 </div>
                 <!-- End Team -->
             </div>
-            <div class="col-sm-6 col-lg-3 px-2 mb-3">
+            <div class="col-sm-6 col-lg-6 px-2 mb-3">
                 <!-- Team -->
                 <div class="card h-100 transition-3d-hover cardshadow">
                     <div class="card-body">
@@ -369,7 +398,7 @@
                 </div>
                 <!-- End Team -->
             </div>
-            <div class="col-sm-6 col-lg-3 px-2 mb-3">
+            <div class="col-sm-6 col-lg-6 px-2 mb-3">
                 <!-- Team -->
                 <div class="card h-100 transition-3d-hover cardshadow">
                     <div class="card-body">
@@ -402,41 +431,45 @@
     </div>
     <!-- Accolades -->
     <div class="row justify-content-between text-center">
-        <div class="col-4 col-lg-2">
+        <div class="col-4 col-lg-4">
             <div class="mx-3">
                 <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/indo-israel.jpg"
                     alt="INDO ISRAEL">
             </div>
         </div>
-        <div class="col-4 col-lg-2 mb-5 mb-lg-0">
+        <div class="col-4 col-lg-4 mb-5 mb-lg-0">
             <div class="mx-3">
                 <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/brinc.png"
                     alt="BRINC">
             </div>
         </div>
-        <div class="col-4 col-lg-2 mb-5 mb-lg-0">
+        <div class="col-4 col-lg-4 mb-5 mb-lg-0">
             <div class="mx-3">
                 <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/kits.png" alt="KITS">
             </div>
         </div>
-        <div class="col-4 col-lg-2 mb-5 mb-lg-0">
+    </div>
+    <br>
+    <div class="row justify-content-between text-center">
+        <div class="col-4 col-lg-4 mb-5 mb-lg-0">
             <div class="mx-3">
                 <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/nasscom-emerge-50.png"
                     alt="NASSCOM">
             </div>
         </div>
-        <div class="col-4 col-lg-2">
+        <div class="col-4 col-lg-4">
             <div class="mx-3">
                 <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/ccamp.png"
                     alt="CCAMP">
             </div>
         </div>
-        <div class="col-4 col-lg-2">
+        <div class="col-4 col-lg-4">
             <div class="mx-3">
                 <img class="max-w-11rem max-w-md-13rem mx-auto" src="assets/media/images/about-us/marico.png"
                     alt="MARICO">
             </div>
         </div>
+    </div>
     </div>
     <!-- End Clients -->
     </div>

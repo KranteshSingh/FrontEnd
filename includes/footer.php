@@ -5,7 +5,7 @@
     <div class="space-top-1 space-bottom-1 space-bottom-lg-1">
         <div class="row justify-content-lg-between">
             <div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0">
-                <h5>Yuktix Technologies PVT. LTD.</h5>
+                <h5 class="text-primary">Yuktix Technologies PVT. LTD.</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item">
@@ -44,7 +44,7 @@
                 <!-- End Nav Link -->
             </div>
             <div class="col-6 col-md-3 col-lg mb-5 mb-lg-0">
-                <h5>Company</h5>
+                <h5 class="text-primary">Company</h5>
 
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
@@ -55,7 +55,7 @@
                 <!-- End Nav Link -->
             </div>
             <div class="col-6 col-md-3 col-lg mb-5 mb-lg-0">
-                <h5>Products</h5>
+                <h5 class="text-primary">Products</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="greensense.php">Greensense</a></li>
@@ -70,7 +70,7 @@
                 <!-- End Nav Link -->
             </div>
             <div class="col-6 col-md-3 col-lg">
-                <h5>Documentation</h5>
+                <h5 class="text-primary">Documentation</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
@@ -82,7 +82,7 @@
                 <!-- End Nav Link -->
             </div>
             <div class="col-6 col-md-3 col-lg">
-                <h5>Resources</h5>
+                <h5 class="text-primary">Resources</h5>
                 <!-- Nav Link -->
                 <ul class="nav nav-sm nav-x-0 flex-column">
                     <li class="nav-item">

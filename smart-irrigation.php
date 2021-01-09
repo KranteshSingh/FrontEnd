@@ -33,7 +33,7 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>Smart Irrigation</h1>
+                    <h1 class="text-primary">Smart Irrigation</h1>
                     <p class="lead">Save 40% of water and 30% on power used in Irrigation.
                         Monitor your agriculture farm land soil moisture 24x7 from anywhere, anytime using Yukix Soil
                         Sensors. </p>
@@ -47,7 +47,7 @@
             <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
-                    <img class="img-fluid rounded" src="assets\media\images\sirrigation\sisystem.jpg"
+                    <img class="img-fluid rounded" src="assets\media\images\sirrigation\sisystem.png"
                         alt="About Yuktix">
                 </figure>
                 <!-- End SVG Illustration -->
@@ -56,7 +56,7 @@
     </div>
     <!-- Features Section -->
     <div class="overflow-hidden">
-        <div class="container space-2">
+        <div class="container space-1">
             <div class="row justify-content-lg-between align-items-lg-center">
                 <div class="col-lg-6 mb-9 mb-lg-0">
                     <!-- Mockups -->
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="mb-5">
-                        <h2>Monitor Soil Moisture</h2>
+                        <h2 class="text-primary">Monitor Soil Moisture</h2>
                     </div>
                     <!-- Icon Block -->
                     <ul class="step step-dashed mb-7">
@@ -126,70 +126,113 @@
         </div>
     </div>
     <!-- End Features Section -->
+
+
+
     <!-- Features Section -->
-    <div class="container space-2">
+    <div class="container space-1">
+        <!-- Title -->
+        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+            <h2 class="text-primary">Analyze, Share and Get advice </h2>
+            <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get weather
+                forecast and take actions.</p>
+        </div>
+        <!-- End Title -->
+        <!-- Nav -->
+        <div class="text-center">
+            <ul class="nav nav-segment nav-pills scrollbar-horizontal mb-7" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" id="pills-one-code-features-example1-tab" data-toggle="pill"
+                        href="#pills-one-code-features-example1" role="tab"
+                        aria-controls="pills-one-code-features-example1" aria-selected="true">Dashboard</a>
+                </li>
+            </ul>
+        </div>
+        <!-- End Nav -->
+        <!-- Tab Content -->
+        <div class="tab-content pr-lg-4">
+            <div class="tab-pane fade show active" id="pills-one-code-features-example1" role="tabpanel"
+                aria-labelledby="pills-one-code-features-example1-tab">
+                <!-- Device Mockup -->
+                <div class="device-wrapper">
+                    <div class="text-center">
+                        <div class="device">
+                            <img class="img-fluid" height="500px" width="500px"
+                                src="assets\media\images\mockups\smartmockupssoil.png" alt="Image Description">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Device Mockup -->
+        </div>
+    </div>
+    <!-- End Features Section -->
+    <!-- Features Section -->
+    <div class="container space-1">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-1 mb-md-9">
-            <span class="d-block small font-weight-bold text-cap mb-2">Greensense Features</span>
-            <h2>Get advisory backed by data, plan and irrigate</h2>
+
+            <h2 class="text-primary">Get advisory backed by data, plan and irrigate</h2>
             <p class="lead text-center">Yuktix next-generation agri-intelligence platform take data from multiple
                 sources, run AI based models and provide advisory for irrigation</p>
         </div>
         <!-- End Title -->
     </div>
     <!-- End Icon Blocks -->
-    </div>
-    <!-- End Features Section -->
-    <!-- Step Section -->
-    <div class="container space-0">
-        <!-- Title -->
-        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <span class="d-block small font-weight-bold text-cap mb-2">Always improving</span>
-            <h2>How it Works</h2>
+    <!-- Features Section -->
+    <div class="container space-2">
+        <div class="row justify-content-lg-between align-items-lg-center">
+            <div class="col-lg-5 mb-9 mb-lg-0">
+                <div class="mb-4">
+                    <h2 class="text-primary">Get Notified over SMS, Email and WhatsApp</h2>
+                    <p>Set Alerts for individual parameters for a single or multiple devices and get notified in
+                        real
+                        time. Donwload reports or data for indepth research or future analysis. </p>
+                </div>
+                <div class="media">
+                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <i class="fas fa-check fa-xs"></i>
+                    </span>
+                    <div class="media-body">
+                        <p>SMS Notification</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <i class="fas fa-check fa-xs"></i>
+                    </span>
+                    <div class="media-body">
+                        <p>Email Notification</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <i class="fas fa-check fa-xs"></i>
+                    </span>
+                    <div class="media-body">
+                        <p>WhatsApp Notification</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="position-relative max-w-80rem mx-auto">
+                    <!-- Device Mockup -->
+                    <div class="w-100 mx-auto">
+                        <img class="img-fluid rounded cardshadow" src="assets\media\images\greenhouse\notification.png"
+                            alt="Instant Notification">
+                    </div>
+                    <!-- End Device Mockup -->
+                </div>
+            </div>
         </div>
-        <!-- End Title -->
-        <!-- Step -->
-        <ul class="step step-md step-centered">
-            <li class="step-item">
-                <div class="step-content-wrapper">
-                    <span class="step-icon step-icon-soft-primary">1</span>
-                    <div class="step-content">
-                        <h3>Monitor</h3>
-                        <p>Monitor important micro-weather parameters of your Greenhouse impacting plants growth.
-                            Temperature, Humidity, Lux, Soil Moisture ( Soil EC, Soil Temperature ) CO2. </p>
-                    </div>
-                </div>
-            </li>
-            <li class="step-item">
-                <div class="step-content-wrapper">
-                    <span class="step-icon step-icon-soft-primary">2</span>
-                    <div class="step-content">
-                        <h3>Analyze</h3>
-                        <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data,
-                            get weather forecast and take actions.</p>
-                    </div>
-                </div>
-            </li>
-            <li class="step-item">
-                <div class="step-content-wrapper">
-                    <span class="step-icon step-icon-soft-primary">3</span>
-                    <div class="step-content">
-                        <h3>Get notified</h3>
-                        <p>Set Alerts for individual parameters for a single or multiple devices and get notified in
-                            real time. Donwload reports or data for indepth research or future analysis. </p>
-                    </div>
-                </div>
-            </li>
-        </ul>
-        <!-- End Step -->
     </div>
-    <!-- End Step Section -->
+
     <!-- Features Section -->
     <div class="container space-1 prod">
         <div class="row justify-content-lg-between align-items-lg-center ">
             <div class="col-lg-5 mb-9 mb-lg-0 ml-2">
                 <div class="mb-4">
-                    <h2>Save 40% Water</h2>
+                    <h2 class="text-primary">Save 40% Water</h2>
                     <p>Using Yuktix advisory and GreenSense dashboard, plan your irrigation schedule according to
                         crop.
                         Analyze your irrigation using calender view, improve it and save more. </p>
@@ -236,94 +279,9 @@
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-100 w-lg-80 text-center mx-md-auto mb-2 mb-md-9">
-            <h2>How Does it Looks Like</h2>
+            <h2 class="text-primary">How Does it Looks Like</h2>
             <br>
             <img class="img-fluid" src="assets/media/images/sirrigation/soilgal.png">
-        </div>
-    </div>
-    <!-- Features Section -->
-    <div class="container space-1">
-        <!-- Title -->
-        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2>Analyze, Share and Get advice </h2>
-            <p>With Yuktix GreenSense dashboard, analyze the data. Use sensor mixture app to compare data, get weather
-                forecast and take actions.</p>
-        </div>
-        <!-- End Title -->
-        <!-- Nav -->
-        <div class="text-center">
-            <ul class="nav nav-segment nav-pills scrollbar-horizontal mb-7" role="tablist">
-                <li class="nav-item">
-                    <a class="nav-link active" id="pills-one-code-features-example1-tab" data-toggle="pill"
-                        href="#pills-one-code-features-example1" role="tab"
-                        aria-controls="pills-one-code-features-example1" aria-selected="true">Dashboard</a>
-                </li>
-            </ul>
-        </div>
-        <!-- End Nav -->
-        <!-- Tab Content -->
-        <div class="tab-content pr-lg-4">
-            <div class="tab-pane fade show active" id="pills-one-code-features-example1" role="tabpanel"
-                aria-labelledby="pills-one-code-features-example1-tab">
-                <!-- Device Mockup -->
-                <div class="device-wrapper">
-                    <div class="text-center">
-                        <div class="device">
-                            <img class="img-fluid" height="500px" width="500px"
-                                src="assets\media\images\mockups\smartmockupssoil.png" alt="Image Description">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Device Mockup -->
-        </div>
-    </div>
-    <!-- End Features Section -->
-    <!-- Features Section -->
-    <div class="container space-2">
-        <div class="row justify-content-lg-between align-items-lg-center">
-            <div class="col-lg-5 mb-9 mb-lg-0">
-                <div class="mb-4">
-                    <h2>Get Notified over SMS, Email and WhatsApp</h2>
-                    <p>Set Alerts for individual parameters for a single or multiple devices and get notified in
-                        real
-                        time. Donwload reports or data for indepth research or future analysis. </p>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>SMS Notification</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>Email Notification</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
-                        <i class="fas fa-check fa-xs"></i>
-                    </span>
-                    <div class="media-body">
-                        <p>WhatsApp Notification</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="position-relative max-w-80rem mx-auto">
-                    <!-- Device Mockup -->
-                    <div class="w-100 mx-auto">
-                        <img class="img-fluid rounded cardshadow" src="assets\media\images\greenhouse\notification.png"
-                            alt="Instant Notification">
-                    </div>
-                    <!-- End Device Mockup -->
-                </div>
-            </div>
         </div>
     </div>
     <!-- End Features Section -->
@@ -331,7 +289,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div>
-                    <h2 class="text-center">How Smart Irrigation Works</br></h2>
+                    <h2 class="text-center text-primary">How Smart Irrigation Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/SeF6g4LhQvk" frameborder="0"
@@ -346,13 +304,9 @@
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
             <div class="w-lg-65 text-center mx-lg-auto">
-                <h2>Case Studies</h2>
-                <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
-                    soil parameters
-                    with the
-                    help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
-                    multiple
-                    sources and on the network for every one to share and analyze.</p>
+                <h2 class="text-primary">Case Studies</h2>
+                <p class="lead">Know more how we have helped growers save water used in irrigation and optimize the
+                    plant growth by regulating the irrigation using our next generation sensors. </p>
             </div>
         </div>
     </div>
@@ -363,19 +317,17 @@
         <div class="container">
             <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                    <img src="assets/media/images/case-studies/1.png" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
-                    <h3>Case Study 1</h3>
+                    <h3>Farm Asset Management company</h3>
                     <br>
                     <p class="lead">
-                        Manage your agriculture devices and data over the Yuktix device cloud. Provision and
-                        categorize
-                        devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run different
-                        processing pipelines, integrate with google big query or Microcoft azure.
+                        With the help of Yuktix solar powered soil moisture sensor, weather station and ETO
+                        calculations, we helped the organization save upto 40% on water and 25% on electricity.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="agriculture-farm-management-co.php">
                         <p>
                             <b>Learn More</b>
                         </p>
@@ -384,19 +336,17 @@
             </div>
             <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                    <img src="assets/media/images/case-studies/9.png" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Case Study 2</h3>
+                    <h3>Multinational seed and fertilizer company</h3>
                     <br>
                     <p class="lead">
-                        Plug multiple agriculture sensors into the low powered device nodes with solar charging and
-                        battery back-up. Multiple wireless options available. On-board memory and processing.
-                        <br>
-                        The ankiDB micro stack comprises of hardware nodes and routers and firmware.
+                        With Soil VWC, Soil EC, Soil temperature sensor, we helped the organization plan irrigation and
+                        fertigation schedules and thus boost production
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="multinational-agruculture-seed-fertilizers.php">
                         <p>
                             <b>Learn More ></b>
                         </p>
@@ -408,7 +358,7 @@
     <div class="container space-2">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
-            <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
+            <h2 class="h1 text-primary">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
         <!-- Testimonials Section -->

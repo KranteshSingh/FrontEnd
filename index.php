@@ -48,15 +48,17 @@
                         <div class="w-lg-100">
                             <h1 class="display-3 mb-2 text-white herotext">
                                 Agriculture Intelligence for<br>
-                                <span class="text-warning display-4">
+                                <span class="text-warning display-4 hcolor">
                                     <span class="js-text-animation"></span>
                                 </span>
                             </h1>
-                            <p class="lead text-white" herotext>Creating sensors based Agri-Intelligence Systems to
+                            <p class="lead text-white herotext">Creating sensors based Agri-Intelligence Systems
+                                to
                                 assist
                                 growers in
                                 increasing
                                 Yield & Productivity</p>
+
                         </div>
                     </div>
                 </div>
@@ -64,17 +66,22 @@
         </div>
     </div>
     <!-- End Hero Section -->
+
     <!-- CTA Section -->
-    <div class="container space-1">
-        <div class="text-center py-6">
-            <h2 class="display-5">What We Do</h2>
-            <p class="lead">Yuktix is creating sensors based agri intelligence systems to assist
-                growers in
-                increasing
-                productivity and reducing resources to create a sustainable and food secure world.</p>
-            <span class="d-block mt-1">
-                <a class="btn btn-primary transition-3d-hover" href="about.php">About Yuktix</a>
-            </span>
+    <div class="container-fluid space-1 gradient-y-sm-primary">
+        <div class="row content align-items-lg-center mx-md-auto">
+            <div class="col-lg-12">
+                <div class="text-center py-6">
+                    <h2 class="display-5 hcolor">What We Do</h2>
+                    <p class="lead pl-10 pr-10">Yuktix is creating sensors based agri intelligence systems to assist
+                        growers in
+                        increasing
+                        productivity and reducing resources to create a sustainable and food secure world.</p>
+                    <span class="d-block mt-1">
+                        <a class="btn btn-primary transition-3d-hover" href="about.php">About Yuktix</a>
+                    </span>
+                </div>
+            </div>
         </div>
     </div>
     <!-- End CTA Section -->
@@ -82,7 +89,7 @@
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="display-5">Our Key Values</h2>
+            <h2 class="display-5 hcolor">Our Key Values</h2>
             <p class="lead">How we are helping farmers</p>
         </div>
         <!-- End Title -->
@@ -97,8 +104,9 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3>Increase Production</h3>
-                        <p class="text-body font-size-1">Follow best scientific advisory backed by data collected
+                        <h3 class="hcolor">Increase Production</h3>
+                        <p class="text-body font-size-1">Follow best scientific advisory backed by data
+                            collected
                             by on-filed sensor and produce more per acre.
                         </p>
                         <div class="card-footer border-0 pt-0">
@@ -113,10 +121,13 @@
                 <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
-                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+
+                            <img class="avatar-img" src="assets/svg/icons/icon-31.svg" alt="Logo">
+
                         </figure>
-                        <h3>Reduce Losses</h3>
-                        <p class="text-body font-size-1">With advance AI and ML based disease prediction algorithms
+                        <h3 class="hcolor">Reduce Losses</h3>
+                        <p class="text-body font-size-1">With advance AI and ML based disease prediction
+                            algorithms
                             and image analysis, spray only when required.</p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -130,11 +141,11 @@
                 <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
-                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                            <i class="fas fa-water fa-3x"></i>
                         </figure>
-                        <h3>Save Water</h3>
-                        <p class="text-body font-size-1">With next generation soil Volumetric water content sensor,
-                            schedule irrigation schedule and save upto 40% of water</p>
+                        <h3 class="hcolor">Save Water</h3>
+                        <p class="text-body font-size-1">With next generation soil sensor,
+                            schedule irrigation and save upto 40% of water used</p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                         </div>
@@ -147,7 +158,7 @@
     <!-- End Articles Section -->
     <!-- End Features Section -->
     <!-- ======= Case Study Section ======= -->
-    <section id="details" class="details">
+    <section id="details" class="details gradient-y-sm-primary">
         <div class="container">
             <div class="row content align-items-lg-center">
                 <div class="col-md-4" data-aos="fade-right">
@@ -158,7 +169,8 @@
                     <br>
                     <p class="lead">
                         With changing climate, there is no digital input for tribal farmers to use climate smart
-                        agriculture practices. Farmers produce is effected by changing land patterns, rainfall and
+                        agriculture practices. Farmers produce is effected by changing land patterns, rainfall
+                        and
                         excessive use of pesticide and insecticide
                     </p>
                     <br>
@@ -177,7 +189,8 @@
                     <h3>Smart Guava Farm</h3>
                     <br>
                     <p class="lead">
-                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about soil
+                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about
+                        soil
                         moisture and amount of rain. <br>
                         Jai Javan, Jai Vigyaan.
                     </p>
@@ -191,7 +204,7 @@
             </div>
     </section>
     <div>
-        <h2 class="display-5 text-center">Are you a</h2>
+        <h2 class="display-5 text-center hcolor mt-5">Are you a</h2>
     </div>
     <!-- Articles Section -->
     <div class="container space-2">
@@ -203,8 +216,9 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3>Individual Grower</h3>
-                        <p class="text-body font-size-1"><br>Are you a individual horticulture grower drowing Tomato,
+                        <h3 class="hcolor">Individual Grower</h3>
+                        <p class="text-body font-size-1"><br>Are you a individual horticulture grower drowing
+                            Tomato,
                             Chilli, Potato,
                             Okra or any other horticuture crop.
                         </p>
@@ -223,8 +237,9 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3>Plantation</h3>
-                        <p class="text-body font-size-1">Are you a Tea, Coffee or Coconut planation and want to monitor
+                        <h3 class="hcolor">Plantation</h3>
+                        <p class="text-body font-size-1">Are you a Tea, Coffee or Coconut planation and want to
+                            monitor
                             micro-weather and regulate irrigation schedule in your planation.</p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -241,8 +256,9 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3>NGO/FPO</h3>
-                        <p class="text-body font-size-1">Are you a NGO or a FPO working with a group of farmers and want
+                        <h3 class="hcolor">NGO/FPO</h3>
+                        <p class="text-body font-size-1">Are you a NGO or a FPO working with a group of farmers
+                            and want
                             to use next
                             generation digital tools to provide advisory to your farmers</p>
                         <div class="card-footer border-0 pt-0">
@@ -259,10 +275,11 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3>Research Institute</h3>
-                        <p class="text-body font-size-1">Are you a agriculture research institute and want to use low
-                            powered,
-                            wireless sensors for your agriculture research</p>
+                        <h3 class="hcolor">Agriculture Research Institute</h3>
+                        <p class="text-body font-size-1">Are you a agriculture research institute and want to
+                            use IoT
+                            for collecting data from field?
+                        </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                         </div>
@@ -273,12 +290,12 @@
         </div>
     </div>
     <!-- End Articles Section -->
-    <div class="container-fluid">
+    <div class="container-fluid gradient-y-sm-primary">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-2">
-                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                        <h2 class="display-5 hcolor">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/Bw4UZXs_3TY" frameborder="0"
@@ -294,25 +311,29 @@
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
             <div class="w-lg-70 text-center mx-lg-auto">
-                <h2 class="display-5">Technology Stack </p>
-                    <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
-                        soil parameters
-                        with the
-                        help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
-                        multiple
-                        sources and on the network for every one to share and analyze.</p>
+                <h2 class="display-5 hcolor">Technology Stack </h2>
+                </p>
+                <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
+                    soil parameters
+                    with the
+                    help of Yuktix ankiDB™ IoT platform. We provide a low code solution to bring data from
+                    multiple
+                    sources and on the network for every one to share and analyze.</p>
             </div>
+            <div class="text-center"><a href="technology.php"><button type="button" class="btn btn-primary">Read
+                        More</button></a></div>
         </div>
     </div>
     <!-- End Hero Section -->
     <br>
-    <div class="container-fluid">
+    <div class="container-fluid gradient-y-sm-primary">
         <div class="row justify-content-lg-center">
             <div class="col-md-7"><img src="assets\media\images\technology\yuktixcloud.png" class="img-fluid"
                     alt="Responsive image"></div>
         </div>
     </div>
     <!-- ======= Case Study Section ======= -->
+
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
@@ -323,8 +344,10 @@
                     <h3>ankiDB™ cloud</h3>
                     <br>
                     <p class="lead">
-                        Manage your agriculture devices and data over the Yuktix device cloud. Provision and categorize
-                        devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run different
+                        Manage your agriculture devices and data over the Yuktix device cloud. Provision and
+                        categorize
+                        devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run
+                        different
                         processing pipelines, integrate with google big query or Microcoft azure.
                     </p>
                     <br>
@@ -343,13 +366,14 @@
                     <h3>ankiDB™ micro</h3>
                     <br>
                     <p class="lead">
-                        Plug multiple agriculture sensors into the low powered device nodes with solar charging and
+                        Plug multiple agriculture sensors into the low powered device nodes with solar charging
+                        and
                         battery back-up. Multiple wireless options available. On-board memory and processing.
                         <br>
                         The ankiDB micro stack comprises of hardware nodes and routers and firmware.
                     </p>
                     <br>
-                    <a href="ankidb-micro.php">
+                    <a href="http://webm01-dev.yuktix.com:8002/iot/ankidb/" target="_blank">
                         <p>
                             <b>Learn More ></b>
                         </p>
@@ -357,6 +381,7 @@
                 </div>
             </div>
     </section>
+
     <?php
     include 'includes/footer.php';
     ?>

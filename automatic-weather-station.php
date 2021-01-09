@@ -36,7 +36,7 @@
             <div class="col-md-6 col-lg-5">
                 <!-- Info -->
                 <div class="mb-5 mt-2">
-                    <h1>Automatic Weather Station</h1>
+                    <h1 class="text-primary">Automatic Weather Station</h1>
                     <p class="lead">Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
                         and a
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
@@ -76,7 +76,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">How Weather Station Works</span>
-            <h2>It works in 3 Simple Steps</h2>
+            <h2 class="text-primary">It works in 3 Simple Steps</h2>
         </div>
         <!-- End Title -->
         <!-- Step -->
@@ -85,7 +85,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">1</span>
                     <div class="step-content">
-                        <h3>Plug Sensors</h3>
+                        <h3 class="text-primary">Plug Sensors</h3>
                         <p>Achieve virtually any design and layout from within the one template.</p>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">2</span>
                     <div class="step-content">
-                        <h3>Plug Solar and Battery</h3>
+                        <h3 class="text-primary">Plug Solar and Battery</h3>
                         <p>Whether you're a startup or a global enterprise, learn how to integrate with Front.</p>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                 <div class="step-content-wrapper">
                     <span class="step-icon step-icon-soft-primary">3</span>
                     <div class="step-content">
-                        <h3>Start receiving data on Dashboard</h3>
+                        <h3 class="text-primary">Start receiving data on Dashboard</h3>
                         <p>We help power millions of businesses to built and run smoothly.</p>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
             <div class="card overflow-hidden p-4">
                 <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
                     <div class="col-md-5 offset-md-3 mb-3 mb-md-0">
-                        <h3 class="h4 mb-0">Revolutionizing the way to Grow Crops</h3>
+                        <h3 class="h4 mb-0 text-primary">Revolutionizing the way to Grow Crops</h3>
                     </div>
                     <div class="col-md-4 text-md-right">
                         <a class="btn btn-primary transition-3d-hover" href="https://www.yuktix.com/m/aws/">Watch It in
@@ -140,7 +140,7 @@
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">NEXT GENERATION SOLAR POWERED AUTOMATIC WEATHER
                 STATION</span>
-            <h2>Features</h2>
+            <h2 class="text-primary">Features</h2>
         </div>
         <!-- End Title -->
         <!-- Icon Blocks -->
@@ -152,7 +152,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-29.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">IMD Standards</h4>
+                        <h4 class="mb-0 text-primary">IMD Standards</h4>
                     </div>
                 </div>
                 <p>Yuktix AWS sensor range and resolutions conform to Indian Meteorological Department (IMD)
@@ -166,7 +166,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-44.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Cost Competitive</h4>
+                        <h4 class="mb-0 text-primary">Cost Competitive</h4>
                     </div>
                 </div>
                 <p>We provide ruggedized and field tested weather stations at a fraction of the price from competition.
@@ -180,7 +180,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-2.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Share Better</h4>
+                        <h4 class="mb-0 text-primary">Share Better</h4>
                     </div>
                 </div>
                 <p>Subscribe to Data archives and reports. View data and report from anywhere and share insights with
@@ -194,7 +194,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-37.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Solar Powered</h4>
+                        <h4 class="mb-0 text-primary">Solar Powered</h4>
                     </div>
                 </div>
                 <p>No socket needed. Yuktix stations work on solar power. Yuktix stations are running in remote
@@ -208,7 +208,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-5.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">
+                        <h4 class="mb-0 text-primary">
                             Dashboard</h4>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-28.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Research Friendly</h4>
+                        <h4 class="mb-0 text-primary">Research Friendly</h4>
                     </div>
                 </div>
                 <p>We maintain daily archive of raw data for your own analysis. Download and load data in excel. We also
@@ -239,7 +239,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-37.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">Tough & Tested</h4>
+                        <h4 class="mb-0 text-primary">Tough & Tested</h4>
                     </div>
                 </div>
                 <p>Yuktix stations have been running day in and out, in rain and thunderstorms. You can also send
@@ -254,7 +254,7 @@
                         <img class="img-fluid b-lazy" src="assets/svg/icons/icon-5.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0">
+                        <h4 class="mb-0 text-primary">
                             Go Automatic</h4>
                     </div>
                 </div>
@@ -287,7 +287,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div>
-                    <h2 class="text-center">How Weather Station Works</br></h2>
+                    <h2 class="text-center text-primary">How Weather Station Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/7AOBqfHu4bg" frameborder="0"
@@ -302,7 +302,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Benefits</span>
-            <h2>What people are saying</h2>
+            <h2 class="text-primary">What people are saying</h2>
         </div>
         <!-- End Title -->
         <div class="row">
@@ -382,7 +382,7 @@
     <!-- Gallery Section -->
     <div class="container">
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2>How Does it Looks Like</h2>
+            <h2 class="text-primary">How Does it Looks Like</h2>
         </div>
         <div class="row mx-n2">
             <div class="w-100"></div>
@@ -512,7 +512,7 @@
                             <img class="img-fluid b-lazy" src="assets/svg/icons/icon-4.svg" alt="SVG">
                         </figure>
                         <div class="media-body">
-                            <h4 class="mb-1">Real time graphs</h4>
+                            <h4 class="mb-1 text-primary">Real time graphs</h4>
                             <p class="font-size-1 mb-0">Analyze data from sensors in real time. Capture time
                                 sensitive
                                 data like Rain intensity and tiniest variations with ease. No more waiting
@@ -530,7 +530,7 @@
                             <img class="img-fluid b-lazy" src="assets/svg/icons/icon-64.svg" alt="SVG">
                         </figure>
                         <div class="media-body">
-                            <h4 class="mb-1">Analyze Report</h4>
+                            <h4 class="mb-1 text-primary">Analyze Report</h4>
                             <p class="font-size-1 mb-0">Get your reports delivered on email. Subscribe to
                                 sms
                                 alerts.
@@ -550,7 +550,7 @@
                             <img class="img-fluid b-lazy" src="assets/svg/icons/icon-65.svg" alt="SVG">
                         </figure>
                         <div class="media-body">
-                            <h4 class="mb-1">Personalized Monitoring</h4>
+                            <h4 class="mb-1 text-primary">Personalized Monitoring</h4>
                             <p class="font-size-1 mb-0">Download your data as excel files. Do your own
                                 analysis.
                                 Use
@@ -571,7 +571,7 @@
             <div class="card overflow-hidden p-5">
                 <div class="row justify-content-md-start align-items-md-center text-center text-md-left">
                     <div class="col-md-8 col-lg-5 offset-lg-3 mb-3 mb-md-0">
-                        <h3 class="h4 text-indigo mb-0">Sensor Catalogue</h3>
+                        <h3 class="h4 mb-0 text-primary">Sensor Catalogue</h3>
                     </div>
                     <div class="col-md-4 text-md-right">
                         <a class="btn btn-primary transition-3d-hover" href="sensor-catalog.php">Explore Sensor
@@ -593,7 +593,7 @@
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
             <div class="w-lg-65 text-center mx-lg-auto">
-                <h2>Case Studies</h2>
+                <h2 class="text-primary">Case Studies</h2>
                 <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
                     soil parameters
                     with the
@@ -659,7 +659,7 @@
     <div class="container space-1">
         <!-- Title -->
         <div class="w-md-100 w-lg-100 mb-5 mb-md-9 text-center">
-            <h2 class="h1">Farmers, growers and plantations have trusted us.</h2>
+            <h2 class="h1 text-primary">Farmers, growers and plantations have trusted us.</h2>
         </div>
         <!-- End Title -->
         <!-- Testimonials Section -->

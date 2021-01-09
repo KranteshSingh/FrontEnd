@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-lg-6 mb-9 mb-lg-0">
                 <div class="mb-5">
-                    <h1 class="display-4">Get in touch</h1>
+                    <h1 class="display-4 text-primary">Get in touch</h1>
                     <p>We'd love to talk about how we can help you.</p>
                 </div>
                 <!-- Leaflet -->
@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="mb-3">
-                            <span class="d-block h5 mb-1">Address:</span>
+                            <span class="d-block h5 mb-1 text-primary">Address:</span>
                             <span class="d-block text-body font-size-1"><b>Yuktix Technologies</b><BR>
                                 No. 1713, Floor-2, 19 Main
                                 Sector-2, HSR Layout
@@ -73,12 +73,12 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="mb-3">
-                            <span class="d-block h5 mb-1">Call us:</span>
+                            <span class="d-block h5 mb-1 text-primary">Call us:</span>
                             <span class="d-block text-body font-size-1">+91-80 2572 9456</span>
                             <span class="d-block text-body font-size-1">+91-888 431 5300</span>
                         </div>
                         <div class="mb-3">
-                            <span class="d-block h5 mb-1">Email us:</span>
+                            <span class="d-block h5 mb-1 text-primary">Email us:</span>
                             <span class="d-block text-body font-size-1">support@yuktix.com</span>
                         </div>
                     </div>

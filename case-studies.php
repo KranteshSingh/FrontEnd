@@ -32,7 +32,7 @@
     <div class="container space-top-3">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="h1">Read our case studies</h2>
+            <h2 class="h1 text-primary">Read our case studies</h2>
             <p>We've helped some great companies, famers, organisation in agriculture domain</p>
         </div>
         <!-- End Title -->

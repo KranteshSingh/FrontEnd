@@ -35,7 +35,7 @@
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
 
-                    <h1>Produce Quality Monitoring</h1>
+                    <h1 class="text-primary">Produce Quality Monitoring</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -61,7 +61,7 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2"></span>
-                <h2>INTRODUCTION</h2>
+                <h2 class="text-primary">INTRODUCTION</h2>
             </div>
             <!-- End Title -->
             <div class="row">
@@ -145,7 +145,7 @@
         <div class="container space-2 space-bottom-sm-3">
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-2">
-                <h2>The Problem</h2>
+                <h2 class="text-primary">The Problem</h2>
                 <p>The user was storing raw produce red dry chili in cold storages across Telangana
                     and Andhra Pradesh. Cold Storages are of the conventional type with floors
                     separated by wooden floors. Chiller is on the top floor and cold air circulates
@@ -162,7 +162,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Always improving</span>
-            <h2>The Challenges</h2>
+            <h2 class="text-primary">The Challenges</h2>
         </div>
         <!-- End Title -->
         <!-- Step -->
@@ -225,11 +225,11 @@
             <div class="row justify-content-lg-between align-items-lg-center">
                 <div class="col-lg-5 mb-9 mb-lg-0">
                     <div class="mb-4">
-                        <h2>Yuktix Solution</h2>
+                        <h2 class="text-primary">Yuktix Solution</h2>
                         <p></p>
                     </div>
                     <div class="media">
-                        <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
@@ -245,7 +245,7 @@
                         </div>
                     </div>
                     <div class="media">
-                        <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
@@ -279,7 +279,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">IMPACT OF YUKTIX DEVICES</span>
-            <h2 class="h1">What we achieved</h2>
+            <h2 class="h1 text-primary">What we achieved</h2>
         </div>
         <!-- End Title -->
         <div class="w-md-80 mx-md-auto">

@@ -33,7 +33,7 @@
         <div class="row align-items-lg-center">
             <div class="col-lg-5 mb-7 mb-lg-0">
                 <div class="mb-4">
-                    <h1>Climate Resiliant Agriculture for Tribal Farmers</h1>
+                    <h1 class="text-primary">Climate Resiliant Agriculture for Tribal Farmers</h1>
                     <H2 class="lead">YUKTIX CASE STUDY</H2>
                     <p></p>
                 </div>
@@ -59,7 +59,7 @@
             <!-- Title -->
             <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
                 <span class="d-block small font-weight-bold text-cap mb-2"></span>
-                <h2>INTRODUCTION</h2>
+                <h2 class="text-primary">INTRODUCTION</h2>
             </div>
             <!-- End Title -->
             <div class="row">
@@ -146,7 +146,7 @@
         <div class="container space-1 space-bottom-sm-2">
             <!-- Title -->
             <div class="w-md-80 w-lg-75 text-center mx-md-auto mb-1 mb-md-1">
-                <h2>The Problem</h2>
+                <h2 class="text-primary">The Problem</h2>
                 <p>The client is a NGO based in Odhisha and work with traibal farmers in the remote locations in Odisha.
                     At present, they don't have information about Micro-weather information about the locations they are
                     working in. Availability of water is these area depend on single sources and with changing climate,
@@ -170,7 +170,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Always improving</span>
-            <h2>The Challenges</h2>
+            <h2 class="text-primary">The Challenges</h2>
         </div>
         <!-- End Title -->
         <!-- Step -->
@@ -221,11 +221,11 @@
             <div class="row justify-content-lg-between align-items-lg-center">
                 <div class="col-lg-5 mb-9 mb-lg-0">
                     <div class="mb-4">
-                        <h2>Yuktix Solution</h2>
+                        <h2 class="text-primary">Yuktix Solution</h2>
                         <p></p>
                     </div>
                     <div class="media">
-                        <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
@@ -242,7 +242,7 @@
                         </div>
                     </div>
                     <div class="media">
-                        <span class="icon icon-xs icon-indigo icon-circle mt-1 mr-3">
+                        <span class="icon icon-xs icon-primary icon-circle mt-1 mr-3">
                             <i class="fas fa-check fa-xs"></i>
                         </span>
                         <div class="media-body">
@@ -280,7 +280,7 @@
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
-                        <h2 class="display-5">How Yuktix is transforming Agriculture with Technology</h2>
+                        <h2 class="display-5 text-primary">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/UaPNqp5ut7U" frameborder="0"
@@ -294,7 +294,7 @@
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
             <span class="d-block small font-weight-bold text-cap mb-2">IMPACT OF YUKTIX DEVICES</span>
-            <h2 class="h1">What we achieved</h2>
+            <h2 class="h1 text-primary">What we achieved</h2>
         </div>
         <!-- End Title -->
         <div class="w-md-80 mx-md-auto">

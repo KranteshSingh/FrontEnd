@@ -76,7 +76,8 @@
                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
                     <li class="nav-item"><a class="nav-link" href="downloads.php">Downloads</a></li>
                     <li class="nav-item"><a class="nav-link" href="ankidb-cloud.php">ankiDB™ Cloud</a></li>
-                    <li class="nav-item"><a class="nav-link" href="ankidb-micro.php">ankiDB™ Micro</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://webm01-dev.yuktix.com:8002/iot/ankidb/"
+                            target="_blank">ankiDB™ Micro</a></li>
 
                 </ul>
                 <!-- End Nav Link -->

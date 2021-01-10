@@ -31,24 +31,32 @@
     <?php include 'includes/header.php'; ?>
     <!--Header end-->
     <!-- Hero Section -->
+   
+    
     <div class="container space-top-3">
         <div class="row justify-content-lg-between align-items-lg-center">
             <div class="col-md-6">
                 <div class="mb-2">
                     <h1 class="display-5 mb-3 text-primary">
-                        Revolutionizing Agriculture
+                        Precision Agriculture
                         <br>
                         <span class="text-primary font-weight-bold">
                             <span class="js-text-animation"></span>
                         </span>
                     </h1>
-                    <p class="lead">Crop Cycles decisions backed by Data. <br>Save 40% on water, <br>20% on insecticide
-                        and increase production by 25%. <br>Be a new generation farmer.</p>
+                    <p class="lead"> Yuktix IoT devices provide accurate  
+                    micro weather, soil and environment data for farm digitization. 
+                    Our greensense app provides data backed soil health, 
+                    irrigation and crop management advisory to ensure more profits 
+                    per acre of land. We would love to hear from you.
                 </div>
                 <div class="d-sm-flex align-items-sm-center flex-sm-wrap">
-                    <a class="btn btn-primary transition-3d-hover mb-2" href="contact.php">About Us</a>
+                    <a class="btn btn-primary transition-3d-hover mb-2" href="contact.php">Contact Us</a>
                     <div class="mx-2"></div>
+                    <a class="btn btn-primary transition-3d-hover mb-2" href="#">Download Brochures</a>
                 </div>
+              
+
             </div>
             <div class="col-sm-10 col-lg-6 mb-0 mb-lg-0">
                 <img class="img-fluid rounded" src="assets/media/images/agriculture/Frame6.jpg"
@@ -57,6 +65,28 @@
         </div>
     </div>
     <!-- End Hero Section -->
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <div>
+                    <div class="w-md-75 w-lg-70 text-center mx-md-auto mb-3 mb-md-9 mt-2">
+                        <h2 class="display-5 text-primary">A second generation farmer speaks</h2>
+                    </div>
+                    <p>
+                    His family has been in large scale farming of taiwanese guavas and other produce for the past 25 years. 
+                    To him, every sapling on his farm is like a child that needs to be nurtured and cared for. That is why it is 
+                    important to get an honest feedback from Shankar about our technologies.  
+                    </p>
+                    <div class="embed-responsive embed-responsive-16by9 rounded"><iframe class="embed-responsive-item"
+                            width="920" height="450" src="https://www.youtube.com/embed/QNXhiP2UhsY" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
@@ -64,8 +94,9 @@
                     <img src="assets\media\images\case-studies\6.png" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
-                    <h3>Increase Farm Production by 20% using Scientific Advisory</h3>
+                    <h3>Greensense - Your own digital agronomist</h3>
                     <p>
+
                         India is behind US, china and other european countries in terms of productivity / acre. The
                         reason behind this is un-availibilty of scitific advisory backed by data. This leads to low
                         productivity.
@@ -87,14 +118,19 @@
                     <img src="assets\media\images\case-studies\5.png" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Save 40% Water</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
-                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                        and more recently with desktop publishing software like Aldus PageMaker including versions of
-                        Lorem Ipsum.
+                    <h3>Soil intelligence</h3>
+                    <p>
+                    The amount of soil moisture available at the root zone can decide
+                    the health of the crop. Accurate soil moisture can help you avoid water stress 
+                    and ensure that the plants are healthy to provide more profits. 
+                    
+                    Yuktix provides accurate soil moisture devices to detect soil 
+                    volumetric water content at multiple depths to predict water 
+                    stress and send irrigation advisory. With our award winning wireless 
+                    technology, you can easily create a network of soil moisture sensors 
+                    that run on solar power.
+
+
                     </p>
                     <a href="smart-irrigation.php">Yuktix Soil Moisture Sensor</a> | <a
                         href="table-grape-grower-in-karnataka.php">Case Study</a>
@@ -106,7 +142,7 @@
                     <img src="assets\media\images\case-studies\5.png" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8" data-aos="fade-up">
-                    <h3>Reduce Pesticide Spray by 20-25% and Reduce residure problem</h3>
+                    <h3>Disease management</h3>
                     <p>Micro-weather play a major role in pest and disease attack. Without information about the
                         micro-weather, farmer spray excessive pesticide to make erredicate pest and disease. This leads
                         to excessive resource utilization, more investment of money and residue problem.
@@ -123,70 +159,12 @@
             <br>
         </div>
     </section><!-- End Details Section -->
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-md-8 text-center">
-                <div>
-                    <div class="w-md-75 w-lg-70 text-center mx-md-auto mb-3 mb-md-9 mt-2">
-                        <h2 class="display-5 text-primary">Changing the way How Agriculture is Done
-                        </h2>
-                    </div>
-                    <div class="embed-responsive embed-responsive-16by9 rounded"><iframe class="embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/QNXhiP2UhsY" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br><br>
+
+    
     <!-- ======= Case Study Section ======= -->
-    <section id="details" class="details">
-        <div class="container">
-            <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
-                    <img src="assets\media\images\case-studies\10.jpeg" class="img-fluid rounded" alt="TRIBAL FARMER">
-                </div>
-                <div class="col-md-8" data-aos="fade-up">
-                    <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
-                    <br>
-                    <p class="lead">
-                        With changing climate, there is no digital input for tribal farmers to use climate smart
-                        agriculture practices. Farmers produce is effected by changing land patterns, rainfall and
-                        excessive use of pesticide and insecticide
-                    </p>
-                    <br>
-                    <a href="climate-resiliant-agriculture-tribal.php">
-                        <p>
-                            <b>Read the Full Case Study ></b>
-                        </p>
-                    </a>
-                </div>
-            </div>
-            <div class="row content align-items-lg-center">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
-                </div>
-                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Smart Guava Farm</h3>
-                    <br>
-                    <p class="lead">
-                        Increase in yield by 25%, reduction in loss by 20% due to absence of information about soil
-                        moisture and amount of rain. <br>
-                        Jai Javan, Jai Vigyaan.
-                    </p>
-                    <br>
-                    <a href="next-generation-guava-plantation.php">
-                        <p>
-                            <b>Read the full case study ></b>
-                        </p>
-                    </a>
-                </div>
-            </div>
-    </section>
-    <?php
-    include 'includes/footer.php';
-    ?>
+   
+
+    <?php include 'includes/footer.php';?>
     <!-- Global Scripts-->
     <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>

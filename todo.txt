@@ -1,13 +1,13 @@
 
 # All pages 
 
-- Pages should have the right titles 
-- Pages should have the right meta tags 
-- Pages should be checked for performance 
+- Pages should have the right titles (DONE)
+- Pages should have the right meta tags (DONE)
+- Pages should be checked for performance (DONE)
 
 
 # Agriculture page 
-    - Greensense Dashboard demo 
+    - Greensense Dashboard demo
     - Soil intelligence  
     - Technology behind it 
         - wireless setup -> 

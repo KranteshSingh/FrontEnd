@@ -18,14 +18,12 @@
     <!--CSS for Hero Section -->
     <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
     <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
-
     <link rel="stylesheet" href="assets/vendor/aos/dist/aos.css">
     <!-- CSS Front -->
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <?php include 'includes/tracking.inc'; ?>
 </head>
-
 
 <body>
     <!-- Header -->
@@ -53,8 +51,7 @@
                                 </span>
                             </h1>
                             <p class="lead text-white herotext">
-                            Boost farm productivity using smart sensors and data intelligence. </p>
-
+                                Boost Farm Productivity Using Smart Sensors and Data Intelligence.</p>
                         </div>
                     </div>
                 </div>
@@ -62,18 +59,18 @@
         </div>
     </div>
     <!-- End Hero Section -->
-
     <!-- CTA Section -->
-    <div class="container-fluid space-1 gradient-y-sm-primary">
+    <div class="container-fluid space-1 gradient-y-sm-primary w-lg-70">
         <div class="row content align-items-lg-center mx-md-auto">
             <div class="col-lg-12">
                 <div class="text-center py-6">
                     <h2 class="display-5 hcolor">What We Do</h2>
-                    <p class="lead pl-10 pr-10">Yuktix provides agri intelligence systems to assist
+                    <p class="lead pl-10 pr-10">Yuktix provides Agri Intelligence Systems to assist
                         growers in
                         increasing
                         productivity and reducing risks to create a sustainable and food secure world.</p>
-                    <span class="d-block mt-1">
+                    <br>
+                    <span class="d-block mt-2">
                         <a class="btn btn-primary transition-3d-hover" href="about.php">About Yuktix</a>
                     </span>
                 </div>
@@ -82,11 +79,10 @@
     </div>
     <!-- End CTA Section -->
     <!-- Features Section -->
-    <div class="container space-1">
+    <div class="container space-top-1">
         <!-- Title -->
-        <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="display-5 hcolor">How we help growers</h2>
-            <p class="lead">&nbsp;</p>
+        <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-3 mb-md-9">
+            <h2 class="display-5 hcolor">How We Help Growers?</h2>
         </div>
         <!-- End Title -->
     </div>
@@ -101,9 +97,9 @@
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
                         <h3 class="hcolor">Accurate monitoring</h3>
-                        <p class="text-body font-size-1">Use ground bases IoT devices and advance ML to 
-                        boost productivity of every acre. We provide weather forecasts, soil advisory, 
-                        irrigation schedule and more.
+                        <p class="text-body font-size-1">IoT devices and Advance ML to
+                            boost productivity of every acre. We provide weather forecasts, soil advisory,
+                            irrigation scheduling and more.
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -117,15 +113,16 @@
                 <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
-
                             <img class="avatar-img" src="assets/svg/icons/icon-31.svg" alt="Logo">
-
                         </figure>
                         <h3 class="hcolor">Disease management</h3>
-                        <p class="text-body font-size-1">
-                        Use weather linked disease modeling to 
-                        predict problems before they happen. 
-                       </p>
+                        <p class="text-body font-size-1"><br>
+
+                            Weather linked disease modeling systems to
+                            predict problems before they happen.
+                            <br>
+
+                        </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
                         </div>
@@ -141,10 +138,11 @@
                             <i class="fas fa-water fa-3x"></i>
                         </figure>
                         <h3 class="hcolor">Digital agronomy</h3>
-                        <p class="text-body font-size-1">
-                        Use kamera app to report problems or connect with 
-                        an agronomist to discuss crop management.
-                            
+                        <p class="text-body font-size-1"><br>
+                            Use kamera app to report problems or connect with
+                            an agronomist to discuss crop management.
+                            <br>
+
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -168,14 +166,11 @@
                     <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
                     <br>
                     <p class="lead">
-                        Farm produce is affected by a changing climate, land patterns, 
-                        unpredictable rainfall and excessive use of pesticides. 
-                        Tribal farmers in Orissa need digital data to face the challenges of climate change. 
-                        Learn how Yuktix is working with Gram Vikas to install climate smart 
-                        agriculture practices. 
-
-                     
-
+                        Farm produce is affected by a changing climate, land patterns,
+                        unpredictable rainfall and excessive use of pesticides.
+                        Tribal farmers in Orissa need digital data to face the challenges of climate change.
+                        Learn how Yuktix is working with Gram Vikas to install climate smart
+                        agriculture practices.
                     </p>
                     <br>
                     <a href="climate-resiliant-agriculture-tribal.php">
@@ -193,11 +188,11 @@
                     <h3>Smart Guava Farm in Kolar</h3>
                     <br>
                     <p class="lead">
-                    A guava farm faced the challenges of falling fruits because of 
-                    excessive soil moisture. The growers had no information on weather 
-                    or soil data. Yuktix provided accurate soil advisory to boost production 
-                    by 25%.  
-                    <br>
+                        A guava farm faced the challenges of falling fruits because of
+                        excessive soil moisture. The growers had no information on weather
+                        or soil data. Yuktix provided accurate soil advisory to boost production
+                        by 25%.
+                        <br>
                         Jai Kishan, Jai Vigyaan.
                     </p>
                     <br>
@@ -210,7 +205,7 @@
             </div>
     </section>
     <div>
-        <h2 class="display-5 text-center hcolor mt-5">Yuktix customers </h2>
+        <h2 class="display-5 text-center hcolor mt-5">Who We Help?</h2>
     </div>
     <!-- Articles Section -->
     <div class="container space-2">
@@ -222,10 +217,52 @@
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor"> Growers</h3>
-                        <p class="text-body font-size-1"><br>We provide support for Tomato, 
-                        Potato, melon and capsicum. Contact us for horticulture 
-                        crops and Greenhouse cultivation. 
+                        <h3 class="hcolor">Growers</h3>
+                        <p class="text-body font-size-1">We provide support for Tomato,
+                            Potato, Melon, Capsicum, Horticulture
+                            Crops and Greenhouse cultivation.
+                            <br>
+                            <br><br>
+                        </p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+
+            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-70 text-center transition-3d-hover cardshadow"
+                    href="climate-resiliant-agriculture-tribal.php">
+                    <div class="card-body pt-5 px-5">
+                        <figure class="avatar mx-auto mb-1">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3 class="hcolor">Farmer Producer Organizations</h3>
+                        <p class="text-body font-size-1">NGO or a FPO working with farmers
+                            and want
+                            to use next
+                            generation digital tools to provide agriculture advisory.<br><br></p>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </div>
+                </a>
+                <!-- End Card -->
+            </div>
+            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+                <!-- Card -->
+                <a class="card h-70 text-center transition-3d-hover cardshadow" href="research-institutes-and-ngo.php">
+                    <div class="card-body pt-5 px-5">
+                        <figure class="avatar mx-auto mb-1">
+                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
+                        </figure>
+                        <h3 class="hcolor">Research Institutes</h3>
+                        <p class="text-body font-size-1">Researchers from premium
+                            institutions solving their automated field data gathering, reporting and model
+                            development problems.
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -244,47 +281,12 @@
                         </figure>
                         <h3 class="hcolor">Plantations</h3>
                         <p class="text-body font-size-1">
-                        Yuktix solutions help 
-                        Tea, Coffee and Coconut planations.</p>
-                        <div class="card-footer border-0 pt-0">
-                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                        </div>
-                    </div>
-                </a>
-                <!-- End Card -->
-            </div>
-            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
-                <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow"
-                    href="climate-resiliant-agriculture-tribal.php">
-                    <div class="card-body pt-5 px-5">
-                        <figure class="avatar mx-auto mb-1">
-                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
-                        </figure>
-                        <h3 class="hcolor">Farmer producer Organizations.</h3>
-                        <p class="text-body font-size-1">Are you a NGO or a FPO working with a group of farmers
-                            and want
-                            to use next
-                            generation digital tools to provide advisory to your farmers</p>
-                        <div class="card-footer border-0 pt-0">
-                            <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                        </div>
-                    </div>
-                </a>
-                <!-- End Card -->
-            </div>
-            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
-                <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="research-institutes-and-ngo.php">
-                    <div class="card-body pt-5 px-5">
-                        <figure class="avatar mx-auto mb-1">
-                            <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
-                        </figure>
-                        <h3 class="hcolor">Research Institutes</h3>
-                        <p class="text-body font-size-1">Yuktix is working with researchers from premium 
-                        institutions solving their automated field data gathering, reporting and model 
-                        development problems. 
-                        
+                            Yuktix solutions help People in Plantation of
+                            Tea, Coffee and Coconut Planations.
+                            <br>
+                            <br>
+                            <br>
+                            <br>
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -301,7 +303,7 @@
             <div class="col-md-8 text-center">
                 <div>
                     <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-2">
-                        <h2 class="display-5 hcolor">1 minute introduction video</h2>
+                        <h2 class="display-5 hcolor">What We Do in 1 Minute Video</h2>
                     </div>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
                             width="920" height="450" src="https://www.youtube.com/embed/Bw4UZXs_3TY" frameborder="0"
@@ -312,13 +314,11 @@
         </div>
     </div>
     <br>
-
     <!-- Hero Section -->
     <div class="bg-img-hero">
         <div class="container space-2 space-lg-1">
             <div class="w-lg-70 text-center mx-lg-auto">
                 <h2 class="display-5 hcolor">Our Technology</h2>
-                
                 <p class="lead">Monitor your agriculture farm, plantation, research field micro-weather,
                     soil parameters
                     with the
@@ -339,7 +339,6 @@
         </div>
     </div>
     <!-- ======= Case Study Section ======= -->
-
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
@@ -387,7 +386,6 @@
                 </div>
             </div>
     </section>
-
     <?php
     include 'includes/footer.php';
     ?>

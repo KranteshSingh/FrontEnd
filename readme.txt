@@ -1,4 +1,4 @@
-Paste below code When Files are in Deployed in .htacess
+Paste below code When Files are Deployed in Server -> .htacess
 
 # Compress text, html, javascript, css, xml:
 AddOutputFilterByType DEFLATE text/plain

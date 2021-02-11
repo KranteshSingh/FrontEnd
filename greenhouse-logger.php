@@ -354,7 +354,7 @@
                 <div class="device-wrapper">
                     <div class="device">
                         <div class="text-center">
-                            <img class="img-fluid" src="assets\media\images\mockups\greenhousedashboard.png"
+                            <img class="img-fluid" src="assets\media\images\mockups\dashboardmockup.jpeg"
                                 alt="Image Description">
                         </div>
                     </div>
@@ -432,19 +432,20 @@
         <div class="container">
             <div class="row content align-items-lg-center">
                 <div class="col-md-4">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                    <img src="assets/media/images/case-studies/9.png" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8">
-                    <h3>Case Study 1</h3>
+                    <h3>Multinational Seed & Fertilizers Company | Case Study</h3>
                     <br>
                     <p class="lead">
-                        Manage your agriculture devices and data over the Yuktix device cloud. Provision and
-                        categorize
-                        devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run different
-                        processing pipelines, integrate with google big query or Microcoft azure.
+                        The client is a Miltiational company. One of their VRS ( vegetable research center ) and seed
+                        production facility is working with farmers growing tomato for seeds in multiple locatons.
+                        Irrigation play a important role in tomato. At present the company research team and production
+                        team don't have information about the irrigation done by the farmers i.e. if they are under
+                        irrigating or over irrigating.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="multinational-agruculture-seed-fertilizers.php">
                         <p>
                             <b>Learn More</b>
                         </p>
@@ -459,10 +460,7 @@
                     <h3>Case Study 2</h3>
                     <br>
                     <p class="lead">
-                        Plug multiple agriculture sensors into the low powered device nodes with solar charging and
-                        battery back-up. Multiple wireless options available. On-board memory and processing.
-                        <br>
-                        The ankiDB micro stack comprises of hardware nodes and routers and firmware.
+                        Yet to be updated.
                     </p>
                     <br>
                     <a href="#">

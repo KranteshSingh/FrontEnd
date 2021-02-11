@@ -612,20 +612,20 @@
         <div class="container">
             <div class="row content align-items-lg-center">
                 <div class="col-md-4">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid b-lazy rounded" alt="">
+                    <img src="assets\media\images\case-studies\4.png" class="img-fluid b-lazy rounded" alt="">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
-                    <h3>Case Study 1</h3>
+                <div class="col-md-8">
+                    <h3>Research Institutes and NGO | Case Study</h3>
                     <br>
                     <p class="lead">
-                        Manage your agriculture devices and data over the Yuktix device cloud. Provision and
-                        categorize
-                        devices, view trends, analyze data and set rule base alerts. Deploy inpremise, run
-                        different
-                        processing pipelines, integrate with google big query or Microcoft azure.
+                        Bangalore is one of the fastest growing urban areas in the world. A major hindrance to any
+                        microclimate studies is the easy availability of weather data that can be shared easily between
+                        researchers and agencies. Bangalore open weather network is the largest open urban weather
+                        network in India that uses Yuktix micro weather stations to provide free weather data to any
+                        researcher
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="research-institutes-and-ngo.php">
                         <p>
                             <b>Learn More</b>
                         </p>
@@ -634,22 +634,19 @@
             </div>
             <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid b-lazy rounded" alt="">
+                    <img src="assets\media\images\case-studies\10.jpeg" class="img-fluid b-lazy rounded" alt="">
                 </div>
-                <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Case Study 2</h3>
+                <div class="col-md-8 pt-5 order-2 order-md-1">
+                    <h3>Climate Resiliant Agriculture for Tribal Farmers | Case Study</h3>
                     <br>
                     <p class="lead">
-                        Plug multiple agriculture sensors into the low powered device nodes with solar
-                        charging
-                        and
-                        battery back-up. Multiple wireless options available. On-board memory and
-                        processing.
-                        <br>
-                        The ankiDB micro stack comprises of hardware nodes and routers and firmware.
+                        The client is a NGO based in Odhisha and work with traibal farmers in the remote locations in
+                        Odisha. At present, they don't have information about Micro-weather information about the
+                        locations they are working in. Availability of water is these area depend on single sources and
+                        with changing climate, they want to optimize the water usage.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="climate-resiliant-agriculture-tribal.php">
                         <p>
                             <b>Learn More ></b>
                         </p>

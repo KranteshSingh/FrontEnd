@@ -283,7 +283,8 @@
                 <h2 class="text-primary">Interested in trying out ankiDB™ IOT Cloud?</h2>
                 <p>Read more how we used ankiDB™ cloud in different use cases</p>
                 <span class="d-block mt-5">
-                    <a class="btn btn-primary transition-3d-hover" href="#">Explore ankiDB™ Cloud
+                    <a class="btn btn-primary transition-3d-hover"
+                        href="http://webm01-dev.yuktix.com:8002/iot/ankidb/">Explore ankiDB™ Cloud
                     </a>
                 </span>
             </div>

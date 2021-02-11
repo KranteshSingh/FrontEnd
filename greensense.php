@@ -295,10 +295,10 @@
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
+                <div class="col-md-4">
                     <img src="assets\media\images\case-studies\6.png" class="img-fluid rounded" alt="TRIBAL FARMER">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
+                <div class="col-md-8">
                     <h3>Jhulsa for Muskmellon Farm</h3>
                     <br>
                     <p class="lead">
@@ -315,10 +315,10 @@
                 </div>
             </div>
             <div class="row content align-items-lg-center">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                <div class="col-md-4 order-1 order-md-2">
                     <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
                 </div>
-                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
+                <div class="col-md-8 order-2 order-md-1">
                     <h3>Smart Guava Farm</h3>
                     <br>
                     <p class="lead">

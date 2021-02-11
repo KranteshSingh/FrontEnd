@@ -90,10 +90,10 @@
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
+                <div class="col-md-4">
                     <img src="assets\media\images\case-studies\6.png" class="img-fluid rounded" alt="">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
+                <div class="col-md-8">
                     <h3>Greensense - Your own digital agronomist</h3>
                     <p>
                         India is behind US, china and other european countries in terms of productivity / acre. The
@@ -113,10 +113,10 @@
             </div>
             <br><br>
             <div class="row content align-items-lg-center">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                <div class="col-md-4 order-1 order-md-2">
                     <img src="assets\media\images\case-studies\5.png" class="img-fluid rounded" alt="">
                 </div>
-                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
+                <div class="col-md-8 order-2 order-md-1">
                     <h3>Soil intelligence</h3>
                     <p>
                         The amount of soil moisture available at the root zone can decide
@@ -136,10 +136,10 @@
             </div>
             <br><br>
             <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
+                <div class="col-md-4">
                     <img src="assets\media\images\case-studies\5.png" class="img-fluid rounded" alt="">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
+                <div class="col-md-8">
                     <h3>Disease management</h3>
                     <p>Micro-weather play a major role in pest and disease attack. Without information about the
                         micro-weather, farmer spray excessive pesticide to make erredicate pest and disease. This leads

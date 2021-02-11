@@ -318,10 +318,10 @@
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
+                <div class="col-md-4">
                     <img src="assets/media/images/case-studies/1.png" class="img-fluid rounded" alt="">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
+                <div class="col-md-8">
                     <h3>Farm Asset Management company</h3>
                     <br>
                     <p class="lead">
@@ -337,10 +337,10 @@
                 </div>
             </div>
             <div class="row content align-items-lg-center">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                <div class="col-md-4 order-1 order-md-2">
                     <img src="assets/media/images/case-studies/9.png" class="img-fluid rounded" alt="">
                 </div>
-                <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+                <div class="col-md-8 pt-5 order-2 order-md-1">
                     <h3>Multinational seed and fertilizer company</h3>
                     <br>
                     <p class="lead">

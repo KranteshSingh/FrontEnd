@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sensor Catalog | Yuktix</title>
+    <title>Sensor Catalog | Yuktix Technologies</title>
+    <meta name="description" content="Automatic Weather Station Sensor Catalog Specification">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

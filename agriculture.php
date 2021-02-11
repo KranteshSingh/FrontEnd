@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <title>Agriculture | Yuktix</title>
+    <title>Agriculture | Yuktix Technologies</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+        content="Yuktix IoT devices provide accurate micro weather, soil, and environment data for farm digitization.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

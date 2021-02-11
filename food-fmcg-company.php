@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Food FMCG Company | Yuktix</title>
+    <title>Food FMCG Company | Yuktix Case Study</title>
+    <meta name="description"
+        content="Yuktix Case Study. The client wanted to test the effectiveness of a new soil moisture absorbent molecule in remote location">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

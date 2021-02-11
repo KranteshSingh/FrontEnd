@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Technology | Yuktix</title>
+    <title>Technology | Yuktix Technologies</title>
+    <meta name="description"
+        content="Turn your physical assets into digital data sources with the help of Yuktix ankiDB™ cloud.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

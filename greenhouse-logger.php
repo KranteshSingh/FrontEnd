@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Greenhouse Logger | Yuktix</title>
+    <title>Greenhouse Logger | Yuktix Technologies</title>
+    <meta name="description"
+        content="Deploy Yuktix Greenhouse Logger device to monitor, Analyze and maintain micro-weather of your GreenHouse.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -47,7 +49,8 @@
             <div class="col-md-6 d-none d-md-inline-block">
                 <!-- SVG Illustration -->
                 <figure class="w-100">
-                    <img class="img-fluid rounded" src="https://dummyimage.com/700x500/000/fff" alt="About Yuktix">
+                    <img class="img-fluid rounded" src="assets\media\images\greensense\greensenselogger.png"
+                        alt="About Yuktix">
                 </figure>
                 <!-- End SVG Illustration -->
             </div>
@@ -350,7 +353,10 @@
                 <!-- Device Mockup -->
                 <div class="device-wrapper">
                     <div class="device">
-                        <img class="img-fluid" src="https://dummyimage.com/1280x720/000/fff" alt="Image Description">
+                        <div class="text-center">
+                            <img class="img-fluid" src="assets\media\images\mockups\greenhousedashboard.png"
+                                alt="Image Description">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -413,7 +419,7 @@
                     <h2 class="text-center text-primary">How GreenHouse Logger Works</br></h2>
                     <br>
                     <div class="embed-responsive embed-responsive-16by9"><iframe class="rounded embed-responsive-item"
-                            width="920" height="450" src="https://www.youtube.com/embed/Hfm94aHAbYQ" frameborder="0"
+                            width="920" height="450" src="https://www.youtube.com/embed/GQNM0w6UCN4" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe></div>
                 </div>

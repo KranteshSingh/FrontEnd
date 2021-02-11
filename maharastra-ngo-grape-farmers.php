@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Maharastra NGO Grape Farming | Yuktix</title>
+    <title>Maharastra NGO Grape Farming | Yuktix Case Study</title>
+    <meta name="description"
+        content="Yuktix Case Study. The client is a big NGO working with farmers with a Agri-enterpreneur model.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Next Generation Guava Plantation | Yuktix</title>
+    <title>Next Generation Guava Plantation | Yuktix Case Study</title>
+    <meta name="description"
+        content="Yuktix Case Study. The client is doing Guava Plantation in a district in Karnataka.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

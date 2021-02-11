@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <title>About | Yuktix</title>
+    <title>About | Yuktix Technologies</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Yuktix is a DIPP (Department of Industrial promotion and Policy) recognized startup
+                        and creating solutions for Agricultural Insudtry">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -38,10 +40,9 @@
                         registered MSME working to create indigenous remote monitoring and sensor analytic solutions</p>
                 </div>
                 <div class="mb-3">
-                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="/agriculture">Get
+                    <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mr-3" href="agriculture.php">Get
                         Started</a>
-                    <a class="btn btn-link mb-2 mb-sm-0" href="contact.php">Let's Talk <i
-                            class="fas fa-angle-right fa-sm ml-1"></i></a>
+
                 </div>
                 <!-- End Info -->
             </div>

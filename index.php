@@ -5,6 +5,8 @@
     <title>Yuktix | Agriculture Sensing Solutions</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+        content="Yuktix is an Agritech startup based out of Bangalore. We are creating sensor-based Agri-Intelligence Systems to assist growers in increasing Productivity & Yield">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets\favicon\favicon.ico">
     <!-- Font -->
@@ -23,6 +25,31 @@
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <?php include 'includes/tracking.inc'; ?>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Yuktix Technologies PVT. LTD.",
+        "alternateName": "Yuktix Technologies",
+        "url": "https://www.yuktix.com",
+        "logo": "https://www.yuktix.com/assets/svg/logos/yuktix-logo.svg",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+918884315300",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": "en"
+        },
+        "sameAs": [
+            "https://www.facebook.com/yuktix",
+            "https://twitter.com/yuktix",
+            "https://www.instagram.com/yuktix/",
+            "https://www.youtube.com/channel/UCq53oREIZsL_GX039MMeliw",
+            "https://www.linkedin.com/company/yuktix",
+            "https://www.yuktix.com"
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -87,7 +114,7 @@
         <!-- End Title -->
     </div>
     <!-- Articles Section -->
-    <div class="container" data-aos="zoom-in-up">
+    <div class="container">
         <div class="row">
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
@@ -159,10 +186,10 @@
     <section id="details" class="details gradient-y-sm-primary">
         <div class="container">
             <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
+                <div class="col-md-4">
                     <img src="assets\media\images\case-studies\10.jpeg" class="img-fluid rounded" alt="TRIBAL FARMER">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
+                <div class="col-md-8">
                     <h3>Climate Resiliant Agriculture for Tribal Farmers</h3>
                     <br>
                     <p class="lead">
@@ -181,10 +208,10 @@
                 </div>
             </div>
             <div class="row content align-items-lg-center">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                <div class="col-md-4 order-1 order-md-2">
                     <img src="assets\media\images\case-studies\8.png" class="img-fluid rounded" alt="GUAVA PLANTATION">
                 </div>
-                <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
+                <div class="col-md-8 order-2 order-md-1">
                     <h3>Smart Guava Farm in Kolar</h3>
                     <br>
                     <p class="lead">
@@ -342,10 +369,10 @@
     <section id="details" class="details">
         <div class="container">
             <div class="row content align-items-lg-center">
-                <div class="col-md-4" data-aos="fade-right">
+                <div class="col-md-4">
                     <img src="assets/media/images/mockups/gdashboard.png" class="img-fluid" alt="">
                 </div>
-                <div class="col-md-8" data-aos="fade-up">
+                <div class="col-md-8">
                     <h3>ankiDB™ cloud</h3>
                     <br>
                     <p class="lead">
@@ -364,10 +391,10 @@
                 </div>
             </div>
             <div class="row content align-items-lg-center">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+                <div class="col-md-4 order-1 order-md-2">
                     <img src="assets/media/images/technology/yuktixdevice.png" class="img-fluid" alt="">
                 </div>
-                <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+                <div class="col-md-8 pt-5 order-2 order-md-1">
                     <h3>ankiDB™ micro</h3>
                     <br>
                     <p class="lead">

@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <title>Automatic Weather Station | Yuktix</title>
+    <title>Automatic Weather Station | Yuktix Technologies</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+        content="Yuktix Solar-powered weather stations provide real-time weather conditions anytime from anywhere.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -474,7 +476,7 @@
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="350">
-                        <a href="assets/media/images/aws/ws9.jpegf" class="venobox" data-gall="gallery-item">
+                        <a href="assets/media/images/aws/ws9.jpeg" class="venobox" data-gall="gallery-item">
                             <img src="assets/media/images/aws/ws9.jpeg" alt="" class="img-fluid b-lazy">
                         </a>
                     </div>

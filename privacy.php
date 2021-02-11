@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | Yuktix</title>
+    <title>Privacy Policy | Yuktix Technologies</title>
+    <meta name="description" content="Yuktix Technologies PVT. LTD. Privacy Policy">
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap" rel="stylesheet">

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Climate Resiliant Agriculture for Tribal Farmers | Yuktix</title>
+    <title>Climate Resiliant Agriculture for Tribal Farmers | Yuktix Technologies</title>
+    <meta name="description"
+        content="Yuktix Case Study. The client is a NGO based in Odhisha and work with tribal farmers in the remote locations in Odisha.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

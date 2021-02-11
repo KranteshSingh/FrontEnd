@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Multinational Seed & Fertilizers Company | Yuktix</title>
+    <title>Multinational Seed & Fertilizers Company | Yuktix Case Study</title>
+    <meta name="description"
+        content="The client is a Multinational company. One of their VRS (Vegetable Research Center) and seed production facility.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

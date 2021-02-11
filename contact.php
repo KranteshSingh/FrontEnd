@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <title>Contact Us | Yuktix</title>
+    <title>Contact Us | Yuktix Technologies</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+        content="We'd love to talk about how we can help you. Call us: +91-8025729456 & +91-8884315300 Email us - support@yuktix.com">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

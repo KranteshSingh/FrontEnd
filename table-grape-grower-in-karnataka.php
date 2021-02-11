@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Table Grape Grower in Karnataka | Yuktix</title>
+    <title>Table Grape Grower in Karnataka | Yuktix Technologies</title>
+    <meta name="description"
+        content="The client wanted an economical solution to accurately predict the onset of disease so that pesticide spraying can be regulated more effectively">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

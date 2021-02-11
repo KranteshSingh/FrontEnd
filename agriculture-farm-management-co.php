@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Agriculture Farm Management Co. | Yuktix</title>
+    <title>Agriculture Farm Management Co. | Yuktix Technologies</title>
+    <meta name="description"
+        content="Yuktix Case Study for an Agriculture Farm Management Company. The client is in the business of developing farming lands.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

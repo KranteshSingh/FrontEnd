@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Commodities Trader Company | Yuktix</title>
+    <title>Commodities Trader Company | Yuktix Case Study</title>
+    <meta name="description"
+        content="Yuktix Case Study. The Client was storing raw produce red dry chili in cold storages across Telangana and Andhra Pradesh.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ankiDB Micro | Yuktix </title>
+    <title>ankiDB Micro | Yuktix Technologies</title>
+    <meta name="description"
+        content="Yuktix ankiDB™ micro supports a wide range of hardware which solves some real-world challenges like capturing real-time data 24x7">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

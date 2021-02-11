@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart Irrigation | Yuktix</title>
+    <title>Smart Irrigation | Yuktix Technologies</title>
+    <meta name="description"
+        content="Save 40% of water and 30% on power used in Irrigation. Monitor your agriculture farm land soil moisture 24x7 from anywhere, anytime using Yukix Soil Sensors.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

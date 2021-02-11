@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Greensense | Yuktix</title>
+    <title>Greensense | Yuktix Technologies</title>
+    <meta name="description"
+        content="Using Next Generation IoT Devices, Increase Yield & Reduce Losses & Become a Next Generation Farmer">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ankiDB Cloud | Yuktix </title>
+    <title>ankiDB Cloud | Yuktix Technologies</title>
+    <meta name="description" content="Yuktix ankiDB Cloud">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

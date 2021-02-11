@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ankiDB Micro | Yuktix </title>
+    <title>OPT IN | Yuktix Technologies</title>
+    <meta name="description" content="">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

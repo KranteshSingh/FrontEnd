@@ -3,8 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
+    <title>Downloads | Yuktix Technologies</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Downloads | Yuktix </title>
+    <meta name="description" content="Download Various Digital Resouces Related to Our Product & Services">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -31,7 +32,7 @@
     <div class="container space-top-3">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-            <h2 class="h1 text-primary">Download Resources</h2>
+            <h1 class="h1 text-primary">Download Resources</h1>
             <p>Download Various Resouces Related to Our Product & Services</p>
         </div>
         <!-- End Title -->
@@ -57,7 +58,7 @@
                     <img class="card-img-top" src="assets\media\images\downloads\2.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix
-                            Introduction<br><br>
+                            Kannanda Brochure<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
                                 data-target="#staticBackdrop2">
                                 Download Now
@@ -71,7 +72,8 @@
                 <a class="card h-100 transition-3d-hover" href="#staticBackdrop3">
                     <img class="card-img-top" src="assets\media\images\downloads\3.png" alt="Image Description">
                     <div class="card-body">
-                        <span class="d-block small font-weight-bold text-cap mb-2 text-center">Kannanda Poster<br><br>
+                        <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix
+                            Introduction<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
                                 data-target="#staticBackdrop3">
                                 Download Now
@@ -163,32 +165,7 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="staticBackdropLabel2">Download Yuktix Introduction</h5>
-                    <button type="button" class="btn btn-xs btn-icon btn-soft-secondary" data-dismiss="modal"
-                        aria-label="Close">
-                        <svg aria-hidden="true" width="10" height="10" viewBox="0 0 18 18"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path fill="currentColor"
-                                d="M11.5,9.5l5-5c0.2-0.2,0.2-0.6-0.1-0.9l-1-1c-0.3-0.3-0.7-0.3-0.9-0.1l-5,5l-5-5C4.3,2.3,3.9,2.4,3.6,2.6l-1,1 C2.4,3.9,2.3,4.3,2.5,4.5l5,5l-5,5c-0.2,0.2-0.2,0.6,0.1,0.9l1,1c0.3,0.3,0.7,0.3,0.9,0.1l5-5l5,5c0.2,0.2,0.6,0.2,0.9-0.1l1-1 c0.3-0.3,0.3-0.7,0.1-0.9L11.5,9.5z" />
-                        </svg>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="_form_5"></div>
-                    <script src="https://yuktix.activehosted.com/f/embed.php?id=5" type="text/javascript"
-                        charset="utf-8"></script>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Modal 2 End -->
-    <!-- Modal 3 -->
-    <div class="modal fade" id="staticBackdrop3" data-backdrop="static" tabindex="-1" role="dialog"
-        aria-labelledby="staticBackdropLabel3" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="staticBackdropLabel3">Download Yuktix Kannanda Poster</h5>
+                    <h5 class="modal-title" id="staticBackdropLabel2">Download Yuktix Kannada Brochure</h5>
                     <button type="button" class="btn btn-xs btn-icon btn-soft-secondary" data-dismiss="modal"
                         aria-label="Close">
                         <svg aria-hidden="true" width="10" height="10" viewBox="0 0 18 18"
@@ -201,6 +178,31 @@
                 <div class="modal-body">
                     <div class="_form_7"></div>
                     <script src="https://yuktix.activehosted.com/f/embed.php?id=7" type="text/javascript"
+                        charset="utf-8"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal 2 End -->
+    <!-- Modal 3 -->
+    <div class="modal fade" id="staticBackdrop3" data-backdrop="static" tabindex="-1" role="dialog"
+        aria-labelledby="staticBackdropLabel3" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel3">Download Yuktix Introduction</h5>
+                    <button type="button" class="btn btn-xs btn-icon btn-soft-secondary" data-dismiss="modal"
+                        aria-label="Close">
+                        <svg aria-hidden="true" width="10" height="10" viewBox="0 0 18 18"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path fill="currentColor"
+                                d="M11.5,9.5l5-5c0.2-0.2,0.2-0.6-0.1-0.9l-1-1c-0.3-0.3-0.7-0.3-0.9-0.1l-5,5l-5-5C4.3,2.3,3.9,2.4,3.6,2.6l-1,1 C2.4,3.9,2.3,4.3,2.5,4.5l5,5l-5,5c-0.2,0.2-0.2,0.6,0.1,0.9l1,1c0.3,0.3,0.7,0.3,0.9,0.1l5-5l5,5c0.2,0.2,0.6,0.2,0.9-0.1l1-1 c0.3-0.3,0.3-0.7,0.1-0.9L11.5,9.5z" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="_form_5"></div>
+                    <script src="https://yuktix.activehosted.com/f/embed.php?id=5" type="text/javascript"
                         charset="utf-8"></script>
                 </div>
             </div>

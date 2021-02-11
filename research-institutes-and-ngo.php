@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Research Institutes and NGO | Yuktix</title>
+    <title>Research Institutes and NGO | Yuktix Technologies</title>
+    <meta name="description"
+        content="Bangalore open weather network is the largest open urban weather network in India that uses Yuktix micro weather stations.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->

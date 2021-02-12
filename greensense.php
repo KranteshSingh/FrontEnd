@@ -110,6 +110,7 @@
                             <p class="font-size-1 text-body mb-0 text-center">With next generation soil Volumetric water
                                 content sensor,
                                 plan your irrigation schedule and save upto 40% of water </p>
+                            <br>
                         </div>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1 text-center">Learn more <i
@@ -135,6 +136,7 @@
                             <p class="font-size-1 text-body mb-0 text-center">With advance AI and ML based disease
                                 prediction algorithms
                                 and image analysis, spray only when required. </p>
+                            <br>
                         </div>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1 text-center">Learn more <i
@@ -637,6 +639,7 @@
                 </div>
             </div>
             <div class="w-100"></div>
+            <br>
             <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct4.jpg);">

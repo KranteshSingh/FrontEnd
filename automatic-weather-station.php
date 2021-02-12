@@ -157,7 +157,8 @@
                         <h4 class="mb-0 text-primary">IMD Standards</h4>
                     </div>
                 </div>
-                <p>Yuktix AWS sensor range and resolutions conform to Indian Meteorological Department (IMD)
+                <p>Yuktix AWS sensor range and resolutions conform to Indian Meteorological
+                    Department (IMD)
                     recommendations. Calibration certifcate available.</p>
                 <!-- End Icon Block -->
             </div>
@@ -388,33 +389,33 @@
         </div>
         <div class="row mx-n2">
             <div class="w-100"></div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws4.jpeg);">
                 </div>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws5.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws6.jpeg);">
                 </div>
             </div>
             <div class="w-100"></div><br>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws7.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws8.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded b-lazy"
                     style="background-image: url(assets/media/images/aws/ws9.jpeg);">
                 </div>
@@ -423,85 +424,6 @@
     </div>
     <!-- End Gallery Section -->
     <br>
-    <!-- ======= Gallery Section ======= -->
-    <section id="gallery" class="gallery">
-        <div class="container">
-
-            <div class="section-title">
-                <h2>Gallery</h2>
-                <p>Check our Gallery</p>
-            </div>
-
-            <div class="row no-gutters">
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="100">
-                        <a href="assets/media/images/aws/ws4.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="150">
-                        <a href="assets/media/images/aws/ws5.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws5.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="200">
-                        <a href="assets/media/images/aws/ws6.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws6.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="250">
-                        <a href="assets/media/images/aws/ws7.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws7.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="300">
-                        <a href="assets/media/images/aws/ws8.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws8.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="350">
-                        <a href="assets/media/images/aws/ws9.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws9.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="400">
-                        <a href="assets/media/images/aws/ws10.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws10.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">
-                    <div class="gallery-item b-lazy" data-aos="zoom-in" data-aos-delay="450">
-                        <a href="assets/media/images/aws/ws4.jpeg" class="venobox" data-gall="gallery-item">
-                            <img src="assets/media/images/aws/ws4.jpeg" alt="" class="img-fluid b-lazy">
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- End Gallery Section -->
 
     <!-- Features Section -->
     <div class="border-bottom">

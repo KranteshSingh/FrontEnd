@@ -72,206 +72,241 @@
             <!-- Features Section -->
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
-                        </figure>
-                        <h4 class="text-primary">20% Increase in Yield</h4>
-                        <p class="font-size-1 text-body mb-0">Follow best scientific advisory backed by data collected
-                            by on-filed sensor and produce more per acre.</p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
+                <div class="px-lg-3 text-center">
+                    <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
+                        <div class="card-body">
+                            <div class="text-center px-lg-3">
+                                <figure class="max-w-10rem mx-auto mb-4">
+                                    <img class="img-fluid" src="assets/svg/icons/icon-9.svg" alt="SVG">
+                                </figure>
+                            </div>
+
+                            <h4 class="text-primary text-center">20% Increase in Yield</h4>
+                            <p class="font-size-1 text-body mb-0 text-center">Follow best scientific advisory backed by
+                                data
+                                collected
+                                by on-filed sensor and produce more per acre.</p>
+                        </div>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1 text-center">Learn more <i
+                                    class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </a>
+                </div>
                 <!-- End Icon Blocks -->
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
-                        </figure>
-                        <h4 class="text-primary">40% Water Saving</h4>
-                        <p class="font-size-1 text-body mb-0">With next generation soil Volumetric water content sensor,
-                            plan your irrigation schedule and save upto 40% of water </p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
-                <!-- End Icon Blocks -->
+                <div class="px-lg-3 text-center">
+                    <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
+                        <div class="card-body">
+                            <div class="text-center px-lg-3">
+                                <figure class="max-w-10rem mx-auto mb-4">
+                                    <img class="img-fluid" src="assets/svg/icons/icon-3.svg" alt="SVG">
+                                </figure>
+                            </div>
+
+                            <h4 class="text-primary text-center">40% Water Saving</h4>
+                            <p class="font-size-1 text-body mb-0 text-center">With next generation soil Volumetric water
+                                content sensor,
+                                plan your irrigation schedule and save upto 40% of water </p>
+                        </div>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1 text-center">Learn more <i
+                                    class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </a>
+                    <!-- End Icon Blocks -->
+                </div>
             </div>
+
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-sm-0">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
-                        </figure>
-                        <h4 class="text-primary">40% Less Fertilizers</h4>
-                        <p class="font-size-1 text-body mb-0">With advance AI and ML based disease prediction algorithms
-                            and image analysis, spray only when required. </p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
-                <!-- End Icon Blocks -->
+                <div class="px-lg-3 text-center">
+                    <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
+                        <div class="card-body">
+                            <div class="text-center px-lg-3">
+                                <figure class="max-w-10rem mx-auto mb-4">
+                                    <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
+                                </figure>
+                            </div>
+
+                            <h4 class="text-primary text-center">40% Less Fertilizers</h4>
+                            <p class="font-size-1 text-body mb-0 text-center">With advance AI and ML based disease
+                                prediction algorithms
+                                and image analysis, spray only when required. </p>
+                        </div>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1 text-center">Learn more <i
+                                    class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </a>
+                    <!-- End Icon Blocks -->
+                </div>
             </div>
+
             <div class="col-sm-6 col-lg-3 px-2">
                 <!-- Icon Blocks -->
-                <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
-                    <div class="card-body">
-                        <figure class="w-100 max-w-8rem mb-4">
-                            <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
-                        </figure>
-                        <h4 class="text-primary">15% Wastage Reduction</h4>
-                        <p class="font-size-1 text-body mb-0">Advanced disease prediction models and alert mechanism to
-                            prevent susceptible crop damage </p>
-                    </div>
-                    <div class="card-footer border-0 pt-0">
-                        <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
-                    </div>
-                </a>
-                <!-- End Icon Blocks -->
-            </div>
-        </div>
-    </div>
-    <!-- Features Section -->
-    <div class="container space-2">
-        <div class="row align-items-lg-center">
-            <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
-                <div class="mb-5">
-                    <h2 class="mb-3 text-primary">How Greensense Works</h2>
-                    <p>Yuktix GreenSense is a collection of hardware and next generation AI based software to provide
-                        user actionable data about his farm like</p>
-                </div>
-                <!-- Info -->
-                <div class="media pt-3">
-                    <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
-                        <i class="fas fa-check"></i>
-                    </span>
-                    <div class="media-body">
-                        <p class="text-dark mb-0">Irrigation Advisory</p>
-                    </div>
-                </div>
-                <div class="media pt-3">
-                    <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
-                        <i class="fas fa-check"></i>
-                    </span>
-                    <div class="media-body">
-                        <p class="text-dark mb-0">Disease Prediction</p>
-                    </div>
-                </div>
-                <div class="media pt-3">
-                    <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
-                        <i class="fas fa-check"></i>
-                    </span>
-                    <div class="media-body">
-                        <p class="text-dark mb-0">Weather Forecast</p>
-                    </div>
-                </div>
-                <div class="media pt-3">
-                    <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
-                        <i class="fas fa-check"></i>
-                    </span>
-                    <div class="media-body">
-                        <p class="text-dark mb-0">Fertilizer Recommendation</p>
-                    </div>
-                </div>
-                <div class="media pt-3">
-                    <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
-                        <i class="fas fa-check"></i>
-                    </span>
-                    <div class="media-body">
-                        <p class="text-dark mb-0">Image Analysis</p>
-                    </div>
-                </div>
-                <!-- End Info -->
-            </div>
-            <div class="col-lg-7 order-lg-1">
-                <!-- Card Block -->
-                <img class="img-fluid rounded" src="assets/media/images/greensense/yuktixgreensense.jpg"
-                    alt="Image Description">
-            </div>
-        </div>
-        <!-- End Card Block -->
-    </div>
-    <!-- End Features Section -->
-    <!-- Features Section -->
-    <div class="container space-2">
-        <!-- Title -->
-        <div class="w-lg-70 text-center mx-lg-auto mb-5">
-            <h2 class="d-block font-weight-bold text-cap mb-2 text-primary">What Information You will get about your
-                farm?</h2>
-        </div>
-        <!-- End Title -->
-        <!-- Features -->
-        <div class="w-lg-80 mx-lg-auto mb-2">
-            <div class="row mx-n2">
-                <div class="col px-2 mb-3 mb-sm-0">
-                    <!-- Icon Block -->
-                    <div class="border-dashed text-center rounded p-4">
-                        <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                        </figure>
-                        <h2 class="h3 mb-1 text-primary">Micro-Weather</h2>
-                        <p class="font-size-1">Get micro-weather data and soil data from your farm in real time. </p>
-                    </div>
-                    <!-- End Icon Block -->
-                </div>
-                <div class="col px-2 mb-3 mb-sm-0">
-                    <!-- Icon Block -->
-                    <div class="border-dashed text-center rounded p-4">
-                        <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                        </figure>
-                        <h3 class="mb-1 text-primary">Weather Forecast</h3>
-                        <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
-                    </div>
-                    <!-- End Icon Block -->
-                </div>
-                <div class="col px-2">
-                    <!-- Icon Block -->
-                    <div class="border-dashed text-center rounded p-4">
-                        <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                        </figure>
-                        <h3 class="mb-1 text-primary">Disease Prediction</h3>
-                        <p class="font-size-1">Get advance notification about crop disease before they happen</p>
-                    </div>
-                </div>
-                <!-- End Icon Block -->
-                <div class="col px-2 mb-3 mb-sm-0">
-                    <!-- Icon Block -->
-                    <div class="border-dashed text-center rounded p-4">
-                        <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                        </figure>
-                        <h2 class="h3 mb-1 text-primary">Fertilizers Advisory</h2>
-                        <p class="font-size-1">Get micro-weather data and soil data from your farm in real time.
-                        </p>
-                    </div>
-                    <!-- End Icon Block -->
-                </div>
-                <div class="col px-2 mb-3 mb-sm-0">
-                    <!-- Icon Block -->
-                    <div class="border-dashed text-center rounded p-4">
-                        <figure class="w-100 max-w-8rem mx-auto mb-3">
-                            <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
-                        </figure>
-                        <h3 class="mb-1 text-primary">Irrigation Advisory</h3>
-                        <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
-                    </div>
-                    <!-- End Icon Block -->
+                <div class="px-lg-3 text-center">
+                    <a class="card h-100 transition-3d-hover cardshadow" href="agriculture.php">
+                        <div class="card-body">
+                            <div class="text-center px-lg-3">
+                                <figure class="max-w-10rem mx-auto mb-4">
+                                    <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
+                                </figure>
+                            </div>
+
+                            <h4 class="text-primary text-center">15% Wastage Reduction</h4>
+                            <p class="font-size-1 text-body mb-0 text-center">Advanced disease prediction models and
+                                alert
+                                mechanism to
+                                prevent susceptible crop damage </p>
+                        </div>
+                        <div class="card-footer border-0 pt-0">
+                            <span class="font-size-1 text-center">Learn more <i
+                                    class="fas fa-angle-right fa-sm ml-1"></i></span>
+                        </div>
+                    </a>
+                    <!-- End Icon Blocks -->
                 </div>
             </div>
+
         </div>
-    </div>
-    <!-- End Features -->
+
+        <!-- Features Section -->
+        <div class="container space-2">
+            <div class="row align-items-lg-center">
+                <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
+                    <div class="mb-5">
+                        <h2 class="mb-3 text-primary">How Greensense Works</h2>
+                        <p>Yuktix GreenSense is a collection of hardware and next generation AI based software to
+                            provide
+                            user actionable data about his farm like</p>
+                    </div>
+                    <!-- Info -->
+                    <div class="media pt-3">
+                        <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        <div class="media-body">
+                            <p class="text-dark mb-0">Irrigation Advisory</p>
+                        </div>
+                    </div>
+                    <div class="media pt-3">
+                        <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        <div class="media-body">
+                            <p class="text-dark mb-0">Disease Prediction</p>
+                        </div>
+                    </div>
+                    <div class="media pt-3">
+                        <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        <div class="media-body">
+                            <p class="text-dark mb-0">Weather Forecast</p>
+                        </div>
+                    </div>
+                    <div class="media pt-3">
+                        <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        <div class="media-body">
+                            <p class="text-dark mb-0">Fertilizer Recommendation</p>
+                        </div>
+                    </div>
+                    <div class="media pt-3">
+                        <span class="icon icon-xs icon-soft-indigo icon-circle mr-3">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        <div class="media-body">
+                            <p class="text-dark mb-0">Image Analysis</p>
+                        </div>
+                    </div>
+                    <!-- End Info -->
+                </div>
+                <div class="col-lg-7 order-lg-1">
+                    <!-- Card Block -->
+                    <img class="img-fluid rounded" src="assets/media/images/greensense/yuktixgreensense.jpg"
+                        alt="Image Description">
+                </div>
+            </div>
+            <!-- End Card Block -->
+        </div>
+        <!-- End Features Section -->
+        <!-- Features Section -->
+        <div class="container space-2">
+            <!-- Title -->
+            <div class="w-lg-70 text-center mx-lg-auto mb-5">
+                <h2 class="d-block font-weight-bold text-cap mb-2 text-primary">What Information You will get about your
+                    farm?</h2>
+            </div>
+            <!-- End Title -->
+            <!-- Features -->
+            <div class="w-lg-80 mx-lg-auto mb-2">
+                <div class="row mx-n2">
+                    <div class="col px-2 mb-3 mb-sm-0">
+                        <!-- Icon Block -->
+                        <div class="border-dashed text-center rounded p-4">
+                            <figure class="w-100 max-w-8rem mx-auto mb-3">
+                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                            </figure>
+                            <h2 class="h3 mb-1 text-primary">Micro-Weather</h2>
+                            <p class="font-size-1">Get micro-weather data and soil data from your farm in real time.
+                            </p>
+                        </div>
+                        <!-- End Icon Block -->
+                    </div>
+                    <div class="col px-2 mb-3 mb-sm-0">
+                        <!-- Icon Block -->
+                        <div class="border-dashed text-center rounded p-4">
+                            <figure class="w-100 max-w-8rem mx-auto mb-3">
+                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                            </figure>
+                            <h3 class="mb-1 text-primary">Weather Forecast</h3>
+                            <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
+                        </div>
+                        <!-- End Icon Block -->
+                    </div>
+                    <div class="col px-2">
+                        <!-- Icon Block -->
+                        <div class="border-dashed text-center rounded p-4">
+                            <figure class="w-100 max-w-8rem mx-auto mb-3">
+                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                            </figure>
+                            <h3 class="mb-1 text-primary">Disease Prediction</h3>
+                            <p class="font-size-1">Get advance notification about crop disease before they happen</p>
+                        </div>
+                    </div>
+                    <!-- End Icon Block -->
+                    <div class="col px-2 mb-3 mb-sm-0">
+                        <!-- Icon Block -->
+                        <div class="border-dashed text-center rounded p-4">
+                            <figure class="w-100 max-w-8rem mx-auto mb-3">
+                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                            </figure>
+                            <h2 class="h3 mb-1 text-primary">Fertilizers Advisory</h2>
+                            <p class="font-size-1">Get micro-weather data and soil data from your farm in real time.
+                            </p>
+                        </div>
+                        <!-- End Icon Block -->
+                    </div>
+                    <div class="col px-2 mb-3 mb-sm-0">
+                        <!-- Icon Block -->
+                        <div class="border-dashed text-center rounded p-4">
+                            <figure class="w-100 max-w-8rem mx-auto mb-3">
+                                <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
+                            </figure>
+                            <h3 class="mb-1 text-primary">Irrigation Advisory</h3>
+                            <p class="font-size-1">Farm level and block level forecast delivered on your phone</p>
+                        </div>
+                        <!-- End Icon Block -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Features -->
     </div>
     <!-- End Features Section -->
     <div class="container">
@@ -521,57 +556,57 @@
             <h2 class="h1 text-primary">Crops we provide advisory for</h2>
         </div>
         <div class="row mx-n2">
-            <div class="col-4 col-md px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/1.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Potato</figcaption>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/2.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tomato</figcaption>
             </div>
-            <div class="col-4 col-md px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/3.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Capcicum</figcaption>
             </div>
             <div class="w-100"></div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/4.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Mango</figcaption>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/5.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Pomegranate</figcaption>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/6.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Tea</figcaption>
             </div>
             <div class="w-100"></div><br>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/8.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Coffee</figcaption>
             </div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/7.jpg);">
                 </div>
                 <figcaption class="figure-caption text-center mt-2">Guava</figcaption>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/9.jpg);">
                 </div>
@@ -586,50 +621,50 @@
             <!-- Gallery Section -->
         </div>
         <div class="row mx-n2">
-            <div class="col-4 col-md px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct1.jpeg);">
                 </div>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct2.png);">
                 </div>
             </div>
-            <div class="col-4 col-md px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct3.jpg);">
                 </div>
             </div>
             <div class="w-100"></div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct4.jpg);">
                 </div>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct5.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct6.jpg);">
                 </div>
             </div>
             <div class="w-100"></div>
             <br>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct7.jpg);">
                 </div>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct8.jpg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greensense/yproduct9.png);">
                 </div>

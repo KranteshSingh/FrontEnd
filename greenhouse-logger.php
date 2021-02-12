@@ -136,103 +136,116 @@
         </div>
     </div>
     <!-- End Features Section -->
-    <!-- Features Section -->
+
+    <!-- Services Section -->
     <div class="container space-2">
         <!-- Title -->
-        <div class="w-md-80 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
+        <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-9">
             <span class="d-block small font-weight-bold text-cap mb-2">Greenhouse Logger Device Features</span>
-            <h2 class="text-primary">Features</h2>
+            <h2>Features</h2>
         </div>
         <!-- End Title -->
-        <!-- Icon Blocks -->
-        <div class="row mb-5 mb-md-9">
-            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
-                <!-- Icon Block -->
-                <div class="media align-items-center mb-2">
-                    <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-29.svg" alt="SVG">
+
+        <div class="row justify-content-lg-center">
+            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
+                <!-- Icon Blocks -->
+                <div class="media pr-lg-5">
+                    <figure class="w-100 max-w-8rem mr-4">
+                        <img class="img-fluid" src="assets/svg/icons/icon-18.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0 text-primary">Micro-Weather</h4>
+                        <h4>Micro-Weather</h4>
+                        <p>Get to know micro-weather inside your Greenhouse in real time.</p>
                     </div>
                 </div>
-                <p>Get to know micro-weather inside your Greenhouse in real time. </p>
-                <!-- End Icon Block -->
+                <!-- End Icon Blocks -->
             </div>
-            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7">
-                <!-- Icon Block -->
-                <div class="media align-items-center mb-2">
-                    <figure class="w-100 max-w-6rem mr-3">
+
+            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
+                <!-- Icon Blocks -->
+                <div class="media pl-lg-5">
+                    <figure class="w-100 max-w-8rem mr-4">
                         <img class="img-fluid" src="assets/svg/icons/icon-44.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0 text-primary">Weather forecast</h4>
+                        <h4>Weather forecast</h4>
+                        <p>Location specific weather forecast</p>
                     </div>
                 </div>
-                <p>Location specific weather forecast</p>
-                <!-- End Icon Block -->
+                <!-- End Icon Blocks -->
             </div>
-            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
-                <!-- Icon Block -->
-                <div class="media align-items-center mb-2">
-                    <figure class="w-100 max-w-6rem mr-3">
+
+            <div class="w-100"></div>
+
+            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
+                <!-- Icon Blocks -->
+                <div class="media pr-lg-5">
+                    <figure class="w-100 max-w-8rem mr-4">
+                        <img class="img-fluid" src="assets/svg/icons/icon-29.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4>Disease Prediction</h4>
+                        <p>Get notified about disease forecast and take corrective action</p>
+                    </div>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
+
+            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-7">
+                <!-- Icon Blocks -->
+                <div class="media pl-lg-5">
+                    <figure class="w-100 max-w-8rem mr-4">
+                        <img class="img-fluid" src="assets/svg/icons/icon-44.svg" alt="SVG">
+                    </figure>
+                    <div class="media-body">
+                        <h4>Irrigation Advisory</h4>
+                        <p>With Soil moisture sensor, monitor and irrigate your Greenhouse crops</p>
+                    </div>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
+
+            <div class="w-100"></div>
+
+            <div class="col-md-6 col-lg-5 mb-3 mb-md-5 mb-lg-0">
+                <!-- Icon Blocks -->
+                <div class="media pr-lg-5">
+                    <figure class="w-100 max-w-8rem mr-4">
                         <img class="img-fluid" src="assets/svg/icons/icon-2.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0 text-primary">Disease Prediction</h4>
+                        <h4>Image Analysis</h4>
+                        <p>Capture, upload and get advisory from expert</p>
                     </div>
                 </div>
-                <p>Get notified about disease forecast and take corrective action </p>
-                <!-- End Icon Block -->
+                <!-- End Icon Blocks -->
             </div>
-            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
-                <!-- Icon Block -->
-                <div class="media align-items-center mb-2">
-                    <figure class="w-100 max-w-6rem mr-3">
+
+            <div class="col-md-6 col-lg-5">
+                <!-- Icon Blocks -->
+                <div class="media pl-lg-5">
+                    <figure class="w-100 max-w-8rem mr-4">
                         <img class="img-fluid" src="assets/svg/icons/icon-37.svg" alt="SVG">
                     </figure>
                     <div class="media-body">
-                        <h4 class="mb-0 text-primary">Irrigation Advisory </h4>
+                        <h4>A Full Solution for Greenhouse</h4>
+                        <p>Want to automate your Greenhouse and convert it into a next-gen Greenhouse.</p>
                     </div>
                 </div>
-                <p>With Soil moisture sensor, monitor and irrigate your Greenhouse crops</p>
-                <!-- End Icon Block -->
-            </div>
-            <div class="col-sm-6 col-md-4 mb-3 mb-sm-7 mb-md-0">
-                <!-- Icon Block -->
-                <div class="media align-items-center mb-2">
-                    <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-5.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4 class="mb-0 text-primary">Image analysis</h4>
-                    </div>
-                </div>
-                <p>Capture, upload and get advisory from expert </p>
-                <!-- End Icon Block -->
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <!-- Icon Block -->
-                <div class="media align-items-center mb-2">
-                    <figure class="w-100 max-w-6rem mr-3">
-                        <img class="img-fluid" src="assets/svg/icons/icon-28.svg" alt="SVG">
-                    </figure>
-                    <div class="media-body">
-                        <h4 class="mb-0 text-primary">A full solution for GreenHouse</h4>
-                    </div>
-                </div>
-                <p>Want to automate your Greenhouse and convert it into a next-gen Greenhouse.</p>
-                <!-- End Icon Block -->
+                <!-- End Icon Blocks -->
             </div>
         </div>
-        <!-- End Icon Blocks -->
         <div class="text-center">
-            <div class="mb-3">
+            <div class="mb-3 mt-4">
                 <a class="btn btn-primary btn-wide transition-3d-hover mb-2 mb-sm-0 mx-1" href="contact.php">Start
                     Monitoring Your GreenHouse</a>
             </div>
             <p class="small"></p>
         </div>
+    </div>
+    <!-- End Services Section -->
+
+
     </div>
     <!-- End Features Section -->
     <!-- Step Section -->
@@ -476,49 +489,49 @@
             <h2 class="text-primary">How Does it Looks Like</h2>
         </div>
         <div class="row mx-n2">
-            <div class="col-4 col-md px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog2.jpeg);">
                 </div>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog1.jpeg);">
                 </div>
             </div>
-            <div class="col-4 col-md px-2 mb-3">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog3.jpeg);">
                 </div>
             </div>
             <div class="w-100"></div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog4.jpeg);">
                 </div>
             </div>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog5.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog6.jpeg);">
                 </div>
             </div>
             <div class="w-100"></div><br>
-            <div class="col-md-4 d-md-block px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog8.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2 mb-3 mb-md-0">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog7.jpeg);">
                 </div>
             </div>
-            <div class="col-6 col-md px-2">
+            <div class="col-md-4 d-md px-2 mb-3 mb-md-0">
                 <div class="h-250rem bg-img-hero rounded"
                     style="background-image: url(assets/media/images/greenhouse/glog9.jpeg);">
                 </div>

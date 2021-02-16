@@ -39,13 +39,13 @@
         <div class="row mx-n2 mb-5 mb-md-9">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="#staticBackdrop1">
+                <a class="card h-100 transition-3d-hover" href="assets\media\doc\greeensense_brochure.pdf">
                     <img class="card-img-top" src="assets\media\images\downloads\1.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Greensense
                             Brochure<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
-                                data-target="#staticBackdrop1">
+                                data-target="assets\media\doc\greeensense_brochure.pdf">
                                 Download Now
                             </button></span>
                     </div>
@@ -54,13 +54,13 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="#staticBackdrop2">
+                <a class="card h-100 transition-3d-hover" href="assets\media\doc\kannada_poster.pdf">
                     <img class="card-img-top" src="assets\media\images\downloads\2.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix
                             Kannanda Brochure<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
-                                data-target="#staticBackdrop2">
+                                data-target="assets\media\doc\kannada_poster.pdf">
                                 Download Now
                             </button></span>
                     </div>
@@ -69,13 +69,13 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="#staticBackdrop3">
+                <a class="card h-100 transition-3d-hover" href="assets\media\doc\yuktix_introduction.pdf">
                     <img class="card-img-top" src="assets\media\images\downloads\3.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix
                             Introduction<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
-                                data-target="#staticBackdrop3">
+                                data-target="assets\media\doc\yuktix_introduction.pdf">
                                 Download Now
                             </button></span>
                     </div>
@@ -84,13 +84,13 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="#staticBackdrop4">
+                <a class="card h-100 transition-3d-hover" href="assets\media\doc\yuktix_soil_moisture.pdf">
                     <img class="card-img-top" src="assets\media\images\downloads\4.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix Soil
                             Moisture<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
-                                data-target="#staticBackdrop4">
+                                data-target="assets\media\doc\yuktix_soil_moisture.pdf">
                                 Download Now
                             </button></span>
                     </div>
@@ -101,12 +101,12 @@
         <div class="row mx-n2 mb-5 mb-md-9">
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="#staticBackdrop5">
+                <a class="card h-100 transition-3d-hover" href="assets\media\doc\yuktix_brochure.pdf">
                     <img class="card-img-top" src="assets\media\images\downloads\5.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix Brochure<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
-                                data-target="#staticBackdrop5">
+                                data-target="assets\media\doc\yuktix_brochure.pdf">
                                 Download Now
                             </button></span>
 
@@ -116,12 +116,12 @@
             </div>
             <div class="col-sm-6 col-lg-3 px-2 mb-3 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-100 transition-3d-hover" href="#staticBackdrop6">
+                <a class="card h-100 transition-3d-hover" href="assets\media\doc\yuktix_products.pdf">
                     <img class="card-img-top" src="assets\media\images\downloads\6.png" alt="Image Description">
                     <div class="card-body">
                         <span class="d-block small font-weight-bold text-cap mb-2 text-center">Yuktix Products<br><br>
                             <button type="button" class="btn btn-primary" data-toggle="modal"
-                                data-target="#staticBackdrop6">
+                                data-target="assets\media\doc\yuktix_products.pdf">
                                 Download Now
                             </button></span>
 

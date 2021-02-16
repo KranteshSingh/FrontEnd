@@ -41,7 +41,7 @@
                             <h1>YOUR E-BOOK IS ON THE WAY, Before You Download It</h1>
                             <p>Please Check Your Email that You've Entered and Confirm Your Email Address<br><br>
                                 You must have received an email from shailendra@yuktix.com, Please open it and Click on
-                                <b>"Yes, I want to Download"</b>
+                                <b>"CONFIRM"</b>
                             </p>
                         </div>
                         <!-- End Title -->

@@ -467,16 +467,19 @@
             </div>
             <div class="row content align-items-lg-center">
                 <div class="col-md-4 order-1 order-md-2">
-                    <img src="https://dummyimage.com/500x500/000/fff" class="img-fluid rounded" alt="">
+                    <img src="assets\media\images\case-studies\11.jpeg" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1">
-                    <h3>Case Study 2</h3>
+                    <h3>Greenhouse Internal Environment Monitoring </h3>
                     <br>
                     <p class="lead">
-                        Yet to be updated.
+                        The client is an Agriculture research company developing a new version of protected cultivation
+                        structures for marginal farmers using different materials. They are running different testbeds
+                        and need data about the internal environment and weather data to reach a conclusion backed by
+                        data.
                     </p>
                     <br>
-                    <a href="#">
+                    <a href="greenhouse-internal-environment-monitoring.php">
                         <p>
                             <b>Learn More ></b>
                         </p>

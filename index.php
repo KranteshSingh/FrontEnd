@@ -236,7 +236,7 @@
     <!-- Articles Section -->
     <div class="container space-2">
         <div class="row">
-            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-3 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 text-center transition-3d-hover cardshadow" href="jhulsa-for-muskmellon-farm.php">
                     <div class="card-body pt-5 px-5">
@@ -258,7 +258,7 @@
                 <!-- End Card -->
             </div>
 
-            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-3 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 text-center transition-3d-hover cardshadow"
                     href="climate-resiliant-agriculture-tribal.php">
@@ -278,7 +278,7 @@
                 </a>
                 <!-- End Card -->
             </div>
-            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-3 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 text-center transition-3d-hover cardshadow" href="research-institutes-and-ngo.php">
                     <div class="card-body pt-5 px-5">
@@ -297,7 +297,7 @@
                 </a>
                 <!-- End Card -->
             </div>
-            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-3 col-lg-3 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
                 <a class="card h-100 text-center transition-3d-hover cardshadow"
                     href="agriculture-farm-management-co.php ">

@@ -118,12 +118,12 @@
         <div class="row">
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
+                <a class="card h-100 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">Accurate monitoring</h3>
+                        <h3 class="hcolor">Accurate Monitoring</h3>
                         <p class="text-body font-size-1">IoT devices and Advance ML to
                             boost productivity of every acre. We provide weather forecasts, soil advisory,
                             irrigation scheduling and more.
@@ -137,18 +137,16 @@
             </div>
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
+                <a class="card h-100 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-31.svg" alt="Logo">
                         </figure>
-                        <h3 class="hcolor">Disease management</h3>
+                        <h3 class="hcolor">Disease Management</h3>
                         <p class="text-body font-size-1"><br>
-
                             Weather linked disease modeling systems to
                             predict problems before they happen.
                             <br>
-
                         </p>
                         <div class="card-footer border-0 pt-0">
                             <span class="font-size-1">Learn more <i class="fas fa-angle-right fa-sm ml-1"></i></span>
@@ -159,12 +157,12 @@
             </div>
             <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="agriculture.php">
+                <a class="card h-100 text-center transition-3d-hover cardshadow" href="agriculture.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <i class="fas fa-water fa-3x"></i>
                         </figure>
-                        <h3 class="hcolor">Digital agronomy</h3>
+                        <h3 class="hcolor">Digital Agronomy</h3>
                         <p class="text-body font-size-1"><br>
                             Use kamera app to report problems or connect with
                             an agronomist to discuss crop management.
@@ -231,15 +229,16 @@
                 </div>
             </div>
     </section>
+
     <div>
         <h2 class="display-5 text-center hcolor mt-5">Who We Help?</h2>
     </div>
     <!-- Articles Section -->
     <div class="container space-2">
         <div class="row">
-            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="jhulsa-for-muskmellon-farm.php">
+                <a class="card h-100 text-center transition-3d-hover cardshadow" href="jhulsa-for-muskmellon-farm.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -259,9 +258,9 @@
                 <!-- End Card -->
             </div>
 
-            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow"
+                <a class="card h-100 text-center transition-3d-hover cardshadow"
                     href="climate-resiliant-agriculture-tribal.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
@@ -279,9 +278,9 @@
                 </a>
                 <!-- End Card -->
             </div>
-            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow" href="research-institutes-and-ngo.php">
+                <a class="card h-100 text-center transition-3d-hover cardshadow" href="research-institutes-and-ngo.php">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">
                             <img class="avatar-img" src="assets/svg/icons/icon-5.svg" alt="Logo">
@@ -298,9 +297,9 @@
                 </a>
                 <!-- End Card -->
             </div>
-            <div class="col-md-4 col-lg-3 mb-4 mb-md-5 mb-lg-0">
+            <div class="col-md-4 col-lg-4 mb-4 mb-md-5 mb-lg-0">
                 <!-- Card -->
-                <a class="card h-70 text-center transition-3d-hover cardshadow"
+                <a class="card h-100 text-center transition-3d-hover cardshadow"
                     href="agriculture-farm-management-co.php ">
                     <div class="card-body pt-5 px-5">
                         <figure class="avatar mx-auto mb-1">

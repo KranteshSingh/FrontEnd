@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Table Grape Grower in Karnataka | Yuktix Technologies</title>
-    <meta name="description"
-        content="The client wanted an economical solution to accurately predict the onset of disease so that pesticide spraying can be regulated more effectively">
+    <meta name="description" content="The client wanted an economical solution to accurately predict the onset of disease so that pesticide spraying can be regulated more effectively">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -48,9 +47,7 @@
     <!-- End Hero Section -->
     <!-- SVG Top Shape -->
     <figure>
-        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-            x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273"
-            style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
+        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273" style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
             <polygon fill="#f9fbff" points="0,273 1921,273 1921,0 " />
         </svg>
     </figure>
@@ -68,21 +65,16 @@
                 <div class="col-lg-6 order-lg-2 align-self-lg-end">
                     <!-- Tab Content -->
                     <div class="tab-content pr-lg-4">
-                        <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
-                            aria-labelledby="pills-one-code-features-example2-tab">
-                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\5.png"
-                                alt="CLIENT">
+                        <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel" aria-labelledby="pills-one-code-features-example2-tab">
+                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\5.png" alt="CLIENT">
                         </div>
 
-                        <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
-                            aria-labelledby="pills-two-code-features-example2-tab">
+                        <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel" aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
-                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png"
-                                    alt="Product Used">
+                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png" alt="Product Used">
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel"
-                            aria-labelledby="pills-three-code-features-example2-tab">
+                        <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel" aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
                         </div>
                     </div>
@@ -92,9 +84,7 @@
                     <!-- Nav -->
                     <ul class="nav nav-box" role="tablist">
                         <li class="nav-item w-100 mx-0 mb-3">
-                            <a class="nav-link p-4 active" id="pills-one-code-features-example2-tab" data-toggle="pill"
-                                href="#pills-one-code-features-example2" role="tab"
-                                aria-controls="pills-one-code-features-example2" aria-selected="true">
+                            <a class="nav-link p-4 active" id="pills-one-code-features-example2-tab" data-toggle="pill" href="#pills-one-code-features-example2" role="tab" aria-controls="pills-one-code-features-example2" aria-selected="true">
                                 <div class="media align-items-center align-items-lg-start">
                                     <figure class="w-100 max-w-6rem mt-2 mr-4">
                                         <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
@@ -109,9 +99,7 @@
                             </a>
                         </li>
                         <li class="nav-item w-100 mx-0 mb-3">
-                            <a class="nav-link p-4" id="pills-two-code-features-example2-tab" data-toggle="pill"
-                                href="#pills-two-code-features-example2" role="tab"
-                                aria-controls="pills-two-code-features-example2" aria-selected="false">
+                            <a class="nav-link p-4" id="pills-two-code-features-example2-tab" data-toggle="pill" href="#pills-two-code-features-example2" role="tab" aria-controls="pills-two-code-features-example2" aria-selected="false">
                                 <div class="media align-items-center align-items-lg-start">
                                     <figure class="w-100 max-w-6rem mt-2 mr-4">
                                         <img class="img-fluid" src="assets/svg/icons/icon-23.svg" alt="SVG">
@@ -134,9 +122,7 @@
     <!-- End Features Section -->
     <!-- SVG Bottom Shape -->
     <figure>
-        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-            x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273"
-            style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
+        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273" style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
             <polygon fill="#f9fbff" points="1921,0 0,0 0,273 " />
         </svg>
     </figure>
@@ -194,7 +180,7 @@
             </li>
             <li class="step-item">
                 <div class="step-content-wrapper">
-                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <span class="step-icon step-icon-soft-primary">4</span>
                     <div class="step-content">
                         <h3>Reduction in usage of pesticide</h3>
                         <p></p>
@@ -244,8 +230,7 @@
                     <div class="position-relative max-w-70rem mx-auto">
                         <!-- SVG Component -->
                         <div class="max-w-70rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png"
-                                alt="Image Description">
+                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png" alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
                     </div>
@@ -261,10 +246,7 @@
                     <div class="w-md-75 w-lg-100 text-center mx-md-auto mb-3 mb-md-9 mt-6">
                         <h2 class="display-5 text-primary">How Yuktix is transforming Agriculture with Technology</h2>
                     </div>
-                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item"
-                            width="920" height="450" src=" https://youtube.com/embed/vbXB2BnnAg4" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe></div>
+                    <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" width="920" height="450" src=" https://youtube.com/embed/vbXB2BnnAg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
                 </div>
             </div>
         </div>
@@ -278,9 +260,7 @@
                         <h3 class="h4 mb-0">Read Detailed Article</h3>
                     </div>
                     <div class="col-md-4 text-md-right">
-                        <a class="btn btn-primary transition-3d-hover"
-                            href="http://blog.yuktix.com/2019/11/GreenSense-for-vineyards-case-study.html"
-                            target="_blank">Learn More</a>
+                        <a class="btn btn-primary transition-3d-hover" href="http://blog.yuktix.com/2019/11/GreenSense-for-vineyards-case-study.html" target="_blank">Learn More</a>
                     </div>
                 </div>
                 <!-- SVG Component -->
@@ -370,21 +350,21 @@
     <!-- JS Implementing Plugins -->
     <!-- JS Plugins Init. -->
     <script>
-    $(document).on('ready', function() {
-        // initialization of header
-        var header = new HSHeader($('#header')).init();
+        $(document).on('ready', function() {
+            // initialization of header
+            var header = new HSHeader($('#header')).init();
 
-        // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
-            desktop: {
-                position: 'left'
-            }
-        }).init();
-    });
+            // initialization of mega menu
+            var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+                desktop: {
+                    position: 'left'
+                }
+            }).init();
+        });
     </script>
     <script>
-    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
-        '<script src="assets/vendor/polifills.js"><\/script>');
+        if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
+            '<script src="assets/vendor/polifills.js"><\/script>');
     </script>
 </body>
 

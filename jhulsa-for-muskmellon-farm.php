@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Jhulsa for Muskmellon Farmers | Yuktix Case Study</title>
-    <meta name="description"
-        content="Yuktix Case Study Where We provided Yuktix GreenSense solution to the farmers on rental basis.">
+    <meta name="description" content="Yuktix Case Study Where We provided Yuktix GreenSense solution to the farmers on rental basis.">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon.ico">
     <!-- Font -->
@@ -50,9 +49,7 @@
     <!-- End Hero Section -->
     <!-- SVG Top Shape -->
     <figure>
-        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-            x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273"
-            style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
+        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273" style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
             <polygon fill="#f9fbff" points="0,273 1921,273 1921,0 " />
         </svg>
     </figure>
@@ -70,20 +67,15 @@
                 <div class="col-lg-6 order-lg-2 align-self-lg-end">
                     <!-- Tab Content -->
                     <div class="tab-content pr-lg-4">
-                        <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel"
-                            aria-labelledby="pills-one-code-features-example2-tab">
-                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\6.png"
-                                alt="Image Description">
+                        <div class="tab-pane fade show active" id="pills-one-code-features-example2" role="tabpanel" aria-labelledby="pills-one-code-features-example2-tab">
+                            <img class="avatar-img rounded-lg" src="assets\media\images\case-studies\6.png" alt="Image Description">
                         </div>
-                        <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel"
-                            aria-labelledby="pills-two-code-features-example2-tab">
+                        <div class="tab-pane fade" id="pills-two-code-features-example2" role="tabpanel" aria-labelledby="pills-two-code-features-example2-tab">
                             <div class="shadow-sm rounded">
-                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png"
-                                    alt="Image Description">
+                                <img class="avatar-img rounded-lg" src="assets\media\images\greensense\gsense.png" alt="Image Description">
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel"
-                            aria-labelledby="pills-three-code-features-example2-tab">
+                        <div class="tab-pane fade" id="pills-three-code-features-example2" role="tabpanel" aria-labelledby="pills-three-code-features-example2-tab">
                             <!-- Device Mockup -->
                         </div>
                     </div>
@@ -93,9 +85,7 @@
                     <!-- Nav -->
                     <ul class="nav nav-box" role="tablist">
                         <li class="nav-item w-100 mx-0 mb-3">
-                            <a class="nav-link p-4 active" id="pills-one-code-features-example2-tab" data-toggle="pill"
-                                href="#pills-one-code-features-example2" role="tab"
-                                aria-controls="pills-one-code-features-example2" aria-selected="true">
+                            <a class="nav-link p-4 active" id="pills-one-code-features-example2-tab" data-toggle="pill" href="#pills-one-code-features-example2" role="tab" aria-controls="pills-one-code-features-example2" aria-selected="true">
                                 <div class="media align-items-center align-items-lg-start">
                                     <figure class="w-100 max-w-6rem mt-2 mr-4">
                                         <img class="img-fluid" src="assets/svg/icons/icon-45.svg" alt="SVG">
@@ -110,9 +100,7 @@
                             </a>
                         </li>
                         <li class="nav-item w-100 mx-0 mb-3">
-                            <a class="nav-link p-4" id="pills-two-code-features-example2-tab" data-toggle="pill"
-                                href="#pills-two-code-features-example2" role="tab"
-                                aria-controls="pills-two-code-features-example2" aria-selected="false">
+                            <a class="nav-link p-4" id="pills-two-code-features-example2-tab" data-toggle="pill" href="#pills-two-code-features-example2" role="tab" aria-controls="pills-two-code-features-example2" aria-selected="false">
                                 <div class="media align-items-center align-items-lg-start">
                                     <figure class="w-100 max-w-6rem mt-2 mr-4">
                                         <img class="img-fluid" src="assets/svg/icons/icon-23.svg" alt="SVG">
@@ -135,9 +123,7 @@
     <!-- End Features Section -->
     <!-- SVG Bottom Shape -->
     <figure>
-        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-            x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273"
-            style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
+        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="64px" viewBox="0 0 1921 273" style="margin-bottom: -8px; enable-background:new 0 0 1921 273;" xml:space="preserve">
             <polygon fill="#f9fbff" points="1921,0 0,0 0,273 " />
         </svg>
     </figure>
@@ -203,7 +189,7 @@
             </li>
             <li class="step-item">
                 <div class="step-content-wrapper">
-                    <span class="step-icon step-icon-soft-primary">3</span>
+                    <span class="step-icon step-icon-soft-primary">4</span>
                     <div class="step-content">
                         <h3>1 lakh ruppes pestcide in a cycle</h3>
                         <p></p>
@@ -246,8 +232,7 @@
                     <div class="position-relative max-w-50rem mx-auto">
                         <!-- SVG Component -->
                         <div class="max-w-50rem w-100 z-index-n1 mx-auto">
-                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png"
-                                alt="Image Description">
+                            <img class="img-fluid" src="assets\media\images\greensense\gsense.png" alt="Image Description">
                         </div>
                         <!-- End SVG Component -->
                     </div>
@@ -360,21 +345,21 @@
     <!-- JS Implementing Plugins -->
     <!-- JS Plugins Init. -->
     <script>
-    $(document).on('ready', function() {
-        // initialization of header
-        var header = new HSHeader($('#header')).init();
+        $(document).on('ready', function() {
+            // initialization of header
+            var header = new HSHeader($('#header')).init();
 
-        // initialization of mega menu
-        var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
-            desktop: {
-                position: 'left'
-            }
-        }).init();
-    });
+            // initialization of mega menu
+            var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
+                desktop: {
+                    position: 'left'
+                }
+            }).init();
+        });
     </script>
     <script>
-    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
-        '<script src="assets/vendor/polifills.js"><\/script>');
+        if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write(
+            '<script src="assets/vendor/polifills.js"><\/script>');
     </script>
 </body>
 
